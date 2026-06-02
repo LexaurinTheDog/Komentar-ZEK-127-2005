@@ -428,6 +428,11 @@ Je-li zachování omezení opodstatněné a přezkum proběhl, Úřad zašle st�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 2170/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D30C9A99B96EAACC12589B000373273?openDocument) — 30. 11. 2021, kat. A
+  > „K projednání a rozhodnutí žaloby, aby se stát zdržel pokračování výběrového řízení pro příděl rádiových kmitočtů, jsou v prvním stupni věcně příslušné soudy ve správním soudnictví"
+
 #### Dvě formy výběrového řízení — hodnocení žádostí vs. aukce
 
 § 21 odst. 1 zakládá bifurkaci výběrových řízení: Úřad si při každém vyhlášení zvolí buď (i) **hodnocení žádostí** (soutěžní výběr na základě kvalitativních kritérií — odst. 9) nebo (ii) **aukci** jako jediné kritérium (vítěz = nabídnuvší nejvyšší cenu — odst. 11 písm. g). Oba modely transponují čl. 55 EECC. Aukce je pro harmonizované spektrum standardem v celé EU (pásma pro 5G v ČR — aukcemi 2020 a 2021), ale kvalitativní hodnocení lze použít tam, kde jsou klíčové závazky pokrytí nebo specifické technické požadavky.

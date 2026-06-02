@@ -58,7 +58,6 @@ Rozhodnutí ČTÚ podléhají přezkumu ve správním soudnictví; příslušný
 
 ### § 123 — Opravný prostředek
 
-
 > **§ 123**
 >
 > *(1) O rozkladu proti rozhodnutí Úřadu, které v prvním stupni nevydal předseda Rady, rozhoduje předseda Rady.*
@@ -270,6 +269,13 @@ Odst. 3 řeší spory mezi operátory bez VTS: zde ČTÚ není povinen ani odmí
 > *(8) Úřad nerozhoduje spory podle odstavců 1 a 3 zahájené na návrh účastníka, popřípadě uživatele, v případě, že se jedná o spor týkající se koncového zařízení v balíčku podle § 63c nebo spor ze spotřebitelského úvěru, nejde-li o spory podle § 129a.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 347/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13DC1C9CC15CE6E3C1258A90001B7CA4?openDocument) — 27. 9. 2023, kat. A
+  > „Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinen (oprávněn) pro účely vyúčtování poskytnuté služby uchovávat a zpracovávat údaje o příchozích hovorech (§ 90 zákona č. 127/2005 Sb.)"
+- *NS* [33 Cdo 2894/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D644C2352A6E283DC1257A4E006AB418?openDocument) — 31. 3. 2009, kat. A
+  > „K projednání a rozhodnutí sporu o úhradu ceny za poskytnutou službu elektronické komunikace je dána pravomoc Českého telekomunikačního úřadu podle § 129 odst. 1, věty první, zákona č. 127/2005 Sb. i tehdy, jestliže osoba vykonávající komunikační činnost postoupila pohledávku vůči účastníku osobě, která komunikační činnost nevykonává"
 
 #### Postavení ČTÚ jako mimosoudního řešitele spotřebitelských sporů
 
@@ -699,6 +705,11 @@ Anomálie odst. 5: odkaz na „odstavce 2" je pravděpodobně legislativní chyb
 **Výklad:**
 
 § 147 řeší osud věcných břemen vzniklých za ZTK pro vedení sítí elektronických komunikací — šlo o velmi prakticky důležité ustanovení při privatizaci a prodeji sítí. Základní pravidlo (odst. 1) je zachování: stará věcná břemena přetrvávají bez nutnosti nového zřizování. Odst. 2 zavírá mezeru: pokud ani před ZEK nedošlo k dohodě ani ke skutečnému výkonu práva, o věcném břemeni rozhoduje vyvlastňovací úřad podle ZEK. Odst. 3–4 řeší přechod věcných břemen při převodu sítě na nového podnikatele: věcná břemena (práva na vedení sítě přes cizí pozemky) přecházejí automaticky na nabyvatele sítě, je-li to podnikatel zajišťující veřejnou komunikační síť — i bez výslovného ujednání o věcných břemenech v kupní smlouvě. Tento mechanismus zabraňuje situaci, kdy by nabyvatel musel znovu zřizovat věcná břemena na tisících parcelách.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 692/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA6A6A65C06474B8C1257A4E006A9AB4?openDocument) — 20. 4. 2010, kat. A
+  > „Jestliže stavebník zřídí stavbu podzemního vedení veřejné telekomunikační sítě na cizím pozemku, ač na to nemá právo, je vypořádání právního vztahu vzniklého v důsledku této neoprávněné stavby podle § 135c obč. zák. v pravomoci soudu"
 
 ---
 

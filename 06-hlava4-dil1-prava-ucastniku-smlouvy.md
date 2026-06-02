@@ -380,6 +380,11 @@ Odst. 3 zabraňuje praktice, kdy přidání doplňkové služby nebo zařízení
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 347/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13DC1C9CC15CE6E3C1258A90001B7CA4?openDocument) — 27. 9. 2023, kat. A
+  > „Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinen (oprávněn) pro účely vyúčtování poskytnuté služby uchovávat a zpracovávat údaje o příchozích hovorech (§ 90 zákona č. 127/2005 Sb.)"
+
 #### Právo na vyúčtování a jeho forma (odst. 1–6)
 
 Odst. 1 zakotvuje závazek platit cenu ve výši platné v okamžiku poskytnutí — chrání poskytovatele před zpětnou aplikací snížených cen a spotřebitele před zpětnou aplikací cen vyšších. Odst. 2 zakotvuje právo volit mezi podrobným (per-service) a souhrnným vyúčtováním; obě varianty jsou bezplatné a elektronické. Volání hrazená protistranou (volaný platí) ani paušálně hrazené datové přístupy do podrobného vyúčtování nepatří — zbytečné položky by zahlcovaly dokument.

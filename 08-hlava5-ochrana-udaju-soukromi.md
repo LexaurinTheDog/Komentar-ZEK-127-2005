@@ -178,6 +178,11 @@ Odst. 4 byl zaveden novelizací reflektující kybernetické bezpečnostní inci
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 347/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13DC1C9CC15CE6E3C1258A90001B7CA4?openDocument) — 27. 9. 2023, kat. A
+  > „Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinen (oprávněn) pro účely vyúčtování poskytnuté služby uchovávat a zpracovávat údaje o příchozích hovorech (§ 90 zákona č. 127/2005 Sb.)"
+
 #### Definice provozních údajů (odst. 1)
 
 Zákon definuje provozní údaje funkčně — jde o jakékoli údaje zpracovávané **pro potřeby přenosu** nebo **účtování**. Typické příklady: IP adresy, MAC adresy, čísla volajícího a volaného, datum, čas a délka spojení, protokoly přenosu, objemy dat. Provozní údaje jsou téměř vždy osobními údaji ve smyslu GDPR, pokud se vztahují k identifikovatelné fyzické osobě — zákon proto nestojí vedle GDPR, nýbrž vedle něj.
