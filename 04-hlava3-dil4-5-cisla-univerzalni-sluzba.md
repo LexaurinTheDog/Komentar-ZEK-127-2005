@@ -46,6 +46,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 339/2016 - 57](https://vyhledavac.nssoud.cz/DokumentDetail/Index/643921) — 11. 10. 2017
+  > „Kvantifikace nákladů doložená účetní evidencí, technickou dokumentací a dalšími prvotními doklady má sloužit k dostatečně konkrétnímu vymezení předmětu žádosti, tj. k tomu, aby bylo jasné, jak vysoké náklady žadatel žádá uhradit a k jakým konkrétním nákladovým položkám se žádost vztahuje. (…) účetní evidence, technická dokumentace a další prvotní doklady plní i další funkci, a to doložení oprávněnosti žádosti, tj. zejména toho, že náklady byly skutečně vynaloženy, v jaké výši a na co konkrétně byly vynaloženy, a že šlo o efektivně a účelně vynaložené náklady. (…) § 27 odst. 5 zákona o elektronických komunikacích nemá omezovat okruh důkazních prostředků k prokázání oprávněnosti žádosti"
+
 #### Funkce a povaha radiokomunikačního účtu
 
 Radiokomunikační účet je **mimorozpočtový veřejný fond** zřízený přímo zákonem: prostředky nejsou součástí státního rozpočtu, jsou vedeny u banky, a jejich použití je striktně účelově omezeno (odst. 4). Zákon tím sleduje dva cíle: (i) zajistit, aby povinné reorganizace rádiového spektra nárazy přenesené na soukromé držitele oprávnění a na Ministerstvo obrany byly finančně kompenzovány, aniž by bylo nutno financování řešit formou státních dotací procházejících státním rozpočtem; (ii) poskytnout Úřadu vlastní provozní zdroj pro investice do infrastruktury správy spektra, aniž by se stal závislým výhradně na státních výdajích.
@@ -489,6 +494,13 @@ Zákon zmrazuje technologické minimum na úrovni SMS (odst. 3), ale výslovně 
 > *(15) Podnikatel zajišťující veřejnou komunikační síť, která je využívána podnikatelem, od kterého nebo ke kterému se přenáší číslo, nesmí bránit procesu přenosu čísla.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 Ao 1/2005 - 98](https://vyhledavac.nssoud.cz/DokumentDetail/Index/232883) — 27. 9. 2005
+  > „Z tohoto pohledu nelze dle názoru soudu považovat za správný výklad, podle něhož by právo každého účastníka, který požádá o to, aby si mohl ponechat své číslo, popřípadě čísla nezávisle na podnikateli, který službu provozuje, v sobě mohlo zároveň zahrnovat i právo jednostranně ukončit závazkový právní vztah existující mezi ním a operátorem. Právo na přenesení čísla lze naopak vykonat pouze tak, aby jím účastník neporušil závazky, které pro něj z obligačního poměru mezi ním a operátorem vyplývají. (…) Ustanovení § 34 odst. 4 zákona č. 127/2005 Sb. (…) zmocňuje Český telekomunikační úřad pouze ke stanovení technických a organizačních podmínek realizace přenositelnosti telefonních čísel, a nikoliv ke stanovení právních následků přenesení čísla v podobě zániku závazkového právního vztahu mezi účastníkem a opouštěným operátorem"
+- *NSS* [5 A 147/2010 - 135](https://vyhledavac.nssoud.cz/DokumentDetail/Index/547596) — 14. 11. 2014
+  > „Z § 34 zákona č. 127/2005 Sb., o elektronických komunikacích, podle NSS plyne, že povinnost zajistit službu přenositelnosti telefonních čísel vzniká na základě zákona č. 127/2005 Sb. a právní skutečnosti, kterou je v tomto případě kvalifikovaná žádost zákazníka o přenos telefonního čísla. (…) Závazkový vztah mezi oběma operátory související se službou přenositelnosti čísel tedy podle NSS vznikl nikoli jejich dohodou, ale již kvalifikovanou žádostí zákazníka o přenos telefonního čísla, resp. zpracováním objednávky na přenesení tohoto čísla. (…) ani vzájemnou dohodou stran se operátoři nemohli zprostit povinnosti zajistit službu přenositelnosti čísel"
 
 #### Přenositelnost čísel — základní princip a vazba na EECC
 

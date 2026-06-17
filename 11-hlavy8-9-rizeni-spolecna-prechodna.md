@@ -272,9 +272,9 @@ Odst. 3 řeší spory mezi operátory bez VTS: zde ČTÚ není povinen ani odmí
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [33 Cdo 347/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13DC1C9CC15CE6E3C1258A90001B7CA4?openDocument) — 27. 9. 2023, kat. A
-  > „Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinen (oprávněn) pro účely vyúčtování poskytnuté služby uchovávat a zpracovávat údaje o příchozích hovorech (§ 90 zákona č. 127/2005 Sb.)"
-- *NS* [33 Cdo 2894/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D644C2352A6E283DC1257A4E006AB418?openDocument) — 31. 3. 2009, kat. A
+- *ÚS* [IV.ÚS 1743/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-1743-10_1) — nález, 23. 11. 2010
+  > „O smluvní pokutě za porušení či nesplnění povinnosti vyplývající ze smlouvy uzavřené mezi osobou vykonávající komunikační činnost a účastníkem, popřípadě uživatelem (§ 129 odst. 1 zákona č. 127/2005 Sb., o elektronických komunikacích), rozhoduje ten orgán, který je podle zákona příslušný k rozhodování sporů o porušení povinnosti samotné. … Bude-li porušena povinnost platby za poskytování služby elektronických komunikací, bude o této povinnosti i o smluvní pokutě za její nesplnění rozhodovat Úřad"
+- *NS* [33 Cdo 2894/2008](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D644C2352A6E283DC1257A4E006AB418?openDocument) — kat. A, 31. 3. 2009
   > „K projednání a rozhodnutí sporu o úhradu ceny za poskytnutou službu elektronické komunikace je dána pravomoc Českého telekomunikačního úřadu podle § 129 odst. 1, věty první, zákona č. 127/2005 Sb. i tehdy, jestliže osoba vykonávající komunikační činnost postoupila pohledávku vůči účastníku osobě, která komunikační činnost nevykonává"
 
 #### Postavení ČTÚ jako mimosoudního řešitele spotřebitelských sporů
@@ -708,7 +708,7 @@ Anomálie odst. 5: odkaz na „odstavce 2" je pravděpodobně legislativní chyb
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [22 Cdo 692/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA6A6A65C06474B8C1257A4E006A9AB4?openDocument) — 20. 4. 2010, kat. A
+- *NS* [22 Cdo 692/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/FA6A6A65C06474B8C1257A4E006A9AB4?openDocument) — kat. A, 20. 4. 2010
   > „Jestliže stavebník zřídí stavbu podzemního vedení veřejné telekomunikační sítě na cizím pozemku, ač na to nemá právo, je vypořádání právního vztahu vzniklého v důsledku této neoprávněné stavby podle § 135c obč. zák. v pravomoci soudu"
 
 ---

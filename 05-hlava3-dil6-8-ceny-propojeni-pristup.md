@@ -528,6 +528,11 @@ SMP podnik není totéž co dominantní podnik v soutěžněprávním smyslu, i 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 A 147/2010 - 135](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/547596) — 14. 11. 2014
+  > „Žalovaný je sice obecně povinen vytvářet předpoklady pro řádné fungování hospodářské soutěže a dbát na to, aby nedocházelo k narušování nebo omezování hospodářské soutěže v odvětví elektronických komunikací [§ 4 a § 5 odst. 1 písm. b) zákona č. 127/2005 Sb.], ovšem při stanovení výše ceny za přenesení telefonního čísla musí postupovat podle speciální úpravy obsažené v § 55 odst. 1 a 2 zákona č. 127/2005 Sb. – tedy dbát na to, aby ceny zahrnovaly účelně vynaložené náklady a přiměřený zisk"
+
 #### Nákladová orientace jako obecná povinnost pro povinné propojení
 
 § 55 zavádí povinnost nákladové orientace cen propojení pro poskytovatele veřejně dostupné telefonní služby povinné propojit se s jinými sítěmi dle § 34. Zákon sám definuje nákladově orientovanou cenu (odst. 2): zahrnuje efektivně a účelně vynaložené náklady + přiměřený zisk, přičemž cena musí zajistit návratnost investic v přiměřeném čase a zohledňovat investiční rizika. Tato definice je autonomní a odlišná od obecného pojetí nákladů v soutěžním právu — explicitně zahrnuje přiměřený zisk a rizika nových sítí (NGN).

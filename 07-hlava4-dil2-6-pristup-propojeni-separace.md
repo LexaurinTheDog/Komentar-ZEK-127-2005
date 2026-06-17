@@ -192,6 +192,11 @@ Směrnice o snižování nákladů na vysokorychlostní sítě (Broadband Cost R
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 As 9/2024 - 60](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/721708) — 23. 5. 2024
+  > „Vznikne-li mezi osobami, které jsou podle § 80 odst. 1 zákona o elektronických komunikacích oprávněny uzavřít smlouvu o přístupu nebo smlouvu o propojení sítí, spor o přístup nebo propojení, žalovaný má podle § 80 odst. 7 zákona o elektronických komunikacích pravomoc tento spor rozhodnout. Za použití § 141 odst. 7 správního řádu buď uloží stranám sporu povinnost uzavřít předložený návrh smlouvy, nebo tento návrh zamítne. Ustanovení § 80 odst. 7 zákona o elektronických komunikacích vymezuje jednoznačně a úplně předmět sporů, k jejichž rozhodování je žalovaný na jeho základě příslušný. … Odkazuje-li § 80 odst. 7 zákona o elektronických komunikacích na „postup podle § 127“, je tím založena toliko použitelnost v něm obsažené procesní úpravy tohoto sporného řízení"
+
 #### Povinná písemná forma a zákonné minimum obsahu (odst. 1, 3)
 
 Zákon vyžaduje písemnou formu smlouvy o přístupu i propojení. Minimální obsah stanoví prováděcí předpis — vyhláška ČTÚ; absence povinné náležitosti může vést k tomu, že Úřad ve stanovisku dle odst. 6 smlouvu jako nedostatečnou označí, případně uloží povinnost její revize. Praxe ukázala, že klíčovými obligatorními náležitostmi jsou: vymezení bodu propojení, kapacitní parametry, lhůty řešení poruch, ceny a mechanismus jejich revize, právo Úřadu nahlédnout do smlouvy.

@@ -180,7 +180,7 @@ Odst. 4 byl zaveden novelizací reflektující kybernetické bezpečnostní inci
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [33 Cdo 347/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13DC1C9CC15CE6E3C1258A90001B7CA4?openDocument) — 27. 9. 2023, kat. A
+- *NS* [33 Cdo 347/2023](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13DC1C9CC15CE6E3C1258A90001B7CA4?openDocument) — kat. A, 27. 9. 2023
   > „Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací je povinen (oprávněn) pro účely vyúčtování poskytnuté služby uchovávat a zpracovávat údaje o příchozích hovorech (§ 90 zákona č. 127/2005 Sb.)"
 
 #### Definice provozních údajů (odst. 1)
@@ -472,6 +472,15 @@ Odst. 5 je procesněprávní anomálií — operátor může podat žalobu jmén
 > *(12) Výši a způsob úhrady efektivně a účelně vynaložených nákladů na poskytnutí informace z databáze účastníků veřejně dostupné služby elektronických komunikací a na poskytnutí provozních a lokalizačních údajů stanoví prováděcí právní předpis.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 As 216/2024 - 22](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738623) — 29. 1. 2025
+  > „… preventivní sběr a uchovávání lokalizačních údajů představuje velmi intenzivní zásah do práva na soukromí a informační sebeurčení (viz nález Ústavního soudu ze dne 14. 5. 2019, sp. zn. Pl. ÚS 45/17). Ustanovení § 97 odst. 3 zákona č. 127/2005 Sb., o elektronických komunikacích, proto jasně vymezuje, které orgány si mohou lokalizační údaje vyžádat. Soud tak může učinit pouze jako orgán činný v trestním řízení"
+- *NSS* [52 A 43/2020 - 78](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/413905) — 1. 10. 2020
+  > „… takovou pravomoc správní orgány v přestupkovém řízení nemají. Tuto pravomoc mají pouze subjekty uvedené v § 97 odst. 3 zákona č. 127/2005 Sb., o elektronických komunikacích, mezi které správní orgány nepatří"
+- *ÚS* [IV.ÚS 409/26](https://nalus.usoud.cz/Search/GetText.aspx?sz=4-409-26_1) — usnesení, 11. 3. 2026
+  > „… judikatura Soudního dvora Evropské unie (srov. k tomu rozsudek ze dne 6. 10. 2020 ve věci La Quadrature du Net a další v. Premier ministre a další, C-511/18, C-512/18 a C-520/18) připouští uchovávání a poskytování dat o telekomunikačním provozu pro potřeby potírání velmi závažné trestné činnosti (srov. zejm. body 160 až 168)"
 
 #### Systém zákonného odposlechu (odst. 1–2, 6)
 

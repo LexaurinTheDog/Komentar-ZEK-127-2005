@@ -50,6 +50,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 139/2017 - 42](https://vyhledavac.nssoud.cz/DokumentDetail/Index/410982) — 26. 11. 2020
+  > „Z tohoto ustanovení vplývá, že žalobce je obecně povinen k žádosti ČTÚ poskytnout ČTÚ úplné a pravdivé informace, nezbytné k plnění činností, k nimž je podle tohoto zákona ČTÚ příslušný. Zákon nikterak nevymezuje, jaké konkrétní informace je ČTÚ po žalobci oprávněn žádat. Z důvodové zprávy k tomuto zákonu pak vyplývá, že se jedná o informace nezbytné k plnění svěřených činností. […] ČTÚ požadoval poskytnutí informací uvedených v Žádosti mj. za účelem mapování existující infrastruktury internetu, které jsou nezbytnou součástí přípravy dotačního programu na podporu budování vysokorychlostních NGA sítí v ČR"
+- *NSS* [9 A 130/2017 - 46](https://vyhledavac.nssoud.cz/DokumentDetail/Index/410044) — 15. 12. 2020
+  > „Podle § 118 odst. 5 písm. b) zákona č. 127/2005 Sb. právnická nebo podnikající fyzická osoba jako povinná osoba se dopustí správního deliktu tím, že nepředloží informace, údaje nebo podklady vyžádané Úřadem podle § 115. […] Úřad nevyžaduje více informací, než je přiměřené účelu, pro který jsou získávány"
+
 #### Odstavec 1 — základní katalog přestupků každé právnické nebo podnikající FO
 
 Odstavec 1 vymezuje přestupky, jejichž subjektem může být jakákoli právnická nebo podnikající fyzická osoba působící v oblasti elektronických komunikací — bez ohledu na to, zda jde o operátora, výrobce, distributora nebo jiného aktéra. Skutkové podstaty lze tematicky rozdělit:
@@ -743,6 +750,11 @@ Na přestupky dle § 118 se subsidiárně použije PřestZ, zejm.:
 > *(9) Za přestupek podle odstavce 1 písm. a) až d) a f) až m) a za přestupek podle odstavců 2 až 8 lze uložit pokutu do 100 000 Kč. Za přestupek podle odstavce 1 písm. e) lze uložit pokutu do 200 000 Kč.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 A 63/2015 - 94](https://vyhledavac.nssoud.cz/DokumentDetail/Index/455862) — 25. 6. 2018
+  > „Z listinných důkazů […] vyplývá, že žalobce […] uskutečnil […] opakovaně zlomyslná volání na číslo tísňového volání 158, kdy nečinil žádná oznámení, nebo hovořil nesouvisle a nesmyslně a jeho oznámení se netýká ohrožení života, zdraví, majetku ani veřejného pořádku, avšak tato volání měla za následek neodůvodněné blokování čísla tísňového volání a následné výjezdy policejní hlídky"
 
 #### Systematika § 119
 

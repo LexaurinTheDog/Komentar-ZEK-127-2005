@@ -22,6 +22,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 312/2022 - 37](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715277) — 18. 10. 2023
+  > „Zákonodárce tak v různých předpisech prohlašuje určité zájmy za veřejný zájem, např. zájem na rozvoji ekologicky šetrné železniční dopravy (§ 2 odst. 5 zákona č. 266/1994 Sb., o drahách), ve veřejném zájmu je dle energetického zákona i přeprava a distribuce plynu a elektřiny či výroba a rozvod tepla, zajišťování veřejné komunikační sítě dle § 7 odst. 2 zákona č. 127/2005 Sb., o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích) …"
+- *NSS* [2 As 48/2025 - 90](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741280) — 30. 4. 2025
+  > „… jde o střet ústavně zaručeného základního práva a veřejného zájmu. Na jedné straně jde o veřejný zájem na zajišťování veřejné komunikační sítě (§ 7 odst. 2 zákona o elektronických komunikacích) a na straně druhé o vlastnické právo stěžovatelky. Na správních orgánech bylo, aby tyto dva zájmy pomocí testu proporcionality poměřily a přezkoumatelným způsobem dospěly k závěru, zda veřejný zájem na dosažení tohoto účelu převažuje nad zachováním dosavadních práv vyvlastňovaného …"
+
 #### Tři kategorie komunikačních činností (odst. 1)
 
 Zákon vymezuje komunikační činnosti taxativním výčtem tří kategorií. Toto vymezení je klíčové pro rozsah působnosti ZEK, neboť právě komunikační činnosti — a nikoli jiná s nimi související podnikání — podléhají oznamovacímu režimu a regulaci Úřadu.
@@ -145,6 +152,11 @@ Zákon o zahlazení odsouzení: formulace „nebo se na ni hledí, jako by nebyl
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 63/2019 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/415109) — 9. 9. 2020
+  > „Z § 9 odst. 1 zákona č. 127/2005 Sb. se podává, že „všeobecné oprávnění je opatření obecné povahy Úřadu, které stanoví podmínky výkonu komunikačních činností vztahující se na všechny nebo na určité druhy sítí a služeb elektronických komunikací, provozování přístrojů a na využívání rádiových kmitočtů a které je závazné pro fyzické a právnické osoby vykonávající činnosti podle § 7“"
+
 #### Všeobecné oprávnění jako opatření obecné povahy
 
 § 9 odst. 1 kvalifikuje všeobecné oprávnění jako **opatření obecné povahy** ve smyslu § 171 a násl. správního řádu (zákon č. 500/2004 Sb.). Tato právní forma je zvolena záměrně: jde o normativní akt s konkrétně vymezeným předmětem (komunikační činnosti), avšak s obecně určeným okruhem adresátů (všechny nebo určité druhy sítí a služeb). Na rozdíl od právního předpisu není součástí právního řádu ve smyslu čl. 95 Ústavy, ale na rozdíl od individuálního rozhodnutí zavazuje neurčitý okruh osob.
@@ -227,6 +239,11 @@ Interpersonální komunikační služby nezávislé na číslech (OTT — over-t
 > *- d) omezení ve vztahu k přenášení nedovoleného nebo škodlivého obsahu podle jiných právních předpisů.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 139/2017 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/410982) — 26. 11. 2020
+  > „Oprávnění, které je svojí povahou opatřením obecné povahy ve smyslu § 171 a násl. správního řádu, které je závazné pro všechny poskytovatele služeb elektronických komunikací, pak v návaznosti na § 9 ve spojení s § 10 odst. 1 písm. h) zákon č. 127/2005 Sb. upravuje … povinnost poskytovat informace …"
 
 #### Struktura podmínek — tři kategorie (odst. 1–3)
 
@@ -635,6 +652,11 @@ Subordinace Úřadu prováděcímu aktu Komise (odst. 4) je výrazem primátu un
 > *(11) Úřad provádí přezkum plánu využití rádiového spektra podle odstavce 10 každé 3 roky od jeho vydání nebo na základě podnětu podnikatele poskytujícího veřejně dostupnou službu elektronických komunikací nebo zajišťujícího veřejnou komunikační síť, který vyjádří zájem o alternativní využívání harmonizovaného rádiového spektra, nebo orgánů podle § 15 odst. 6. Úřad následně informuje Komisi a regulační orgány ostatních členských států o závěru tohoto přezkumu, včetně odůvodnění, a popřípadě i o změně plánu využití rádiového spektra.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Ao 5/2011 - 204](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/624623) — 15. 5. 2012
+  > „… udělování individuálních oprávnění k využívání rádiového kmitočtu představuje jinou agendu, než je sestavování plánu využití rádiového spektra (to musí, logicky, vydání jednotlivých individuálních oprávnění předcházet). Tento plán se pak vydává ve formě opatření obecné povahy, což jednoznačně vyplývá z ustanovení § 16 odst. 2 ZEK. V plánu využití rádiového spektra se pak stanoví technické parametry a podmínky využití rádiového spektra radiokomunikačními službami (§ 16 odst. 4 ZEK)"
 
 #### Dualita kmitočtových plánů — NKT a plán využití spektra (odst. 1–4)
 

@@ -180,6 +180,11 @@ Odst. 3 výslovně prolomuje ochranu obchodního tajemství a osobních údajů 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [31 A 17/2019 - 127](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/418903) — 27. 5. 2020
+  > „Slova obou zákonů pokud zákon nestanoví jinak je třeba vyložit tak, že jiný zákon než správní řád může deklarovanou zásadu dvojinstančnosti správního řízení prolomit tím, že zakotví pro tu kterou oblast rozhodnutí správních orgánů nepřípustnost odvolání, resp. vůbec opravného prostředku. V tomto případě je proti takovému prvostupňovému správnímu rozhodnutí možno podat žalobu ve správním soudnictví… nepřipouští-li zvláštní zákon … opravné prostředky ve správním řízení, je žaloba ve správním soudnictví přípustná již (a jedině) proti prvostupňovému správnímu rozhodnutí. … V projednávané věci podle § 107 odst. 9 zákona o elektronických komunikacích, proti rozhodnutí Rady není přípustný opravný prostředek. Toto ustanovení je svým zněním zcela jednoznačné a nepřipouští výkladové pochybnosti…"
+
 #### Radový model jako garance nezávislosti NRA
 
 ČTÚ je řízen **pětičlennou Radou** — kolektivním orgánem, nikoli jednoosobovým vedením. Tento model je vědomou volbou zákonodárce: kolektivní rozhodování snižuje riziko politického ovlivňování jednotlivce, umožňuje pluralitu odborných přístupů a brání koncentraci moci. Srov. podobnou strukturu u Energetického regulačního úřadu (pětičlenná Rada dle zákona č. 458/2000 Sb.) nebo Bankovní rady ČNB (sedmičlenná Bankovní rada dle zákona č. 6/1993 Sb.). EECC v čl. 8 odst. 1 nevyžaduje konkrétní organizační model, ale ukládá zajistit, aby vedoucí pracovník NRA nebo člen kolektivního orgánu plnícího tuto funkci mohl být odvolán pouze v případě, že přestane splňovat podmínky požadované pro výkon funkce stanovené předem vnitrostátním právem.
@@ -544,6 +549,11 @@ Odst. 10 zakotvuje **omezené oprávnění vstupu na cizí nemovitost** pro př�
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [55 A 6/2019 - 51](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/409050) — 17. 6. 2019
+  > „…smyslem výzvy dle § 114 zákona o elektronických komunikacích je oznámit dotčené osobě, že správní orgán spatřuje v jejím jednání pochybení nebo nedostatky … a poskytnout dotčené osobě prostor k nápravě pro případ, že se závěrem o porušování podmínek souhlasí. Jde tedy o určitou výhodu, o informaci, na jejímž základě se může povinná osoba seznámit s tím, v čem spatřuje správní orgán nedostatky, a na tuto informaci má možnost reagovat. Z české právní úpravy nelze dovodit závaznost výzvy, § 114 zákona o elektronických komunikacích pouze stanoví, že pokud správní orgán zjistí v jednání povinné osoby nedostatky, vyzve ji ke zjednání nápravy. … Taková výzva nemůže představovat akt, jímž by bylo závazně deklarováno porušení zákona o elektronických komunikacích…"
+
 #### Stupňovaný model nápravných opatření
 
 § 114 zakotvuje **třístupňový model** nápravných opatření, odpovídající závažnosti porušení a naléhavosti situace:
@@ -631,6 +641,11 @@ Odst. 2 je **nouzovým nástrojem**: při bezprostředním ohrožení veřejnéh
 > *(12) Provozovatel bezdrátového přístupového bodu malého dosahu informuje Úřad o instalaci a umístění přístupových bodů malého dosahu, jakož i o splněných podmínkách, podle přímo použitelného předpisu Evropské unie na elektronickém formuláři zveřejněném Úřadem. Úřad poskytuje informace podle věty první Komisi.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 A 139/2017 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/410982) — 26. 11. 2020
+  > „Ustanovení § 115 odst. 1 zákona č. 127/2005 Sb. stanoví, že „Součástí žádosti Úřadu je odůvodnění včetně uvedení účelu, pro který Úřad informace, údaje a podklady vyžaduje“. … Z výše uvedeného dle náhledu soudu vyplývá, že ČTÚ Žádost odůvodnila, když žalobci sdělila účel požadovaných informací. Byť je toto odůvodnění velmi obecné, pouhá obecnost odůvodnění, respektive strohé sdělení účelu požadovaných informací nemůže mít vliv na zákonnost Žádosti"
 
 #### Informační povinnosti jako základ regulace
 

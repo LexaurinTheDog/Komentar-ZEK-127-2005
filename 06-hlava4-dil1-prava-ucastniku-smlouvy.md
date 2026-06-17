@@ -260,6 +260,15 @@ Povinnost pravidelné aktualizace zajišťuje, že zveřejněné informace odpov
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 405/2020 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/699303) — 7. 4. 2022
+  > „Zákonná limitace obsažená ve větě první § 63 odst. 7 zákona o elektronických komunikacích má sloužit k ochraně spotřebitelů, přičemž jejím smyslem je vyhnout se smluvním vztahům uzavřeným na nepřiměřeně dlouhou dobu a nemožnosti bez technických a finančních překážek změnit poskytovatele veřejně dostupných služeb elektronických komunikací. […] Smlouvy uzavřené mezi spotřebiteli a podnikateli v oblasti elektronických komunikací tedy ani podle směrnice nemají stanovit počáteční smluvní období přesahující 24 měsíců"
+- *NSS* [11 A 66/2024 - 38](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/741218) — 1. 4. 2025
+  > „Cílem informační povinnosti poskytovatele je, aby druhá smluvní strana informace o připravované změně a jejím obsahu obdržela a měla možnost se s ní seznámit. Vzhledem k tomu, že účastník má právo změnu smlouvy odmítnout a smlouvu vypovědět, resp. s nečinností se spojuje přijetí, je nezbytné, aby měl skutečnou možnost se o změně snadno dostupným způsobem dozvědět. […] Tím by se zákonná úprava, jejímž smyslem je ochrana slabší smluvní strany, vyprázdnila v rozporu s tímto svým účelem"
+- *NSS* [1 As 134/2018 - 50](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/648580) — 15. 11. 2018
+  > „Jakákoli změna smlouvy, která pro účastníka znamená nutnost vydat vyšší finanční obnos, než bylo doposud nutno, je podstatnou změnou zhoršující postavení účastníka. […] informační povinnost dle § 63 odst. 6 věty třetí zákona o elektronických komunikacích vzniká pouze při změně k tíži účastníka"
+
 #### Limitace smluvní doby na 24 měsíců (odst. 1–2)
 
 Odst. 1 implementuje čl. 105 odst. 1 EECC. Maximální délka smlouvy na dobu určitou je 24 měsíců; smluvní ujednání delší doby nezpůsobuje neplatnost celé smlouvy, nýbrž konverzi na smlouvu neurčitou. Výjimka dle odst. 2 dopadá na smlouvy o splátkách za fyzické připojení (typicky fiber FTTH — splátky za přivedení optického kabelu) při podmínce: (i) zvláštní smlouva oddělená od smlouvy o službě, (ii) předmět je výlučně fyzická infrastruktura, (iii) nezahrnuje koncová zařízení. Tím zákonodárce umožňuje financování nákladné infrastruktury bez nutnosti 24měsíčního limitu, přičemž spotřebitel může změnit poskytovatele služby i při trvající splátce za fyzické připojení.

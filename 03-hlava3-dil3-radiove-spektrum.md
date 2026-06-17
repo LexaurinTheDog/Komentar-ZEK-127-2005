@@ -430,7 +430,7 @@ Je-li zachování omezení opodstatněné a přezkum proběhl, Úřad zašle st�
 
 **Judikatura (z místních zdrojů):**
 
-- *NS* [23 Cdo 2170/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D30C9A99B96EAACC12589B000373273?openDocument) — 30. 11. 2021, kat. A
+- *NS* [23 Cdo 2170/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0D30C9A99B96EAACC12589B000373273?openDocument) — kat. A, 30. 11. 2021
   > „K projednání a rozhodnutí žaloby, aby se stát zdržel pokračování výběrového řízení pro příděl rádiových kmitočtů, jsou v prvním stupni věcně příslušné soudy ve správním soudnictví"
 
 #### Dvě formy výběrového řízení — hodnocení žádostí vs. aukce
@@ -568,6 +568,11 @@ Pro harmonizované spektrum stanoví zákon minimální dobu platnosti příděl
 > *(6) Změnu přídělu rádiových kmitočtů lze provést rovněž, pokud na základě postupu podle § 21 má dojít k udělení dalších práv k využívání rádiových kmitočtů držiteli přídělu a takové změně nebrání obsahové náležitosti přídělu podle § 22 odst. 2 a 3.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [1 As 246/2022 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/714851) — 3. 10. 2023
+  > „[K]asační soud konstatuje, že příděly vzešlé z výběrového řízení dle § 21 zákona o elektronických komunikacích jsou relativně neměnné, neboť jsou výsledkem formalizovaného procesu správního řízení a jsou s nimi spojena práva a povinnosti … Je žádoucí, aby pravomocná rozhodnutí o přídělu zůstala v zájmu zachování právní jistoty, jakož i v zájmu rovnosti mezi jednotlivými držiteli přídělů, neměnná … Ke změnám přídělů je tedy nutno přistupovat zdrženlivě. … Příděly kmitočtů tak lze měnit pouze tehdy, je-li to skutečně nezbytné právě k naplnění harmonizačního záměru"
 
 #### Aktivní a pasivní způsoby změny přídělu
 
