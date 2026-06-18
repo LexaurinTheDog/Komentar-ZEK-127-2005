@@ -26,6 +26,42 @@ Směrnice ePrivacy (2002/58/ES) ve svém čl. 2 písm. f) odkazuje na definici s
 
 Ustanovení se uplatní zejména při: (i) udělování souhlasu s cookies a sledovacími technologiemi dle § 89 odst. 3; (ii) souhlasu se zpracováním provozních údajů pro marketing (§ 90 odst. 7); (iii) souhlasu se zpracováním lokalizačních údajů pro služby s přidanou hodnotou (§ 91 odst. 2); (iv) souhlasu s uveřejněním údajů v účastnickém seznamu (§ 95 odst. 1 písm. b)). Souhlas udělený elektronicky musí být prokazatelný — provozovatel je povinen doložit, kdy, jaká osoba a k jakému konkrétnímu zpracování souhlas udělila.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel e-shopu zobrazuje na webu cookie lištu, kde je předem zaškrtnuto políčko „Souhlasím se zpracováním cookies pro analytiku a marketing"; uživatel jen klikne na „Pokračovat" a lišta zmizí. ÚOOÚ při kontrole zjistil, že provozovatel nedokáže ke konkrétnímu uživateli doložit obsah ani okamžik souhlasu. Účastníci: provozovatel (správce), uživatel (subjekt údajů). Důkazy: snímky obrazovky cookie lišty, logy consent management platformy, audit nastavení.
+
+**2. Právní otázka.** Je souhlas udělený kliknutím na „Pokračovat" při předzaškrtnutém políčku platným elektronickým souhlasem ve smyslu § 87 ZEK ve spojení s čl. 4 odst. 11 a čl. 7 GDPR?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 87 ZEK — elektronická forma souhlasu (vyplnění formuláře) je způsobilá, ale jen za splnění všech ostatních náležitostí souhlasu.
+- *Související ustanovení téhož zákona:* § 89 odst. 3 (souhlas s cookies a přístupem ke koncovým zařízením), § 90 odst. 7 (souhlas pro marketing), § 91 odst. 2 (lokalizační údaje), § 95 odst. 1 písm. b) (seznamy).
+- *Související předpisy:* čl. 4 odst. 11, čl. 7 GDPR (dobrovolnost, prokazatelnost, odvolatelnost); čl. 5 odst. 3 směrnice ePrivacy.
+- *Judikatura:* SDEU ve věci Planet49 (C-673/17) — předem zaškrtnuté políčko není platným souhlasem; souhlas musí být aktivním projevem vůle. Pokyny EDPB 05/2020 k souhlasu.
+
+**4. Subsumpce.** § 87 potvrzuje, že elektronická forma (kliknutí ve formuláři) je přípustná — tento znak je splněn. Sporné a nesplněné jsou ostatní znaky souhlasu: předzaškrtnutí vylučuje jednoznačnost a aktivní projev vůle; nemožnost doložit, kdo a kdy souhlasil, porušuje prokazatelnost (čl. 7 odst. 1 GDPR), na niž § 87 výslovně neslevuje.
+
+**5. Řešení.** Souhlas je neplatný. § 87 sám o sobě formu nelegitimizuje, pouze otevírá elektronickou cestu; obsahové nároky GDPR zůstávají. Provozovatel musí nasadit consent management platformu s odděleným, předem nezaškrtnutým souhlasem pro každý účel a logovat časové razítko a verzi textu. Riziko: sankce ÚOOÚ a neúčinnost veškerého navazujícího zpracování.
+
+**6. Varianty.** (a) Políčko by nebylo předzaškrtnuto a uživatel by je aktivně zaškrtl + platforma by logovala souhlas → souhlas platný. (b) Šlo by jen o technicky nezbytné cookies (session) → souhlas dle § 89 odst. 3 vůbec není třeba, § 87 se neaplikuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „§ 87 výslovně připouští souhlas vyplněním formuláře, takže kliknutí stačí." Neutralizace: § 87 řeší jen formu, nikoli kvalitu vůle; výslovně odkazuje na souhlas „podle zvláštního předpisu", tj. GDPR, jehož nároky nelze obejít.
+- *Protiargument 2:* „Důkazní břemeno nese ÚOOÚ." Neutralizace: čl. 5 odst. 2 a čl. 7 odst. 1 GDPR ukládají prokazatelnost správci; absence logu jde k jeho tíži.
+- *Slabé místo:* § 87 neobsahuje vlastní sankci — postih plyne až z GDPR/ZEK ve spojení s konkrétním zpracováním; samotné porušení formy bez navazujícího zpracování je obtížně postižitelné.
+
+#### H. Praktický závěr
+
+§ 87 je interpretační spojka: elektronická forma souhlasu je v Dílu 1 ZEK plnohodnotná, musí však kumulativně splnit všechny náležitosti souhlasu dle GDPR (dobrovolný, konkrétní, informovaný, jednoznačný, prokazatelný, odvolatelný).
+
+**Checklist (advokát / správce / ÚOOÚ):**
+- [ ] Je políčko souhlasu předem nezaškrtnuté a vyžaduje aktivní úkon?
+- [ ] Je souhlas granulární podle jednotlivých účelů?
+- [ ] Loguje se okamžik, identita a verze textu souhlasu (prokazatelnost)?
+- [ ] Je k dispozici stejně snadné odvolání jako udělení?
+
+**Typicky rozhodné důkazy / podklady:** snímky cookie lišty/formuláře, logy consent management platformy, znění informačního textu, technický audit nastavení.
+
 ---
 
 ### § 88 — Zabezpečení ochrany osobních, provozních a lokalizačních údajů a důvěrnosti komunikací
@@ -83,6 +119,42 @@ Toto rozdělení bylo kritizováno v odborné literatuře jako zbytečně fragme
 
 Odst. 4 výslovně odkazuje na GDPR — konkrétně čl. 33 (ohlašovací povinnost vůči dozorovému úřadu do 72 hodin) a čl. 34 (oznamovací povinnost subjektům údajů). Povinnost vést přehled porušení (odst. 6) je sektorovým odrazem čl. 33 odst. 5 GDPR (záznamy o porušeních). Prováděcí právní předpis může upřesnit podmínky a formát oznámení — k datu konsolidace tohoto komentáře není zvláštní prováděcí předpis k odst. 6 vydán; aplikuje se proto přímo GDPR a pokyny Evropského sboru pro ochranu osobních údajů (EDPB).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** MVNO (virtuální operátor) bez vlastní sítě poskytuje mobilní službu na síti hostujícího operátora. Dojde k úniku databáze CDR (call detail records) zákazníků v důsledku zneužití přístupu zaměstnance subdodavatele zákaznické podpory. MVNO nemá písemnou dohodu o zabezpečení s provozovatelem sítě a nedoložil žádný vnitřní technicko-organizační předpis (VTOP). Účastníci: MVNO (poskytovatel služby), provozovatel sítě, subdodavatel, dotčení účastníci. Důkazy: smlouvy s provozovatelem sítě a subdodavatelem, VTOP, logy přístupů, analýza rizik.
+
+**2. Právní otázka.** Splnil MVNO povinnosti dle § 88 odst. 1, ač sám síť nezajišťuje a nemá písemnou dohodu s provozovatelem sítě ani VTOP, a jaké jsou důsledky úniku pro notifikaci dle odst. 4–6?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88 odst. 1 písm. a)–d) (technická a organizační bezpečnost, VTOP, informování, postupy pro žádosti), odst. 4–6 (porušení zabezpečení, odkaz na GDPR, přehled porušení).
+- *Související ustanovení téhož zákona:* § 88a (stejná úroveň pro retention data), § 89 (důvěrnost), § 90 odst. 10 (minimalizace přístupu).
+- *Související předpisy:* čl. 32 (zabezpečení), čl. 33 (ohlášení do 72 h), čl. 34 (oznámení subjektům) GDPR; čl. 28 GDPR (zpracovatelská smlouva se subdodavatelem).
+- *Judikatura:* obecně přijímaný nosný závěr — risk-based approach: absence dokumentované analýzy rizik a organizačních opatření zakládá porušení i bez prokázání konkrétní technické chyby.
+
+**4. Subsumpce.** Povinnost dle písm. a) je u MVNO vázána na písemnou dohodu s provozovatelem sítě — ta chybí (nesplněno). Povinnost VTOP dle písm. b) nesplněna (žádný dokument). Úroveň ochrany neodpovídala riziku (need-to-know u subdodavatele nebyl zaveden). Únik je porušením zabezpečení osobních údajů dle odst. 4 → aplikuje se GDPR.
+
+**5. Řešení.** MVNO odpovídá za porušení § 88 odst. 1 (dozor ČTÚ mimo osobní údaje) i za porušení zabezpečení osobních údajů (dozor ÚOOÚ). Musí: ohlásit incident ÚOOÚ do 72 h (čl. 33), zvážit oznámení dotčeným osobám (čl. 34), zapsat porušení do přehledu (odst. 6). ÚOOÚ může uložit notifikaci dotčených osob (odst. 5). Dodatečně musí uzavřít písemnou dohodu s provozovatelem sítě a zpracovatelskou smlouvu se subdodavatelem.
+
+**6. Varianty.** (a) MVNO by měl VTOP s need-to-know a zpracovatelskou smlouvu → odpovědnost by se přesunula převážně na subdodavatele a sankce by se zmírnila. (b) Šlo by jen o provozní údaje právnické osoby, nikoli osobní údaje → dozor by vykonával ČTÚ, nikoli ÚOOÚ (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Únik způsobil subdodavatel, ne MVNO." Neutralizace: MVNO jako správce odpovídá za výběr a kontrolu zpracovatele (čl. 28 GDPR) a za organizační opatření dle § 88 odst. 1 písm. a).
+- *Protiargument 2:* „ČTÚ nemůže kontrolovat ochranu osobních údajů." Neutralizace: pravda dle odst. 3, ale ČTÚ kontroluje VTOP a bezpečnost v rozsahu mimo osobní údaje; osobní údaje řeší ÚOOÚ (odst. 4–5) — souběh dohledu.
+- *Slabé místo:* rozdělení příslušnosti ČTÚ/ÚOOÚ je fragmentované; v praxi se provozní údaje fyzických osob překrývají s osobními údaji, což vyžaduje koordinaci obou orgánů.
+
+#### H. Praktický závěr
+
+§ 88 ukládá poskytovateli systém správy bezpečnosti (opatření + VTOP + informování + procedury). U přeprodejců bez vlastní sítě je nutná písemná dohoda s provozovatelem sítě. Při úniku osobních údajů se postupuje dle GDPR (72 h, oznámení, přehled porušení).
+
+**Checklist (advokát / poskytovatel / ČTÚ / ÚOOÚ):**
+- [ ] Existuje aktuální VTOP s dokumentovanou analýzou rizik?
+- [ ] U přeprodejce: je uzavřena písemná dohoda s provozovatelem sítě?
+- [ ] Jsou zavedeny postupy pro žádosti o přístup a reporting ÚOOÚ (písm. d)?
+- [ ] Je veden přehled porušení zabezpečení (odst. 6) a dodržen režim 72 h?
+
+**Typicky rozhodné důkazy / podklady:** VTOP, analýza rizik, dohoda s provozovatelem sítě, zpracovatelské smlouvy, logy přístupů, záznam o porušení a jeho ohlášení.
+
 ---
 
 ### § 88a — Zabezpečení provozních a lokalizačních údajů uchovávaných pro data retention
@@ -102,6 +174,42 @@ Odst. 4 výslovně odkazuje na GDPR — konkrétně čl. 33 (ohlašovací povinn
 #### Obdobné použití § 88 odst. 2–7
 
 Odkazem na odst. 2–7 § 88 zákon zajišťuje, že i pro retention data platí: (i) dozor ČTÚ nad VTOP; (ii) oznamovací povinnost při bezpečnostním incidentu. Tím zákon zabraňuje vzniku „bezpečnostní šedé zóny", v níž by data uchovávána na základě zákonné povinnosti byla paradoxně méně chráněna než běžně zpracovávané údaje.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor uchovává retention data dle § 97 odst. 3 ve stejné databázi a se stejnými přístupovými právy jako běžná provozní data využívaná marketingovým oddělením. Marketingový pracovník bez oprávnění nahlédne do retention dat a využije je pro cílení kampaně. Účastníci: operátor, marketingový pracovník, dotčený účastník. Důkazy: schéma databáze, matice přístupových oprávnění, VTOP pro retention data, logy přístupů.
+
+**2. Právní otázka.** Porušil operátor § 88a tím, že retention data nepodléhala přísnějšímu přístupovému omezení než běžná provozní data, a postačuje obecný VTOP dle § 88, nebo je třeba zvláštní úprava?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 88a odst. 1 (stejná kvalita a zabezpečení jako dle § 88, ochrana před neoprávněným přístupem a využitím), odst. 2 (VTOP, obdobné použití § 88 odst. 2–7).
+- *Související ustanovení téhož zákona:* § 97 odst. 3 (povinné uchovávání), § 90 odst. 10 (need-to-know), § 88 (referenční úroveň zabezpečení).
+- *Související předpisy:* čl. 5 odst. 1 písm. b) a f), čl. 32 GDPR; judikatura SDEU k data retention (přísná účelovost a omezení přístupu).
+- *Judikatura:* nosný závěr SDEU (Tele2/Watson, La Quadrature du Net) — přístup k uchovávaným metadatům musí být striktně omezen na zákonem vymezené orgány a účely; jakékoli „přimíchání" k běžnému zpracování je nepřípustné.
+
+**4. Subsumpce.** § 88a vyžaduje stejné zabezpečení a ochranu před neoprávněným využitím. Sdílení databáze a přístupových práv s marketingem znamená, že retention data nebyla chráněna před neoprávněným přístupem (porušení odst. 1). Využití pro marketing je neoprávněné zpracování — retention data smí mít k dispozici jen orgány dle § 97 odst. 3.
+
+**5. Řešení.** Operátor porušil § 88a. Musí retention data logicky/fyzicky oddělit, nastavit přístup výhradně pro útvar obsluhující žádosti orgánů dle § 97 odst. 3 a vyloučit marketing i zákaznický servis. VTOP musí pro retention data obsahovat zvláštní režim (odst. 2). Souběžně jde o porušení zabezpečení osobních údajů (GDPR) — možný postih ÚOOÚ.
+
+**6. Varianty.** (a) Retention data v odděleném úložišti s přístupem jen pro pověřený útvar → § 88a splněn. (b) Stejné údaje, ale uchovávané dle § 90 odst. 3 pro vyúčtování (nikoli dle § 97) → režim § 88a se neuplatní, platí obecný § 88 a účelové výjimky § 90.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „§ 88a jen odkazuje na § 88, takže obecný VTOP stačí." Neutralizace: § 88a požaduje stejnou úroveň zabezpečení i ochranu před neoprávněným využitím — to u retention dat znamená přísnější přístupové omezení než u běžných dat, jinak je „stejná úroveň" nedosažena.
+- *Protiargument 2:* „Šlo o interní přístup, ne o únik ven." Neutralizace: § 88a chrání i před neoprávněným zpracováním a využitím uvnitř organizace, nejen před externím únikem.
+- *Slabé místo:* zákon nestanoví konkrétní technické oddělení; míru oddělení je třeba dovodit z požadavku „stejné úrovně" a z účelové vázanosti retention dat dle § 97.
+
+#### H. Praktický závěr
+
+§ 88a brání vzniku bezpečnostní šedé zóny: data uchovávaná povinně dle § 97 musí být chráněna minimálně tak jako ostatní údaje, fakticky však přísněji co do okruhu osob s přístupem.
+
+**Checklist (advokát / operátor / ČTÚ):**
+- [ ] Jsou retention data oddělena a přístupná jen útvaru obsluhujícímu orgány dle § 97 odst. 3?
+- [ ] Obsahuje VTOP zvláštní režim pro retention data (odst. 2)?
+- [ ] Je vyloučen přístup marketingu a zákaznického servisu?
+- [ ] Platí na incidenty obdobně oznamovací povinnosti dle § 88 odst. 2–7?
+
+**Typicky rozhodné důkazy / podklady:** schéma databáze, matice přístupů, VTOP, logy přístupů, doklad o oddělení retention dat.
 
 ---
 
@@ -145,6 +253,42 @@ Výjimka 2 je vykládána restriktivně: „výslovně vyžádaná" znamená akt
 #### Právo na vydání provozních a lokalizačních údajů (odst. 4)
 
 Odst. 4 byl zaveden novelizací reflektující kybernetické bezpečnostní incidenty — pokud účastník nemohl údaje zachytit sám kvůli incidentu na svém zařízení, má právo je od operátora vyžádat. Provozovatel je musí poskytnout bezplatně, ve strojově čitelném formátu (umožňujícím další elektronické zpracování) a do 3 dnů. Toto právo je specifickým průlomem do jinak přísného režimu důvěrnosti a slouží primárně k dokumentování bezpečnostních incidentů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zpravodajský web nasazuje analytický skript a marketingové cookies, které čtou identifikátory z koncového zařízení uživatele a zapisují do localStorage; souhlas si vyžádá až poté, co skripty již běží, formou banneru „Procházením stránky souhlasíte". Uživatel nikdy aktivně nesouhlasil. Účastníci: provozovatel webu, uživatel. Důkazy: HAR záznam síťových požadavků, výpis localStorage, znění a načasování cookie banneru.
+
+**2. Právní otázka.** Je čtení a ukládání identifikátorů do koncového zařízení pro analytiku a marketing přípustné bez předem uděleného prokazatelného souhlasu podle § 89 odst. 3, nebo spadá pod některou z výjimek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 89 odst. 3 (cookie pravidlo — předem prokazatelný souhlas; výjimky pro přenos zprávy a pro výslovně vyžádanou službu informační společnosti), odst. 1–2 (důvěrnost a definice zprávy).
+- *Související ustanovení téhož zákona:* § 87 (forma souhlasu), § 90 odst. 7 (marketing z provozních údajů), § 96 (nevyžádaná sdělení).
+- *Související předpisy:* čl. 5 odst. 3 směrnice ePrivacy; čl. 4 odst. 11, čl. 7 GDPR; Pokyny EDPB 05/2020.
+- *Judikatura:* SDEU Planet49 (C-673/17) a Orange România (C-61/19) — souhlas musí být aktivní, předem a informovaný; konkludentní souhlas procházením stránek nepostačuje.
+
+**4. Subsumpce.** Analytické a marketingové cookies nejsou nezbytné pro přenos zprávy ani pro výslovně vyžádanou službu (uživatel žádá obsah článku, nikoli sledování) — výjimky se neuplatní. Souhlas musí být předem (ex ante) a prokazatelný; banner „procházením souhlasíte" je dodatečný a konkludentní → znaky souhlasu nesplněny.
+
+**5. Řešení.** Jde o porušení § 89 odst. 3. Provozovatel musí načítání nenezbytných skriptů blokovat až do udělení aktivního souhlasu (consent-first), souhlas logovat a umožnit jeho odvolání. Dozor vykonává ÚOOÚ (cookies jsou zpravidla osobní údaje). Riziko: sankce a neúčinnost navazujícího zpracování.
+
+**6. Varianty.** (a) Šlo by o session cookie pro funkci přihlášení vyžádanou uživatelem → výjimka dle odst. 3 věty druhé, souhlas netřeba. (b) Uživatel by aktivně přijal analytiku v consent platformě před spuštěním skriptů → souhlas platný.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Analytika je nezbytná pro provoz webu." Neutralizace: výjimka pro „výslovně vyžádanou službu informační společnosti" se vykládá restriktivně — měřítkem je žádost uživatele o konkrétní funkci, nikoli zájem provozovatele.
+- *Protiargument 2:* „Uživatel mohl cookies odmítnout v prohlížeči." Neutralizace: břemeno získat předchozí prokazatelný souhlas leží na provozovateli, ne na uživateli; nastavení prohlížeče samo o sobě souhlas nenahrazuje.
+- *Slabé místo:* hranice mezi „strictly necessary" a analytickými cookies je v praxi sporná (např. anonymizovaná návštěvnost) — vyžaduje posouzení účelu a invazivnosti případ od případu.
+
+#### H. Praktický závěr
+
+§ 89 chrání důvěrnost komunikací (odst. 1–2) a zavádí cookie pravidlo (odst. 3): jakékoli ukládání/čtení v koncovém zařízení nad rámec technicky nezbytného vyžaduje předem udělený prokazatelný souhlas. Odst. 4 dává účastníku právo na vydání provozních a lokalizačních údajů po kybernetickém incidentu do 3 dnů.
+
+**Checklist (advokát / provozovatel webu / ÚOOÚ):**
+- [ ] Blokují se nenezbytné skripty do udělení aktivního souhlasu?
+- [ ] Je souhlas předem, prokazatelný a informovaný (rozsah a účel)?
+- [ ] Jsou správně identifikovány „strictly necessary" cookies bez souhlasu?
+- [ ] U žádosti dle odst. 4: jsou údaje vydány bezplatně, strojově čitelně a do 3 dnů?
+
+**Typicky rozhodné důkazy / podklady:** HAR/síťové logy, výpis cookies a localStorage, znění a načasování banneru, logy souhlasu, žádost účastníka dle odst. 4.
 
 ---
 
@@ -209,6 +353,42 @@ Odst. 6 byl zaveden novelizací jako nástroj boje proti podvodům v elektronick
 
 Odst. 10 zavádí princip need-to-know: přístup k provozním údajům musí být omezen na jmenovitě oprávněné osoby a rozsah nezbytný pro legitimní účely. Tím zákon implementuje čl. 5 odst. 3 směrnice ePrivacy a koresponduje s požadavkem technických a organizačních opatření dle čl. 32 GDPR.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník reklamuje vyúčtování dvě a půl roku po poskytnutí služby a tvrdí, že příchozí hovory, za něž byl účtován, neproběhly. Operátor doloží provozní údaje o příchozích hovorech, které uchoval pro účely vyúčtování a vymáhání. Účastník namítá, že údaje měly být dávno smazány dle § 90 odst. 2. Účastníci: operátor (žalobce/věřitel), účastník (dlužník). Důkazy: CDR (výpis hovorů), smlouva, vyúčtování, doklad o běhu promlčecí lhůty.
+
+**2. Právní otázka.** Byl operátor oprávněn uchovávat provozní údaje o příchozích hovorech i po skončení přenosu zprávy pro účely vyúčtování a vymáhání úhrady, nebo je měl bez prodlení smazat dle § 90 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 90 odst. 1 (definice provozních údajů), odst. 2 (povinné mazání s výjimkami), odst. 3 (uchovávání pro vyúčtování a řešení sporů), odst. 4 (vymáhání úhrady), odst. 9–10 (informování, minimalizace přístupu).
+- *Související ustanovení téhož zákona:* § 97 (data retention — samostatná povinnost), § 129 odst. 3 (řešení sporů ČTÚ), § 65 (prodlení s platbou).
+- *Související předpisy:* čl. 5 odst. 1 písm. e) GDPR (omezení uložení); zákonná promlčecí lhůta dle OZ.
+- *Judikatura:* NS 33 Cdo 347/2023 (cit. v komentáři) — operátor je oprávněn pro účely vyúčtování uchovávat a zpracovávat údaje o příchozích hovorech dle § 90 ZEK.
+
+**4. Subsumpce.** Provozní údaje (čísla, čas, délka) spadají pod odst. 1. Obecná povinnost mazat (odst. 2) je prolomena výjimkou odst. 3/4 — údaje nezbytné pro vyúčtování a vymáhání lze uchovávat do konce doby, během níž lze úhradu vymáhat či vyúčtování právně napadnout. Pokud lhůta dosud běží, uchování je oprávněné.
+
+**5. Řešení.** Operátor postupoval správně, pokud uchování trvalo jen do konce vymahatelnosti/napadnutelnosti. Údaje může v řízení použít jako důkaz. Po uplynutí lhůty musí být smazány nebo anonymizovány (odst. 2). Procesní krok: doložit běh lhůty a účelovou vázanost uchování; jinak hrozí námitka nezákonného zpracování.
+
+**6. Varianty.** (a) Operátor by uchovával údaje i po marném uplynutí promlčecí lhůty bez jiného titulu → porušení odst. 2. (b) Údaje by sloužily marketingu bez souhlasu → porušení odst. 7 (vyžaduje předchozí odvolatelný souhlas).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „§ 90 odst. 2 přikazuje smazat údaje, jakmile nejsou potřeba pro přenos." Neutralizace: tatáž věta výslovně vylučuje případy odst. 3–7; vyúčtování a vymáhání jsou zákonné výjimky.
+- *Protiargument 2:* „Uchování po letech je nepřiměřené dle GDPR." Neutralizace: doba je vázána na vymahatelnost/napadnutelnost; je-li lhůta otevřená, jde o nezbytné a tím přiměřené uchování.
+- *Slabé místo:* operátor musí prokázat účelovou vázanost a need-to-know (odst. 10); plošné uchovávání všech CDR „pro jistotu" by bylo neobhajitelné.
+
+#### H. Praktický závěr
+
+§ 90 zakotvuje minimalizaci doby zpracování provozních údajů s taxativními výjimkami (vyúčtování, vymáhání, propojení, antifraud, banky, marketing se souhlasem). Přístup musí být omezen na pověřené osoby a nezbytný rozsah (odst. 10).
+
+**Checklist (advokát / operátor / ČTÚ / ÚOOÚ):**
+- [ ] Spadá uchování pod konkrétní výjimku odst. 3–7?
+- [ ] Je doba uchování vázána na vymahatelnost/napadnutelnost a doložitelná?
+- [ ] Je u marketingu (odst. 7) předchozí odvolatelný souhlas?
+- [ ] Je přístup omezen na pověřené osoby a nezbytný rozsah (odst. 10)?
+
+**Typicky rozhodné důkazy / podklady:** CDR, smlouva a vyúčtování, doklad o běhu promlčecí/napadnutelné lhůty, evidence souhlasů, matice přístupů.
+
 ---
 
 ### § 91 — Lokalizační údaje
@@ -240,6 +420,42 @@ Pro zpracování lokalizačních údajů jiných než provozních platí alterna
 #### Návaznost na GDPR
 
 Zpracování GPS polohy prostřednictvím aplikací třetích stran provozovaných na sítích EK může podléhat jak ZEK (§ 91), tak GDPR (zpracování osobních údajů o poloze). Oba rámce se nekryjí plně: ZEK § 91 dopadá na provozovatele sítí a poskytovatele EK služeb; GDPR dopadá na každého správce osobních údajů. Aplikace třetích stran, které nejsou poskytovateli EK, podléhají výhradně GDPR. Tzv. „over-the-top" (OTT) komunikační služby (WhatsApp, Signal) mohly po dlouhou dobu unikat regulaci ePrivacy — nová směrnice ePrivacy (prozatím neschválena) by tuto mezeru měla uzavřít.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor nabízí službu „rodinný lokátor", v jejímž rámci zpracovává neprovozní lokalizační údaje (GPS poloha předávaná aplikací) a předává je třetí straně provozující mapovou platformu. Při registraci uživatel odklikne jediný souhrnný souhlas; informace o předání třetí straně ani možnost přechodného odmítnutí pro jednotlivé spojení chybí. Účastníci: operátor, uživatel, poskytovatel služby s přidanou hodnotou. Důkazy: znění souhlasu, informační text, technické řešení opt-out, smlouva s třetí stranou.
+
+**2. Právní otázka.** Splňuje souhlas se zpracováním neprovozních lokalizačních údajů náležitosti § 91 odst. 2 a 3, chybí-li informace o předání třetí straně a možnost přechodného opt-out pro jednotlivá spojení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 91 odst. 1 (definice), odst. 2 (anonymizace nebo informovaný souhlas; povinný obsah informace), odst. 3 (právo přechodného odmítnutí bezplatně a jednoduše), odst. 4 (omezení okruhu zpracovatelů).
+- *Související ustanovení téhož zákona:* § 90 (provozní lokalizační údaje), § 88 odst. 1 písm. b) (VTOP), § 87 (forma souhlasu).
+- *Související předpisy:* čl. 4 odst. 11, čl. 7, čl. 13 GDPR; čl. 9 směrnice ePrivacy.
+- *Judikatura:* nosný závěr SDEU k metadatům — z lokalizačních údajů lze dovodit citlivé aspekty soukromí (pohyb, bydliště), proto vyžadují přísný režim a informovaný souhlas.
+
+**4. Subsumpce.** GPS poloha z aplikace je neprovozní lokalizační údaj (odst. 1). Zpracování vyžaduje buď anonymizaci, nebo souhlas (odst. 2). Souhlas musí předem informovat mj. o předání třetí straně — to chybí (nesplněno). Musí být zajištěno přechodné odmítnutí pro každé spojení (odst. 3) — chybí (nesplněno).
+
+**5. Řešení.** Souhlas je vadný; zpracování i předání třetí straně je nezákonné. Operátor musí doplnit informaci o druhu údajů, účelu, délce a předání třetí straně a implementovat bezplatné jednoduché přechodné odmítnutí (např. přepínač v aplikaci). Zpracovatele omezit dle odst. 4 (jen zmocněné osoby dle VTOP). Riziko: postih ÚOOÚ a neúčinnost souhlasu.
+
+**6. Varianty.** (a) Operátor by údaje plně anonymizoval (agregovaná statistika pohybu) → souhlas dle odst. 2 by nebyl třeba. (b) Šlo by o lokalizaci provozního charakteru (základnová stanice pro routování) → režim § 90, nikoli § 91 odst. 2.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Uživatel souhlasil se službou jako celkem." Neutralizace: § 91 odst. 2 taxativně vymezuje obsah informace; absence údaje o předání třetí straně činí souhlas neinformovaným.
+- *Protiargument 2:* „Opt-out lze řešit odinstalací aplikace." Neutralizace: odst. 3 vyžaduje přechodné odmítnutí pro každé spojení bezplatně a jednoduše — odinstalace tomuto standardu neodpovídá.
+- *Slabé místo:* aplikace třetích stran, které nejsou poskytovateli EK, podléhají jen GDPR, nikoli § 91 — vymezení rolí (kdo je poskytovatel EK) je v praxi sporné.
+
+#### H. Praktický závěr
+
+§ 91 podrobuje neprovozní lokalizační údaje přísnému režimu: anonymizace nebo předem informovaný souhlas s taxativním obsahem informace, plus právo přechodného opt-out pro každé spojení a omezení okruhu zpracovatelů.
+
+**Checklist (advokát / operátor / poskytovatel VAS / ÚOOÚ):**
+- [ ] Jde o neprovozní lokalizační údaj (§ 91) nebo provozní (§ 90)?
+- [ ] Informuje souhlas o druhu, účelu, délce a předání třetí straně?
+- [ ] Je zajištěno bezplatné a jednoduché přechodné odmítnutí pro každé spojení?
+- [ ] Je okruh zpracovatelů omezen dle VTOP (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** znění souhlasu a informačního textu, technický popis opt-out, smlouva s poskytovatelem VAS, VTOP, evidence souhlasů.
 
 ---
 
@@ -292,6 +508,42 @@ Zákon zná dvě výjimky z blokace čísla volajícího:
 1. **Vysledování zlomyslného nebo obtěžujícího volání** — na základě žádosti účastníka, jehož právo na ochranu bezpečnosti zde převáží nad ochranou soukromí volajícího. Operátor je povinen uchovat a zpřístupnit identifikaci volajícího.
 2. **Tísňová komunikace** — absolutní výjimka; záchranné složky musí mít vždy přístup k identifikaci volajícího bez ohledu na blokaci. Toto pravidlo je systematicky provázáno s § 34 a násl. ZEK (tísňová čísla).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatelka linky důvěry je vystavena opakovaným anonymním obtěžujícím hovorům z čísla se skrytou identifikací (CLIR). Současně jiný účastník žádá operátora, aby u jeho příchozích hovorů na linku důvěry bylo zobrazení jeho čísla bezplatně potlačeno. Účastníci: provozovatelka linky (krizové pracoviště), obtěžující volající, operátor. Důkazy: žádost o vysledování, záznamy o hovorech, doklad o povaze pracoviště (linka důvěry).
+
+**2. Právní otázka.** Je operátor povinen bezplatně potlačit zobrazení čísla u příchozích volání na krizové pracoviště (odst. 1 písm. b) a smí zrušit blokaci čísla volajícího při vysledování obtěžujícího volání (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 92 odst. 1 písm. b) (bezplatná blokace pro krizová pracoviště), odst. 4 písm. a) (zrušení blokace při vysledování obtěžujícího volání), odst. 5 (uveřejnění postupů).
+- *Související ustanovení téhož zákona:* § 93 (zákaz spoofingu), § 34 a násl. (tísňová čísla), § 97 odst. 3 (provozní údaje).
+- *Související předpisy:* čl. 8 směrnice ePrivacy; § 209/§ 354 TZ (podvod, nebezpečné pronásledování) — viz Komentar-TZ-40-2009.
+- *Judikatura:* nosný princip — právo na ochranu před obtěžujícím voláním (bezpečnost dotčeného) převažuje nad zájmem volajícího na anonymitě; zrušení blokace je proporcionální zásah.
+
+**4. Subsumpce.** Linka důvěry je „pracoviště řešící osobní krizové situace" → bezplatnost blokace dle odst. 1 písm. b) splněna. Vysledování obtěžujícího volání dle odst. 4 písm. a) je podmíněno žádostí dotčeného účastníka; operátor je pak povinen uchovat a zpřístupnit identifikaci volajícího.
+
+**5. Řešení.** Operátor musí krizovému pracovišti poskytnout blokaci bezplatně a na žádost provozovatelky linky zrušit blokaci čísla obtěžujícího volajícího, identifikaci uchovat a zpřístupnit. Postupy musí mít uveřejněné (odst. 5). Volající se může dopouštět přestupku i trestného činu (pronásledování). Procesní krok: doložit povahu pracoviště a opakovanost volání.
+
+**6. Varianty.** (a) Nešlo by o krizové pracoviště, ale běžnou firmu → blokace příchozích dle písm. b) by nemusela být bezplatná. (b) Šlo by o tísňovou komunikaci (odst. 4 písm. b) → identifikace volajícího je zpřístupná vždy, i bez souhlasu a přes blokaci.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Volající má právo na anonymitu (CLIR)." Neutralizace: odst. 4 zakládá výjimku — při vysledování obtěžujícího volání a při tísňové komunikaci anonymita ustupuje.
+- *Protiargument 2:* „Operátor nemá nástroj pro vysledování." Neutralizace: odst. 4 ukládá operátorovi povinnost identifikaci uchovat a zpřístupnit; absence nástroje je porušením, nikoli omluvou.
+- *Slabé místo:* posouzení, zda jde o „zlomyslné nebo obtěžující" volání, je skutkové; operátor by neměl rušit blokaci bez doložené žádosti dotčeného účastníka (riziko zásahu do soukromí volajícího).
+
+#### H. Praktický závěr
+
+§ 92 buduje symetrickou ochranu identifikace (Caller ID): volající i volaný mají per-call i blanketní nástroje blokace; výjimky platí pro krizová pracoviště (bezplatnost), vysledování obtěžujících volání a tísňovou komunikaci.
+
+**Checklist (advokát / operátor / krizové pracoviště / ČTÚ):**
+- [ ] Jde o pracoviště řešící krizové situace (bezplatnost dle odst. 1 písm. b)?
+- [ ] Je žádost o vysledování podána dotčeným účastníkem (odst. 4 písm. a)?
+- [ ] Uchová a zpřístupní operátor identifikaci volajícího?
+- [ ] Jsou postupy dle odst. 4 uveřejněny (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o vysledování, záznamy o příchozích hovorech, doklad o povaze krizového pracoviště, uveřejněné postupy operátora.
+
 ---
 
 ### § 93 — Zneužití účastnického čísla a elektronické adresy odesílatele
@@ -314,6 +566,42 @@ Z trestněprávního hlediska může spoofing naplnit skutkovou podstatu podvodu
 
 Odst. 2 zakazuje použití cizí e-mailové adresy k odeslání zprávy bez souhlasu jejího držitele. Tím zákon brání nejen spoofingu v e-mailové komunikaci (falešný „From:" header), ale i zneužití e-mailové identity třetí osoby v rámci spamových kampaní. Toto ustanovení je úzce provázáno s § 96 (nevyžádaná obchodní sdělení) a zákonem č. 480/2004 Sb., o některých službách informační společnosti (zákon o elektronickém obchodu — ZEO), který rovněž zakazuje zasílání nevyžádaných obchodních sdělení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podvodník volá klientce banky a na displeji telefonu se zobrazí číslo skutečné bankovní infolinky (caller ID spoofing); pod záminkou „zabezpečení účtu" z ní vyláká přístupové údaje. Použité číslo je buď číslo banky, nebo neexistující číslo nepřidělené dle § 32. Účastníci: podvodník (volající), klientka (poškozená), banka (držitel skutečného čísla). Důkazy: výpis hovorů, identifikace skutečného zdroje hovoru u operátora, záznam komunikace, transakční historie.
+
+**2. Právní otázka.** Naplňuje použití cizího (bankovního) nebo neexistujícího účastnického čísla k vlastní identifikaci zákaz dle § 93 odst. 1 a jaký je vztah k trestněprávní odpovědnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 93 odst. 1 (zákaz použití cizího/obdobného identifikátoru bez souhlasu i čísla nepřiděleného dle § 32 nebo neexistujícího), odst. 2 (zneužití e-mailové adresy).
+- *Související ustanovení téhož zákona:* § 32 (přidělování čísel), § 92 (zobrazení čísla), § 96 (nevyžádaná sdělení).
+- *Související předpisy:* § 209 TZ (podvod), § 230 TZ (neoprávněný přístup k počítačovému systému) — Komentar-TZ-40-2009; zákon č. 480/2004 Sb. (ZEO) u e-mailu.
+- *Judikatura:* nosný princip — spoofing identifikátoru je samostatně zakázaným jednáním dle ZEK a zároveň zpravidla prostředkem podvodu dle TZ; oba režimy se kumulují.
+
+**4. Subsumpce.** Použití bankovního čísla k vlastní identifikaci bez souhlasu banky naplňuje zákaz dle § 93 odst. 1 věty první. Použití neexistujícího/nepřiděleného čísla je výslovně podřazeno větě druhé. Jednání zároveň naplňuje znaky podvodu (§ 209 TZ), je-li uvedena poškozená v omyl ke škodě.
+
+**5. Řešení.** Jednání je zakázané dle § 93 (správní/regulatorní rovina) a trestné dle TZ. Operátor po žádosti orgánů zpřístupní skutečný zdroj hovoru (§ 97 odst. 3). Banka jako držitel čísla se může bránit; poškozená podá trestní oznámení. Praktický krok pro operátory: nasazení anti-spoofingových mechanismů (filtrace CLI, STIR/SHAKEN obdoby).
+
+**6. Varianty.** (a) Odesílatel by použil cizí e-mailovou adresu ve „From" hlavičce spamu → porušení odst. 2 ve spojení se ZEO. (b) Volající by měl souhlas držitele čísla (např. call centrum jednající za banku) → zákaz dle odst. 1 se neuplatní.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Číslo neexistuje, nelze tedy zneužít cizí identitu." Neutralizace: odst. 1 věta druhá výslovně dopadá i na neexistující a nepřidělená čísla.
+- *Protiargument 2:* „Za spoofing odpovídá zahraniční operátor, ne český." Neutralizace: zákaz míří na toho, kdo číslo zneužívá; čeští operátoři mají povinnosti dle § 97 (zpřístupnění zdroje) a v rámci bezpečnosti sítě dle § 98.
+- *Slabé místo:* prokázání skutečného původce spoofingu je technicky náročné (mezinárodní routing, VoIP brány) — důkazní situace bývá obtížná.
+
+#### H. Praktický závěr
+
+§ 93 zakazuje spoofing účastnického čísla i e-mailové adresy odesílatele. Zákaz dopadá i na neexistující/nepřidělená čísla a typicky se kumuluje s trestněprávní odpovědností za podvod.
+
+**Checklist (advokát / poškozený / operátor / OČTŘ):**
+- [ ] Bylo k použití cizího čísla/adresy uděleno souhlas držitele?
+- [ ] Jde o číslo nepřidělené dle § 32 nebo neexistující (věta druhá)?
+- [ ] Naplňuje jednání i znaky podvodu (§ 209 TZ)?
+- [ ] Lze přes operátora a § 97 zjistit skutečný zdroj komunikace?
+
+**Typicky rozhodné důkazy / podklady:** výpis hovorů/CDR, identifikace skutečného zdroje u operátora, e-mailové hlavičky, záznam komunikace, transakční historie, trestní oznámení.
+
 ---
 
 ### § 94 — Přesměrování volání
@@ -333,6 +621,42 @@ Odst. 1 chrání účastníka před tzv. **call forwarding hijacking** — situa
 #### Upozornění při přesměrování vedoucím ke zdražení (odst. 2)
 
 Odst. 2 chrání uživatele před skrytým cenovým skokem při přesměrování na prémiová čísla nebo jiné dražší služby. Povinnost upozornit před uskutečněním přesměrování leží na poskytovateli služby se zvýšenou cenou. Sankce za porušení je specifická: ČTÚ může rozhodnout o přerušení poskytování takové služby — jde o jednu z mála situací, kdy ZEK umožňuje správní zásah formou přerušení konkrétní služby jinak než v krizovém stavu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Uživatel při hovoru na zákaznickou linku omylem akceptuje „výhodný balíček", jehož součástí je automatické přesměrování dotazů na prémiovou linku (čísla se zvýšenou cenou). Při následných hovorech dochází ke skrytému přesměrování na dražší službu bez upozornění a uživateli narůstá vyúčtování. Jindy třetí osoba nastaví na číslo uživatele přesměrování bez jeho vědomí. Účastníci: uživatel, operátor/poskytovatel služby se zvýšenou cenou. Důkazy: vyúčtování, konfigurace přesměrování, záznam o upozornění (či jeho absenci).
+
+**2. Právní otázka.** Měl být uživatel před skrytým přesměrováním vedoucím ke zdražení bezplatně upozorněn a mít možnost spojení přerušit (odst. 2), a má uživatel právo bezplatně zrušit přesměrování nastavené třetí stranou (odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 94 odst. 1 (zamezení přesměrování třetí stranou), odst. 2 (upozornění a možnost přerušit před zdražujícím přesměrováním; pravomoc ČTÚ přerušit službu).
+- *Související ustanovení téhož zákona:* § 96 (nevyžádaná sdělení), § 64 a násl. (vyúčtování), § 129 (spory).
+- *Související předpisy:* spotřebitelská ochrana dle OZ (ochrana před nekalými praktikami).
+- *Judikatura:* nosný princip — povinnost transparentnosti ceny před uskutečněním zpoplatněného úkonu; skryté zdražení bez upozornění je v rozporu s § 94 odst. 2.
+
+**4. Subsumpce.** Přesměrování nastavené třetí stranou zakládá právo uživatele je bezplatně a jednoduše zrušit (odst. 1). Skryté přesměrování se zdražením bez upozornění naplňuje porušení odst. 2 — poskytovatel měl povinnost bezplatně sdělit skutečnost a umožnit přerušit spojení před jeho uskutečněním.
+
+**5. Řešení.** Uživatel má právo přesměrování bezplatně zrušit a domáhat se vrácení neoprávněně účtovaných částek. Za skryté zdražení bez upozornění může ČTÚ rozhodnout o přerušení poskytování takové služby (odst. 2 in fine). Procesní krok: reklamace u operátora, případně návrh na zahájení sporu/řízení u ČTÚ.
+
+**6. Varianty.** (a) Poskytovatel by před přesměrováním bezplatně upozornil a umožnil přerušit → povinnost dle odst. 2 by byla splněna a zdražení legální. (b) Přesměrování by nastavil sám účastník → ochrana dle odst. 1 (zrušení cizího přesměrování) by se neuplatnila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Uživatel s balíčkem souhlasil." Neutralizace: souhlas s balíčkem nenahrazuje povinnost upozornit před každým zdražujícím přesměrováním dle odst. 2.
+- *Protiargument 2:* „Přesměrování je technická vlastnost sítě." Neutralizace: odst. 1 ukládá zajistit uživateli bezplatnou možnost zamezit přesměrování nastavenému třetí stranou bez výjimky.
+- *Slabé místo:* hranice „skrytého" přesměrování vs. transparentně oznámené prémiové služby je skutková; je třeba doložit absenci upozornění.
+
+#### H. Praktický závěr
+
+§ 94 chrání uživatele před přesměrováním nastaveným třetí stranou (bezplatné zrušení) a před skrytým cenovým skokem (povinné předchozí upozornění s možností přerušit). Sankcí za porušení je pravomoc ČTÚ přerušit poskytování služby.
+
+**Checklist (advokát / uživatel / operátor / ČTÚ):**
+- [ ] Bylo přesměrování nastaveno třetí stranou a má uživatel bezplatnou možnost je zrušit?
+- [ ] Byl uživatel před zdražujícím přesměrováním bezplatně upozorněn?
+- [ ] Měl možnost spojení před přesměrováním přerušit?
+- [ ] Jsou neoprávněně účtované částky reklamovány a vymáhány zpět?
+
+**Typicky rozhodné důkazy / podklady:** vyúčtování, konfigurace přesměrování, doklad o upozornění či jeho absenci, reklamace, smluvní podmínky balíčku.
 
 ---
 
@@ -373,6 +697,42 @@ Bez předchozího souhlasu nesmí být žádné osobní údaje fyzické osoby v 
 
 Zákon výslovně uvádí, že za seznam se považuje i náhodně generovaný seznam čísel — tím zákonodárce uzavírá mezeru, jíž by se vydavatelé mohli vyhnout tvrzením, že seznam nevznikl systematickým zpracováním. Rovněž seznam čísel bez identifikačních údajů je účastnickým seznamem — ochrana tedy nezávisí na tom, zda jsou čísla doplněna jmény.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vydavatel online vyhledávací databáze kontaktů získá od operátora datovou sadu účastníků a zveřejní jejich jméno, adresu a telefonní číslo bez individuálního souhlasu, s tím, že účastníci se mohou dodatečně odhlásit. Jeden účastník zjistí své údaje ve vyhledávači a žádá jejich okamžité odstranění a vysvětlení. Účastníci: vydavatel seznamu, operátor (zdroj dat), dotčený účastník. Důkazy: smlouva o předání dat, doklad o souhlasu (či jeho absenci), informační text před zařazením, žádost o výmaz.
+
+**2. Právní otázka.** Smí vydavatel zveřejnit osobní údaje účastníka v účastnickém seznamu bez předchozího souhlasu s tím, že umožní dodatečné odhlášení (opt-out), nebo § 95 vyžaduje předchozí opt-in?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 95 odst. 1 písm. a) (předchozí informování o účelu), písm. b) (předchozí souhlas, granularita, oprava, výmaz), odst. 3 (rozsah údajů), odst. 4 (zákaz uveřejnění bez souhlasu), odst. 5 (rozšířená definice seznamu).
+- *Související ustanovení téhož zákona:* § 96 (využití seznamu k marketingu), § 87 (forma souhlasu).
+- *Související předpisy:* čl. 12 směrnice ePrivacy; čl. 6, čl. 7, čl. 17 GDPR (právo na výmaz).
+- *Judikatura:* nosný princip (linie SDEU k účastnickým seznamům) — pro každý další účel uveřejnění je třeba samostatný souhlas; souhlas pro jeden seznam nelegitimizuje předání jinému vydavateli.
+
+**4. Subsumpce.** § 95 odst. 4 zakazuje uveřejnit osobní údaje bez souhlasu. Model opt-out (dodatečné odhlášení) odst. 1 písm. b) a odst. 4 nesplňuje — vyžaduje se předchozí souhlas (opt-in). Zveřejnění bez souhlasu je tedy protiprávní a priori, nikoli jen dodatečně napravitelné.
+
+**5. Řešení.** Zveřejnění je nezákonné. Vydavatel musí údaje neprodleně odstranit a může je znovu uveřejnit jen po získání předchozího granulárního souhlasu. Odstranění, oprava a neuvedení jsou bezplatné. Dozor: ÚOOÚ. Procesní krok: žádost o výmaz, případně stížnost u ÚOOÚ a nárok na náhradu nemajetkové újmy dle GDPR.
+
+**6. Varianty.** (a) Vydavatel by získal předchozí granulární souhlas účastníka pro konkrétní seznam → uveřejnění legální. (b) Účel seznamu by byl jiný než vyhledávání kontaktu dle jména (odst. 2) → nutný další zvláštní souhlas.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Účastník se mohl odhlásit, ochrana je tedy zajištěna." Neutralizace: § 95 staví na opt-in; uveřejnění bez předchozího souhlasu je zakázáno bez ohledu na možnost pozdějšího odhlášení.
+- *Protiargument 2:* „Souhlas byl udělen operátorovi, postačuje pro vydavatele." Neutralizace: souhlas je účelově vázán; předání jinému vydavateli/účelu vyžaduje samostatný souhlas (odst. 2).
+- *Slabé místo:* u dat získaných „zděděně" z historických seznamů bývá prokazatelnost původního souhlasu obtížná — důkazní břemeno nese vydavatel.
+
+#### H. Praktický závěr
+
+§ 95 zavádí opt-in pro účastnické seznamy: bez předchozího granulárního souhlasu nesmí být osobní údaje uveřejněny; účastník má bezplatně právo na neuvedení, opravu a výmaz. Definice seznamu je široká (i náhodně generovaná čísla).
+
+**Checklist (advokát / vydavatel / operátor / ÚOOÚ):**
+- [ ] Byl účastník informován před zařazením o účelu seznamu (odst. 1 písm. a)?
+- [ ] Existuje předchozí granulární souhlas pro konkrétní seznam (opt-in)?
+- [ ] Je zajištěna bezplatná oprava, výmaz a neuvedení?
+- [ ] Odpovídá rozsah údajů odst. 3 a je pro jiný účel získán další souhlas (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o souhlasu a jeho rozsahu, informační text před zařazením, smlouva o předání dat, žádosti o výmaz/opravu a jejich vyřízení.
+
 ---
 
 ### § 96 — Nevyžádaná obchodní sdělení (spam)
@@ -406,6 +766,42 @@ ZEK § 96 a ZEO § 7 se vzájemně doplňují. ZEK je lex specialis pro EK sít�
 #### Procesní legitimace operátora (odst. 5)
 
 Odst. 5 je procesněprávní anomálií — operátor může podat žalobu jménem svých účastníků, jejichž práva byla porušena. Jde o zákonné procesní zastoupení, nikoli o postoupení pohledávky. Tím zákon reflektuje, že účastník-fyzická osoba má jen omezenou motivaci a kapacitu se bránit individuálně soudní cestou; hromadná žaloba operátora poskytuje efektivnější ochranu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Marketingová agentura rozesílá hromadné reklamní SMS a e-maily na databázi telefonních čísel a adres získanou z veřejně dostupných zdrojů; adresáti nikdy neudělili souhlas s marketingovým oslovením a ve veřejném seznamu neuvedli, že si přejí být kontaktováni. Část adresátů jsou právnické osoby. Účastníci: agentura (zadavatel/odesílatel), adresáti, operátor adresátů. Důkazy: rozesílané zprávy, zdroj databáze, doklad o souhlasu (absence), evidence stížností.
+
+**2. Právní otázka.** Je hromadné rozesílání reklamních SMS a e-mailů přes EK síť bez předchozího souhlasu adresátů zakázané dle § 96, a vztahuje se zákaz i na adresáty-právnické osoby?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 96 odst. 1 (zákaz oslovení bez vyjádření zájmu v seznamu), odst. 2 (absolutní opt-in pro automatická volání, faxy a e-mail), odst. 4 (obdobné použití na právnické osoby), odst. 5 (procesní legitimace operátora).
+- *Související ustanovení téhož zákona:* § 95 (seznamy, vyjádření zájmu o marketing), § 93 odst. 2 (zneužití e-mailové adresy).
+- *Související předpisy:* § 7 zákona č. 480/2004 Sb. (ZEO); čl. 13 směrnice ePrivacy; GDPR při zpracování osobních údajů.
+- *Judikatura:* nosný princip — pro e-mail a automatizované systémy platí přísný opt-in; soft opt-in dle čl. 13 odst. 2 ePrivacy je v české úpravě omezen.
+
+**4. Subsumpce.** Rozesílání e-mailů a SMS přes EK síť bez souhlasu naplňuje zákaz dle odst. 2 (absolutní opt-in pro e-mail/automatická volání) i odst. 1 (adresáti neuvedli zájem o marketing). Dle odst. 4 se zákaz vztahuje obdobně i na právnické osoby. Souhlas chybí → porušení.
+
+**5. Řešení.** Rozesílání je protiprávní. Postih: ČTÚ (z titulu ZEK) i ÚOOÚ (GDPR), u služeb informační společnosti rovněž režim ZEO. Operátor, jehož obchodní zájmy jsou poškozovány, může podat žalobu jménem dotčených účastníků (odst. 5). Agentura musí rozesílání zastavit a vyžádat předchozí souhlas. Procesní krok: stížnost u ČTÚ/ÚOOÚ.
+
+**6. Varianty.** (a) Adresáti by byli existující zákazníci agentury a šlo by o nabídku obdobného vlastního zboží s možností odhlášení → režim soft opt-in dle ZEO § 7 odst. 3 (užší výjimka). (b) Sdělení by nebylo obchodní (čistě informační, neziskové bez nabídky) → mimo zákaz § 96.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Čísla byla veřejně dostupná, souhlas tedy netřeba." Neutralizace: veřejná dostupnost kontaktu nezakládá souhlas s marketingem; odst. 1 i 2 vyžadují aktivní vyjádření zájmu/souhlas.
+- *Protiargument 2:* „Zákaz chrání jen fyzické osoby." Neutralizace: odst. 4 výslovně rozšiřuje § 95 a 96 i na právnické osoby.
+- *Slabé místo:* hranice mezi „obchodním sdělením" a informačním sdělením je v praxi sporná; je třeba posoudit obsah a účel sdělení.
+
+#### H. Praktický závěr
+
+§ 96 vytváří dvouvrstvý zákaz spamu: opt-in v seznamu (odst. 1) a absolutní opt-in pro automatická volání, faxy a e-mail (odst. 2), platný obdobně i pro právnické osoby. Operátor má procesní legitimaci žalovat jménem účastníků.
+
+**Checklist (advokát / odesílatel / operátor / ČTÚ / ÚOOÚ):**
+- [ ] Existuje předchozí souhlas adresáta s marketingem (opt-in)?
+- [ ] Jde o e-mail/automatické volání (absolutní opt-in dle odst. 2)?
+- [ ] Uplatní se výjimka soft opt-in dle ZEO § 7 pro existující zákazníky?
+- [ ] U právnických osob: zohledněno obdobné použití dle odst. 4?
+
+**Typicky rozhodné důkazy / podklady:** rozesílané zprávy, zdroj a původ databáze, doklad o souhlasu nebo existujícím obchodním vztahu, evidence stížností a možnost odhlášení.
 
 ---
 
@@ -515,6 +911,43 @@ Operátor má zákonný nárok na náhradu nákladů, které mu plnění povinno
 
 Operátor a jeho zaměstnanci jsou povinni zachovávat mlčenlivost o tom, že k odposlechu nebo vydání dat vůbec došlo — tzv. **gag order**. Subjekt sledování nesmí být o odposlechu informován. Povinnost mlčenlivosti je typicky absolutorium: netrvá jen po dobu odposlechu, ale po dobu neurčitou (zákon nestanoví časové omezení).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Správní orgán v přestupkovém řízení o dopravním přestupku žádá operátora o vydání lokalizačních a provozních údajů (data retention dle § 97 odst. 3) k zjištění pohybu podezřelého. Operátor žádost odmítne s tím, že správní orgán není mezi oprávněnými subjekty. V jiné věci žádá údaje státní zástupce jako orgán činný v trestním řízení v řízení o závažném trestném činu. Účastníci: operátor, žádající orgán, dotčený účastník. Důkazy: žádost orgánu s právním titulem, soudní příkaz (u OČTŘ), interní evidence vydání dat.
+
+**2. Právní otázka.** Je správní orgán v přestupkovém řízení oprávněn vyžádat si od operátora uchovávané provozní a lokalizační údaje dle § 97 odst. 3, a za jakých podmínek je smí získat orgán činný v trestním řízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97 odst. 1–2 (zákonný odposlech, taxativní okruh orgánů), odst. 3 (data retention 6 měsíců, taxativní výčet oprávněných orgánů: OČTŘ, Policie ČR pro vymezené účely, BIS, VZ, ČNB), odst. 4 (rozsah údajů), odst. 8 (mlčenlivost).
+- *Související ustanovení téhož zákona:* § 88a (zabezpečení retention dat), § 90 (mazání), § 97a (technické řešení).
+- *Související předpisy:* § 88 TrŘ (odposlech), čl. 7, 8 a 13 Listiny; čl. 7, 8 Listiny ZP EU; směrnice ePrivacy.
+- *Judikatura:* NSS 52 A 43/2020 (cit.) — pravomoc vyžádat retention data mají jen subjekty dle § 97 odst. 3, mezi něž správní orgány nepatří; NSS 2 As 216/2024 a nález ÚS Pl. ÚS 45/17 — preventivní sběr je intenzivní zásah, soud jen jako OČTŘ; SDEU La Quadrature du Net (C-511/18 a další) — plošná retence přípustná jen výjimečně.
+
+**4. Subsumpce.** Výčet oprávněných orgánů v odst. 3 je taxativní; správní orgán v přestupkovém řízení mezi ně nepatří → operátor žádost správně odmítl. OČTŘ (státní zástupce, soud) je oprávněn jen za splnění podmínek zvláštního předpisu (TrŘ) a zpravidla na základě soudního příkazu; vydání bez splnění podmínek by bylo nezákonné.
+
+**5. Řešení.** Operátor smí vydat retention data pouze taxativně vyjmenovaným orgánům a jen při doložení zákonného titulu; jinak odmítne. U OČTŘ ověří formální náležitosti (číslo jednací, soudní příkaz). O vyžádání zachovává mlčenlivost (odst. 8). Pozn.: česká plošná retence je eurokonformně zpochybnitelná dle judikatury SDEU — obrana dotčeného může mířit na nepoužitelnost důkazu.
+
+**6. Varianty.** (a) Údaje by žádala ČNB pro dohled nad finančním trhem (insider trading) → oprávnění dle odst. 3 písm. e). (b) Žádost by směřovala k obsahu zpráv → nepřípustné, odst. 3 výslovně zakazuje uchovávat a předávat obsah.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Plošná retence je zákonná, neboť § 97 odst. 3 platí." Neutralizace: vnitrostátní úprava musí být vykládána eurokonformně; SDEU (Tele2/Watson, La Quadrature) plošnou nediskriminační retenci zásadně omezuje — riziko nepoužitelnosti důkazů a odpovědnosti státu.
+- *Protiargument 2:* „Správní orgán potřebuje data pro řádné zjištění skutku." Neutralizace: potřebnost nezakládá oprávnění; výčet v odst. 3 je taxativní (NSS 52 A 43/2020).
+- *Slabé místo:* napětí mezi platnou českou úpravou a judikaturou SDEU/ÚS činí výsledek konkrétního přístupu k datům právně nejistým; chybí komplexní souladná novelizace.
+
+#### H. Praktický závěr
+
+§ 97 zakládá infrastrukturu zákonného odposlechu (odst. 1–2, 6), plošnou retenci metadat na 6 měsíců (odst. 3–4) s taxativním okruhem oprávněných orgánů, zákaz uchovávání obsahu, mlčenlivost (odst. 8) a kompenzaci operátorů (odst. 7–12). Aplikace musí reflektovat judikaturu SDEU a ÚS.
+
+**Checklist (advokát / operátor / OČTŘ / správní orgán):**
+- [ ] Patří žádající orgán mezi taxativně vyjmenované v odst. 3?
+- [ ] Je doložen zákonný titul (u OČTŘ soudní příkaz, číslo jednací)?
+- [ ] Týká se žádost jen metadat, nikoli obsahu zpráv?
+- [ ] Je dodržena mlčenlivost (odst. 8) a evidence vydání dat?
+- [ ] Zohledněna eurokonformita a judikatura SDEU/ÚS k plošné retenci?
+
+**Typicky rozhodné důkazy / podklady:** žádost orgánu s právním titulem, soudní příkaz, interní evidence a logy vydání dat, doklad o dodržení 6měsíční lhůty a likvidaci.
+
 ---
 
 ### § 97a — Podmínky pro zřízení a zabezpečení rozhraní pro odposlech a uchovávání údajů
@@ -544,6 +977,42 @@ Zákon výslovně dovoluje operátorům sdílet technickou infrastrukturu pro da
 #### Informační povinnost ČTÚ vůči Policii (odst. 5)
 
 ČTÚ předává Policii statistické údaje o počtu účastníků a poskytovaných službách jednotlivých operátorů. Tato povinnost slouží Policii k plánování kapacit pro data retention a k zajištění, že žádný operátor nesplnění povinnosti neobejde. Jde o příklad spolupráce regulátora a bezpečnostního orgánu mimo standardní správní řízení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Menší regionální ISP buduje novou síť a chce splnit povinnost uchovávat retention data dle § 97 odst. 3 prostřednictvím sdíleného technického řešení provozovaného externím dodavatelem společně s jinými operátory. Předloží řešení Policii ČR k posouzení; Policie v 90denní lhůtě vznese připomínky k zabezpečení přístupu. ISP zahájí provoz bez zapracování připomínek. Účastníci: ISP, Policie ČR, dodavatel sdíleného řešení. Důkazy: žádost o posouzení, technická dokumentace, připomínky Policie, doklad o jejich (ne)zapracování.
+
+**2. Právní otázka.** Smí operátor zahájit plnění povinnosti uchovávat retention data, aniž do technického řešení promítl připomínky oprávněného orgánu vznesené v posuzovacím procesu dle § 97a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 97a odst. 1–2 (žádost o posouzení technického řešení — pro odposlech příslušný žádající orgán, pro retention Policie ČR), odst. 3 (90 dnů, povinnost promítnout připomínky), odst. 4 (sdílené řešení), odst. 5 (informační povinnost ČTÚ).
+- *Související ustanovení téhož zákona:* § 97 (povinnosti, jejichž technické řešení se posuzuje), § 88a (zabezpečení retention dat).
+- *Související předpisy:* prováděcí předpis dle § 97 odst. 9.
+- *Judikatura:* nosný princip — posuzovací proces je podmínkou řádného plnění povinností dle § 97; ignorování připomínek znamená vadné technické řešení.
+
+**4. Subsumpce.** Odst. 3 ukládá připomínky oprávněného orgánu promítnout do výsledné podoby řešení. ISP připomínky nezapracoval → technické řešení neodpovídá výsledku posouzení a plnění povinnosti dle § 97 je vadné. Sdílené řešení dle odst. 4 muselo být před zahájením předloženo k posouzení — formálně splněno, materiálně však vada přetrvává.
+
+**5. Řešení.** ISP musí připomínky zapracovat před (resp. bezodkladně po zjištění) zahájením provozu; jinak neplní řádně § 97 a vystavuje se postihu a riziku nezabezpečení retention dat (souběh s § 88a). Sdílené řešení je přípustné, ale nezbavuje jednotlivé operátory odpovědnosti. Procesní krok: doložit zapracování připomínek a opětovné posouzení.
+
+**6. Varianty.** (a) Šlo by o rozhraní pro odposlech, nikoli retenci → posouzení provádí orgán, který o zřízení rozhraní požádal (Policie/BIS/VZ), nikoli vždy Policie. (b) ISP by podstatně obměnil stávající síť → vzniká informační povinnost vůči orgánům dle § 97 odst. 1 bez zbytečného odkladu (odst. 1 věta druhá).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Lhůta 90 dnů uplynula, řešení lze realizovat." Neutralizace: uplynutí lhůty umožňuje realizaci, ale připomínky vznesené v jejím rámci je třeba promítnout (odst. 3).
+- *Protiargument 2:* „Za sdílené řešení odpovídá dodavatel." Neutralizace: povinnost dle § 97 a § 88a stíhá operátora; sdílení infrastruktury odpovědnost nepřenáší.
+- *Slabé místo:* zákon nestanoví výslovnou sankci přímo v § 97a; postih plyne ze souvisejícího porušení § 97/§ 88a a z dozorových pravomocí.
+
+#### H. Praktický závěr
+
+§ 97a zavádí povinný konzultační proces před plněním povinností dle § 97: posouzení technického řešení oprávněným orgánem (90 dnů), promítnutí připomínek, možnost sdíleného řešení a informační povinnost ČTÚ vůči Policii.
+
+**Checklist (advokát / operátor / Policie ČR / ČTÚ):**
+- [ ] Bylo technické řešení předloženo příslušnému orgánu (odposlech vs. retence)?
+- [ ] Byly připomínky orgánu promítnuty do výsledné podoby (odst. 3)?
+- [ ] U sdíleného řešení: bylo předloženo před zahájením plnění (odst. 4)?
+- [ ] Byla splněna informační povinnost při budování/obměně sítě (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o posouzení, technická dokumentace, písemné připomínky orgánu, doklad o jejich zapracování, smlouva o sdíleném řešení.
 
 ---
 
@@ -597,6 +1066,42 @@ Odst. 9 zavádí klauzuli lex specialis pro kybernetické incidenty: pokud naru�
 
 ČTÚ může uložit provedení bezpečnostního auditu nezávislým subjektem na náklady operátora. Audit je nástrojem ex ante compliance monitoringu — umožňuje ověřit, zda technicko-organizační opatření odpovídají deklarované bezpečnostní politice. Výsledky auditu musí být ČTÚ předloženy na vyžádání. Zákon nestanoví periodický audit jako automatickou povinnost — je věcí ČTÚ, ve vztahu ke kterým operátorům a v jakém intervalu audit uloží. Dozorová funkce ČTÚ v oblasti bezpečnosti sítí navazuje na jeho obecné kontrolní pravomoci popsané v [09-hlava6-statni-sprava-ctu.md](09-hlava6-statni-sprava-ctu.md).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** U středně velkého operátora dojde k výpadku páteřního prvku v důsledku DDoS útoku z internetu, který na několik hodin znemožní hlasové i datové služby včetně dostupnosti tísňových čísel pro část území. Operátor je zároveň povinnou osobou dle zákona o kybernetické bezpečnosti (ZKB) a incident hlásí NÚKIB. ČTÚ se domáhá samostatného hlášení dle § 98 odst. 4 a zvažuje uložení bezpečnostního auditu. Účastníci: operátor, ČTÚ, NÚKIB, centra tísňové komunikace, uživatelé. Důkazy: incident report, logy, doklad o hlášení NÚKIB, kritéria závažnosti dle prováděcího předpisu.
+
+**2. Právní otázka.** Musí operátor incident s původem v kybernetickém prostoru hlásit ČTÚ dle § 98 odst. 4, vztahují-li se na něj obdobné oznamovací povinnosti dle ZKB (odst. 9), a může mu ČTÚ uložit bezpečnostní audit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 98 odst. 1 (bezpečnost a integrita, definice incidentu), odst. 4 (hlášení ČTÚ, centrům tísňové komunikace, uživatelům), odst. 6 (bezpečnostní audit), odst. 7–8 (donucovací pravomoci), odst. 9 (lex specialis ZKB).
+- *Související ustanovení téhož zákona:* § 99 (krizové stavy), § 62 (síťové plány), § 33 a násl. (tísňová čísla).
+- *Související předpisy:* zákon č. 181/2014 Sb. o kybernetické bezpečnosti (NÚKIB); čl. 13a směrnice 2009/140/ES; prováděcí předpis ČTÚ ke kritériím závažnosti.
+- *Judikatura:* nosný princip — souběh režimů se řeší klauzulí lex specialis (odst. 9): v rozsahu obdobných povinností dle ZKB se § 98 neuplatní, čímž se brání duplicitě.
+
+**4. Subsumpce.** DDoS způsobil skutečný nepříznivý dopad na dostupnost → jde o bezpečnostní incident dle odst. 1. Původ je v kybernetickém prostoru a na operátora se vztahují obdobné povinnosti dle ZKB → dle odst. 9 se povinnosti dle odst. 1, 3, 4 a 6–8 neuplatní v překrývajícím se rozsahu. Audit dle odst. 6 i tak může ČTÚ uložit v rozsahu nepřekrytém ZKB.
+
+**5. Řešení.** Operátor hlásí incident NÚKIB dle ZKB; samostatné hlášení ČTÚ dle § 98 odst. 4 se v překrývajícím rozsahu neuplatní (odst. 9). Musí však zachovat dostupnost tísňových čísel (vazba na odst. 3 a § 99) a informovat dotčené uživatele. Uložení auditu ČTÚ je možné mimo rozsah krytý ZKB. Procesní krok: doložit, že povinnosti dle ZKB byly splněny.
+
+**6. Varianty.** (a) Incident by neměl původ v kybernetickém prostoru (např. živelní pohroma, požár ústředny) → plně se uplatní § 98 odst. 3–4, hlášení ČTÚ je povinné. (b) Operátor by nebyl povinnou osobou dle ZKB → klauzule odst. 9 se neuplatní, hlásí se dle § 98.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Stačí nahlásit NÚKIB, ČTÚ nic nepřísluší." Neutralizace: odst. 9 vylučuje jen překrývající se povinnosti; mimo rozsah ZKB (např. dostupnost tísňových čísel, audit) zůstává § 98 použitelný.
+- *Protiargument 2:* „Bez prováděcího předpisu nelze určit závažnost, hlášení odpadá." Neutralizace: chybějící prováděcí předpis nezbavuje povinnosti zajistit bezpečnost dle odst. 1 a informovat uživatele a tísňová centra.
+- *Slabé místo:* hranice „obdobných povinností" dle odst. 9 je neostrá; v praxi je nutná koordinace ČTÚ a NÚKIB, aby nevznikla mezera ani duplicita.
+
+#### H. Praktický závěr
+
+§ 98 ukládá zajišťovat bezpečnost a integritu sítí (AIDIC framework), hlásit závažné incidenty (ČTÚ, tísňová centra, uživatelé), umožňuje uložit bezpečnostní audit a donucovací opatření; kybernetické incidenty kryté ZKB jsou z duplicitního hlášení vyňaty (odst. 9).
+
+**Checklist (advokát / operátor / ČTÚ / NÚKIB):**
+- [ ] Jde o událost se skutečným nepříznivým dopadem (incident dle odst. 1)?
+- [ ] Má incident původ v kybernetickém prostoru a platí lex specialis ZKB (odst. 9)?
+- [ ] Byla zachována dostupnost tísňových čísel a informováni uživatelé?
+- [ ] Je relevantní uložení bezpečnostního auditu (odst. 6) mimo rozsah ZKB?
+
+**Typicky rozhodné důkazy / podklady:** incident report a logy, doklad o hlášení NÚKIB, kritéria závažnosti dle prováděcího předpisu, doklad o dostupnosti tísňových čísel, bezpečnostní politika a výsledky auditu.
+
 ---
 
 ### § 98a — Detekce kybernetických útoků Vojenským zpravodajstvím
@@ -627,6 +1132,42 @@ Detekční nástroj smí provádět pouze **cílenou detekci jevů nasvědčují
 
 Zákon výslovně řeší kolizi, kdy provoz detekčního nástroje ohrožuje provoz sítě nebo lidské životy — v takovém případě operátor může bez souhlasu VZ nástroj odpojit (odst. 3). Mlčenlivost (odst. 6) je trvalá a kryje veškeré skutečnosti o detekci; výjimka existuje jen pro parlamentní nebo zákonnou kontrolu VZ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor obdrží rozhodnutí Ministerstva obrany dle zákona o VZ, jímž je mu uloženo zřídit v určených bodech sítě rozhraní pro připojení detekčního nástroje VZ. Po připojení nástroj začne v období špičky vyvolávat zahlcení uzlu, které ohrožuje provoz sítě. Operátor zvažuje, zda smí nástroj dočasně odpojit bez souhlasu VZ a zda smí o existenci detekce informovat svého technického dodavatele. Účastníci: operátor, Ministerstvo obrany, Vojenské zpravodajství, dodavatel. Důkazy: rozhodnutí MO, technické záznamy o zahlcení, doklad o nebezpečí z prodlení, evidence nákladů.
+
+**2. Právní otázka.** Smí operátor bez souhlasu VZ zasáhnout do detekčního nástroje, ohrožuje-li provoz sítě, a vztahuje se mlčenlivost dle odst. 6 i na informování dodavatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 98a odst. 1 (povinnost zřídit rozhraní na základě rozhodnutí MO), odst. 3 (zákaz zásahu do nástroje s výjimkou nebezpečí z prodlení), odst. 5 (úhrada nákladů), odst. 6–7 (mlčenlivost a její meze — kontrola VZ).
+- *Související ustanovení téhož zákona:* § 97 (odposlech — slabší formální podmínka), § 98 (bezpečnost sítě), § 89 (důvěrnost).
+- *Související předpisy:* zákon o Vojenském zpravodajství; čl. 13 a 17 Listiny; čl. 7 Listiny ZP EU; prováděcí předpis k úhradě nákladů.
+- *Judikatura:* nosný princip — detekce smí být jen cílená (jevy nasvědčující útoku), nikoli plošné sledování obsahu; zásah do soukromí musí být proporcionální a zákonný.
+
+**4. Subsumpce.** Zahlcení uzlu vyvolané nástrojem zakládá „stav ohrožující provoz veřejné komunikační sítě" a hrozí nebezpečí z prodlení → výjimka dle odst. 3 umožňuje zásah bez souhlasu VZ. Mlčenlivost dle odst. 6 kryje veškeré skutečnosti o detekci; výjimka existuje jen pro kontrolu VZ (odst. 7), nikoli pro dodavatele.
+
+**5. Řešení.** Operátor smí nástroj nezbytně odpojit/omezit jen v rozsahu nutném k odvrácení ohrožení provozu a musí postupovat tak, aby zásah byl minimální; následně věc řeší s VZ. Dodavateli nesmí sdělit skutečnosti kryté mlčenlivostí (odst. 6) nad rámec nezbytně nutný a bez zákonné výjimky. Náklady na zřízení rozhraní hradí VZ (odst. 5). Procesní krok: doložit nebezpečí z prodlení a rozsah zásahu.
+
+**6. Varianty.** (a) Nehrozilo by nebezpečí z prodlení a provoz by ohrožen nebyl → zásah do nástroje bez souhlasu VZ je zakázán (odst. 3). (b) Informace by byla poskytována kontrolnímu orgánu VZ → mlčenlivost se neuplatní (odst. 7).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Operátor nesmí do nástroje VZ nikdy zasáhnout." Neutralizace: odst. 3 výslovně připouští zásah při ohrožení provozu sítě nebo života a nebezpečí z prodlení.
+- *Protiargument 2:* „Pro odposlech stačí žádost (§ 97), zde také." Neutralizace: § 98a vyžaduje rozhodnutí Ministerstva obrany — silnější formální záruka než žádost dle § 97 odst. 1.
+- *Slabé místo:* posouzení „nezbytnosti" zásahu a „nebezpečí z prodlení" je skutkové; neoprávněný zásah do nástroje může zakládat odpovědnost a porušení zákona o VZ.
+
+#### H. Praktický závěr
+
+§ 98a ukládá operátorovi na základě rozhodnutí MO zřídit rozhraní pro cílenou detekci kybernetických útoků VZ, zakazuje zásah do nástroje (s výjimkou ohrožení provozu/života a nebezpečí z prodlení), zakládá trvalou mlčenlivost a nárok na úhradu nákladů.
+
+**Checklist (advokát / operátor / VZ / MO):**
+- [ ] Existuje rozhodnutí Ministerstva obrany jako podklad povinnosti (odst. 1)?
+- [ ] Provádí nástroj jen cílenou detekci, nikoli plošné sledování obsahu?
+- [ ] Je zásah do nástroje odůvodněn ohrožením provozu/života a nebezpečím z prodlení (odst. 3)?
+- [ ] Je dodržena mlčenlivost s výjimkou kontroly VZ (odst. 6–7)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí MO, technické záznamy o ohrožení provozu, doklad o nebezpečí z prodlení a rozsahu zásahu, evidence nákladů, dokumentace mlčenlivosti.
+
 ---
 
 ### § 99 — Bezpečnost, integrita a poskytování služeb za krizových stavů
@@ -648,6 +1189,42 @@ Zákon výslovně řeší kolizi, kdy provoz detekčního nástroje ohrožuje pr
 § 99 navazuje na zákon č. 240/2000 Sb. (krizový zákon) a zakládá systém krizové komunikace. Operátoři musí mít připravena technicko-organizační pravidla pro krizové stavy (válečný stav, stav ohrožení státu, nouzový stav, stav nebezpečí). Obsah těchto pravidel upřesňuje prováděcí předpis ČTÚ — zákon tím zajišťuje, že krizová příprava neprobíhá voluntárně, ale na standardizované bázi.
 
 Nejdůležitější povinností je **prioritizace krizové komunikace** (odst. 3): operátor je povinen na žádost Ministerstva vnitra (při hrozbě krizové situace) nebo automaticky (za krizového stavu) přednostně zajistit přístup k sítím a službám pro „účastníky krizové komunikace" dle krizového zákona — jde zejména o orgány krizového řízení, záchranné složky a ozbrojené síly. Ostatní uživatelé mohou být dočasně omezeni. Omezení musí být přiměřené (jen na nezbytnou dobu a rozsah) a vždy musí být zachován přístup k tísňovým číslům.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Za vyhlášeného nouzového stavu při rozsáhlé povodni žádá Ministerstvo vnitra operátora o přednostní zajištění připojení pro orgány krizového řízení a záchranné složky v zasažené oblasti. Kapacita sítě je omezena; operátor proto dočasně omezí běžné uživatele. Jeden zákazník reklamuje výpadek služby a domáhá se náhrady. Účastníci: operátor, Ministerstvo vnitra, účastníci krizové komunikace, běžný uživatel. Důkazy: žádost MV, doklad o vyhlášení krizového stavu, technicko-organizační pravidla, informace ČTÚ o omezení, doklad o zachování tísňových čísel.
+
+**2. Právní otázka.** Byl operátor oprávněn za krizového stavu omezit poskytování služby běžným uživatelům ve prospěch účastníků krizové komunikace, a za jakých podmínek?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 99 odst. 1 (technicko-organizační pravidla pro krizové stavy), odst. 3 (přednostní připojení účastníkům krizové komunikace; oprávnění omezit/přerušit službu; informování ČTÚ; zachování tísňových čísel), odst. 4 (informování ČTÚ o narušení).
+- *Související ustanovení téhož zákona:* § 98 (bezpečnost a integrita), § 33 a násl. (tísňová čísla), § 62 (síťové plány).
+- *Související předpisy:* zákon č. 240/2000 Sb. (krizový zákon); prováděcí předpis ČTÚ k náležitostem pravidel.
+- *Judikatura:* nosný princip — prioritizace krizové komunikace je legitimní zásah do běžného poskytování služby; omezení musí být přiměřené a časově nezbytné.
+
+**4. Subsumpce.** Za krizového stavu vzniká povinnost přednostního připojení účastníkům krizové komunikace dle krizového zákona (odst. 3). Operátor smí v nezbytném rozsahu omezit běžné uživatele, musí o tom bezprostředně informovat ČTÚ a zachovat přístup k tísňovým číslům. Tyto podmínky byly splněny → omezení bylo oprávněné.
+
+**5. Řešení.** Omezení běžného uživatele bylo zákonné, trvalo-li jen po nezbytnou dobu a v nezbytném rozsahu a byl-li zachován přístup k tísňovým číslům a informován ČTÚ. Reklamace náhrady za výpadek bude zpravidla neúspěšná, jde-li o zákonem předvídané krizové omezení. Procesní krok: doložit žádost MV/krizový stav, informování ČTÚ a zachování tísňových čísel.
+
+**6. Varianty.** (a) Operátor by omezil službu nad nezbytný rozsah nebo bez zachování tísňových čísel → omezení nezákonné, vzniká odpovědnost. (b) Mimo krizový stav, jen „při nebezpečí vzniku" → prioritizace jen na žádost Ministerstva vnitra (odst. 3 věta první).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Uživatel má nárok na nepřetržitou službu dle smlouvy." Neutralizace: § 99 odst. 3 zakládá zákonné oprávnění omezit službu za krizového stavu; jde o zákonný limit smluvního plnění.
+- *Protiargument 2:* „Operátor mohl omezit jen část a výpadek byl nepřiměřený." Neutralizace: oprávněné, jen je-li omezení v nezbytném rozsahu a po nezbytnou dobu — to musí operátor doložit; nepřiměřené omezení je porušením.
+- *Slabé místo:* posouzení „nezbytnosti" rozsahu a doby je skutkové; absence informování ČTÚ nebo nezachování tísňových čísel činí postup nezákonným.
+
+#### H. Praktický závěr
+
+§ 99 ukládá operátorům připravit technicko-organizační pravidla pro krizové stavy a za krizového stavu (či při hrozbě na žádost MV) přednostně zajistit krizovou komunikaci, s možností přiměřeně omezit běžné uživatele při zachování tísňových čísel a informování ČTÚ.
+
+**Checklist (advokát / operátor / Ministerstvo vnitra / ČTÚ):**
+- [ ] Existují schválená technicko-organizační pravidla pro krizové stavy (odst. 1)?
+- [ ] Je dán krizový stav nebo žádost MV při hrozbě (odst. 3)?
+- [ ] Je omezení běžných uživatelů v nezbytném rozsahu a po nezbytnou dobu?
+- [ ] Je zachován přístup k tísňovým číslům a informován ČTÚ?
+
+**Typicky rozhodné důkazy / podklady:** žádost MV, doklad o vyhlášení krizového stavu, technicko-organizační pravidla, oznámení ČTÚ o omezení, doklad o zachování tísňových čísel.
 
 ---
 
@@ -701,6 +1278,42 @@ Nejdůležitější povinností je **prioritizace krizové komunikace** (odst. 3
 
 Zákon výslovně řeší elektromagnetické stínění a odrazy vln způsobené stavbami. Rozhodující je princip priority v čase: zahájila-li stavba provoz dříve než EK zařízení, náklady nese EK provozovatel. Spory o odstranění rušení stavbami primárně řeší stavební úřad (po dohodě s ČTÚ); teprve není-li to v jeho působnosti, zasahuje ČTÚ.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel nově nainstalovaného průmyslového vysokofrekvenčního zařízení (např. indukční ohřev) způsobuje opakované rušení mobilní sítě a příjmu zemského digitálního televizního vysílání v okolí. Operátor mobilní sítě i diváci si stěžují ČTÚ. Provozovatel rušícího zařízení odmítá nést náklady ochranných opatření s tím, že jeho zařízení je řádně provozováno. Účastníci: provozovatel rušícího zařízení, operátor rušené sítě, provozovatel vysílání, ČTÚ. Důkazy: měření ČTÚ, doklad o datu uvedení zařízení do provozu, doklad o EMC odolnosti rušeného zařízení.
+
+**2. Právní otázka.** Kdo nese náklady ochranných opatření při elektromagnetickém rušení a může ČTÚ nařídit okamžité odstavení zdroje rušení bez předchozí výzvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 100 odst. 1–2 (povinnost nezpůsobovat rušení, definice), odst. 3–4 (alokace nákladů: princip původce, priority, odolnosti), odst. 5 (rušení vysílání), odst. 6–7 (zjišťování zdroje, předběžné opatření, odstranění), odst. 8 (prioritní šetření u bezpečnostních složek).
+- *Související ustanovení téhož zákona:* § 114 (postup při rušení), § 101 (styk vedení s okolím).
+- *Související předpisy:* zákon o technických požadavcích na výrobky (EMC); stavební zákon (rušení stavbami dle odst. 9).
+- *Judikatura:* nosný princip — náklady nese původce rušení (později uvedené/změněné zařízení), ledaže rušené zařízení nesplňuje požadavky na odolnost.
+
+**4. Subsumpce.** Vznikla-li rušivá emise nedodržením podmínek provozu zařízení, nese náklady jeho provozovatel (odst. 4 věta první); jinak nese náklady zařízení uvedené do provozu později. Splňuje-li rušené zařízení EMC odolnost a rušící zařízení bylo zprovozováno později, nese náklady provozovatel rušícího zařízení (princip priority).
+
+**5. Řešení.** ČTÚ zjistí zdroj rušení a postupuje obdobně dle § 114; v odůvodněných případech vydá předběžné opatření k okamžitému odstavení bez výzvy (odst. 6). Neodstraní-li provozovatel zdroj ve lhůtě, ČTÚ rozhodne o odstranění, případně je provede sám (odst. 7). Náklady nese provozovatel rušícího zařízení. Procesní krok: doložit měření, datum zprovoznění a EMC odolnost.
+
+**6. Varianty.** (a) Rušení by vznikalo jen nedostatečnou odolností přijímacího zařízení → náklady nese provozovatel rušeného zařízení (odst. 4 věta třetí, odst. 5 věta druhá). (b) Rušeno by bylo zařízení bezpečnostních složek → prioritní šetření ČTÚ (odst. 8).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Mé zařízení je certifikované, neodpovídám za rušení." Neutralizace: rozhodující je faktické rušení a princip priority/původce; certifikace nevylučuje odpovědnost, je-li rušení prokázáno měřením.
+- *Protiargument 2:* „ČTÚ nemůže odstavit zařízení bez řízení." Neutralizace: odst. 6 výslovně umožňuje předběžné opatření k okamžitému odstavení bez předchozí výzvy v odůvodněných případech.
+- *Slabé místo:* určení, které zařízení bylo zprovozněno/změněno později a zda rušené splňuje odolnost, je skutkové a vyžaduje měření a dokumentaci.
+
+#### H. Praktický závěr
+
+§ 100 alokuje náklady na odstranění elektromagnetického rušení dle principů původce, priority v čase a odolnosti; ČTÚ zjišťuje zdroj, může vydat předběžné opatření k okamžitému odstavení a prioritně šetří rušení u bezpečnostních složek. Spory o výši nákladů řeší soud (odst. 10).
+
+**Checklist (advokát / provozovatel zařízení / operátor / ČTÚ):**
+- [ ] Je rušení doloženo měřením a identifikován zdroj?
+- [ ] Které zařízení bylo uvedeno do provozu/změněno později (princip priority)?
+- [ ] Splňuje rušené zařízení požadavky na EMC odolnost?
+- [ ] Je namístě předběžné opatření dle odst. 6 (akutní rušení kritické komunikace)?
+
+**Typicky rozhodné důkazy / podklady:** měřicí protokoly ČTÚ, doklad o datu zprovoznění zařízení, certifikáty EMC a odolnosti, vyčíslení nákladů ochranných opatření.
+
 ---
 
 ### § 101 — Styk komunikačních vedení veřejné komunikační sítě s okolím
@@ -724,6 +1337,42 @@ Zákon výslovně řeší elektromagnetické stínění a odrazy vln způsobené
 #### Křížení vedení (odst. 2–4)
 
 Odst. 2 a 3 zakládají právo (a povinnost) komunikačních vedení křížit jiná vedení a infrastrukturní prvky, a naopak právo jiných vedení komunikační vedení křížit — za podmínky, že křížení nezpůsobí rušení. Zákon upřednostňuje ochranu komunikací: způsob křížení musí být zvolen tak, aby minimalizoval dotčení zájmů vlastníků a nenarušil provoz. Odst. 4 rozšiřuje pravidla křížení na souběžný průběh vedení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zemědělec provádí hlubokou orbu na poli, pod nímž vede podzemní optické vedení veřejné komunikační sítě; při orbě dojde k přetržení kabelu a několikahodinovému výpadku služeb pro obec. Operátor uplatňuje náhradu škody. Zemědělec namítá, že o vedení nevěděl a v katastru nic vyznačeno nebylo. Účastníci: zemědělec (osoba provádějící práce), operátor (vlastník vedení). Důkazy: dokumentace o poloze vedení, doklad o existenci ochranného pásma, fotodokumentace poškození, vyčíslení škody a nákladů opravy.
+
+**2. Právní otázka.** Odpovídá osoba provádějící hlubokou orbu za poškození podzemního komunikačního vedení, ač o jeho poloze nevěděla, porušila-li povinnost provést opatření dle § 101 odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 101 odst. 1 (povinnost provést opatření při stavebních pracích, hluboké orbě a zemních pracích, aby nedošlo k poškození vedení).
+- *Související ustanovení téhož zákona:* § 102 (ochranné pásmo 0,5 m), § 104 (oprávnění a vytyčovací body), § 100 (rušení).
+- *Související předpisy:* § 2900 a násl. OZ (prevenční povinnost, náhrada škody); stavební zákon (zjištění inženýrských sítí).
+- *Judikatura:* nosný princip — kdo provádí zemní práce, je povinen si zjistit výskyt podzemních sítí; opomenutí zakládá porušení prevenční povinnosti a odpovědnost za škodu.
+
+**4. Subsumpce.** Hluboká orba je výslovně podřazena § 101 odst. 1. Povinnost provést opatření, aby nedošlo k poškození vedení, zahrnuje povinnost zjistit výskyt sítí před zahájením prací. Nevědomost o vedení sama o sobě neexkulpuje, neboť povinnost zjištění byla porušena → odpovědnost za škodu je dána.
+
+**5. Řešení.** Zemědělec odpovídá za škodu (přetržení kabelu, výpadek), porušil-li prevenční povinnost dle § 101 odst. 1 ve spojení s OZ. Měl si vyžádat informace o poloze sítí (vytyčení) u vlastníka vedení. Operátor uplatní náhradu nákladů opravy a případně ušlého zisku. Procesní krok: doložit existenci vedení a porušení povinnosti zjistit jeho polohu.
+
+**6. Varianty.** (a) Operátor by neměl vedení vůbec dokumentováno ani nezpřístupnil informace o poloze a vedení by bylo v nestandardní hloubce → spoluodpovědnost či snížení náhrady. (b) Šlo by o křížení s jiným vedením (odst. 2–3) → posuzuje se přípustnost křížení a vyloučení rušení, nikoli odpovědnost za poškození orbou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „O vedení jsem nevěděl, není vyznačeno v katastru." Neutralizace: ochranné pásmo a vedení existují ze zákona (§ 102) nezávisle na zápisu v katastru; povinnost zjistit výskyt sítí leží na osobě provádějící práce.
+- *Protiargument 2:* „Za umístění kabelu mělký pod povrchem odpovídá operátor." Neutralizace: případná nestandardní hloubka může vést ke spoluzavinění, ale nezbavuje provádějícího povinnosti zjistit polohu a postupovat opatrně.
+- *Slabé místo:* rozsah náhrady (ušlý zisk, smluvní pokuty operátora vůči zákazníkům) může být sporný; je třeba doložit příčinnou souvislost a výši škody.
+
+#### H. Praktický závěr
+
+§ 101 ukládá všem osobám provádějícím stavební práce, hlubokou orbu a zemní práce přijmout opatření k ochraně komunikačního vedení; porušení zakládá odpovědnost za škodu. Křížení a souběh vedení (odst. 2–4) jsou přípustné, nezpůsobí-li rušení a co nejméně dotknou zájmy vlastníků.
+
+**Checklist (advokát / stavebník / zemědělec / operátor):**
+- [ ] Byl před pracemi zjištěn výskyt podzemních sítí (vytyčení)?
+- [ ] Byla přijata opatření k ochraně vedení dle § 101 odst. 1?
+- [ ] Je doložena existence vedení a příčinná souvislost s poškozením?
+- [ ] U křížení/souběhu: je vyloučeno rušení a šetřeny zájmy vlastníků (odst. 2–4)?
+
+**Typicky rozhodné důkazy / podklady:** dokumentace polohy vedení a vytyčení, doklad o ochranném pásmu, fotodokumentace poškození, vyčíslení škody a nákladů opravy, korespondence o žádosti o vytyčení.
 
 ---
 
@@ -763,6 +1412,42 @@ Zákazy v pásmu jsou trojího druhu: (a) zemní práce — vyžadují souhlas v
 
 Na rozdíl od podzemního vedení není pásmo nadzemního komunikačního vedení zákonně fixní — jeho parametry a omezení stanoví na návrh vlastníka stavební úřad ve zvláštním rozhodnutí. Tato flexibilita umožňuje přizpůsobit pásmo podmínkám konkrétní trasy (hustota zástavby, reliéf terénu).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vlastník pozemku chce na svém pozemku vysadit alej vzrostlých stromů a postavit zahradní altán; přes pozemek však vede podzemní komunikační vedení operátora se zákonným ochranným pásmem 0,5 m po stranách krajního vedení. Vlastník provede výsadbu a stavbu bez souhlasu operátora. Operátor se domáhá odstranění porostů a stavby z pásma. Účastníci: vlastník pozemku, operátor (vlastník vedení), stavební úřad. Důkazy: doklad o vzniku ochranného pásma, geometrické zaměření vedení, doklad o (ne)udělení souhlasu vlastníka vedení.
+
+**2. Právní otázka.** Smí vlastník pozemku v ochranném pásmu podzemního komunikačního vedení vysazovat trvalé porosty a zřizovat stavby bez souhlasu vlastníka vedení nebo rozhodnutí stavebního úřadu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 102 odst. 1–2 (vznik a rozsah pásma 0,5 m), odst. 3 písm. a)–c) (zákazy: zemní práce, stavby, trvalé porosty), odst. 4 (činnosti ohrožující přístup/provoz), odst. 5 (nadzemní vedení).
+- *Související ustanovení téhož zákona:* § 104 (oprávnění, vytyčovací body), § 101 (ochrana při pracích), § 103a (ČTÚ jako dotčený orgán).
+- *Související předpisy:* stavební zákon (povolení, rozhodnutí stavebního úřadu); OZ (sousedské vztahy, věcná práva).
+- *Judikatura:* nosný princip — zákonné ochranné pásmo zavazuje vlastníka pozemku bez ohledu na zápis v katastru; činnosti v pásmu vyžadují souhlas vlastníka vedení nebo rozhodnutí stavebního úřadu.
+
+**4. Subsumpce.** Trvalé porosty v pásmu vyžadují souhlas vlastníka vedení (odst. 3 písm. c); stavby vyžadují souhlas vlastníka vedení nebo rozhodnutí stavebního úřadu (písm. b). Vlastník pozemku souhlas nezískal → porušil zákazy dle odst. 3 a případně odst. 4 (ohrožení přístupu k vedení).
+
+**5. Řešení.** Výsadba a stavba v pásmu jsou bez souhlasu nepřípustné; operátor se může domáhat jejich odstranění, resp. zdržení se zásahů ohrožujících přístup a provoz vedení. Vlastník měl požádat o souhlas vlastníka vedení; ten může souhlas podmínit. Procesní krok: doložit existenci a rozsah pásma, zaměření vedení a absenci souhlasu.
+
+**6. Varianty.** (a) Vlastník pozemku by získal souhlas operátora (např. s podmínkami pro výsadbu mimo bezprostřední blízkost) → činnost přípustná. (b) Šlo by o nadzemní vedení → rozsah a podmínky pásma neplynou ze zákona, ale z rozhodnutí stavebního úřadu (odst. 5).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Jsem vlastník pozemku, mohu na něm hospodařit dle libosti." Neutralizace: zákonné ochranné pásmo (odst. 2) je veřejnoprávní omezení vlastnického práva zavazující i vlastníka pozemku.
+- *Protiargument 2:* „Pásmo nebylo zapsáno v katastru, neexistuje." Neutralizace: pásmo vzniká ze zákona (odst. 1) okamžikem dle zákona, nikoli zápisem; zápis není podmínkou jeho existence.
+- *Slabé místo:* přesný průběh vedení a hranice 0,5 m pásma vyžaduje geometrické zaměření; bez něj je rozsah omezení sporný.
+
+#### H. Praktický závěr
+
+§ 102 zakotvuje zákonné ochranné pásmo podzemního vedení (0,5 m) vznikající ze zákona; činnosti v pásmu (zemní práce, stavby, trvalé porosty) vyžadují souhlas vlastníka vedení nebo rozhodnutí stavebního úřadu. Pásmo nadzemního vedení stanoví stavební úřad individuálně.
+
+**Checklist (advokát / vlastník pozemku / operátor / stavební úřad):**
+- [ ] Vzniklo ochranné pásmo dle odst. 1 a jaký je jeho rozsah (0,5 m)?
+- [ ] Vyžaduje zamýšlená činnost souhlas vlastníka vedení nebo rozhodnutí stavebního úřadu (odst. 3)?
+- [ ] Neohrožuje činnost přístup k vedení nebo jeho provoz (odst. 4)?
+- [ ] U nadzemního vedení: existuje rozhodnutí stavebního úřadu o pásmu (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o vzniku pásma, geometrické zaměření vedení, souhlas vlastníka vedení či rozhodnutí stavebního úřadu, dokumentace zásahu v pásmu.
+
 ---
 
 ### § 103 — Ochranné pásmo rádiového zařízení a rádiového směrového spoje
@@ -777,6 +1462,42 @@ Na rozdíl od podzemního vedení není pásmo nadzemního komunikačního veden
 
 Na rozdíl od podzemního vedení (zákonné pásmo) je ochranné pásmo rádiového zařízení nebo směrového spoje vždy konstituováno **individuálním rozhodnutím stavebního úřadu** — zákon neposkytuje zákonnou minimální vzdálenost. Důvodem je variabilita rádiových zařízení: výkon vysílání, frekvenční pásmo a geometrie záření se liší natolik, že unifikovaný zákonný rozměr není technicky smysluplný. Stavební úřad rozhoduje na návrh vlastníka a přihlíží k technickým parametrům zařízení. Úřad (ČTÚ) je dle § 103a dotčeným orgánem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor provozuje rádiový směrový spoj (mikrovlnný point-to-point spoj) mezi dvěma stožáry. Soused plánuje výstavbu výškové budovy v trase spoje, která by jej fyzicky zastínila. Operátor navrhne stavebnímu úřadu zřízení ochranného pásma rádiového směrového spoje. Soused namítá, že žádné zákonné pásmo neexistuje a jeho vlastnické právo nelze omezit. Účastníci: operátor (vlastník zařízení), soused-stavebník, stavební úřad, ČTÚ (dotčený orgán dle § 103a). Důkazy: technické parametry spoje, návrh parametrů pásma, stanovisko ČTÚ.
+
+**2. Právní otázka.** Vzniká ochranné pásmo rádiového směrového spoje ze zákona, nebo až individuálním rozhodnutím stavebního úřadu vydaným na návrh vlastníka, a jaký rozsah omezení lze stanovit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 103 (vznik pásma rozhodnutím o ochranném pásmu dle stavebního zákona; parametry a podmínky na návrh vlastníka; šetření práv vlastníků nemovitostí).
+- *Související ustanovení téhož zákona:* § 102 odst. 5 (nadzemní vedení — obdobný režim), § 103a (ČTÚ jako dotčený orgán), § 104 (oprávnění k umístění zařízení).
+- *Související předpisy:* stavební zákon č. 283/2021 Sb. (řízení o ochranném pásmu, dotčené orgány).
+- *Judikatura:* nosný princip — na rozdíl od zákonného pásma podzemního vedení je pásmo rádiového zařízení vždy konstituováno individuálním rozhodnutím; bez něj omezení sousedů nevzniká.
+
+**4. Subsumpce.** Na rozdíl od § 102 odst. 1–2 (zákonné pásmo) § 103 nestanoví zákonnou minimální vzdálenost. Pásmo vzniká až rozhodnutím stavebního úřadu na návrh vlastníka, jehož parametry odrážejí technické vlastnosti spoje. Dokud rozhodnutí není vydáno, omezení souseda neexistuje.
+
+**5. Řešení.** Operátor musí podat návrh a stavební úřad rozhodne o parametrech pásma; ČTÚ je dotčeným orgánem (§ 103a) a vydá závazné stanovisko. Stavební úřad musí šetřit práv vlastníků dotčených nemovitostí (proporcionalita). Bez vydaného rozhodnutí nelze sousedovi výstavbu v trase spoje zakázat z titulu § 103. Procesní krok: doložit technické parametry a nezbytnost ochrany spoje.
+
+**6. Varianty.** (a) Pásmo by již bylo pravomocně zřízeno před plánem výstavby → soused je omezen a stavbu v trase spoje nelze realizovat bez souladu s pásmem. (b) Šlo by o podzemní vedení → pásmo by existovalo ze zákona dle § 102 bez nutnosti individuálního rozhodnutí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Ochranné pásmo platí ze zákona jako u kabelu." Neutralizace: § 103 (na rozdíl od § 102 odst. 2) zákonný rozměr nestanoví; pásmo vzniká až rozhodnutím stavebního úřadu.
+- *Protiargument 2:* „Stavební úřad může stanovit libovolně široké pásmo." Neutralizace: § 103 ukládá šetřit práv vlastníků nemovitostí — pásmo musí být přiměřené technickým parametrům spoje.
+- *Slabé místo:* dokud operátor nepodá návrh a pásmo není zřízeno, je ochrana spoje nejistá; mezitím může soused legálně zahájit výstavbu.
+
+#### H. Praktický závěr
+
+§ 103 konstituuje ochranné pásmo rádiového zařízení a směrového spoje vždy individuálním rozhodnutím stavebního úřadu na návrh vlastníka; parametry odrážejí technické vlastnosti zařízení a musí šetřit práv vlastníků nemovitostí. ČTÚ je dotčeným orgánem.
+
+**Checklist (advokát / operátor / soused / stavební úřad):**
+- [ ] Bylo pásmo zřízeno pravomocným rozhodnutím stavebního úřadu (vznik dle § 103)?
+- [ ] Odpovídají parametry pásma technickým vlastnostem zařízení?
+- [ ] Bylo šetřeno práv vlastníků dotčených nemovitostí?
+- [ ] Vydal ČTÚ jako dotčený orgán stanovisko (§ 103a)?
+
+**Typicky rozhodné důkazy / podklady:** technické parametry zařízení/spoje, návrh parametrů pásma, rozhodnutí stavebního úřadu, stanovisko ČTÚ, dokumentace dotčených nemovitostí.
+
 ---
 
 ### § 103a — ČTÚ jako dotčený orgán v řízeních o ochranných pásmech
@@ -788,6 +1509,42 @@ Na rozdíl od podzemního vedení (zákonné pásmo) je ochranné pásmo rádiov
 **Výklad:**
 
 § 103a přiznává ČTÚ postavení **dotčeného orgánu** ve smyslu § 136 odst. 1 stavebního zákona (zákon č. 283/2021 Sb.) v řízeních o ochranných pásmech. ČTÚ tak vydává závazné stanovisko, bez jehož (kladného) obsahu stavební úřad rozhodnutí o ochranném pásmu vydat nemůže. Tím zákonodárce zajistil, že parametry ochrany rádiových zařízení a vedení EK jsou vždy posouzeny příslušným sektorovým odborníkem a regulátorem. Postavení dotčeného orgánu je součástí širšího okruhu správních pravomocí ČTÚ popsaných v [09-hlava6-statni-sprava-ctu.md](09-hlava6-statni-sprava-ctu.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Stavební úřad vede řízení o zřízení ochranného pásma nadzemního komunikačního vedení a vydá rozhodnutí, aniž si vyžádal stanovisko ČTÚ. Soused (vlastník dotčené nemovitosti) i ČTÚ namítají vadu řízení. Účastníci: stavebník/vlastník vedení, dotčení vlastníci nemovitostí, stavební úřad, ČTÚ. Důkazy: spis stavebního řízení, doklad o (ne)vyžádání stanoviska ČTÚ, závazné stanovisko (pokud bylo vydáno).
+
+**2. Právní otázka.** Je rozhodnutí stavebního úřadu o ochranném pásmu nadzemního komunikačního vedení, rádiového zařízení nebo směrového spoje zákonné, jestliže si stavební úřad nevyžádal závazné stanovisko ČTÚ jako dotčeného orgánu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 103a (ČTÚ je dotčeným orgánem v řízeních o ochranných pásmech nadzemního komunikačního vedení, rádiového zařízení a rádiového směrového spoje).
+- *Související ustanovení téhož zákona:* § 102 odst. 5 (nadzemní vedení), § 103 (rádiová zařízení a spoje).
+- *Související předpisy:* § 136 odst. 1 a § 4 stavebního zákona č. 283/2021 Sb. (dotčené orgány, závazná stanoviska); správní řád.
+- *Judikatura:* nosný princip — absence závazného stanoviska dotčeného orgánu, jehož vydání zákon vyžaduje, zakládá podstatnou vadu řízení a nezákonnost rozhodnutí.
+
+**4. Subsumpce.** § 103a přiznává ČTÚ postavení dotčeného orgánu. Stavební úřad je povinen vyžádat si závazné stanovisko ČTÚ; bez něj rozhodnutí o ochranném pásmu vydat nesmí. Vydání rozhodnutí bez stanoviska je podstatnou procesní vadou.
+
+**5. Řešení.** Rozhodnutí je stiženo vadou pro absenci závazného stanoviska ČTÚ; je napadnutelné odvoláním/žalobou a může být zrušeno. Stavební úřad musí stanovisko ČTÚ vyžádat a jeho obsahem se řídit. Procesní krok: namítnout absenci stanoviska v odvolání a doložit ji ze spisu.
+
+**6. Varianty.** (a) ČTÚ by stanovisko vydalo a stavební úřad by je respektoval → rozhodnutí bez této vady. (b) Šlo by o pásmo podzemního vedení vznikající ze zákona (§ 102 odst. 1–2) → řízení o ochranném pásmu se nevede a § 103a se neuplatní.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Stanovisko ČTÚ je jen formalitou." Neutralizace: jde o závazné stanovisko dotčeného orgánu, jehož obsah je pro stavební úřad závazný; absence je podstatnou vadou.
+- *Protiargument 2:* „§ 103a se vztahuje na všechna ochranná pásma." Neutralizace: výslovně jen na nadzemní vedení, rádiová zařízení a směrové spoje; u zákonného pásma podzemního vedení se řízení nevede.
+- *Slabé místo:* rozsah závaznosti stanoviska a možnost jeho přezkumu jsou dány stavebním zákonem a správním řádem; samotný § 103a je jen kompetenční normou.
+
+#### H. Praktický závěr
+
+§ 103a činí ČTÚ dotčeným orgánem v řízeních o ochranných pásmech nadzemního vedení, rádiových zařízení a směrových spojů; jeho závazné stanovisko je nezbytnou podmínkou zákonného rozhodnutí stavebního úřadu.
+
+**Checklist (advokát / stavebník / vlastník nemovitosti / stavební úřad):**
+- [ ] Jde o řízení o ochranném pásmu nadzemního vedení/rádiového zařízení/spoje (působnost § 103a)?
+- [ ] Bylo vyžádáno závazné stanovisko ČTÚ?
+- [ ] Řídí se rozhodnutí obsahem stanoviska ČTÚ?
+- [ ] Není-li stanovisko ve spisu, lze namítnout podstatnou vadu řízení?
+
+**Typicky rozhodné důkazy / podklady:** spis stavebního řízení, doklad o vyžádání a obsahu závazného stanoviska ČTÚ, rozhodnutí o ochranném pásmu.
 
 ---
 
@@ -881,6 +1638,42 @@ Náklady na překládku vedení EK vyvolanou stavební činností nese stavební
 
 Odst. 10 výslovně stanoví, že síť EK není součástí pozemku — jde tedy o věc samostatnou ve smyslu OZ. Zároveň je považována za inženýrskou síť. To má klíčové důsledky pro věcněprávní postavení sítě EK: může být předmětem samostatného vlastnictví, zástavy, převodu i výkonu rozhodnutí, odděleně od pozemku, na němž je umístěna.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor potřebuje uložit podzemní optické vedení přes soukromý pozemek. S vlastníkem jedná o smlouvě o smlouvě budoucí o zřízení služebnosti za jednorázovou náhradu, vlastník však požaduje mnohonásobek ceny zjištěné dle oceňovacích předpisů a posléze přestane komunikovat. Operátor zvažuje vyvlastňovací cestu. Souběžně dojde k poruše vedení a operátor potřebuje vstoupit na pozemek k opravě. Účastníci: operátor (podnikatel zajišťující veřejnou komunikační síť), vlastník pozemku, vyvlastňovací úřad. Důkazy: oznámení o podnikání dle § 8 odst. 2, povolení záměru, návrh smlouvy, znalecké ocenění, doklad o nedostupnosti/nečinnosti vlastníka.
+
+**2. Právní otázka.** Může operátor zřídit služebnost k cizímu pozemku přes vyvlastňovací úřad, nedojde-li k dohodě s vlastníkem, a smí vstoupit na pozemek bez souhlasu při poruše vedení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104 odst. 1–2 (oprávnění na pozemku/stavbě), odst. 3 (smluvní cesta, maximální náhrada dle oceňovacích předpisů), odst. 4 (vyvlastňovací úřad do 6 měsíců), odst. 5 (rozsah omezení, šíře 0,3 m), odst. 13 (vstup při poruše bez souhlasu), odst. 7 (šetření práv, uvedení do předchozího stavu), odst. 10 (síť jako inženýrská síť).
+- *Související ustanovení téhož zákona:* § 8 odst. 2 (oznámení podnikání), § 102 (ochranné pásmo), § 104a (veřejné pozemky), § 129 (spory).
+- *Související předpisy:* zákon o vyvlastnění; zákon o oceňování majetku; OZ (služebnosti, náhrada škody — odst. 15); stavební zákon.
+- *Judikatura:* nosný princip — věcné oprávnění operátora je veřejnoprávně podmíněné; při neúspěchu dohody nastupuje vyvlastnění, náhrada je limitována cenou dle oceňovacích předpisů.
+
+**4. Subsumpce.** Operátor splňuje podmínku oznámení podnikání (§ 8 odst. 2) a má povolení záměru → oprávnění dle odst. 1 je dáno. Nedojde-li k dohodě (vlastník nečinný, požaduje nepřiměřenou náhradu), je dle odst. 4 přípustný návrh vyvlastňovacímu úřadu. Při poruše je dle odst. 13 přípustný vstup bez souhlasu, nebylo-li možné souhlas s předstihem získat.
+
+**5. Řešení.** Maximální náhrada je limitována cenou dle oceňovacích předpisů (odst. 3) — operátor není povinen akceptovat nadsazený požadavek. Při nečinnosti vlastníka podá návrh vyvlastňovacímu úřadu, který rozhodne do 6 měsíců; oprávnění lze vykonávat ode dne vykonatelnosti rozhodnutí. Při poruše operátor vstoupí na pozemek, věc bezodkladně oznámí a uvede nemovitost do předchozího stavu (odst. 7, 13). Procesní krok: doložit nedostupnost/nečinnost vlastníka.
+
+**6. Varianty.** (a) Vlastník by byl znám a dohoda by se uzavřela → služebnost vznikne smluvně, vyvlastnění odpadá. (b) Pozemek by patřil státu/ÚSC → uplatní se zvláštní režim § 104a (vznik oprávnění z povolení záměru).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Vlastník má právo na tržní náhradu." Neutralizace: odst. 3 limituje maximální jednorázovou náhradu cenou dle oceňovacích předpisů; nadtržní požadavek operátor akceptovat nemusí.
+- *Protiargument 2:* „Vstup bez souhlasu při poruše je porušením vlastnického práva." Neutralizace: odst. 13 zakládá zákonné oprávnění vstupu, nebylo-li možné souhlas s předstihem získat; veřejný zájem na kontinuitě služeb převažuje, operátor však musí uvést nemovitost do předchozího stavu.
+- *Slabé místo:* prokázání „nedostupnosti nebo nečinnosti" vlastníka a vyčíslení škody dle odst. 15 mohou být sporné; chybná identifikace vlastníka může zdržet řízení.
+
+#### H. Praktický závěr
+
+§ 104 zakládá věcná oprávnění operátora k cizím pozemkům a stavbám, preferuje smluvní cestu (služebnost za náhradu limitovanou oceňovacími předpisy) a subsidiárně vyvlastnění; umožňuje havarijní vstup při poruše a ukládá šetřit práv vlastníků a uvést nemovitost do předchozího stavu. Síť EK je samostatnou inženýrskou sítí, nikoli součástí pozemku (odst. 10).
+
+**Checklist (advokát / operátor / vlastník nemovitosti / vyvlastňovací úřad):**
+- [ ] Splňuje operátor podmínky (oznámení podnikání, povolení záměru)?
+- [ ] Byla nabídnuta smlouva o služebnosti s náhradou dle oceňovacích předpisů?
+- [ ] Je při neúspěchu dohody/nečinnosti vlastníka namístě vyvlastnění (odst. 4)?
+- [ ] U havarijního vstupu (odst. 13): bylo nemožné získat souhlas s předstihem a byla nemovitost uvedena do předchozího stavu?
+
+**Typicky rozhodné důkazy / podklady:** oznámení podnikání dle § 8 odst. 2, povolení záměru, návrh smlouvy a znalecké ocenění, doklad o nedostupnosti/nečinnosti vlastníka, dokumentace poruchy a uvedení nemovitosti do předchozího stavu.
+
 ---
 
 ### § 104a — Oprávnění k využívání cizích nemovitostí ve vlastnictví státu
@@ -928,5 +1721,41 @@ Zákon zakotvuje dvoufázový katastrální postup: (i) po povolení záměru se
 #### Zánik služebnosti (odst. 7)
 
 Zákon výslovně stanoví zánik oprávnění: buď (i) trvale odstraní-li se síť z pozemku, nebo (ii) nezahájí-li se stavba do 5 let od vzniku oprávnění. Tím zákon brání „zamrznutí" omezení vlastnického práva veřejnoprávního subjektu bez realizace stavby. Zánik musí být evidován výmazem v katastru nemovitostí, k čemuž je operátor aktivně povinen.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor staví optickou síť přes pozemek ve vlastnictví obce (ÚSC). Disponuje pravomocným povolením záměru a souhlasem obce se stavbou doloženým v řízení. Po dokončení stavby podá návrh na vklad služebnosti do katastru. Obec po roce požaduje jednorázovou náhradu dle oceňovacích předpisů; v jiné lokalitě obec naopak ve veřejném zájmu náhradu nepožaduje. Stavba na jednom z pozemků nebyla do 5 let zahájena. Účastníci: operátor, obec (ÚSC), katastrální úřad. Důkazy: povolení záměru, souhlas obce, doklad o zápisu upozornění a vkladu služebnosti, žádost o náhradu, odhad ceny.
+
+**2. Právní otázka.** Za jakých podmínek vzniká služebnost na pozemku ÚSC dle § 104a, v jaké lhůtě a výši náleží vlastníku náhrada a kdy oprávnění zaniká?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 104a odst. 1–2 (vznik oprávnění z povolení záměru, souhlas ÚSC, šíře 0,3 m, katastrální upozornění a vklad), odst. 3–4 (náhrada dle oceňovacích předpisů na žádost vlastníka do 3 let, výplata do 6 měsíců), odst. 5 (vzdání se náhrady ve veřejném zájmu), odst. 7 (zánik do 5 let při nezahájení stavby), odst. 8 (obdobné použití § 104).
+- *Související ustanovení téhož zákona:* § 104 (obecný režim, práva a povinnosti ze služebností), § 8 odst. 2 (oznámení podnikání).
+- *Související předpisy:* nařízení EU 2024/1309 o gigabitové infrastruktuře (čl. 8 odst. 1); zákon o oceňování majetku; katastrální zákon; zákon o majetku ÚSC.
+- *Judikatura:* nosný princip — vznik služebnosti na veřejných pozemcích je vázán na pravomocné povolení záměru (u ÚSC se souhlasem vlastníka); jde o privilegovaný režim oproti soukromým pozemkům.
+
+**4. Subsumpce.** Na pozemku ÚSC vzniká oprávnění z pravomocného povolení záměru, je-li doložen souhlas vlastníka (odst. 1–2) → vznik splněn. Po dokončení stavby se podá vklad služebnosti a výmaz upozornění. Náhrada náleží na žádost vlastníka podanou do 3 let od vkladu (odst. 3–4); jinak nárok zaniká. Není-li stavba na jednom pozemku do 5 let zahájena, oprávnění zaniká (odst. 7).
+
+**5. Řešení.** Operátor zapíše upozornění po povolení záměru a po dokončení stavby podá vklad služebnosti se současným výmazem upozornění. Požádá-li obec o náhradu do 3 let, operátor nechá vypracovat odhad a vyplatí náhradu do 6 měsíců; obec se může náhrady vzdát ve veřejném zájmu (odst. 5). U pozemku, kde stavba nebyla do 5 let zahájena, operátor zajistí výmaz služebnosti (odst. 7). Procesní krok: hlídat 3letou a 5letou lhůtu.
+
+**6. Varianty.** (a) Pozemek by patřil státu (nikoli ÚSC) → souhlas vlastníka dle odst. 2 se nevyžaduje, postačuje povolení záměru. (b) Povolení by se považovalo za udělené dle čl. 8 odst. 1 nařízení 2024/1309 → oprávnění vzniká i na tomto základě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument 1:* „Obec má nárok na náhradu kdykoli." Neutralizace: žádost o náhradu musí být podána do 3 let od vkladu služebnosti, jinak nárok zaniká (odst. 4).
+- *Protiargument 2:* „Operátor může pozemek blokovat služebností neomezeně." Neutralizace: odst. 7 zakládá zánik oprávnění při nezahájení stavby do 5 let nebo trvalém odstranění sítě; operátor musí zajistit výmaz.
+- *Slabé místo:* u pozemků ÚSC je nutný souhlas vlastníka v řízení o povolení záměru — jeho absence zpochybňuje vznik oprávnění; doložení souhlasu je proto klíčové.
+
+#### H. Praktický závěr
+
+§ 104a zakotvuje privilegovaný režim umísťování sítí EK na veřejných pozemcích: oprávnění (služebnost) vzniká z pravomocného povolení záměru (u ÚSC se souhlasem vlastníka), s dvoufázovým katastrálním postupem, náhradou na žádost do 3 let dle oceňovacích předpisů a zánikem při nezahájení stavby do 5 let.
+
+**Checklist (advokát / operátor / ÚSC / katastrální úřad):**
+- [ ] Existuje pravomocné povolení záměru (případně dle čl. 8 odst. 1 nařízení 2024/1309)?
+- [ ] U pozemku ÚSC: je doložen souhlas vlastníka se stavbou?
+- [ ] Bylo zapsáno upozornění a po dokončení podán vklad služebnosti s výmazem upozornění?
+- [ ] Jsou hlídány lhůty: žádost o náhradu do 3 let, zánik oprávnění při nezahájení stavby do 5 let?
+
+**Typicky rozhodné důkazy / podklady:** povolení záměru, souhlas ÚSC, doklady o zápisu upozornění a vkladu služebnosti, žádost o náhradu a odhad ceny, doklad o zahájení/nezahájení stavby.
 
 ---

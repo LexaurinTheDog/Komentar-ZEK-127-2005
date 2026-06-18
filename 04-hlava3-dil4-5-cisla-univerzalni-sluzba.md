@@ -87,6 +87,44 @@ Příjmy tvoří **část poplatků za využívané kmitočty** ve výši stanov
 
 Povinnost uveřejnit výkaz o hospodaření s prostředky účtu za každý kalendářní rok a zařadit ho do výroční zprávy o činnosti Úřadu (§ 110 ZEK) je projevem principu transparentnosti veřejné správy; výkaz je přístupný veřejnosti a umožňuje kontrolu ze strany mediální obce, provozovatelů a parlamentu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Mobilní operátor (držitel oprávnění k využívání kmitočtů v pásmu 3,5 GHz) je v důsledku celoevropské harmonizace tohoto pásma pro 5G [§ 19 odst. 1 písm. a)] nucen přeladit část své sítě a vyřadit dosavadní mikrovlnné spoje. Vynaloží náklady na úpravu antén, demontáž starých spojů, montáž nových a po dobu šesti měsíců pronajímá náhradní přenosovou kapacitu. Operátor předloží Úřadu kvantifikaci nákladů ve výši 18 mil. Kč doloženou účetní evidencí a technickou dokumentací. Úřad část položek (zejména přechodný pronájem) zpochybní. Důkazy: účetní evidence, technická dokumentace přeladění, faktury za pronájem, doklady o zůstatkové ceně vyřazených zařízení.
+
+**2. Právní otázka.** Které z uplatněných nákladových položek jsou „efektivně a účelně vynaložené náklady" hraditelné z radiokomunikačního účtu podle § 27 odst. 1 a 6, a v jakém rozsahu může Úřad navrženou výši snížit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 odst. 1, 5 a 6 ZEK — nárok na kompenzaci z radiokomunikačního účtu a jeho nákladový katalog.
+- *Související ustanovení téhož zákona:* § 19 odst. 1 písm. a) až c), § 19 odst. 4 písm. c) a g), § 20 odst. 3 (důvody změny); § 110 (výroční zpráva); § 133 a § 37 (poplatky).
+- *Související předpisy:* nařízení vlády podle § 27 odst. 8 (tvorba a čerpání prostředků účtu); EECC (směrnice 2018/1972/EU), čl. 45 a násl. k reorganizaci spektra.
+- *Judikatura:* NSS 9 As 339/2016 — účetní evidence, technická dokumentace a prvotní doklady neslouží jen k vymezení předmětu žádosti, ale i k doložení oprávněnosti (že náklady byly skutečně vynaloženy, v jaké výši, na co a že šlo o efektivně a účelně vynaložené náklady); § 27 odst. 5 neomezuje okruh důkazních prostředků.
+
+**4. Subsumpce.** Příčina změny (harmonizace dle § 19 odst. 1) je splněna; subjekt (držitel oprávnění) je oprávněn. Sporné je kritérium efektivnosti a účelnosti u přechodného pronájmu podle odst. 6 písm. e) — ten je hraditelný jen „po dobu nezbytně nutnou". Úprava antén [písm. a)], zůstatková cena vyřazených spojů [písm. b)], demontáž [písm. c)] a montáž náhrady [písm. d)] do katalogu spadají.
+
+**5. Řešení.** Úřad podle odst. 5 navrženou výši potvrdí nebo stanoví jinou; není vázán návrhem žadatele, ale své snížení musí opřít o posouzení účetní evidence a dokladů (NSS 9 As 339/2016). Pronájem nad rámec doby nezbytně nutné lze krátit; demontáž, montáž a zůstatkovou cenu při řádném doložení nelze paušálně odmítnout. Operátor se může bránit žalobou proti rozhodnutí o stanovení nižší částky.
+
+**6. Varianty.** (a) Změna by byla vyvolána dobrovolnou technickou obnovou sítě — nárok nevzniká vůbec (chybí příčina dle odst. 1). (b) Náklady by vznikly z důvodu nedodržení podmínek oprávnění — druhá věta odst. 1 (technická nekompatibilita) kompenzaci vylučuje.
+
+#### G. Protiargumenty a rizika
+
+- *Úřad nemá důkazní prostor.* Operátor může namítat, že odst. 5 dovoluje jen potvrzení nebo stanovení jiné výše, nikoli rozsáhlé dokazování. Neutralizace: NSS 9 As 339/2016 výslovně uvádí, že § 27 odst. 5 neomezuje okruh důkazních prostředků a doklady plní funkci doložení oprávněnosti.
+- *Limit 25 % blokuje kompenzaci.* Riziko: nedostatek prostředků na účtu při souběhu nároků více držitelů. Odst. 3 však konstruuje přednost nároků držitelů před vlastními výdaji Úřadu — Úřad musí čerpání svých výdajů odložit.
+- *Slabé místo:* výše podílu poplatků odváděného na účet je určena nařízením vlády (odst. 4 a 8), nikoli zákonem; při poddimenzování příjmů účtu hrozí, že legitimní nároky nebudou uspokojeny včas.
+
+#### H. Praktický závěr
+
+Radiokomunikační účet kompenzuje jen náklady vyvolané taxativně vymezenými důvody reorganizace spektra, a jen v rozsahu nákladového katalogu odst. 6, při splnění kritéria efektivnosti a účelnosti posuzovaného Úřadem.
+
+**Checklist (advokát / Úřad / držitel oprávnění):**
+- [ ] Spadá příčina změny pod § 19 odst. 1 písm. a)–c), § 19 odst. 4 písm. c)/g) nebo § 20 odst. 3?
+- [ ] Je žadatelem držitel oprávnění nebo Ministerstvo obrany?
+- [ ] Lze každou položku podřadit pod odst. 6 písm. a)–e)?
+- [ ] Je přechodný pronájem omezen „dobou nezbytně nutnou"?
+- [ ] Doložil žadatel účetní evidenci, technickou dokumentaci a prvotní doklady (odst. 5)?
+- [ ] Respektuje čerpání vlastních výdajů Úřadu strop 25 % a přednost nároků držitelů?
+
+**Typicky rozhodné důkazy / podklady:** účetní evidence, technická dokumentace přeladění, faktury a doklady o zůstatkové ceně, smlouvy o náhradním pronájmu, rozhodnutí Úřadu o stanovení výše nákladů.
+
 ---
 
 **Díl 5 — Správa čísel, číselných řad a kódů, adres a jmen**
@@ -119,6 +157,43 @@ Zákon vymezuje správu čísel jako soubor pěti aktivit: (i) sestavování č�
 
 Veřejná databáze přidělených čísel zajišťuje transparentnost správy čísel a je základním nástrojem pro trh: podnikatelé zjišťují, která čísla jsou přidělena a komu, aniž by museli podávat žádosti o informace. Zákon stanoví minimální obsah (čísla rozhodnutí, doba platnosti), ale Úřad může databázi rozšířit. Přístup dálkovým způsobem (tj. prostřednictvím webového rozhraní nebo API) je povinný. Databáze rovněž slouží jako dokladový podklad při procesech přenositelnosti čísel (§ 34).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nový alternativní operátor připravuje vstup na trh a potřebuje ověřit, která negeografická čísla (řada 9xx) jsou již přidělena a komu, aby si mohl požádat o vlastní číselnou řadu. Současně občan zjistí, že na něj volá z čísla, které vypadá jako přidělené konkrétnímu operátorovi, a chce ověřit jeho držitele. Oba se obrátí na veřejnou databázi přidělených čísel. Operátor zjistí, že databáze neobsahuje jím požadovaný údaj a podá Úřadu žádost o informaci.
+
+**2. Právní otázka.** V jakém minimálním rozsahu musí být databáze přidělených čísel podle § 28 odst. 3 veřejně přístupná a může se subjekt domáhat zveřejnění údajů nad rámec zákonného minima?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 odst. 1 až 3 ZEK — vymezení správy čísel, legislativní zkratka „čísla" a veřejná databáze.
+- *Související ustanovení téhož zákona:* § 29 (číslovací plány), § 30 a § 32 (oprávnění k využívání čísel), § 34 (přenositelnost, kde databáze slouží jako podklad).
+- *Související předpisy:* EECC čl. 93–97 (správa číslovacích zdrojů); zákon č. 106/1999 Sb. o svobodném přístupu k informacím pro údaje nad rámec povinné databáze.
+- *Judikatura:* obecný princip transparentnosti veřejné správy; nosný závěr správních soudů, že povinně zveřejňované registry musí být přístupné dálkovým způsobem bez nutnosti individuálních žádostí.
+
+**4. Subsumpce.** Odst. 3 ukládá minimální obsah databáze: čísla rozhodnutí a doba přidělení; přístup dálkovým způsobem je povinný. Údaj o totožnosti držitele není výslovně mezi minimálními náležitostmi, Úřad jej však může doplnit. Internetové adresy jsou z předmětu správy vyňaty (odst. 1).
+
+**5. Řešení.** Operátor má z databáze nárok na minimálně stanovené údaje dálkovým přístupem; žádost o informace nad rámec minima se posuzuje podle zákona č. 106/1999 Sb. Úřad není povinen databázi rozšiřovat, ale je oprávněn tak učinit. Identifikaci držitele čísla nelze z databáze automaticky dovodit, neobsahuje-li ji.
+
+**6. Varianty.** (a) Šlo by o IP adresu nebo doménové jméno — věc nespadá do správy Úřadu vůbec (odst. 1 výluka), kompetence náleží RIPE NCC/ICANN. (b) Údaj by se týkal přenášeného čísla — relevantní je referenční databáze pro přenositelnost podle § 34, nikoli databáze podle § 28 odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Databáze musí obsahovat držitele.* Lze namítnout, že bez identifikace držitele je databáze pro trh málo užitečná. Neutralizace: zákon stanoví minimum, Úřad jej v praxi rozšiřuje; nedostatek údaje nezakládá nezákonnost, lze využít režim zákona č. 106/1999 Sb.
+- *Výluka internetových adres je sporná.* U konvergovaných služeb hranice mezi „číslem" a „adresou" stírá. Neutralizace: odst. 1 výslovně vylučuje internetové adresy a svěřuje je nadnárodním organizacím; výklad je jednoznačný.
+- *Slabé místo:* zákon neřeší aktuálnost databáze (lhůty aktualizace), což může vést k nesouladu mezi zápisem a skutečností.
+
+#### H. Praktický závěr
+
+Správa čísel je správou omezeného veřejného zdroje; Úřad přiděluje, eviduje i kontroluje využívání a vede veřejnou databázi s minimálním zákonným obsahem dostupnou dálkově.
+
+**Checklist (advokát / Úřad / podnikatel):**
+- [ ] Jde o „číslo" ve smyslu zkratky odst. 1, nebo o vyloučenou internetovou adresu?
+- [ ] Je požadovaný údaj v zákonném minimu databáze (číslo rozhodnutí, doba přidělení)?
+- [ ] Je databáze přístupná dálkovým způsobem?
+- [ ] Pro údaje nad rámec minima — využít zákon č. 106/1999 Sb.?
+- [ ] Je správa v souladu s harmonizačními záměry EU (odst. 1 in fine)?
+
+**Typicky rozhodné důkazy / podklady:** výpis z veřejné databáze přidělených čísel, rozhodnutí o přidělení čísel, žádost o informace a její vyřízení.
+
 ---
 
 ### § 29 — Číslovací plány
@@ -150,6 +225,43 @@ EECC čl. 93 odst. 5 umožňuje zavedení zvláštních číslování v příhra
 #### Náklady změny číslovacího plánu (odst. 3)
 
 Zákon výslovně stanoví, že náklady technických úprav při změně číslovacího plánu nesou **držitelé oprávnění** (operátoři), nikoliv Úřad. Zákazník (účastník/uživatel) nemá nárok ani na náhradu výdajů, ani na náhradu škody způsobené změnou čísla — zákon tak chrání veřejný zájem na efektivní reorganizaci číslovacích plánů před soukromoprávními nároky z titulu odpovědnosti za škodu. Toto pravidlo však nelze vykládat tak, že by vylučovalo odpovědnost operátora vůči účastníkovi za nedostatečné informování o změně čísla (povinnosti dle § 44 a násl. ZEK mohou zakládat nároky ze smluvního vztahu).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřad prováděcím předpisem mění strukturu geografického číslovacího plánu (rozšiřuje délku účastnických čísel v jedné oblasti). Operátor musí na své náklady přečíslovat ústředny a informovat zákazníky; jeden zákazník (provozovatel e-shopu, který má staré číslo natištěné na obalech zboží) požaduje po operátorovi náhradu škody za znehodnocené tiskoviny a za ušlé objednávky.
+
+**2. Právní otázka.** Má účastník při změně čísla v důsledku změny číslovacího plánu nárok na náhradu výdajů nebo škody vůči operátorovi nebo Úřadu podle § 29 odst. 3?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 odst. 1 až 3 ZEK — obsah číslovacích plánů, příhraniční režimy a rozložení nákladů změny.
+- *Související ustanovení téhož zákona:* § 28 (správa čísel), § 30 (oprávnění k využívání čísel), § 34 (přenositelnost a výjimky v plánu), § 44 a násl. (informační povinnosti vůči účastníkovi).
+- *Související předpisy:* prováděcí předpis o číslovacích plánech (§ 29 odst. 4); doporučení ITU-T E.164; EECC čl. 93; občanský zákoník (smluvní odpovědnost operátora).
+- *Judikatura:* nosný závěr, že zákonné vyloučení náhrady škody z titulu změny číslovacího plánu nevylučuje smluvní odpovědnost operátora za porušení informačních povinností.
+
+**4. Subsumpce.** Odst. 3 věta první ukládá náklady technických úprav držiteli oprávnění (operátorovi). Odst. 3 věta druhá vylučuje nárok účastníka na úhradu výdajů i náhradu škody „při změně čísla v důsledku změny číslovacího plánu". Tím je přímý nárok zákazníka z titulu změny plánu vyloučen. Otevřená zůstává odpovědnost operátora za vlastní pochybení (např. neinformování dle § 44 a násl.).
+
+**5. Řešení.** Zákazník nemá nárok na náhradu škody způsobené samotnou změnou číslovacího plánu — zákon chrání veřejný zájem na reorganizaci plánu. Pokud by však operátor zákazníka o změně řádně neinformoval a tím prohloubil škodu, lze uvažovat o smluvní odpovědnosti operátora podle občanského zákoníku ve spojení s § 44 a násl. ZEK.
+
+**6. Varianty.** (a) Změnu by si vyžádal přechod do příhraničního zvláštního režimu dle odst. 2 — povinnost operátora informovat uživatele bez zbytečného odkladu; její porušení může založit odpovědnost. (b) Náklady by nesl Úřad — to je v rozporu s odst. 3 větou první, která je výslovně klade na operátora.
+
+#### G. Protiargumenty a rizika
+
+- *Vyloučení náhrady je nepřiměřené.* Lze namítat zásah do legitimního očekávání zákazníka. Neutralizace: zákon výslovně volí přednost veřejného zájmu na efektivní reorganizaci; jde o ústavně aprobovatelné omezení podpořené harmonizačním účelem.
+- *Operátor přenese všechny náklady na zákazníky cenou.* Riziko ekonomické: náklady úprav se promítnou do cen. Zákon to nezakazuje, ale neumožňuje účtovat je jako samostatnou položku z titulu změny plánu.
+- *Slabé místo:* hranice mezi „škodou ze změny plánu" (vyloučenou) a „škodou z neinformování" (uplatnitelnou) je v praxi neostrá a vyžaduje pečlivé dokazování příčiny.
+
+#### H. Praktický závěr
+
+Číslovací plány jsou podzákonnou technickou normou; náklady jejich změny nese operátor a zákazník nemá nárok na náhradu výdajů ani škody plynoucí přímo ze změny plánu, smluvní odpovědnost operátora za neinformování však zůstává.
+
+**Checklist (advokát / operátor / účastník):**
+- [ ] Vznikla škoda přímo změnou číslovacího plánu, nebo porušením informační povinnosti operátora?
+- [ ] Informoval operátor účastníka o změně čísla podle § 44 a násl.?
+- [ ] Jde o příhraniční zvláštní režim podle odst. 2 s povinností informovat?
+- [ ] Respektuje plán mezinárodní závazky (ITU, EU) a harmonizovaná čísla?
+- [ ] Nese technické náklady úprav držitel oprávnění (odst. 3 věta první)?
+
+**Typicky rozhodné důkazy / podklady:** prováděcí předpis o číslovacím plánu a jeho změna, smlouva s účastníkem, doklad o informování o změně čísla, vyčíslení škody a důkaz o její příčině.
 
 ---
 
@@ -236,6 +348,43 @@ Povinnost nediskriminace při přístupu k číselným řadám je projevem obecn
 
 Oprávnění k využívání čísel je vázáno na konkrétní subjekt, avšak zákon umožňuje **převod** prostřednictvím nového oprávnění na základě společné žádosti přistupujícího a dosavadního držitele. Tato úprava reflektuje obchodní realitu — fúze, akvizice, reorganizace. Explicitní výhrada „není-li v rozhodnutí o udělení stanoveno jinak" umožňuje Úřadu převoditelnost v rozhodnutí omezit nebo vyloučit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nezisková organizace provozující krizovou linku žádá Úřad o oprávnění k využívání evropského harmonizovaného čísla z řady 116. Současně podnikatel — alternativní operátor — žádá o číselnou řadu pro mobilní službu, avšak má vůči Úřadu nedoplatek na pravomocně uložené pokutě. Úřad zvažuje, zda žádosti vyhovět, a v případě operátora, zda využít fakultativní důvod neudělení.
+
+**2. Právní otázka.** Může Úřad odmítnout udělit oprávnění žadateli s nedoplatkem na pokutě (§ 30 odst. 9) a jaké podmínky musí splnit nepodnikatelská právnická osoba pro získání harmonizovaného čísla (§ 30 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1, 2, 8 a 9 ZEK — princip vyhrazení správy čísel, okruh žadatelů, taxativní a fakultativní důvody neudělení.
+- *Související ustanovení téhož zákona:* § 32 (vydání oprávnění), § 31 (čísla zvláštní hodnoty), § 37 (poplatky), § 114 (lhůta k nápravě).
+- *Související předpisy:* EECC čl. 94 (transparentní, objektivní, přiměřené a nediskriminační přidělování); prováděcí předpis o číslovacích plánech.
+- *Judikatura:* obecné principy správního uvážení — fakultativní důvod nelze aplikovat svévolně, rozhodnutí musí být odůvodněno a přezkoumatelné.
+
+**4. Subsumpce.** U harmonizovaného čísla odst. 2 věta třetí rozšiřuje okruh žadatelů na právnické osoby, jejichž činnost odpovídá účelu čísla — krizová linka tuto podmínku splňuje. U operátora s nedoplatkem jde o fakultativní důvod podle odst. 9 („může rozhodnout, že neudělí") — Úřad má správní uvážení, na rozdíl od taxativních (vázaných) důvodů odst. 8.
+
+**5. Řešení.** Neziskové organizaci Úřad oprávnění udělí, doloží-li způsobilost spravovat čísla [odst. 3 písm. d)]. U operátora s nedoplatkem Úřad může, ale nemusí, oprávnění odmítnout; rozhodne-li o neudělení, musí to odůvodnit a respektovat zásadu přiměřenosti. O zvláštních číslech rozhoduje do 3 týdnů (odst. 5), odvolání nemá odkladný účinek (odst. 12).
+
+**6. Varianty.** (a) Operátor by žádal o standardní číslo bez nedoplatku — Úřad rozhodne bezodkladně a důvod odst. 9 nelze použít. (b) Požadovaná čísla by nebyla k dispozici — Úřad může řízení přerušit nejdéle na 8 měsíců (odst. 6), případně neudělit dle odst. 8 písm. d).
+
+#### G. Protiargumenty a rizika
+
+- *Fakultativní odmítnutí je diskriminační.* Operátor může namítat nerovné zacházení. Neutralizace: odst. 9 zakládá zákonný důvod; Úřad musí postupovat konzistentně a rozhodnutí odůvodnit, jinak je přezkoumatelné soudem.
+- *Nediskriminace číselných řad (odst. 10).* Riziko, že držitel řady znevýhodní jiné operátory (např. MVNO). Neutralizace: odst. 10 zakazuje diskriminaci v přístupu k číselným řadám.
+- *Slabé místo:* posouzení „schopnosti spravovat čísla" [odst. 3 písm. d)] u nepodnikatelů je neurčitý pojem; Úřad jej musí konkretizovat, aby rozhodnutí o neudělení dle odst. 8 písm. e) obstálo.
+
+#### H. Praktický závěr
+
+Čísla lze využívat jen na základě oprávnění Úřadu; žadatelé se dělí do tří okruhů, taxativní důvody neudělení (odst. 8) zakládají vázanou pravomoc, nedoplatek (odst. 9) je fakultativním důvodem se správním uvážením.
+
+**Checklist (advokát / Úřad / žadatel):**
+- [ ] Spadá žadatel do některého z okruhů odst. 2 (podnikatel / nepodnikatel pro neveřejné a zkrácené / žadatel o harmonizované číslo)?
+- [ ] Obsahuje žádost náležitosti odst. 3 (vč. doložení způsobilosti u nepodnikatelů)?
+- [ ] Existuje taxativní důvod neudělení dle odst. 8?
+- [ ] Má žadatel nedoplatky (fakultativní důvod odst. 9) — a je rozhodnutí odůvodněno?
+- [ ] Jde o čísla pro zvláštní účely (lhůta 3 týdny dle odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** žádost s přílohami dle odst. 3–4, doklad o způsobilosti spravovat čísla, evidence nedoplatků, číslovací plán a dostupnost čísel.
+
 ---
 
 ### § 31 — Udělování oprávnění k využívání čísel zvláštní ekonomické hodnoty
@@ -257,6 +406,43 @@ Zákon definuje čísla zvláštní ekonomické hodnoty jako čísla **symetrick
 Zákon přebírá model výběrového řízení z § 21 (využívaného pro rádiové kmitočty, viz [03-hlava3-dil3-radiove-spektrum.md](03-hlava3-dil3-radiove-spektrum.md)), ale dává Úřadu diskreci: může přidělit buď pořadím (FIFO) nebo výběrovým řízením. Volba závisí na předpokládané poptávce — je-li zájem o konkrétní číslo ze strany více uchazečů, výběrové řízení zajistí transparentní přidělení a může přinést příjmy do radiokomunikačního účtu.
 
 Odst. 3 umožňuje prodloužit standardní lhůtu 3 týdnů (§ 30 odst. 5) o další **nejvýše 3 týdny** — celková maximální lhůta pro rozhodnutí v případě výběrového řízení je tedy 6 týdnů. Toto prodloužení je instrumentální: výběrové řízení vyžaduje přípravu podmínek, jejich konzultaci a vyhodnocení nabídek.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** O symetrické číslo s vyjádřenou cenou 900 900 900 projeví zájem tři podnikatelé současně. Úřad zvažuje, zda číslo přidělit podle pořadí došlých žádostí (první z nich podal žádost o hodinu dříve), nebo zda vyhlásit výběrové řízení podle § 21. Jeden z neúspěšných uchazečů následně namítá, že přidělení podle pořadí znevýhodnilo subjekty s lepší nabídkou.
+
+**2. Právní otázka.** Podle jakých kritérií Úřad volí mezi přidělením čísla zvláštní ekonomické hodnoty podle pořadí žádostí a výběrovým řízením a je jeho volba přezkoumatelná?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 odst. 1 až 3 ZEK — definice čísel zvláštní ekonomické hodnoty, volba mezi FIFO a výběrovým řízením, prodloužení lhůty.
+- *Související ustanovení téhož zákona:* § 21 (výběrové řízení, přiměřeně použito), § 30 odst. 5 (lhůta 3 týdny), § 32 (vydání oprávnění, vč. závazků z výběrového řízení), § 130 (konzultace).
+- *Související předpisy:* EECC čl. 94 odst. 3 (soutěžní/srovnávací výběrová řízení u čísel výjimečné ekonomické hodnoty); prováděcí předpis o číslovacích plánech.
+- *Judikatura:* nosný závěr, že volba postupu přidělení omezeného zdroje musí být transparentní, předem konzultovaná a odůvodněná, aby obstála v přezkumu.
+
+**4. Subsumpce.** Číslo 900 900 900 je symetrické — jde o číslo zvláštní ekonomické hodnoty (odst. 1 věta druhá). Úřad má diskreci volit mezi pořadím a výběrovým řízením (odst. 1) po konzultaci dle § 130. Při výběrovém řízení se přiměřeně použije § 21 (odst. 2) a lhůtu lze prodloužit nejvýše o 3 týdny (odst. 3), celkem tedy max. 6 týdnů.
+
+**5. Řešení.** Při zjevné poptávce více uchazečů o totéž atraktivní číslo je transparentnější výběrové řízení; volbu Úřad provede po konzultaci a odůvodní. Přidělení podle pořadí není nezákonné, ale při více zájemcích o totéž číslo je vhodnější soutěžní postup. Neúspěšný uchazeč může brojit proti rozhodnutí o udělení oprávnění (vydávaného podle § 32).
+
+**6. Varianty.** (a) O číslo by projevil zájem jediný žadatel — přidělení podle pořadí je namístě, výběrové řízení by bylo nadbytečné. (b) Číslo by nebylo symetrické ani snadno zapamatovatelné — nejde o číslo zvláštní hodnoty a § 31 se neuplatní, postupuje se podle § 30.
+
+#### G. Protiargumenty a rizika
+
+- *Volba postupu je nepřezkoumatelná diskrece.* Lze namítat libovůli. Neutralizace: volba podléhá konzultaci dle § 130 a musí být odůvodněna; soud přezkoumá, zda Úřad nepřekročil meze správního uvážení.
+- *Výběrové řízení neúměrně zdrží přidělení.* Riziko průtahů. Neutralizace: odst. 3 strop prodloužení na 3 týdny brání nepřiměřenému protahování.
+- *Slabé místo:* definice „lehce zapamatovatelného" čísla je neurčitá; hraniční čísla mohou být sporná a vyžadují konzistentní výkladovou praxi Úřadu.
+
+#### H. Praktický závěr
+
+U symetrických nebo snadno zapamatovatelných čísel Úřad po konzultaci volí mezi přidělením podle pořadí a výběrovým řízením podle přiměřeně použitého § 21; lhůtu k rozhodnutí lze prodloužit nejvýše o 3 týdny.
+
+**Checklist (advokát / Úřad / uchazeč):**
+- [ ] Jde o číslo symetrické nebo snadno zapamatovatelné (odst. 1)?
+- [ ] Proběhla konzultace s dotčenými subjekty dle § 130?
+- [ ] Je volba mezi pořadím a výběrovým řízením odůvodněna poptávkou?
+- [ ] Při výběrovém řízení — aplikován přiměřeně § 21?
+- [ ] Nepřekročila celková lhůta 6 týdnů (§ 30 odst. 5 + 3 týdny dle odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** žádosti uchazečů s časovými razítky, podklady konzultace dle § 130, podmínky výběrového řízení, rozhodnutí o udělení oprávnění a jeho odůvodnění.
 
 ---
 
@@ -319,6 +505,43 @@ Zákon nestanoví pevnou dobu platnosti, ale ukládá, že musí být **přimě�
 #### Zvláštní případ při zániku oprávnění u přenesených čísel (odst. 5)
 
 Odst. 5 řeší specifický, ale prakticky závažný případ: co se stane s přenesenými čísly, pokud původnímu držiteli čísla zanikne oprávnění (např. insolvenčním řízením, odnětím)? Zákon ukládá Úřadu ex officio rozhodnout o přidělení dotčené číselné řady jednomu z podnikatelů, kteří na číslech z ní skutečně poskytují služby. Kritéria rozhodování jsou vyjádřena demonstrativně (zejména): dopady na koncové uživatele, ekonomické postavení podnikatelů, zájem na účelném využití. Tímto způsobem zákon chrání kontinuitu služeb pro zákazníky, kteří si čísla přenesli.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor A, který má oprávnění k číselné řadě 601 xxx xxx, vstoupí do insolvence a jeho oprávnění zanikne. V řadě však provozují služby na přenesených číslech tisíce zákazníků operátorů B a C, kteří si svá čísla přenesli (§ 34). Nikdo nepodal žádost o nové oprávnění k celé řadě. Hrozí, že zákazníci ztratí svá čísla.
+
+**2. Právní otázka.** Jak Úřad postupuje při zániku oprávnění držitele číselné řady, na níž jsou přenesená čísla, a podle jakých kritérií rozhodne o novém držiteli (§ 32 odst. 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 odst. 1, 2, 4 a 5 ZEK — obsah oprávnění, doba platnosti a zvláštní postup u přenesených čísel při zániku oprávnění.
+- *Související ustanovení téhož zákona:* § 34 (přenositelnost), § 36 odst. 8 (povinnosti při skončení platnosti), § 30 (udělení oprávnění), § 37 (poplatky).
+- *Související předpisy:* EECC čl. 94 odst. 2 (obsah oprávnění), čl. 106 (přenositelnost a kontinuita); insolvenční zákon (zánik osoby/oprávnění).
+- *Judikatura:* nosný závěr o přednosti ochrany kontinuity služeb pro koncové uživatele při zániku oprávnění původního držitele řady.
+
+**4. Subsumpce.** Nastala situace odst. 5: zaniklo oprávnění k řadě s přenesenými čísly podle § 34, nedošlo ke změně držitele ani nebyla podána způsobilá žádost dle § 30. Úřad proto rozhodne ex officio o udělení oprávnění k řadě jednomu z podnikatelů, kteří na ní skutečně poskytují služby (typicky B nebo C), zohledně demonstrativní kritéria: dopady na koncové uživatele, ekonomické postavení podnikatelů a zájem na účelném využití.
+
+**5. Řešení.** Úřad zvolí jako nového držitele toho z podnikatelů poskytujících služby na řadě, u nějž přidělení nejlépe zajistí kontinuitu pro koncové uživatele. Rozhodnutí odůvodní podle kritérií odst. 5. Doba platnosti nového oprávnění musí být přiměřená dané službě a v souladu s harmonizačními záměry EU (odst. 4).
+
+**6. Varianty.** (a) Byla by podána způsobilá žádost dle § 30 nebo by došlo ke změně držitele — postup dle odst. 5 se neuplatní, oprávnění se udělí standardně. (b) V řadě by nebyla žádná přenesená čísla — odst. 5 se neaplikuje a čísla se po skončení oprávnění přestanou využívat (§ 36 odst. 8 věta první).
+
+#### G. Protiargumenty a rizika
+
+- *Výběr nového držitele je svévolný.* Lze namítat zvýhodnění jednoho operátora. Neutralizace: kritéria odst. 5 jsou sice demonstrativní, ale Úřad je musí aplikovat a rozhodnutí odůvodnit; přednost má ochrana koncových uživatelů.
+- *Změna druhu služby bez změny oprávnění.* Riziko obcházení účelové vázanosti čísla [odst. 1 písm. c)]. Neutralizace: změna služby vyžaduje změnu oprávnění; jinak jde o porušení podmínek a důvod k odnětí (§ 36).
+- *Slabé místo:* zákon neurčuje pořadí mezi více vhodnými kandidáty; Úřad musí vážit ekonomické postavení a dopady, což může být sporné.
+
+#### H. Praktický závěr
+
+Oprávnění obsahuje povinné náležitosti (odst. 1) i fakultativní podmínky (odst. 2); při zániku oprávnění k řadě s přenesenými čísly Úřad ex officio udělí oprávnění jednomu z aktivních poskytovatelů, aby zachoval kontinuitu služeb.
+
+**Checklist (advokát / Úřad / operátor):**
+- [ ] Obsahuje oprávnění všechny povinné náležitosti odst. 1 písm. a)–f)?
+- [ ] Je doba platnosti přiměřená službě a v souladu s EU/mezinárodními závazky a bezpečností státu (odst. 4)?
+- [ ] Jde o zánik oprávnění k řadě s přenesenými čísly (aktivace postupu odst. 5)?
+- [ ] Byla podána způsobilá žádost dle § 30 nebo došlo ke změně držitele?
+- [ ] Odůvodnil Úřad výběr nového držitele kritérii odst. 5?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění a jeho podmínky, evidence přenesených čísel v řadě, doklad o zániku oprávnění původního držitele, podklady o dopadech na uživatele a ekonomickém postavení kandidátů.
 
 ---
 
@@ -405,6 +628,43 @@ Zákon zavádí zvláštní správní opatření: na žádost provozovatele tís
 
 Odst. 18 reflektuje technologický posun k internetovým tísňovým komunikacím: i poskytovatelé přístupu k internetu (kteří nejsou poskytovateli interpersonálních komunikačních služeb v tradiční smyslu) musejí umožnit přístup k tísňovým službám bezplatně, a datový provoz tísňové komunikace se nezapočítává do datového limitu. Tím se zabraňuje situaci, kdy by zákazník s vyčerpaným datovým limitem neměl přístup k záchranným službám.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník opakovaně volá na linku 112 a 158 jen proto, aby obtěžoval operátory tísňového centra. Centrum tísňové komunikace požádá v elektronické podobě operátora, v jehož síti komunikace začala, o zablokování SIM karty. Operátor SIM zablokuje. Účastník následně tvrdí, že šlo o omyl (děti si hrály s telefonem), a domáhá se odblokování. Souběžně osoba se sluchovým postižením namítá, že nemohla přivolat pomoc, protože operátor nezajistil rovnocenný přístup k tísni.
+
+**2. Právní otázka.** Za jakých podmínek lze zablokovat SIM kartu pro zlomyslná volání na tísňová čísla, kdo rozhoduje o odblokování a jaký je rozsah povinnosti zajistit rovnocenný přístup osobám se zdravotním postižením (§ 33 odst. 1, 10, 11)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33 odst. 1, 5, 10, 11 a 12 ZEK — přístup k tísňovým službám, lokalizace, blokace SIM při zlomyslné komunikaci a odblokování.
+- *Související ustanovení téhož zákona:* § 91 (lokalizační údaje), § 53 odst. 1 (významná tržní síla, odst. 8), § 114 (lhůty), § 33b (veřejná výstraha).
+- *Související předpisy:* EECC čl. 109 (přístup k tísňovým službám); GDPR čl. 6 odst. 1 písm. c) a recitál 45 (zpracování lokalizace bez souhlasu při plnění právní povinnosti).
+- *Judikatura:* nosný závěr, že omezení přístupu k síti (blokace SIM) musí být přiměřené závažnosti jednání a podléhat přezkumu správním orgánem.
+
+**4. Subsumpce.** Zlomyslná komunikace dle odst. 12 = volání na tísňová čísla za jiným účelem než dle odst. 1. Centrum podalo elektronickou žádost (odst. 10), operátor SIM zablokoval. O odblokování však rozhoduje výlučně Úřad (odst. 11), který přihlédne k závažnosti, způsobu, rozsahu a následkům. U osoby se zdravotním postižením platí povinnost rovnocenného přístupu (odst. 1 věta druhá), jejíž nesplnění je porušením zákona.
+
+**5. Řešení.** Blokaci provede operátor jen na elektronickou žádost centra; odblokování nemůže operátor provést sám — o něm rozhodne Úřad na žádost dotčeného účastníka po posouzení závažnosti (odst. 11). Tvrzení o omylu („děti") je relevantní pro toto posouzení. Operátor, který nezajistil rovnocenný přístup osobě se zdravotním postižením, porušil odst. 1 a hrozí mu sankce; lokalizační údaje k tísni se předávají bez souhlasu (odst. 5).
+
+**6. Varianty.** (a) Žádost centra by nebyla v elektronické podobě — nesplnění formy dle odst. 10, blokace by byla vadná. (b) Šlo by o poskytovatele neuvedeného v odst. 1 (např. ISP zajišťující přístup k tísni přes internet) — použijí se obdobně jen odstavce vyjmenované v odst. 18 a přístup je bezplatný bez započtení do datového limitu.
+
+#### G. Protiargumenty a rizika
+
+- *Blokace SIM je nepřiměřený zásah.* Lze namítat zásah do práva na přístup ke službám. Neutralizace: blokaci provádí operátor jen na žádost centra a o odblokování rozhoduje Úřad vážící závažnost (odst. 11) — je zabudována dvoustupňová ochrana přiměřenosti.
+- *Předání lokalizace bez souhlasu porušuje GDPR.* Neutralizace: jde o plnění právní povinnosti dle GDPR čl. 6 odst. 1 písm. c) a recitálu 45; odst. 5 souhlas výslovně nevyžaduje.
+- *Slabé místo:* kategorizace zlomyslné komunikace a podmínky blokace jsou v prováděcím předpise (odst. 19); bez něj nebo při jeho vadě je správní praxe zranitelná.
+
+#### H. Praktický závěr
+
+Přístup k tísňovým číslům (112, 150, 155, 158) musí být bezplatný a rovnocenný i pro osoby se zdravotním postižením; lokalizace se předává bez souhlasu, blokaci SIM při zlomyslné komunikaci provádí operátor na žádost centra a o odblokování rozhoduje výhradně Úřad.
+
+**Checklist (advokát / Úřad / operátor / centrum tísně):**
+- [ ] Jde o podnikatele dle odst. 1, nebo o poskytovatele dle odst. 18 (obdobné použití vyjmenovaných odstavců)?
+- [ ] Je přístup k tísni bezplatný, bez platebního prostředku a rovnocenný i pro osoby se zdravotním postižením?
+- [ ] Je žádost centra o blokaci v elektronické podobě (odst. 10)?
+- [ ] Rozhoduje o odblokování Úřad s přihlédnutím k závažnosti (odst. 11)?
+- [ ] Jsou lokalizační údaje (§ 91) předávány bezodkladně a bezplatně (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** záznamy o tísňové komunikaci, elektronická žádost centra o blokaci, lokalizační a identifikační údaje, doklad o zajištění rovnocenného přístupu, rozhodnutí Úřadu o odblokování.
+
 ---
 
 ### § 33a — Přístup k evropským harmonizovaným číslům
@@ -422,6 +682,43 @@ Odst. 18 reflektuje technologický posun k internetovým tísňovým komunikací
 Evropská harmonizovaná čísla jsou celoevropsky vyhrazená čísla (typicky začínající 116) určená pro humanitární a sociální služby (116 111 — linka pomoci ohroženým dětem, 116 123 — krizová linka, 116 000 — linka pro pohřešované děti). Zákon zajišťuje, že tato čísla jsou v ČR volatelná **bezplatně** bez nutnosti platebního prostředku — analogicky jako tísňová čísla. Povinnost se vztahuje na poskytovatele hlasové komunikační služby obecně (bez omezení na interpersonální služby založené na číslech).
 
 Zákon však výslovně zachovává **právo poskytovatele na náhradu nákladů** vůči provozovateli harmonizovaného čísla (odst. 1 in fine) — bezplatnost pro uživatele neznamená, že operátor volání musí nést náklady bez kompenzace; vzájemné finanční vypořádání probíhá na úrovni business-to-business.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník zjistí, že jeho operátor mu odmítá zdarma propojit volání na linku pomoci ohroženým dětem 116 111 a místo toho účtuje běžnou minutovou sazbu. Provozovatel linky (nezisková organizace) zároveň namítá, že někteří operátoři jeho číslo vůbec nesměrují. Operátor argumentuje, že bezplatnost pro uživatele by ho ekonomicky zatížila.
+
+**2. Právní otázka.** Je poskytovatel hlasové komunikační služby povinen umožnit bezplatné volání na evropská harmonizovaná čísla řady 116 a může si nárokovat náhradu nákladů (§ 33a odst. 1)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33a odst. 1 a 2 ZEK — bezplatný přístup k evropským harmonizovaným číslům a informační povinnost.
+- *Související ustanovení téhož zákona:* § 30 odst. 2 (oprávnění k harmonizovaným číslům), § 29 odst. 1 (harmonizovaná čísla v plánu), § 33 (tísňová komunikace, analogie bezplatnosti), § 36 odst. 4 písm. c) (odnětí při nevyužívání harmonizovaného čísla).
+- *Související předpisy:* rozhodnutí Komise o vyhrazení čísel řady 116; EECC čl. 96 a příloha; číslovací plán.
+- *Judikatura:* nosný závěr, že bezplatnost služby pro koncového uživatele nevylučuje vzájemné finanční vypořádání mezi podnikateli na úrovni B2B.
+
+**4. Subsumpce.** Číslo 116 111 je evropské harmonizované číslo. Podle odst. 1 musí poskytovatel hlasové komunikační služby umožnit volání bezplatně bez platebního prostředku — povinnost dopadá na poskytovatele obecně, nejen na služby založené na číslech. Bezplatnost se týká vztahu k uživateli; odst. 1 in fine zachovává právo operátora na náhradu nákladů vůči osobě, která číslo využívá (provozovateli linky).
+
+**5. Řešení.** Operátor je povinen volání na 116 111 propojit bezplatně pro uživatele; účtování běžné sazby je porušením odst. 1. Ekonomickou kompenzaci řeší operátor nárokem na náhradu nákladů vůči provozovateli linky (B2B), nikoli na úkor uživatele. Nesměrování čísla je porušením a může vést k sankci; je rovněž porušena informační povinnost dle odst. 2.
+
+**6. Varianty.** (a) Provozovatel linky by harmonizované číslo dlouhodobě nevyužíval — to je důvodem k odnětí jeho oprávnění dle § 36 odst. 4 písm. c), nikoli k odmítnutí směrování operátorem. (b) Šlo by o číslo, které není harmonizované (běžné komerční číslo) — bezplatnost dle § 33a se neuplatní.
+
+#### G. Protiargumenty a rizika
+
+- *Bezplatnost je nepřiměřené břemeno operátora.* Neutralizace: odst. 1 in fine výslovně zachovává právo operátora na náhradu nákladů vůči provozovateli čísla; břemeno se přenáší na B2B úroveň, nikoli na operátora bez kompenzace.
+- *Povinnost dopadá jen na služby založené na číslech.* Neutralizace: text odst. 1 hovoří o „poskytovateli hlasové komunikační služby" obecně — okruh povinných je širší než u § 33.
+- *Slabé místo:* zákon neřeší výši náhrady nákladů mezi operátorem a provozovatelem; spory se řeší smluvně, případně před Úřadem dle obecných ustanovení.
+
+#### H. Praktický závěr
+
+Volání na evropská harmonizovaná čísla (řada 116) musí být pro uživatele bezplatné a bez platebního prostředku, přičemž operátor si zachovává právo na náhradu nákladů vůči provozovateli čísla a má informační povinnost vůči účastníkům.
+
+**Checklist (advokát / operátor / provozovatel linky):**
+- [ ] Jde o evropské harmonizované číslo (řada 116) podle číslovacího plánu?
+- [ ] Je volání pro uživatele bezplatné a bez platebního prostředku?
+- [ ] Uplatnil operátor případnou náhradu nákladů vůči provozovateli čísla (B2B), nikoli vůči uživateli?
+- [ ] Směruje operátor harmonizované číslo (zákaz nepropojení)?
+- [ ] Splnil operátor informační povinnost dálkovým přístupem (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** vyúčtování volání na číslo 116, rozhodnutí o vyhrazení harmonizovaného čísla, oprávnění provozovatele, doklad o směrování/nepropojení, informace zveřejněné operátorem.
 
 ---
 
@@ -446,6 +743,43 @@ Zákon však výslovně zachovává **právo poskytovatele na náhradu nákladů
 Zákon garantuje operátorům **náhradu efektivně a účelně vynaložených nákladů** (odst. 1 in fine) — analogicky jako u databáze pro tísňové volání (§ 33 odst. 4). Tím zákon zabraňuje přenosu nepřiměřeného ekonomického břemene na operátory; náklady výstrahy nesou nakonec státní orgány (zpravidla HZS/IZS nebo Ministerstvo vnitra jako iniciátor výstrah).
 
 Zákon zmrazuje technologické minimum na úrovni SMS (odst. 3), ale výslovně předjímá rozvoj dalších forem — notamment technologie Cell Broadcast, která umožňuje cílenější geografické zaměření zprávy a funguje i bez aktivní sítě pro datové přenosy. Vývoj systému je ponechán na spolupráci operátorů s Ministerstvem vnitra a Úřadem (odst. 4).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Krajský hejtman vyhlásí povodňový stav a Ministerstvo vnitra (HZS) iniciuje rozeslání veřejné výstrahy obyvatelům zasažené oblasti, aby se evakuovali. Mobilní operátor odešle SMS výstrahu jen části dotčených uživatelů a poté žádá stát o náhradu nákladů. Pevný operátor namítá, že na něj povinnost nedopadá. Jeden uživatel si stěžuje, že výstrahu vůbec neobdržel.
+
+**2. Právní otázka.** Na koho dopadá povinnost předávat veřejné výstrahy podle § 33b, v jakém minimálním technologickém rozsahu a má operátor nárok na náhradu nákladů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 33b odst. 1 až 4 ZEK — povinnost mobilních operátorů předávat veřejné výstrahy, náhrada nákladů, minimum SMS, rozvoj dalších forem.
+- *Související ustanovení téhož zákona:* § 33 (tísňová komunikace, vč. odst. 14–15), § 91 (lokalizace), § 110 (Úřad).
+- *Související předpisy:* EECC čl. 110 (Public Warning System); prováděcí předpis dle odst. 2 (pravidla aktivace, iniciátor, forma, výše nákladů); krizový zákon (vyhlášení krizového stavu).
+- *Judikatura:* nosný závěr o garanci náhrady efektivně a účelně vynaložených nákladů provozovateli při plnění veřejnoprávně uložené povinnosti.
+
+**4. Subsumpce.** Povinnost dle odst. 1 dopadá výhradně na poskytovatele mobilní interpersonální komunikační služby založené na číslech — pevný operátor jí zatížen není. Systém zahrnuje alespoň SMS (odst. 3). Operátorovi náleží náhrada efektivně a účelně vynaložených nákladů (odst. 1 in fine), jejíž výši a způsob určení stanoví prováděcí předpis (odst. 2).
+
+**5. Řešení.** Mobilní operátor musí výstrahu předat dotčeným uživatelům v určené územní oblasti bezplatně; pevní operátoři povinni nejsou. Náhradu nákladů operátor uplatní podle prováděcího předpisu (odst. 2). Nepředání výstrahy všem dotčeným uživatelům může zakládat porušení povinnosti dle odst. 1, je-li to v rozporu s pravidly aktivace a rozsahem dle prováděcího předpisu.
+
+**6. Varianty.** (a) Výstraha by byla rozesílána technologií Cell Broadcast místo SMS — odst. 3 stanoví SMS jen jako minimum; pokročilejší formy jsou přípustné a předjímané (odst. 4). (b) Iniciátorem by nebyl oprávněný subjekt dle prováděcího předpisu — aktivace by byla vadná a nárok na náhradu nákladů sporný.
+
+#### G. Protiargumenty a rizika
+
+- *Povinnost je nepřiměřená zátěž operátora.* Neutralizace: odst. 1 in fine garantuje náhradu efektivně a účelně vynaložených nákladů; ekonomické břemeno nese iniciátor/stát.
+- *Pevní operátoři by měli být také zapojeni.* Neutralizace: geografické cílení výstrah (Cell Broadcast/SMS) je technicky vázáno na mobilní sítě; zákon proto povinnost cílí jen na mobilní operátory.
+- *Slabé místo:* pravidla aktivace, iniciátor a výše nákladů jsou v prováděcím předpise (odst. 2); bez něj je povinnost obtížně vynutitelná a náhrada nákladů nejasná.
+
+#### H. Praktický závěr
+
+Systém veřejné výstrahy zavazuje výhradně mobilní operátory předávat dotčeným uživatelům bezplatně výstrahy (minimálně SMS) s nárokem na náhradu efektivně a účelně vynaložených nákladů podle prováděcího předpisu.
+
+**Checklist (advokát / operátor / Ministerstvo vnitra):**
+- [ ] Jde o poskytovatele mobilní interpersonální komunikační služby založené na číslech?
+- [ ] Byla výstraha předána dotčeným uživatelům v určené územní oblasti bezplatně?
+- [ ] Zahrnuje systém alespoň SMS (odst. 3)?
+- [ ] Byl iniciátor a postup aktivace v souladu s prováděcím předpisem (odst. 2)?
+- [ ] Uplatnil operátor náhradu efektivně a účelně vynaložených nákladů?
+
+**Typicky rozhodné důkazy / podklady:** záznam o aktivaci výstrahy a jejím iniciátorovi, doklad o rozsahu rozeslání (počet a lokalita uživatelů), vyčíslení nákladů, prováděcí předpis dle odst. 2.
 
 ---
 
@@ -526,6 +860,44 @@ Zákon zakotvuje právo na **paušální náhradu** za zpoždění nebo zneužit
 
 Zákon chrání zákazníky předplacených služeb (prepaid): opouštěný operátor musí na jejich žádost vrátit zbývající zůstatek předplatného do 30 dnů od zániku smlouvy. Smlouva může ujednat právo operátora na náhradu nákladů spojených s vrácením — zákon tím akceptuje administrativní zátěž operátora, ale neumožňuje operátorovi zůstatek si ponechat.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník s mobilní předplacenou kartou požádá nového (přejímajícího) operátora o přenesení svého čísla. Přejímající operátor obdrží žádost s ověřovacím kódem v pondělí. Přenos se však zdrží a číslo je aktivováno až po pěti pracovních dnech, přičemž zákazník byl bez služby tři dny. Zákazník požaduje paušální náhradu a vrácení zůstatku předplatného; opouštěný operátor namítá, že zákazník měl smlouvu na dobu určitou a přenos znamená neoprávněné ukončení závazku.
+
+**2. Právní otázka.** Jaké jsou maximální lhůty procesu přenesení čísla, kdy vzniká nárok na paušální náhradu a v jaké výši, a může opouštěný operátor bránit přenosu odkazem na trvající závazek (§ 34 odst. 6, 11, 13)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34 odst. 1, 6, 7, 10, 11, 13–15 ZEK — bezplatná přenositelnost, lhůty, paušální náhrada, zůstatek předplatného, záchranná klauzule a zákaz blokace.
+- *Související ustanovení téhož zákona:* § 29 odst. 4 (výjimky z přenositelnosti), § 63b odst. 10 (zánik závazku), § 34a (změna ISP, paralela), § 32 odst. 5 (řada s přenesenými čísly).
+- *Související předpisy:* prováděcí předpis dle § 34 odst. 5 (technické podmínky, lhůty, cena); EECC čl. 106; občanský zákoník (náhrada škody nad paušál).
+- *Judikatura:* NSS 1 Ao 1/2005 — právo na přenesení čísla nezahrnuje právo jednostranně ukončit závazek vůči operátorovi; ČTÚ je zmocněn jen ke stanovení technických a organizačních podmínek, nikoli právních následků přenesení. NSS 5 A 147/2010 — povinnost zajistit přenositelnost vzniká ze zákona a kvalifikované žádosti zákazníka; operátoři se jí nemohou zprostit ani vzájemnou dohodou.
+
+**4. Subsumpce.** Výpadek služby nesmí přesáhnout 1 pracovní den (odst. 6) a aktivace musí proběhnout do 1 pracovního dne od ujednaného data (odst. 13). Pětidenní prodleva tyto lhůty porušuje — vzniká nárok na paušální náhradu (odst. 11) v rozmezí 100–1 000 Kč/den dle prováděcího předpisu. Zůstatek prepaid se vrací na žádost do 30 dnů (odst. 10). Trvající závazek dle NSS 1 Ao 1/2005 přenosu nebrání, ale přenesení neukončuje samo o sobě smluvní závazky účastníka.
+
+**5. Řešení.** Zákazník má nárok na paušální náhradu za dny prodlení nad rámec lhůt (odst. 11), navíc na vrácení zůstatku předplatného (odst. 10) a případně na náhradu škody nad paušál dle občanského zákoníku. Opouštěný operátor nesmí přenosu bránit (odst. 15) a při selhání procesu musí číslo a službu znovu aktivovat za původních podmínek (odst. 14); přenos však sám o sobě neukončuje smluvní závazky zákazníka (NSS 1 Ao 1/2005).
+
+**6. Varianty.** (a) Šlo by o přenos mezi pevnou a mobilní sítí — ten je vyloučen (odst. 2), ledaže prováděcí předpis stanoví jinak. (b) Zákazník by nedoložil totožnost na výzvu přejímajícího operátora — hledí se na něj, jako by o přenesení nepožádal (odst. 8).
+
+#### G. Protiargumenty a rizika
+
+- *Operátoři si dohodou upraví průběh a vyloučí povinnost.* Neutralizace: NSS 5 A 147/2010 — povinnost vzniká ze zákona a kvalifikované žádosti; vzájemnou dohodou se jí operátoři zprostit nemohou.
+- *Přenesení čísla ukončuje smlouvu.* Neutralizace: NSS 1 Ao 1/2005 — právo na přenesení nezahrnuje právo jednostranně ukončit závazek; zánik závazku se řídí § 63b odst. 10, nikoli technickými podmínkami ČTÚ.
+- *Slabé místo:* konkrétní výše paušální náhrady v rozmezí 100–1 000 Kč závisí na prováděcím předpise; bez něj je nárok obtížně vyčíslitelný.
+
+#### H. Praktický závěr
+
+Přenositelnost čísla je bezplatná, výpadek nesmí přesáhnout 1 pracovní den, při prodlení vzniká paušální náhrada 100–1 000 Kč/den a prepaid zůstatek se vrací; přenos však sám o sobě neukončuje smluvní závazky zákazníka a operátoři se povinnosti nemohou zprostit dohodou.
+
+**Checklist (advokát / operátor / účastník):**
+- [ ] Jde o přenos v rámci přípustného rozsahu (nikoli pevná↔mobilní, není-li výjimka dle § 29 odst. 4)?
+- [ ] Vede proces přejímající operátor a má ověřovací kód (odst. 7)?
+- [ ] Nepřesáhl výpadek 1 pracovní den (odst. 6) a aktivace 1 pracovní den od ujednaného data (odst. 13)?
+- [ ] Vznikl nárok na paušální náhradu (odst. 11) a v jaké výši dle prováděcího předpisu?
+- [ ] Byl při prepaid vrácen zůstatek do 30 dnů (odst. 10)?
+- [ ] Nebrání nikdo přenosu (odst. 15) a byla při selhání obnovena služba (odst. 14)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o přenesení s ověřovacím kódem, časové záznamy procesu a aktivace, smlouva a doklad o zániku závazku (§ 63b odst. 10), doklad o výpadku služby, vyúčtování zůstatku předplatného.
+
 ---
 
 ### § 34a — Změna poskytovatele služby přístupu k internetu
@@ -582,6 +954,44 @@ Na rozdíl od přenositelnosti čísel, která je bezpodmínečná, kontinuita i
 
 Odst. 12 zavádí pravidlo nediskriminačního přístupu k technickým systémům pro výměnu informací mezi operátory při změně poskytovatele. Pokud existuje centralizovaný switching systém (centrální databáze, API rozhraní), musí být přístup k němu otevřen všem operátorům za stejných podmínek a poplatek za přístup nesmí přesáhnout účelně a efektivně vynaložené náklady. Tím se zabraňuje dominantním operátorům blokovat přechod zákazníků k menším ISP prostřednictvím uzavřených systémů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Domácnost chce přejít od ISP A (kabelové připojení) k ISP B (xDSL po sdílené účastnické přípojce třetí strany). Zákazník podá přejímajícímu ISP B žádost s ověřovacím kódem. Přechod se však zdrží o čtyři pracovní dny a po dva dny je domácnost zcela bez internetu. ISP B namítá, že kontinuita nebyla technicky proveditelná, protože vlastník přípojky neuvolnil port včas.
+
+**2. Právní otázka.** V jakém rozsahu je poskytovatel povinen zajistit kontinuitu internetového připojení při změně ISP, jaká je maximální doba přerušení a vzniká nárok na paušální náhradu (§ 34a odst. 1, 8, 11)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 34a odst. 1, 8, 10, 11 a 12 ZEK — kontinuita služby přístupu k internetu, lhůta přerušení, zákaz blokace, paušální náhrada a nediskriminační přístup ke switching systémům.
+- *Související ustanovení téhož zákona:* § 34 (přenositelnost, paralelní úprava a delegace prováděcího předpisu), § 34 odst. 5 a 11 (prováděcí předpis a paušální náhrada).
+- *Související předpisy:* prováděcí předpis dle § 34 odst. 5 a 11 (technické podmínky, paušál); EECC čl. 106 odst. 4; nařízení (EU) 2015/2120 (otevřený internet) podpůrně.
+- *Judikatura:* nosný závěr, že podmínka „technické proveditelnosti" musí být vykládána objektivně a operátor ji nesmí zneužívat jako záminku k blokaci přechodu.
+
+**4. Subsumpce.** Kontinuita připojení je podle odst. 1 vázána na technickou proveditelnost — na rozdíl od bezpodmínečné přenositelnosti čísel. Přerušení nesmí přesáhnout 1 pracovní den (odst. 8 in fine), opouštěný ISP musí poskytovat službu až do aktivace u přejímajícího (odst. 8). Dvoudenní výpadek lhůtu porušuje; vzniká nárok na paušální náhradu (odst. 11) v rozmezí 100–1 000 Kč/den. Námitka technické neproveditelnosti musí být objektivně doložena.
+
+**5. Řešení.** Pokud byla kontinuita technicky proveditelná, dvoudenní výpadek porušuje odst. 8 a zakládá nárok na paušální náhradu (odst. 11) a případně na náhradu škody nad paušál. Tvrzená technická neproveditelnost (neuvolnění portu) musí být objektivně doložena; nelze ji použít jako záminku — zákaz blokace procesu platí i zde (odst. 10). Přístup ke switching systému musí být nediskriminační a poplatek jen nákladově orientovaný (odst. 12).
+
+**6. Varianty.** (a) V lokalitě skutečně neexistuje alternativní infrastruktura — kontinuita objektivně není proveditelná a povinnost dle odst. 1 je oslabena (podmínka „je-li to technicky možné"). (b) Zákazník by neposkytl součinnost při ověření totožnosti — hledí se na něj, jako by o změnu nepožádal (odst. 7).
+
+#### G. Protiargumenty a rizika
+
+- *„Technická neproveditelnost" jako univerzální výmluva.* Neutralizace: výhrada musí být objektivně doložena; zákaz blokace procesu (odst. 10) a nediskriminační přístup ke switching systémům (odst. 12) brání jejímu zneužití.
+- *Paušální náhrada nepokryje skutečnou škodu (např. ušlý zisk OSVČ na home office).* Neutralizace: odst. 11 in fine zachovává právo na náhradu škody dle občanského zákoníku v rozsahu nad paušál.
+- *Slabé místo:* § 34a sdílí prováděcí předpis s § 34; rozsah „technické proveditelnosti" a konkrétní lhůty závisí na podzákonné úpravě, což zvyšuje výkladovou nejistotu.
+
+#### H. Praktický závěr
+
+Změna ISP musí zajistit kontinuitu připojení s přerušením nejvýše 1 pracovní den, je-li to technicky možné; při prodlení vzniká paušální náhrada 100–1 000 Kč/den, proces vede přejímající poskytovatel a přístup ke switching systémům musí být nediskriminační a nákladově orientovaný.
+
+**Checklist (advokát / ISP / účastník):**
+- [ ] Byla kontinuita připojení objektivně technicky proveditelná (odst. 1)?
+- [ ] Vede proces přejímající ISP s ověřovacím kódem (odst. 4–6)?
+- [ ] Nepřesáhlo přerušení 1 pracovní den (odst. 8)?
+- [ ] Poskytoval opouštěný ISP službu až do aktivace u přejímajícího (odst. 8)?
+- [ ] Vznikl nárok na paušální náhradu (odst. 11) a v jaké výši?
+- [ ] Je přístup ke switching systému nediskriminační a poplatek nákladově orientovaný (odst. 12)?
+
+**Typicky rozhodné důkazy / podklady:** žádost o změnu ISP s ověřovacím kódem, časové záznamy procesu, doklad o době přerušení služby, podklady o technické (ne)proveditelnosti, vyčíslení paušální náhrady a škody.
+
 ---
 
 ### § 35 — Přístup k telefonním číslům a službám elektronických komunikací
@@ -616,6 +1026,44 @@ Zákon vytváří třístupňový mechanismus ochrany:
 3. **Blokace přístupu a zadržení plateb** (odst. 3–4) — reaktivní opatření při zjištěném zneužití.
 
 Blokace a zadržení plateb jsou vázány na podnět orgánu veřejné moci příslušného k projednání podvodu (typicky Policie ČR nebo státní zastupitelství). Úřad nerozhoduje o podvodu samém, ale zajišťuje technické opatření — blokaci a zadržení plateb. Platby zůstávají zadrženy do rozhodnutí příslušného orgánu; zákon tak konstruuje ochranné opatření majetkoprávní povahy, které de facto mrazí podezřelý finanční tok.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Skupina spotřebitelů je obětí podvodu na čísle s vyjádřenou cenou (premium rate): aplikace nenápadně volá drahé číslo a generuje vysoké účty. Policie ČR zahájí šetření a podá Úřadu podnět. Souběžně se ukáže, že operátor uživatele před voláním na prémiové číslo bezplatně neinformoval automatickou hláskou o ceně, ač mu to Úřad uložil. Jeden uživatel již prémiovou službu uhradil.
+
+**2. Právní otázka.** Může Úřad nařídit zablokování přístupu k číslu a zadržet již uhrazené platby a za jakých podmínek (§ 35 odst. 2 až 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 35 odst. 1 až 4 ZEK — přístup ke všem číslům v EU, informování o ceně, automatická hláska, blokace a zadržení plateb.
+- *Související ustanovení téhož zákona:* § 36 (odnětí oprávnění při porušení), § 114 (lhůta k nápravě), § 37 (poplatky).
+- *Související předpisy:* EECC čl. 97 a čl. 108; trestní řád a zákon o trestní odpovědnosti (podvodné jednání); zákon o ochraně spotřebitele.
+- *Judikatura:* nosný závěr, že zadržení plateb je ochranným opatřením majetkoprávní povahy navázaným na podnět orgánu příslušného k projednání podvodu, nikoli sankcí ukládanou Úřadem.
+
+**4. Subsumpce.** Úřad mohl operátorovi uložit informační povinnost a automatickou hlásku (odst. 2). Porušení této povinnosti zakládá pravomoc Úřadu nařídit blokaci přístupu k číslu (odst. 3 věta první). Zadržení uhrazených plateb je podmíněno důvodným podezřením z podvodu a podnětem orgánu veřejné moci příslušného k jeho projednání (odst. 3 věta třetí); operátor pak platby zadrží do rozhodnutí tohoto orgánu (odst. 4).
+
+**5. Řešení.** Úřad na podnět Policie ČR může nařídit blokaci přístupu k podvodnému číslu a uložit zadržení plateb; operátor je drží do rozhodnutí orgánu příslušného k projednání podvodu (odst. 4). Rozhodnutí Úřad uveřejní dálkovým přístupem (odst. 3 in fine). Porušení informační povinnosti operátorem je samostatným důvodem pro blokaci dle odst. 3 věty první.
+
+**6. Varianty.** (a) Chyběl by podnět příslušného orgánu — Úřad nemůže nařídit zadržení plateb dle podvodné větve odst. 3; blokaci pro porušení informační povinnosti (odst. 2) však uložit může. (b) Volaný účastník by z obchodních důvodů omezil přístup z určitých geografických oblastí — to je výslovně přípustné (odst. 1) a nejde o porušení povinnosti dostupnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Zadržení plateb je nepřípustný zásah do majetku.* Neutralizace: jde o dočasné ochranné opatření vázané na podnět příslušného orgánu a trvající jen do jeho rozhodnutí (odst. 4); není to konečné odnětí.
+- *Povinnost dostupnosti všech čísel je absolutní.* Neutralizace: odst. 1 ji podmiňuje ekonomickou přiměřeností a připouští obchodní omezení přístupu volaným účastníkem.
+- *Slabé místo:* hranice „důvodného podezření" z podvodu je neurčitá; Úřad jedná na podnět jiného orgánu, ale odpovědnost za přiměřenost blokace nese.
+
+#### H. Praktický závěr
+
+Koncoví uživatelé mají v EU přístup ke všem číslům (při ekonomické přiměřenosti); Úřad chrání před podvody na prémiových číslech informační povinností, automatickou hláskou a — na podnět orgánu příslušného k projednání podvodu — blokací přístupu a zadržením plateb.
+
+**Checklist (advokát / Úřad / operátor / poškozený):**
+- [ ] Jde o přístup k číslům v EU za podmínky ekonomické přiměřenosti (odst. 1)?
+- [ ] Uložil Úřad informační povinnost a/nebo automatickou hlásku o ceně (odst. 2)?
+- [ ] Je blokace odůvodněna porušením povinnosti dle odst. 2, nebo důvodným podezřením z podvodu?
+- [ ] Existuje podnět orgánu příslušného k projednání podvodu (odst. 3 věta třetí)?
+- [ ] Zadržuje operátor platby do rozhodnutí příslušného orgánu (odst. 4)?
+- [ ] Uveřejnil Úřad rozhodnutí dálkovým přístupem (odst. 3 in fine)?
+
+**Typicky rozhodné důkazy / podklady:** podnět Policie ČR / státního zastupitelství, rozhodnutí Úřadu o uložení informační povinnosti a o blokaci, vyúčtování sporných plateb, doklad o (ne)informování uživatele o ceně.
 
 ---
 
@@ -689,6 +1137,44 @@ Po odnětí za nesplnění povinností (odst. 4 písm. b)) platí karenční lh�
 
 Odst. 7 konstruuje čtyři způsoby pozbytí platnosti oprávnění, přičemž tři z nich nastávají **ex lege** (uplynutím doby, zánik osoby bez nástupce, smrt fyzické osoby) a jen jeden na základě rozhodnutí Úřadu. Zákon zajišťuje kontinuitu pro přenesená čísla: povinnost bezprostředního ukončení využívání se nevztahuje na čísla přenesená podle § 34 — tato čísla pokračují v provozu u přejímajícího operátora, přičemž dosavadní držitel (nebo jeho nástupce) musí přejímajícího informovat o zániku oprávnění nejpozději 1 měsíc předem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Nezisková organizace má oprávnění k evropskému harmonizovanému číslu 116 000 (pohřešované děti), avšak po reorganizaci přestala číslo provozovat a více než osm měsíců na něm neposkytuje žádnou službu. Úřad zvažuje odnětí oprávnění. Souběžně jiný operátor žádá o prodloužení platnosti oprávnění k mobilní číselné řadě, ale žádost podá až tři dny před uplynutím platnosti.
+
+**2. Právní otázka.** Za jakých podmínek Úřad odejme oprávnění k harmonizovanému číslu pro nevyužívání (§ 36 odst. 4 písm. c)) a je včasná žádost o prodloužení nezbytnou podmínkou jeho prodloužení (§ 36 odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 36 odst. 1, 3, 4, 5, 6, 7 a 8 ZEK — změna, prodloužení, fakultativní i obligatorní odnětí a pozbytí platnosti oprávnění.
+- *Související ustanovení téhož zákona:* § 30 odst. 8 (důvody neudělení), § 32 odst. 4 a 5 (doba platnosti, přenesená čísla), § 34 (přenositelnost), § 114 (lhůta k nápravě), § 37 (poplatky).
+- *Související předpisy:* EECC čl. 94 a čl. 96 (odnětí a využívání harmonizovaných čísel); krizový zákon (krizový stav jako důvod změny/odnětí).
+- *Judikatura:* nosný závěr, že odnětí oprávnění za nesplnění povinností vyžaduje předchozí písemné upozornění a poskytnutí lhůty k nápravě (zásada proporcionality správní sankce).
+
+**4. Subsumpce.** Číslo 116 000 nebylo využíváno nepřetržitě déle než 6 měsíců — naplněn důvod fakultativního odnětí dle odst. 4 písm. c). Lhůta se počítá ode dne právní moci prvního udělení oprávnění držiteli nebo jeho předchůdci. U prodloužení: žádost musí být doručena nejpozději jeden měsíc před uplynutím platnosti (odst. 3 in fine) — žádost podaná tři dny předem je opožděná a nárok na prodloužení nezakládá.
+
+**5. Řešení.** Úřad může odejmout oprávnění k číslu 116 000 pro nevyužívání (odst. 4 písm. c)); jde o fakultativní pravomoc, kterou odůvodní. Po odnětí dle odst. 4 písm. b) by platila karenční lhůta 6 měsíců pro novou žádost (odst. 6) — u písm. c) zákon karenci výslovně neváže. Opožděnou žádost o prodloužení (3 dny předem) nelze vyhovět; oprávnění pozbude platnosti uplynutím doby (odst. 7 písm. a)).
+
+**6. Varianty.** (a) Odnětí by bylo z důvodu mezinárodního závazku nebo krizového stavu (odst. 5) — pak jde o obligatorní odnětí a stát hradí nezbytné náklady (odst. 2). (b) V řadě by byla přenesená čísla podle § 34 — držitel musí o skončení platnosti informovat dotčeného operátora nejpozději měsíc předem (odst. 8).
+
+#### G. Protiargumenty a rizika
+
+- *Odnětí pro nevyužívání je nepřiměřené.* Neutralizace: u harmonizovaných čísel zákon výslovně postihuje nevyužívání (odst. 4 písm. c)) jako prevenci spekulativního držení; jde o legitimní cíl účelného využití veřejného zdroje.
+- *Opožděnou žádost o prodloužení lze prominout.* Neutralizace: odst. 3 in fine stanoví hmotněprávní lhůtu jeden měsíc předem; její nedodržení nárok na prodloužení vylučuje.
+- *Slabé místo:* hranice mezi fakultativním (odst. 4) a obligatorním (odst. 5) odnětím a navazující kompenzace nákladů (odst. 2) vyžadují pečlivé odůvodnění právního důvodu odnětí.
+
+#### H. Praktický závěr
+
+Úřad mění a odnímá oprávnění z taxativních důvodů (s konzultační lhůtou), prodloužení vyžaduje včasnou žádost měsíc předem, nevyužívané harmonizované číslo lze odejmout a u vnucených změn/odnětí hradí náklady stát; přenesená čísla požívají zvláštní ochrany kontinuity.
+
+**Checklist (advokát / Úřad / držitel oprávnění):**
+- [ ] Jde o změnu z taxativního důvodu odst. 1 písm. a)–c) (s konzultační lhůtou) nebo na žádost dle písm. d)?
+- [ ] Byla žádost o prodloužení doručena nejpozději měsíc před uplynutím platnosti (odst. 3)?
+- [ ] U fakultativního odnětí dle odst. 4 písm. b) — předcházelo písemné upozornění a lhůta k nápravě (§ 114)?
+- [ ] U harmonizovaného čísla — bylo nevyužíváno 6 měsíců nepřetržitě / 12 měsíců v souhrnu za 2 roky (odst. 4 písm. c))?
+- [ ] Jde o obligatorní odnětí dle odst. 5 s nárokem na náhradu nákladů od státu (odst. 2)?
+- [ ] Jsou v řadě přenesená čísla vyžadující informování dle odst. 8?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění a jeho podmínky, doklady o (ne)využívání čísla, žádost o prodloužení s datem doručení, písemné upozornění a lhůta k nápravě, podklady o nákladech vyvolaných změnou/odnětím.
+
 ---
 
 ### § 37 — Poplatky za práva plynoucí z oprávnění k využívání čísel
@@ -710,5 +1196,43 @@ Zákon výslovně osvobozuje **tísňová čísla** od poplatku (odst. 1 in fine
 #### Zákonné zmocnění vlády — rozmezí sazeb
 
 Zákon nestanoví výši poplatku přímo, ale svěřuje ji vládě formou nařízení s tím, že zákon sám vymezuje zákonné rozmezí: **1 Kč až 150 000 Kč za jedno přidělené číslo ročně**. Toto rozmezí je poměrně široké a umožňuje diferenciaci dle druhu čísla a druhu služby — prémiová čísla zvláštní ekonomické hodnoty (§ 31) mohou být zatížena vyšším poplatkem, standardní čísla pro interní sítě poplatkem minimálním. Zákonné maximum 150 000 Kč/číslo/rok je horním stropem bránícím nadměrnému poplatkování. Výnosy z poplatků za čísla plynou do státního rozpočtu (nikoliv do radiokomunikačního účtu — ten je finansován poplatky za kmitočty).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnik si nechal přidělit oprávnění k rozsáhlé negeografické číselné řadě „pro budoucí rozvoj", reálně však využívá jen zlomek čísel. Nařízení vlády stanoví roční poplatek odstupňovaný podle druhu čísla; podniku tak vzniká povinnost platit poplatek i za nevyužívaná přidělená čísla. Podnik namítá, že platit má jen za skutečně provozovaná čísla, a poplatek za zbytek řady neuhradí. Souběžně provozovatel krizové linky odmítá zaplatit poplatek za své tísňové číslo.
+
+**2. Právní otázka.** Je poplatek za právo využívat čísla vázán na skutečné využití, nebo na samotné přidělení čísla, a vztahuje se na tísňová čísla (§ 37 odst. 1 a 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 37 odst. 1 a 2 ZEK — poplatková povinnost držitele oprávnění, osvobození tísňových čísel, zákonné rozmezí 1 Kč až 150 000 Kč a zmocnění vlády.
+- *Související ustanovení téhož zákona:* § 30 a § 32 (oprávnění, vč. uvedení výše poplatku v oprávnění — § 32 odst. 1 písm. d)), § 33 (tísňová čísla), § 36 odst. 4 (odnětí při nevyužívání), § 27 (radiokomunikační účet — odlišný zdroj příjmů).
+- *Související předpisy:* nařízení vlády podle § 37 odst. 2 (konkrétní sazby); EECC čl. 95 (poplatky za práva k využívání čísel — objektivnost, transparentnost, nediskriminace, přiměřenost).
+- *Judikatura:* nosný závěr, že poplatek za omezený veřejný zdroj se váže na přidělené právo, nikoli nutně na rozsah jeho faktického využití, je-li sazba stanovena za přidělené číslo.
+
+**4. Subsumpce.** Poplatková povinnost dle odst. 1 stíhá „držitele oprávnění k využívání čísel" za „právo využívat čísla"; sazba dle odst. 2 je stanovena „za jedno přidělené číslo". Poplatek se tedy váže na přidělení, nikoli na faktické využití — podnik platí i za nevyužívaná přidělená čísla. Tísňová čísla jsou od poplatku výslovně osvobozena (odst. 1 věta druhá), takže provozovatel krizové linky za tísňové číslo poplatek neplatí (osvobození se však týká tísňových čísel, nikoli automaticky všech harmonizovaných čísel řady 116).
+
+**5. Řešení.** Podnik je povinen platit poplatek za všechna přidělená čísla bez ohledu na rozsah jejich využití; ekonomicky neefektivní držení může navíc vést k odnětí oprávnění (analogie § 36 odst. 4). Provozovatel tísňového čísla poplatek neplatí (odst. 1 in fine). Konkrétní výši určuje nařízení vlády v zákonném rozmezí 1 Kč až 150 000 Kč/číslo/rok.
+
+**6. Varianty.** (a) Nařízení vlády by stanovilo sazbu za řadu, nikoli za jednotlivé číslo — pak by se základ poplatku odvíjel od řady; zákon však zmocňuje stanovit sazbu „za jedno přidělené číslo". (b) Šlo by o evropské harmonizované číslo, které není tísňovým číslem — osvobození dle odst. 1 in fine by se neuplatnilo, ledaže to plyne z nařízení.
+
+#### G. Protiargumenty a rizika
+
+- *Poplatek se má vázat jen na využívaná čísla.* Neutralizace: zákon stíhá poplatkem „právo využívat" a sazbu stanoví „za přidělené číslo"; motivací je tlak na účelné využití a uvolnění nevyužitých čísel.
+- *Osvobození platí pro všechna sociálně významná čísla.* Neutralizace: odst. 1 in fine osvobozuje výslovně jen tísňová čísla; rozšiřující výklad na ostatní harmonizovaná čísla není bez opory v nařízení namístě.
+- *Slabé místo:* konkrétní výše a odstupňování závisí na nařízení vlády; spory o správnost zařazení čísla do sazební kategorie se řeší podle nařízení a § 32 odst. 1 písm. d) (výše poplatku uvedená v oprávnění).
+
+#### H. Praktický závěr
+
+Poplatek za právo využívat čísla je veřejnoprávní poplatek za omezený zdroj, vázaný na přidělení čísla (nikoli nutně na jeho využití), v zákonném rozmezí 1 Kč až 150 000 Kč/číslo/rok dle nařízení vlády; tísňová čísla jsou osvobozena a výnosy plynou do státního rozpočtu.
+
+**Checklist (advokát / Úřad / držitel oprávnění):**
+- [ ] Je subjekt držitelem oprávnění k využívání čísel (poplatník dle odst. 1)?
+- [ ] Jde o tísňové číslo osvobozené od poplatku (odst. 1 in fine)?
+- [ ] Je sazba stanovena nařízením vlády v rozmezí 1 Kč až 150 000 Kč/číslo/rok (odst. 2)?
+- [ ] Odpovídá zařazení čísla do sazební kategorie druhu čísla a služby?
+- [ ] Je výše poplatku uvedena v oprávnění (§ 32 odst. 1 písm. d))?
+- [ ] Nevedlo by nevyužívání přidělených čísel k odnětí oprávnění (§ 36 odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění k využívání čísel s uvedenou výší poplatku, nařízení vlády se sazbami, evidence přidělených čísel, doklad o povaze čísla (tísňové × ostatní).
 
 ---

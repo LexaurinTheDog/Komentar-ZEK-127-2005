@@ -56,6 +56,42 @@ Katalog v písm. a)–g) je taxativní ve vztahu k ZEK; jiné kompetence Ministe
 
 Odst. 2 zakotvuje tzv. **mechanismus explain-or-comply** vůči doporučením Komise harmonizujícím uplatňování unijního práva v oblasti elektronických komunikací. Rozhodne-li se Ministerstvo od takového doporučení odchýlit, je povinno Komisi bezodkladně informovat a odůvodnit svůj postup. Totéž pravidlo platí paralelně pro ČTÚ na základě § 108 odst. 4. Mechanismus vychází z čl. 6 EECC a reflektuje specifický charakter doporučení jako nástroje EU práva (nejsou závazná, ale jejich odmítnutí vyžaduje transparentní zdůvodnění).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo průmyslu a obchodu obdrží od Komise doporučení harmonizující výklad pravidel pro velkoobchodní ceny terminace volání. Ministerstvo dospěje k závěru, že doporučení neodpovídá tržním poměrům v ČR, a chystá se v navazujícím strategickém dokumentu (návrh státní politiky elektronických komunikací předkládaný vládě dle písm. a)) postupovat odchylně. Účastníci: Ministerstvo (jiný příslušný orgán dle EECC), Komise, ČTÚ (NRA). Důkazně významné: znění doporučení, interní analýza Ministerstva, datum doručení doporučení.
+
+**2. Právní otázka.** Vznikne Ministerstvu povinnost při odchýlení od doporučení Komise notifikovat Komisi a postup odůvodnit, a kdy tato povinnost nastupuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 105 odst. 2 — mechanismus explain-or-comply vůči doporučením Komise; odst. 1 písm. a), f), g) — katalog kompetencí.
+- *Související ustanovení téhož zákona:* § 108 odst. 4 (paralelní povinnost ČTÚ), § 106 (informační tok mezi Úřadem a Ministerstvem), § 116 (spolupráce Ministerstva s Komisí).
+- *Související předpisy:* čl. 6 EECC (směrnice 2018/1972/EU) — doporučení Komise; čl. 5 odst. 1 a 3 EECC; zákon č. 2/1969 Sb., kompetenční zákon (§ 12).
+- *Judikatura:* k závaznosti soft-law aktů EU obecně platí, že doporučení nejsou závazná (čl. 288 SFEU), avšak vnitrostátní orgány je musí zohlednit při výkladu — nosný závěr Soudního dvora EU ve věci Grimaldi (doporučení nelze ignorovat při výkladu vnitrostátního práva).
+
+**4. Subsumpce.** Doporučení Komise harmonizující uplatňování unijního práva = předpoklad mechanismu odst. 2. Odchýlení Ministerstva = jednání spouštějící notifikační povinnost. Splněno: jde o doporučení v oblasti elektronických komunikací, Ministerstvo se chystá odchýlit. Sporné: zda strategický dokument je „postupem podle doporučení" v užším smyslu, nebo jde jen o politickou koncepci mimo regulatorní aplikaci.
+
+**5. Řešení.** Rozhodne-li se Ministerstvo nepostupovat dle doporučení, je povinno bezodkladně informovat Komisi spolu s odůvodněním. Procesně: vyhotovit odůvodněné stanovisko, doručit Komisi před realizací odchylného postupu. Riziko: opomenutí notifikace nezakládá přímou sankci v ZEK, ale je porušením povinnosti loajální spolupráce (čl. 4 odst. 3 SEU) a oslabuje pozici ČR v případném řízení o porušení Smlouvy.
+
+**6. Varianty.** (a) Pokud by šlo o závazný akt EU (nařízení, rozhodnutí), mechanismus explain-or-comply se neuplatní — Ministerstvo by bylo povinno postupovat dle aktu. (b) Šlo-li by o regulatorní rozhodnutí v působnosti ČTÚ (např. analýza trhu), povinnost by stíhala ČTÚ dle § 108 odst. 4, nikoli Ministerstvo.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Doporučení nejsou závazná, notifikace je tedy zbytečný formalismus." Neutralizace: odst. 2 výslovně ukládá informovat a odůvodnit — jde o procesní povinnost nezávislou na (ne)závaznosti obsahu; opomenutí je porušením zákona.
+- *Protiargument:* „Tvorba státní politiky je politické rozhodnutí mimo dosah práva EU." Neutralizace: odst. 2 nerozlišuje mezi koncepční a aplikační rovinou — povinnost se váže na jakékoli nepostupování podle doporučení v oblasti elektronických komunikací.
+- *Slabé místo:* hranice mezi působností Ministerstva (písm. f) — oznamování NRA) a ČTÚ (§ 108 odst. 4) může být v konkrétní věci sporná; chybí výslovné kritérium dělby notifikační povinnosti.
+
+#### H. Praktický závěr
+
+§ 105 vymezuje politicko-strategickou roli Ministerstva odlišnou od regulatorní role ČTÚ; klíčová praktická pravidla jsou taxativní katalog kompetencí (odst. 1) a notifikační mechanismus vůči doporučením Komise (odst. 2).
+
+**Checklist (Ministerstvo / ČTÚ / dotčený subjekt):**
+- [ ] Spadá agenda do taxativního katalogu § 105 odst. 1, nebo přísluší ČTÚ (§ 108)?
+- [ ] Jde o doporučení Komise harmonizující unijní právo v oblasti elektronických komunikací?
+- [ ] Chystá se Ministerstvo postupovat odchylně? Pokud ano — byla Komise bezodkladně informována spolu s odůvodněním?
+- [ ] Není zasahováno do regulatorní nezávislosti ČTÚ (§ 108 odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** znění doporučení Komise a datum jeho doručení; interní analýza Ministerstva; notifikační podání Komisi; strategické dokumenty (státní politika elektronických komunikací).
+
 ---
 
 ### § 106 — Poskytování informací Ministerstvu
@@ -83,6 +119,42 @@ Není-li příslušná informace k dispozici u ČTÚ, může Ministerstvo žáda
 #### Důvěrnost a ochrana informací (odst. 3–4)
 
 Odst. 3 výslovně prolomuje ochranu obchodního tajemství a osobních údajů — povinný subjekt musí předat i tyto citlivé informace, pokud jsou nezbytné. Odst. 4 kompenzuje toto prolomení povinností Ministerstva chránit informace před zneužitím. Tato konstrukce (povinnost poskytnout + povinnost chránit) je totožná s § 115 odst. 4 a 9 pro sběr informací ČTÚ a odpovídá obecnému principu profesního mlčení správních orgánů. Vztah k GDPR (nařízení EU 2016/679) a § 89 a násl. ZEK (ochrana osobních údajů) viz [08-hlava5-ochrana-udaju-soukromi.md](08-hlava5-ochrana-udaju-soukromi.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo požádá ČTÚ o předání kompletní databáze velkoobchodních cen sjednaných mezi operátory, s odůvodněním „pro účely strategického plánování". ČTÚ část dat nemá, a proto Ministerstvo žádá přímo operátora A, který namítá, že požadavek zahrnuje obchodní tajemství a osobní údaje zaměstnanců. Účastníci: Ministerstvo, ČTÚ, operátor A. Důkazně významné: text žádosti s odůvodněním, rozsah požadovaných dat, povaha dat (obchodní tajemství vs. veřejné).
+
+**2. Právní otázka.** Je operátor povinen předat Ministerstvu i data tvořící obchodní tajemství, a za jakých podmínek je žádost Ministerstva přiměřená?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 106 odst. 1 (informace nezbytné pro Ministerstvo), odst. 2 (subsidiární povinnost povinných osob + zásada minimalizace), odst. 3 (prolomení obchodního tajemství), odst. 4 (povinnost chránit).
+- *Související ustanovení téhož zákona:* § 115 odst. 1, 4, 9 (totožná konstrukce pro sběr informací ČTÚ), § 108 odst. 5 (nezávislost ČTÚ), § 89 a násl. (ochrana osobních údajů).
+- *Související předpisy:* GDPR (nařízení 2016/679), § 504 obč. zák. (obchodní tajemství), čl. 5 odst. 2 EECC.
+- *Judikatura:* k požadavkům na odůvodnění žádosti analogicky NSS 9 A 139/2017 (k § 115) — i obecné odůvodnění s uvedením účelu obstojí, nezákonnost nezakládá pouhá strohost.
+
+**4. Subsumpce.** Informace „nezbytné k plnění činností Ministerstva" = limit dle odst. 1. Data nedostupná u ČTÚ = předpoklad subsidiární žádosti vůči operátorovi (odst. 2). Obchodní tajemství = předmět prolomení dle odst. 3. Splněno, je-li žádost odůvodněna a přiměřená účelu; sporné, je-li požadována celá databáze namísto agregovaných dat (porušení minimalizace).
+
+**5. Řešení.** Operátor je povinen předat i data tvořící obchodní tajemství a osobní údaje (odst. 3), pokud je žádost odůvodněná, uvádí účel a nepřekračuje míru přiměřenou účelu (odst. 2). Ministerstvo je povinno data chránit před zneužitím (odst. 4). Operátor nemůže odmítnout předání s odkazem na obchodní tajemství, může však namítat nepřiměřenost rozsahu. Riziko pro Ministerstvo: požadavek nad rámec nezbytnosti je nezákonný.
+
+**6. Varianty.** (a) Pokud by Ministerstvo žádalo data, jež má ČTÚ k dispozici, primárně musí postupovat dle odst. 1 vůči ČTÚ, nikoli obtěžovat operátora (odst. 2 je subsidiární). (b) Pokud by žádost postrádala odůvodnění a uvedení účelu, operátor by mohl předání legitimně odepřít až do doplnění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument operátora:* „Předání obchodního tajemství správnímu orgánu je porušením povinnosti mlčenlivosti vůči obchodním partnerům." Neutralizace: odst. 3 výslovně prolamuje ochranu; zákonná povinnost předání vylučuje protiprávnost.
+- *Protiargument:* „Ministerstvo zasahuje do nezávislosti ČTÚ tím, že si vynucuje regulatorní data." Neutralizace: § 106 omezuje žádost na data nezbytná pro vlastní kompetence Ministerstva (odst. 1); regulatorní rozhodování ČTÚ zůstává nedotčeno (§ 108 odst. 5).
+- *Slabé místo:* posouzení „přiměřenosti účelu" je neostré; chybí prováděcí kritéria, spor se řeší až ex post.
+
+#### H. Praktický závěr
+
+§ 106 vytváří jednostranný informační kanál Úřad → Ministerstvo (odst. 1) se subsidiární větví vůči regulovaným subjektům (odst. 2), prolomením obchodního tajemství (odst. 3) a kompenzační povinností ochrany (odst. 4).
+
+**Checklist (Ministerstvo / ČTÚ / povinná osoba):**
+- [ ] Jsou informace nezbytné k plnění zákonných kompetencí Ministerstva?
+- [ ] Má data ČTÚ (přednost odst. 1) nebo až povinná osoba (odst. 2)?
+- [ ] Obsahuje žádost odůvodnění a uvedení účelu a respektuje minimalizaci?
+- [ ] Zajistilo Ministerstvo ochranu předaných dat před zneužitím (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** text žádosti s odůvodněním a účelem; specifikace rozsahu dat; doklad o nedostupnosti dat u ČTÚ; klasifikace dat (obchodní tajemství, osobní údaje).
 
 ---
 
@@ -209,6 +281,43 @@ Rada rozhoduje **nadpoloviční většinou** (alespoň 3 z 5 hlasů). Protokol o
 
 Plat a naturální plnění jsou odvozeny od NKÚ — předseda Rady jako prezident NKÚ, člen Rady jako člen NKÚ. Tato parametrizace je nejběžnějším způsobem, jak zákonodárce nastavuje odměňování vedoucích pracovníků nezávislých regulačních orgánů bez přímé vazby na politicky určený plat úředníků. Odchodné (trojnásobek měsíčního platu) je preventivní nástroj proti „dveřím otočnými dveřmi" — v kombinaci se zákazem podnikání v sektoru podle § 109 odst. 2 snižuje atraktivitu předčasného odchodu do regulovaného sektoru. Odchodné nevzniká při odvolání pro porušení povinností nebo pro narušení nezávislosti (odst. 13 písm. a)) — tomu odpovídá základní logika: sankcionovaná osoba nemůže čerpat benefity.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Rada ČTÚ vydá opatření obecné povahy o ceně (rozhodnutí o ceně) hlasy 3 z 5 členů. Dotčený operátor B s rozhodnutím nesouhlasí a podá ČTÚ „odvolání" k předsedovi Rady. Předseda Rady podání odmítne s odkazem na § 107 odst. 10. Operátor B následně namítá, že byl zbaven dvojinstančnosti řízení. Účastníci: Rada ČTÚ, předseda Rady, operátor B. Důkazně významné: protokol o hlasování Rady, znění rozhodnutí, datum doručení.
+
+**2. Právní otázka.** Je proti rozhodnutí Rady ČTÚ přípustný řádný opravný prostředek ve správním řízení, nebo lze rozhodnutí napadnout pouze žalobou ve správním soudnictví?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 107 odst. 8 (rozhodování Rady většinou 3 z 5), odst. 9 písm. b) (věci rozhodované Radou), odst. 10 (nepřípustnost opravného prostředku), odst. 11 (rozhodování předsedy v prvním stupni).
+- *Související ustanovení téhož zákona:* § 108 (působnost Úřadu), § 127 (řízení o sporu).
+- *Související předpisy:* § 81 a § 152 spr. řádu (odvolání, rozklad — zde vyloučeny), § 65 a § 244 a násl. s. ř. s. (žaloba proti rozhodnutí správního orgánu).
+- *Judikatura:* NSS 31 A 17/2019-127 (citováno v komentáři) — § 107 odst. 9 [odst. 10] vylučuje opravný prostředek; žaloba ve správním soudnictví je přípustná již (a jedině) proti prvostupňovému rozhodnutí Rady.
+
+**4. Subsumpce.** Rozhodnutí o ceně = věc vyhrazená Radě (odst. 9 písm. b) bod 3). Rozhodnutí Rady = akt, proti němuž odst. 10 vylučuje opravný prostředek. Splněno: jde o rozhodnutí Rady, nikoli předsedy. Důsledek: řádný opravný prostředek nepřípustný, otevřena pouze cesta správní žaloby.
+
+**5. Řešení.** Předseda Rady postupoval správně — proti rozhodnutí Rady není přípustný opravný prostředek (odst. 10), zásada dvojinstančnosti je zvláštním zákonem prolomena. Operátor B musí podat žalobu ke krajskému soudu ve lhůtě dle § 72 s. ř. s. Procesní pozor: lhůta běží od doručení rozhodnutí Rady, nikoli od odmítnutí „odvolání".
+
+**6. Varianty.** (a) Pokud by v prvním stupni rozhodoval předseda Rady (odst. 11, např. řízení dle § 23), byl by přípustný opravný prostředek k Radě (odst. 9 písm. b) bod 1) a teprve poté žaloba. (b) Pokud by rozhodnutí přijaly jen 2 hlasy, nebylo by platně přijato (odst. 8) a šlo by o vadu řízení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Vyloučení dvojinstančnosti porušuje právo na spravedlivý proces." Neutralizace: dle NSS 31 A 17/2019 zvláštní zákon může dvojinstančnost prolomit; ochrana je zajištěna soudním přezkumem, což ústavní standard splňuje.
+- *Protiargument:* „Do protokolu o hlasování Rady má účastník právo nahlížet." Neutralizace: odst. 8 výslovně vylučuje nahlížení do protokolu o hlasování (ochrana svobody hlasování).
+- *Slabé místo:* zařazení konkrétní věci pod „rozhodnutí Rady" vs. „rozhodnutí předsedy" (odst. 9 vs. 11) určuje, zda existuje vnitřní opravný prostředek; nesprávné zařazení může vést k zmeškání lhůty pro žalobu.
+
+#### H. Praktický závěr
+
+§ 107 zakládá radový model ČTÚ jako garanci nezávislosti NRA: pětičlenná Rada, taxativní důvody odvolání (odst. 6), rozhodování většinou 3 z 5 (odst. 8) a dvojkolejnost rozhodování (Rada vs. předseda) s vyloučením opravného prostředku proti rozhodnutí Rady (odst. 10).
+
+**Checklist (advokát / ČTÚ / dotčený subjekt):**
+- [ ] Rozhodovala ve věci Rada (odst. 9) nebo předseda Rady (odst. 11)?
+- [ ] U rozhodnutí Rady — opravný prostředek vyloučen, počítat lhůtu pro správní žalobu od doručení.
+- [ ] U rozhodnutí předsedy — vyčerpat opravný prostředek k Radě před žalobou.
+- [ ] Bylo rozhodnutí Rady přijato alespoň 3 hlasy a pořízen protokol (odst. 8)?
+- [ ] U odvolání člena Rady — naplňuje důvod taxativní výčet odst. 6?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí Rady/předsedy s poučením o opravných prostředcích; protokol o hlasování (mimo nahlížení); doklad o doručení; statut Úřadu (vymezení rozhodování předsedy).
+
 ---
 
 ### § 108 — Působnost Úřadu
@@ -332,6 +441,43 @@ Tato trifekta odpovídá čl. 8 odst. 4 EECC: „členské státy zajistí, aby 
 
 > **Srovnání:** Nezávislost ČTÚ je silnější, než obecná nezávislost správních orgánů dle § 2 odst. 1 správního řádu (ten pouze říká, že správní orgán postupuje v souladu se zákonem). ČTÚ je institucí srovnatelnou s Českou národní bankou (čl. 98 Ústavy — ČNB je nezávislá) nebo s Úřadem na ochranu osobních údajů (§ 10 zákona č. 110/2019 Sb. — nezávislost při výkonu působnosti).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministr průmyslu a obchodu zašle předsedovi Rady ČTÚ neformální dopis, v němž „důrazně doporučuje" zmírnit velkoobchodní cenové povinnosti uložené dominantnímu operátorovi C s ohledem na investiční plány státu. ČTÚ následně v probíhající analýze trhu skutečně cenové povinnosti zmírní. Konkurent D napadne výsledné rozhodnutí žalobou s tvrzením, že ČTÚ jednal podle politického pokynu. Účastníci: ministr, ČTÚ (Rada), operátor C, konkurent D. Důkazně významné: dopis ministra, časová souslednost, odůvodnění analýzy trhu.
+
+**2. Právní otázka.** Je rozhodnutí ČTÚ nezákonné, byla-li jeho regulatorní úvaha ovlivněna pokynem politického orgánu, ač zákon ukládá ČTÚ jednat nezávisle?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 108 odst. 5 (nezávislost — zákaz přijímat i vyžadovat pokyny), odst. 1 písm. c) a f) (analýzy trhů, ceny), odst. 4 (zohledňování soft-law EU).
+- *Související ustanovení téhož zákona:* § 51–53 (VTS, ukládání povinností), § 107 odst. 6 písm. d) (odvolání člena Rady při narušení nezávislosti), § 111 (konzultace s ÚOHS).
+- *Související předpisy:* čl. 8 odst. 1 a 4 EECC (nezávislost a nestrannost NRA); § 2 odst. 4 a § 89 odst. 2 spr. řádu (zásada zákonnosti a přezkumu).
+- *Judikatura:* obecný nosný závěr — rozhodnutí správního orgánu zatížené nepřípustným vnějším vlivem je nezákonné pro porušení zásady nestrannosti; přezkum ve správním soudnictví.
+
+**4. Subsumpce.** Dopis ministra = pokyn/doporučení od jiného orgánu. Akceptace nebo vyžádání takového pokynu ČTÚ = porušení odst. 5. Splněno: existuje vnější pokyn a změna postupu ČTÚ v souladu s ním. Sporné: kauzální vazba mezi dopisem a obsahem rozhodnutí (musí být prokázáno, že ČTÚ jednal podle pokynu, nikoli na základě vlastní analýzy).
+
+**5. Řešení.** ČTÚ nesmí přijímat ani vyžadovat pokyny od jiného orgánu (odst. 5). Pokud konkurent D prokáže, že rozhodnutí bylo fakticky určeno pokynem ministra, jde o nezákonnost pro porušení nezávislosti a nestrannosti, kterou soud zruší. ČTÚ se brání tím, že rozhodnutí má vlastní, na pokynu nezávislé odborné odůvodnění opřené o data z analýzy trhu. Riziko: i pouhé zdání ovlivnění oslabuje legitimitu rozhodnutí.
+
+**6. Varianty.** (a) Pokud by šlo o závazné doporučení Komise (odst. 4), zohlednění by bylo naopak povinné a nešlo by o porušení nezávislosti. (b) Pokud by ministr usiloval o odvolání předsedy Rady kvůli „neposlušnosti", narazil by na taxativní důvody § 107 odst. 6 — politická nespokojenost není důvodem odvolání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument ČTÚ:* „Dopis byl pouze informativní, rozhodnutí má samostatné odborné odůvodnění." Neutralizace soudem: rozhodující je faktický vliv; pokud odůvodnění obstojí nezávisle na pokynu, rozhodnutí může být zákonné — důkazní břemeno o ovlivnění nese žalobce.
+- *Protiargument:* „Vláda určuje státní politiku elektronických komunikací (§ 105), kterou ČTÚ musí respektovat." Neutralizace: § 108 odst. 4 ukládá vycházet z hlavních zásad státní politiky, avšak odst. 5 zakazuje konkrétní pokyny v jednotlivých věcech — strategie ≠ pokyn v konkrétním řízení.
+- *Slabé místo:* prokázání kauzality mezi neformálním tlakem a obsahem rozhodnutí je důkazně velmi obtížné.
+
+#### H. Praktický závěr
+
+§ 108 obsahuje nejrozsáhlejší kompetenční katalog českého regulátora (odst. 1–3) a v odst. 5 centrální garanci nezávislosti ČTÚ: legislativní nezávislost, zákaz přijímat i vyžadovat pokyny a požadavek transparentnosti a předvídatelnosti.
+
+**Checklist (ČTÚ / advokát / dotčený subjekt):**
+- [ ] Spadá konkrétní pravomoc do katalogu § 108 odst. 1–3 (a má oporu i jinde v zákoně)?
+- [ ] Je rozhodnutí ČTÚ založeno výlučně na zákoně a vlastní odborné úvaze (odst. 5)?
+- [ ] Nebyl přijat či vyžádán pokyn od jiného orgánu nebo osoby?
+- [ ] Byla zohledněna závazná soft-law EU a stanoviska BEREC (odst. 4), případně odchýlení notifikováno Komisi?
+- [ ] Je výkon pravomoci transparentní a předvídatelný?
+
+**Typicky rozhodné důkazy / podklady:** odůvodnění rozhodnutí/analýzy trhu; komunikace mezi ČTÚ a politickými orgány; časová souslednost; pokyny a stanoviska BEREC/Komise.
+
 ---
 
 ### § 109 — Vyloučení střetu zájmů
@@ -365,6 +511,43 @@ Klíčová pojistka „revolving doors": zákaz střetu zájmů platí pro člen
 
 Odst. 3 zakotvuje **personální oddělení** ČTÚ od Ministerstva: člen Rady nesmí být v pracovním poměru k Ministerstvu ani pro něj vykonávat jinou výdělečnou činnost. Tím zákon brání faktickému podřízení ČTÚ Ministerstvu prostřednictvím osobní vazby (člen Rady jako de facto „vyslanec" ministra). Toto ustanovení je přímou reakcí na požadavek čl. 8 odst. 1 EECC, aby NRA byla právně oddělena od jakéhokoli orgánu podléhajícího politickému vedení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Člen Rady ČTÚ paní E se rozhodne dva měsíce před uplynutím funkčního období neusilovat o znovujmenování a přijme nabídku být členkou dozorčí rady operátora F. Současně po dobu zbytku funkce poskytuje témuž operátorovi placené „odborné konzultace". ČTÚ posuzuje, zda jednání zakládá zánik funkce a zda paní E náleží odměna za cooling-off. Účastníci: členka Rady E, ČTÚ, operátor F. Důkazně významné: konzultační smlouva, datum nástupu do dozorčí rady, datum zániku funkce.
+
+**2. Právní otázka.** Porušuje členka Rady zákaz střetu zájmů, vykonává-li ještě za trvání funkce placenou činnost ve prospěch regulovaného subjektu, a od kdy platí šestiměsíční cooling-off?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 109 odst. 1 (zákaz podnikání, účasti v orgánech, poradenství), odst. 2 (obdobné použití na členy Rady + cooling-off 6 měsíců + kompenzační odměna), odst. 3 (zákaz pracovního poměru k Ministerstvu).
+- *Související ustanovení téhož zákona:* § 107 odst. 5 písm. d) (zánik funkce nabytím neslučitelné funkce), odst. 4 (neslučitelnost funkcí), odst. 12–13 (odchodné).
+- *Související předpisy:* zákon č. 159/2006 Sb., o střetu zájmů; čl. 8 odst. 1 EECC (oddělení NRA od politicky vedených orgánů).
+- *Judikatura:* k institutu „revolving doors" obecně — pravidla cooling-off jsou ústavně konformní jako přiměřené omezení svobody podnikání vyvážené kompenzací.
+
+**4. Subsumpce.** Účast v dozorčí radě operátora = účast v kontrolním orgánu podnikatele v sektoru (zakázáno odst. 1). Placené konzultace = poradenská pomoc ve věcech elektronických komunikací (zakázáno odst. 1). Za trvání funkce = jednání naplňující neslučitelnost → zánik funkce dle § 107 odst. 5 písm. d). Cooling-off 6 měsíců nastupuje až po skončení výkonu funkce.
+
+**5. Řešení.** Výkon činnosti ve prospěch operátora za trvání funkce je porušením odst. 1 (přes odst. 2) a vede k zániku funkce nabytím neslučitelné funkce (§ 107 odst. 5 písm. d)). Po skončení funkce platí zákaz dalších 6 měsíců, za něž náleží kompenzační odměna ve výši průměrného měsíčního platu — avšak jen tehdy, dodrží-li zákaz; nástup do dozorčí rady v cooling-off období nárok na odměnu vylučuje a je porušením zákazu. Riziko pro paní E: ztráta odchodného (§ 107 odst. 13) a kompenzace.
+
+**6. Varianty.** (a) Pokud by paní E byla do 3 měsíců znovu jmenována, cooling-off ani kompenzace se neuplatní (odst. 2 — „nebyl-li znovu jmenován"; srov. § 107 odst. 13 písm. c) k odchodnému). (b) Pokud by činnost vykonávala v oboru zcela mimo elektronické komunikace (např. zemědělství), zákaz odst. 1 by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Konzultace se týkaly obecného managementu, nikoli elektronických komunikací." Neutralizace: rozhodující je věcný obsah; vazba na regulovaný subjekt a sektor zakládá zákaz i u formálně „obecného" poradenství (generální klauzule „jinak působit ve prospěch").
+- *Protiargument:* „Šestiměsíční cooling-off je nepřiměřeným zásahem do svobody podnikání." Neutralizace: omezení je kompenzováno odměnou (odst. 2) a sleduje legitimní cíl ochrany nezávislosti regulátora; je proto proporcionální.
+- *Slabé místo:* zákon výslovně neřeší sankci za porušení cooling-off jiného než ztrátou kompenzace; vynutitelnost zákazu po skončení funkce je omezená.
+
+#### H. Praktický závěr
+
+§ 109 buduje personální firewall mezi regulátorem/Ministerstvem a regulovaným sektorem: zákaz střetu zájmů (odst. 1), cooling-off 6 měsíců s kompenzací pro členy Rady (odst. 2) a zákaz pracovní vazby členů Rady na Ministerstvo (odst. 3).
+
+**Checklist (člen Rady / ČTÚ / Ministerstvo):**
+- [ ] Nevykonává dotčená osoba podnikání, funkci v orgánech či poradenství ve prospěch subjektu v sektoru?
+- [ ] Vztahuje se zákaz i na poradce/náměstky ministra (odst. 1)?
+- [ ] U končícího člena Rady — je dodržen šestiměsíční cooling-off (nebyl-li znovu jmenován)?
+- [ ] Není člen Rady v pracovním/výdělečném vztahu k Ministerstvu (odst. 3)?
+- [ ] Vede porušení k zániku funkce (§ 107 odst. 5 písm. d)) a ke ztrátě odchodného?
+
+**Typicky rozhodné důkazy / podklady:** smlouvy o činnosti/konzultacích; zápisy z orgánů obchodních společností; datum zániku funkce a (ne)jmenování; doklady o výplatě kompenzační odměny.
+
 ---
 
 ### § 110 — Vztah Úřadu k Parlamentu a k vládě České republiky
@@ -390,6 +573,43 @@ Zákon vymezuje **minimální obsah** výroční zprávy — stav a vývoj sekto
 #### Parlamentní dialog (odst. 3)
 
 Povinnost účastnit se projednávání zprávy je formulována tak, že **nejméně jeden člen Rady** se musí zúčastnit projednávání ve vládě (povinně), zatímco účast na projednávání v parlamentu nastupuje teprve, když o to parlament požádá (podmíněná povinnost). Tím zákon odráží ústavní realitu: vláda odpovídá parlamentu a ČTÚ podléhá kontrole parlamentu, nikoliv vládě.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poslanecká sněmovna při projednávání výroční zprávy ČTÚ přijme usnesení, jímž „ukládá ČTÚ přehodnotit cenovou regulaci roamingu". ČTÚ usnesení nerespektuje s tím, že nemůže přijímat pokyny (§ 108 odst. 5). Poslanci namítají, že ČTÚ se zprávou parlamentu odpovídá, a tedy musí jeho usnesení plnit. Účastníci: ČTÚ (Rada), Poslanecká sněmovna. Důkazně významné: text usnesení sněmovny, znění výroční zprávy, datum projednání.
+
+**2. Právní otázka.** Může parlament na základě projednání výroční zprávy uložit ČTÚ závazný pokyn ke změně regulatorní praxe?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 110 odst. 1 (obsah výroční zprávy), odst. 2 (předložení do konce května a uveřejnění), odst. 3 (povinnost vysvětlení a účast členů Rady na projednání).
+- *Související ustanovení téhož zákona:* § 108 odst. 5 (nezávislost), § 50 (výroční zpráva univerzální služby jako součást).
+- *Související předpisy:* čl. 98 odst. 2 Ústavy (analogický model ČNB — zpráva sněmovně bez podřízenosti); čl. 8 odst. 4 EECC.
+- *Judikatura:* k modelu „accountability without subordination" — nezávislé regulační orgány skládají účty informováním, nikoli podřízeností výkonné/zákonodárné moci v jednotlivých rozhodnutích.
+
+**4. Subsumpce.** Výroční zpráva = nástroj informování parlamentu a vlády (odst. 1–2). Usnesení sněmovny ukládající změnu praxe = pokyn k regulatorní činnosti. Splněno: jde o pokus o pokyn ve věci spadající do nezávislé působnosti ČTÚ. Důsledek: ČTÚ není usnesením vázán (§ 108 odst. 5).
+
+**5. Řešení.** ČTÚ má povinnost zprávu předložit, uveřejnit a poskytnout vysvětlení a dodatečné informace, a členové Rady se na žádost účastní projednání (odst. 3). Nemá však povinnost plnit obsahové pokyny parlamentu — model je „odpovědnost bez podřízenosti". ČTÚ usnesení vezme na vědomí, případně reaguje vysvětlením, ale regulatorní rozhodnutí činí nezávisle. Procesně: ČTÚ by měl účast a vysvětlení poskytnout, aby nedošlo k porušení odst. 3.
+
+**6. Varianty.** (a) Pokud by parlament zprávu jen „vzal na vědomí", nevzniká žádné napětí — odpovídá to ústavní logice. (b) Pokud by ČTÚ odmítl poskytnout vysvětlení nebo se účastnit projednání ve vládě (kde je účast alespoň jednoho člena Rady povinná), porušil by odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „ČTÚ odpovídá parlamentu, tedy musí plnit jeho usnesení." Neutralizace: zákon ukládá pouze informování a vysvětlení, nikoli podřízenost; obsahové pokyny by byly v rozporu s § 108 odst. 5 a čl. 8 EECC.
+- *Protiargument:* „Účast na projednání v parlamentu je vždy povinná." Neutralizace: odst. 3 rozlišuje — ve vládě je účast alespoň jednoho člena Rady povinná, v parlamentu nastupuje až na výzvu (podmíněná povinnost).
+- *Slabé místo:* hranice mezi „vysvětlením k obsahu zprávy" (povinné) a faktickým tlakem na změnu praxe je v praxi neostrá.
+
+#### H. Praktický závěr
+
+§ 110 realizuje model odpovědnosti bez podřízenosti: ČTÚ každoročně do konce května předkládá a uveřejňuje výroční zprávu se zákonem vymezeným minimálním obsahem, poskytuje vysvětlení a účastní se projednání, aniž by byl vázán obsahovými pokyny parlamentu či vlády.
+
+**Checklist (ČTÚ / parlament / vláda):**
+- [ ] Obsahuje výroční zpráva všechny zákonné náležitosti (odst. 1) včetně zprávy o univerzální službě a o ADR?
+- [ ] Byla zpráva předložena Sněmovně, Senátu a vládě do konce května a uveřejněna (odst. 2)?
+- [ ] Poskytl ČTÚ vyžádaná vysvětlení a dodatečné informace (odst. 3)?
+- [ ] Účastní se projednání ve vládě alespoň jeden člen Rady; v parlamentu na výzvu?
+- [ ] Nejsou usnesení parlamentu/vlády vykládána jako závazné pokyny (§ 108 odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** text výroční zprávy a její přílohy; doklad o předložení a uveřejnění; usnesení parlamentu/vlády; protokoly z projednání.
 
 ---
 
@@ -418,6 +638,43 @@ Důvod konzultace: analýzy trhů ČTÚ i soutěžní analýzy ÚOHS pracují s 
 #### Vzájemné poskytování stanovisek (odst. 2–3)
 
 Odst. 2 dává ÚOHS právo vyžádat si od ČTÚ stanovisko, zda jednání soutěžitele porušuje ZEK — tím ÚOHS může kvalifikovaněji posoudit, zda soutěžní delikt spočívá v porušení sektorové regulace (a zda vůbec věc přísluší ČTÚ nebo ÚOHS). Odst. 3 ukládá oběma orgánům **usilovat o dosažení shody** vzájemně konzultovaných stanovisek — jde o soft-law povinnost, nikoliv o povinnost dosáhnout shody za každou cenu; při trvající neshodě každý orgán vydá rozhodnutí v rámci vlastní působnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ připravuje analýzu relevantního trhu velkoobchodního přístupu k pevné síti a hodlá určit operátora G podnikem s významnou tržní silou a uložit mu povinnost nediskriminačního přístupu (§ 51). Návrh zašle ÚOHS k zaujetí stanoviska. ÚOHS po 40 dnech bez sdělení, že jde o zvlášť složitý případ, žádné stanovisko nezašle a posléze namítá, že nebylo respektováno jeho odlišné vymezení relevantního trhu. Účastníci: ČTÚ, ÚOHS, operátor G. Důkazně významné: datum doručení návrhu ÚOHS, doklad o (ne)sdělení složitosti, obsah analýzy trhu.
+
+**2. Právní otázka.** Může ČTÚ vydat rozhodnutí dle § 51, zaujme-li ÚOHS stanovisko po marném uplynutí konzultační lhůty, a jaký účinek má nečinnost ÚOHS?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 111 odst. 1 (povinná konzultace před rozhodnutím dle § 51, lhůta 1, resp. 3 měsíce, fikce souhlasu), odst. 2 (stanovisko ČTÚ pro ÚOHS), odst. 3 (snaha o dosažení shody).
+- *Související ustanovení téhož zákona:* § 51–53 (VTS, analýzy trhů), § 108 odst. 1 písm. c).
+- *Související předpisy:* zákon č. 143/2001 Sb. (ZOHS); čl. 102 SFEU vs. čl. 63–65 EECC (rozdíl regulatorního a soutěžního standardu).
+- *Judikatura:* k fikci souhlasu při marném uplynutí lhůty — nečinnost konzultovaného orgánu v zákonné lhůtě se vykládá jako absence výhrad; orgán nemůže následně blokovat řízení opožděnou námitkou.
+
+**4. Subsumpce.** Rozhodnutí dle § 51 = případ povinné konzultace (odst. 1). Doručení návrhu ÚOHS = počátek lhůty 1 měsíc (3 měsíce jen po sdělení složitosti). Marné uplynutí 1 měsíce bez sdělení složitosti = fikce, že ÚOHS nemá výhrady. Splněno: ÚOHS lhůtu zmeškal a složitost nesdělil. Důsledek: ČTÚ může vydat rozhodnutí, opožděná námitka je bez procesního účinku.
+
+**5. Řešení.** ČTÚ smí rozhodnout — uplynula-li lhůta bez stanoviska ÚOHS, platí fikce souhlasu (odst. 1). ÚOHS nemůže opožděně blokovat řízení odlišným vymezením trhu. ČTÚ však z titulu odst. 3 měl usilovat o dosažení shody; doloží, že konzultaci řádně umožnil. Riziko: pokud by ČTÚ konzultaci vůbec neumožnil, šlo by o podstatnou vadu řízení s následkem zrušení rozhodnutí soudem.
+
+**6. Varianty.** (a) Pokud by ÚOHS ve lhůtě sdělil, že jde o zvlášť složitý případ, prodloužila by se lhůta na 3 měsíce a ČTÚ by musel vyčkat. (b) Pokud by ÚOHS zaslal věcné výhrady včas, ČTÚ by se s nimi musel vypořádat v odůvodnění; trvající neshoda však ČTÚ nebrání rozhodnout (odst. 3 neukládá dosáhnout shody za každou cenu).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument ÚOHS:* „Vymezení relevantního trhu musí být totožné se soutěžněprávním." Neutralizace: regulatorní a soutěžní standard se liší (čl. 63–65 EECC vs. čl. 102 SFEU); ČTÚ aplikuje vlastní metodologii ex ante.
+- *Protiargument:* „Bez stanoviska ÚOHS je analýza neúplná." Neutralizace: odst. 1 výslovně počítá s fikcí souhlasu — neúčast ÚOHS nezakládá vadu, byla-li konzultace umožněna.
+- *Slabé místo:* nedostatečná dokumentace o umožnění konzultace (datum doručení návrhu ÚOHS) může vést k pochybnostem o dodržení odst. 1.
+
+#### H. Praktický závěr
+
+§ 111 koordinuje regulaci ex ante (ČTÚ) a soutěžní právo ex post (ÚOHS): těžiště je povinná konzultace ÚOHS před rozhodnutím o VTS dle § 51 s lhůtou 1 (resp. 3) měsíce a fikcí souhlasu při nečinnosti, doplněná vzájemným poskytováním stanovisek a snahou o shodu.
+
+**Checklist (ČTÚ / ÚOHS / dotčený subjekt):**
+- [ ] Jde o rozhodnutí dle § 51 / analýzu trhu vyžadující konzultaci ÚOHS?
+- [ ] Byl ÚOHS umožněn prostor zaujmout stanovisko; je doloženo datum doručení návrhu?
+- [ ] Uplynula lhůta 1 měsíc (nebo 3 měsíce po sdělení složitosti) — nastupuje fikce souhlasu?
+- [ ] Byly věcné výhrady ÚOHS vypořádány v odůvodnění (odst. 3)?
+- [ ] Byla zachována stejná úroveň důvěrnosti předávaných informací (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** návrh rozhodnutí/analýza trhu; doklad o doručení návrhu ÚOHS a běhu lhůt; stanovisko ÚOHS (či jeho absence); korespondence o sdělení složitosti.
 
 ---
 
@@ -459,6 +716,43 @@ Odst. 2 dává ÚOHS právo vyžádat si od ČTÚ stanovisko, zda jednání sout
 
 Odst. 4 jde za rámec technické koordinace: ČTÚ spolupracuje s RRTV v oblasti **kulturní a mediální politiky, jazykové rozmanitosti a plurality médií**. Tato neformální spolupráce přesahuje striktně vymezenou působnost ČTÚ jako technického regulátora, ale reflektuje skutečnost, že rozhodnutí o kmitočtovém plánování (kolik kanálů bude k dispozici, na jakém území) mají přímý dopad na mediální pluralitu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** RRTV připravuje licenční řízení pro nové celoplošné rozhlasové vysílání a potřebuje posoudit, kolik posluchačů konkrétní kmitočet osloví. Požádá ČTÚ o diagram využití rádiových kmitočtů pro vymezené území. ČTÚ diagram s odhadem pokrytých obyvatel poskytne, avšak s upozorněním na omezení doby využití kmitočtu z důvodu mezinárodní koordinace. Účastníci: RRTV, ČTÚ, žadatel o licenci. Důkazně významné: žádost RRTV, diagram pokrytí, údaje o mezinárodní koordinaci kmitočtu.
+
+**2. Právní otázka.** Jaký je rozsah povinnosti ČTÚ poskytnout RRTV podklady pro licenční řízení a kde leží hranice mezi technickou a obsahovou regulací?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 112 odst. 2 (součinnost při kmitočtech pro rozhlasovou službu, předání zkoordinovaných kmitočtů a databáze, informování o rozhodnutích), odst. 3 (diagram využití kmitočtů s odhadem pokrytých obyvatel), odst. 4 (spolupráce v oblasti mediální plurality).
+- *Související ustanovení téhož zákona:* § 19, 22a, 22b (rozhodnutí o přídělu/změně/odnětí kmitočtu), § 113 odst. 5–6 (metodika pokrytí).
+- *Související předpisy:* zákon č. 231/2001 Sb. (vysílání — RRTV jako obsahový regulátor); mezinárodní plány GE84, GE06.
+- *Judikatura:* k dělbě kompetencí technický vs. obsahový regulátor — technické parametry pokrytí přísluší ČTÚ, hodnocení mediálního obsahu a plurality RRTV; oba se v licenčním řízení doplňují.
+
+**4. Subsumpce.** Žádost o diagram pokrytí = žádost dle odst. 3. ČTÚ poskytuje grafické znázornění pokrytí + odhad počtu obyvatel + případná omezení doby využití. Splněno: ČTÚ má povinnost podklad na vyžádání poskytnout. Hranice: ČTÚ nehodnotí obsah ani vhodnost programu (to přísluší RRTV) — poskytuje pouze technická data.
+
+**5. Řešení.** ČTÚ je povinen RRTV na vyžádání poskytnout diagram využití kmitočtů s odhadem pokrytých obyvatel a s údaji o případném časovém omezení (odst. 3). RRTV podklad využije v licenčním řízení k posouzení dosažitelnosti posluchačů. ČTÚ nesmí zasahovat do obsahového posouzení; RRTV nesmí přehodnocovat technické parametry stanovené ČTÚ. Riziko: nekoordinace by mohla vést k udělení licence na kmitočet technicky nezpůsobilý nebo časově omezený.
+
+**6. Varianty.** (a) Pokud by šlo o kmitočet, který není mezinárodně zkoordinován, ČTÚ jej RRTV nepředá jako využitelný (odst. 2 písm. b)). (b) Pokud by žádost směřovala k posouzení obsahu vysílání, ČTÚ ji odmítne jako věc mimo svou působnost — náleží RRTV.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „RRTV může technické parametry kmitočtu sama přehodnotit." Neutralizace: správa spektra a stanovení technických parametrů přísluší výlučně ČTÚ; RRTV je vázána zkoordinovanými kmitočty a daty ČTÚ.
+- *Protiargument:* „ČTÚ při kmitočtovém plánování spolurozhoduje o mediální pluralitě." Neutralizace: odst. 4 zakotvuje pouze spolupráci v oblasti mediální politiky; rozhodnutí o licencích a obsahu zůstává RRTV.
+- *Slabé místo:* odhad počtu pokrytých obyvatel je modelová veličina závislá na metodice (§ 113 odst. 5–6); v hraničních případech může být zpochybnitelná.
+
+#### H. Praktický závěr
+
+§ 112 rozhraničuje technického regulátora (ČTÚ — kmitočty, technické parametry) a obsahového regulátora (RRTV — licence, obsah): ČTÚ zpracovává část kmitočtového plánu, předává zkoordinované kmitočty a databáze, informuje o rozhodnutích dle § 19, 22a, 22b a poskytuje diagramy pokrytí pro licenční řízení.
+
+**Checklist (ČTÚ / RRTV / žadatel o licenci):**
+- [ ] Jde o kmitočty pro rozhlasovou/televizní službu vyžadující součinnost (odst. 2)?
+- [ ] Předal ČTÚ RRTV zkoordinované kmitočty a aktuální databázi (odst. 2 písm. b), c))?
+- [ ] Byl na vyžádání poskytnut diagram pokrytí s odhadem obyvatel a omezením doby (odst. 3)?
+- [ ] Informoval ČTÚ RRTV o rozhodnutích dle § 19, 22a, 22b týkajících se rozhlasové služby (odst. 2 písm. e))?
+- [ ] Respektuje každý orgán hranici technické vs. obsahové regulace?
+
+**Typicky rozhodné důkazy / podklady:** žádost RRTV; diagram využití kmitočtů a údaje o pokrytí obyvatel; doklad o mezinárodní koordinaci; rozhodnutí ČTÚ dle § 19/22a/22b.
+
 ---
 
 ### § 112a — Spolupráce s Národním úřadem pro kybernetickou a informační bezpečnost
@@ -480,6 +774,43 @@ Tím se kompetence ČTÚ a NÚKIB prolínají: ČTÚ kontroluje plnění povinno
 #### Rozsah spolupráce (odst. 1–2)
 
 Vzájemné poskytování podnětů, informací a součinnosti (odst. 1) je formulováno obecně — zákon neurčuje konkrétní mechanismus, ponechávaje prostor pro meziinstitutivní dohody (MOU, protokoly o spolupráci). Povinnost vzájemně se konzultovat při připravovaných rozhodnutích (odst. 2) a snaha o dosažení shody je identická s § 111 odst. 3. Na rozdíl od § 111 odst. 1 zde chybí formalizovaná konzultační lhůta — spolupráce ČTÚ a NÚKIB je méně formalizována než spolupráce ČTÚ s ÚOHS.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ při kontrole zjistí, že operátor H zajišťující sítě kritické informační infrastruktury nehlásí bezpečnostní incidenty způsobem, jenž spadá pod dohled NÚKIB dle zákona o kybernetické bezpečnosti. ČTÚ chce vydat opatření k nápravě technické vady sítě (§ 114), které by se mohlo dotknout bezpečnostních opatření kontrolovaných NÚKIB. Účastníci: ČTÚ, NÚKIB, operátor H. Důkazně významné: zjištění kontroly ČTÚ, klasifikace sítě jako KII, připravované rozhodnutí.
+
+**2. Právní otázka.** Je ČTÚ povinen před vydáním rozhodnutí zasahujícího do oblasti kybernetické bezpečnosti vyžádat stanovisko NÚKIB a usilovat o shodu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 112a odst. 1 (vzájemné poskytování podnětů a informací, stejná úroveň důvěrnosti), odst. 2 (vzájemné vyžádání stanovisek k připravovaným rozhodnutím a snaha o shodu).
+- *Související ustanovení téhož zákona:* § 113 (kontrola), § 114 (opatření k nápravě), § 108 (působnost ČTÚ).
+- *Související předpisy:* zákon č. 181/2014 Sb. (ZKB — KII, základní služby); zákon č. 205/2017 Sb. (zřízení NÚKIB).
+- *Judikatura:* k povinnosti koordinace dvou dotčených orgánů — opomenutí vyžádání stanoviska tam, kde to zákon ukládá, je vadou řízení, je-li podstatné pro zákonnost rozhodnutí.
+
+**4. Subsumpce.** Připravované rozhodnutí ČTÚ zasahující do bezpečnosti sítí = rozhodnutí vydávané v mezích působnosti, jež se dotýká působnosti NÚKIB. Odst. 2 ukládá vyžádat stanovisko a usilovat o shodu. Splněno: jde o překrývající se agendu (síť = KII). Na rozdíl od § 111 zde chybí formalizovaná konzultační lhůta a fikce souhlasu.
+
+**5. Řešení.** ČTÚ by měl před vydáním rozhodnutí vyžádat stanovisko NÚKIB (odst. 2) a usilovat o dosažení shody, aby rozhodnutí nekolidovalo s bezpečnostními opatřeními dle ZKB. Spolupráce není formalizována lhůtou — postup určuje meziinstitucionální dohoda (MOU). Riziko: bez koordinace hrozí rozporná opatření (technická náprava vs. bezpečnostní opatření). Trvá-li neshoda, každý orgán rozhodne ve své působnosti.
+
+**6. Varianty.** (a) Pokud by síť operátora H nebyla kritickou informační infrastrukturou, působnost NÚKIB by nebyla dotčena a konzultace by nebyla nutná. (b) Pokud by šlo o sdílení utajovaných informací, příjemce musí zachovat stejnou úroveň důvěrnosti (odst. 1).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Absence konzultace s NÚKIB nezpůsobuje nezákonnost, protože § 112a nestanoví lhůtu ani fikci." Neutralizace: odst. 2 ukládá vyžádat stanovisko u rozhodnutí dotýkajících se působnosti NÚKIB; opomenutí může být vadou, je-li podstatné pro zákonnost.
+- *Protiargument:* „Bezpečnost sítí je výlučně věcí NÚKIB, ČTÚ do ní nesmí zasahovat." Neutralizace: kompetence se prolínají; ČTÚ reguluje technické aspekty dle ZEK, koordinace (nikoli nečinnost) je řešením.
+- *Slabé místo:* nižší formalizace spolupráce (oproti § 111) ponechává mnoho na neformální praxi a MOU, což snižuje předvídatelnost.
+
+#### H. Praktický závěr
+
+§ 112a buduje koordinační rámec mezi ČTÚ (technická regulace sítí dle ZEK) a NÚKIB (kybernetická bezpečnost dle ZKB) analogický § 111 a § 112, avšak bez formalizované konzultační lhůty: vzájemné poskytování informací (odst. 1) a vyžádání stanovisek s úsilím o shodu (odst. 2).
+
+**Checklist (ČTÚ / NÚKIB / operátor):**
+- [ ] Jde o síť/službu spadající pod KII nebo základní službu dle ZKB?
+- [ ] Dotýká se připravované rozhodnutí ČTÚ působnosti NÚKIB (nebo naopak)?
+- [ ] Bylo vyžádáno vzájemné stanovisko a usilováno o shodu (odst. 2)?
+- [ ] Je při předávání informací zachována stejná úroveň důvěrnosti (odst. 1)?
+- [ ] Existuje MOU/protokol upravující součinnost?
+
+**Typicky rozhodné důkazy / podklady:** klasifikace sítě jako KII; připravované rozhodnutí ČTÚ; vyžádaná stanoviska NÚKIB; meziinstitucionální dohody o spolupráci.
 
 ---
 
@@ -533,6 +864,44 @@ Odst. 5 a 6 zmocňují k vydání prováděcích předpisů pro technické metod
 
 Odst. 10 zakotvuje **omezené oprávnění vstupu na cizí nemovitost** pro případy rušení ohrožujícího kritickou infrastrukturu, zdraví nebo majetek. Podmínky jsou kumulativní: (a) neoprávněné využívání kmitočtů nebo zjišťování zdroje rušení, (b) ohrožení kritické infrastruktury nebo zdraví/majetku, (c) nezbytnost provedení měření, (d) nelze zajistit systematickým monitorováním. Informování vlastníka nemovitosti je povinné, ale může proběhnout i při zahájení kontroly — tedy ne nutně předem. Právo na ochranu obydlí (čl. 12 Listiny) je výslovně vyloučeno z rozsahu tohoto oprávnění.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ při monitorování rádiového spektra zjistí silný zdroj rušení v pásmu FM, jenž narušuje provoz letecké navigace na blízkém letišti (kritická infrastruktura). Zdroj je lokalizován do oploceného soukromého pozemku, jehož vlastník je nepřítomen. Pracovníci ČTÚ potřebují vstoupit na pozemek a provést přesné měření. Účastníci: ČTÚ (pověření kontrolující), vlastník pozemku, provozovatel rušeného zařízení. Důkazně významné: záznam monitorování, identifikace pásma, doklad o ohrožení kritické infrastruktury.
+
+**2. Právní otázka.** Za jakých podmínek jsou pracovníci ČTÚ oprávněni vstoupit na cizí nemovitost bez předchozího souhlasu vlastníka při odstraňování zdroje rušení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 113 odst. 3 (monitorování bez upozornění), odst. 4 (přístup k obsahu zpráv jen pro identifikaci, mlčenlivost), odst. 10 (vstup na cizí nemovitost při ohrožení kritické infrastruktury/zdraví/majetku).
+- *Související ustanovení téhož zákona:* § 108 odst. 1 písm. m) (vyhledávání zdrojů rušení), § 108 odst. 2 písm. b) (automatizovaný systém monitorování), § 87 a násl. (tajemství zpráv).
+- *Související předpisy:* čl. 12 Listiny (nedotknutelnost obydlí — výslovně nedotčeno), čl. 13 Listiny (tajemství zpráv); zákon č. 255/2012 Sb. (kontrolní řád).
+- *Judikatura:* k zásahům do vlastnického práva při výkonu kontroly — zásah musí splnit podmínky proporcionality a šetřit práva vlastníka v nejvyšší možné míře.
+
+**4. Subsumpce.** Podmínky odst. 10 jsou kumulativní: (a) zjišťování zdroje rušení — splněno; (b) ohrožení kritické infrastruktury — splněno (letecká navigace); (c) nezbytnost měření pro rozhodnutí o zahájení kontroly — splněno; (d) nelze zajistit systematickým monitorováním — splněno (přesná lokalizace vyžaduje vstup). Pozemek (nikoli obydlí) → oprávnění vstupu dáno; obydlí by bylo vyloučeno.
+
+**5. Řešení.** Pracovníci ČTÚ jsou oprávněni vstoupit/vjet na pozemek, jsou-li kumulativně splněny podmínky odst. 10, po prokazatelném informování vlastníka nejpozději při zahájení kontroly. Musí co nejvíce šetřit práv vlastníka. Vstup do obydlí (bytu, domu) je vyloučen — právo na ochranu obydlí (čl. 12 Listiny) zůstává nedotčeno; pro vstup do obydlí by bylo nutné využít jiné nástroje. Pověření ke kontrole má formu průkazu (odst. 8).
+
+**6. Varianty.** (a) Pokud by zdroj rušení neohrožoval kritickou infrastrukturu/zdraví/majetek, ale šlo jen o běžné rušení, oprávnění vstupu dle odst. 10 by nevzniklo. (b) Pokud by se zdroj nacházel uvnitř obydlí, ČTÚ nemůže vstoupit na základě odst. 10 — ochrana obydlí je výslovně nedotčena.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument vlastníka:* „Vstup bez předchozího souhlasu porušuje mé vlastnické právo." Neutralizace: odst. 10 zakládá zákonné oprávnění při kumulativním splnění podmínek; postačí informování nejpozději při zahájení kontroly, vlastník nemá právo veta.
+- *Protiargument:* „Monitorování bez upozornění a seznámení s obsahem zpráv porušuje tajemství komunikací." Neutralizace: odst. 4 dovoluje přístup k obsahu jen pro identifikaci osob a ukládá přísnou mlčenlivost; jde o proporcionální výjimku slučitelnou s čl. 13 Listiny.
+- *Slabé místo:* posouzení „nezbytnosti" a nemožnosti monitoringu (podmínky c, d) je úvahou ČTÚ, jež může být ex post zpochybněna; dokumentace splnění podmínek je klíčová.
+
+#### H. Praktický závěr
+
+§ 113 zakládá obecnou kontrolní pravomoc ČTÚ (procesně dle kontrolního řádu): monitorování spektra zpravidla bez upozornění (odst. 3), přístup k obsahu zpráv jen pro identifikaci s přísnou mlčenlivostí (odst. 4) a omezené oprávnění vstupu na cizí nemovitost při ohrožení kritické infrastruktury (odst. 10), avšak s nedotčeným právem na ochranu obydlí.
+
+**Checklist (ČTÚ / vlastník nemovitosti / kontrolovaný):**
+- [ ] Je kontrola vedena v rozsahu odst. 2 (povinnosti dle zákona, OOP, rozhodnutí, kmitočty, čísla)?
+- [ ] U monitorování — prováděno zpravidla bez upozornění; přístup k obsahu jen pro identifikaci (odst. 4)?
+- [ ] U vstupu na nemovitost — splněny všechny kumulativní podmínky odst. 10?
+- [ ] Byl vlastník prokazatelně informován nejpozději při zahájení kontroly?
+- [ ] Nejde o vstup do obydlí (vyloučen — čl. 12 Listiny)?
+- [ ] Disponuje kontrolující průkazem dle odst. 8?
+
+**Typicky rozhodné důkazy / podklady:** záznamy monitorování spektra; doklad o ohrožení kritické infrastruktury/zdraví; protokol o kontrole; doklad o informování vlastníka; pověření/průkaz ke kontrole.
+
 ---
 
 ### § 114 — Opatření k nápravě
@@ -573,6 +942,43 @@ Standardní postup: nejprve **výzva k nápravě ve lhůtě do 1 měsíce**, tep
 #### Okamžité opatření — nouzová regulace (odst. 2)
 
 Odst. 2 je **nouzovým nástrojem**: při bezprostředním ohrožení veřejného pořádku, bezpečnosti nebo zdraví ČTÚ nečeká na uplynutí měsíční lhůty pro nápravu — vydá rozhodnutí bezodkladně. Maximální doba platnosti (3 + 3 měsíce celkem 6 měsíců) chrání povinnou osobu před neomezeně dlouhým nouzovým opatřením; po 6 měsících musí ČTÚ buď věc uzavřít nebo postupovat formálními nástroji (přerušení sítě dle odst. 4, přestupky dle hlavy VII).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ zjistí, že operátor I nedodržuje podmínky všeobecného oprávnění (kvalita služby). Vyzve jej dle § 114 odst. 1 k nápravě ve lhůtě 1 měsíce. Operátor I namítá, že výzva je nezákonným rozhodnutím deklarujícím porušení zákona, a podává proti ní žalobu. Mezitím se ukáže, že porušení bezprostředně ohrožuje bezpečnost tísňového volání. Účastníci: ČTÚ, operátor I. Důkazně významné: text výzvy, zjištění kontroly, doklad o ohrožení tísňových služeb.
+
+**2. Právní otázka.** Je výzva k nápravě dle § 114 odst. 1 závazným rozhodnutím napadnutelným žalobou, a kdy může ČTÚ přistoupit k okamžitému opatření bez čekání na lhůtu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 114 odst. 1 (výzva k nápravě, lhůta zpravidla 1 měsíc), odst. 2 (okamžité opatření při bezprostředním ohrožení, max. 3 + 3 měsíce), odst. 3 (přerušení při narušení soutěže), odst. 4 (přerušení/ukončení při závažném/opakovaném porušení).
+- *Související ustanovení téhož zákona:* § 11 (zvláštní povinnosti), § 84 odst. 1, § 113 (kontrola); přestupky viz hlava VII.
+- *Související předpisy:* § 65 s. ř. s. (žaloba proti rozhodnutí — pojem úkonu zasahujícího do práv); kontrolní řád.
+- *Judikatura:* NSS 55 A 6/2019-51 (citováno v komentáři) — výzva dle § 114 není aktem závazně deklarujícím porušení zákona; jde o informaci a poskytnutí prostoru k nápravě, nikoli o rozhodnutí ve smyslu napadnutelném žalobou.
+
+**4. Subsumpce.** Výzva k nápravě = první stupeň modelu, informativní akt poskytující prostor k nápravě (dle NSS není závazným deklaratorním rozhodnutím). Bezprostřední závažné ohrožení bezpečnosti = předpoklad okamžitého opatření (odst. 2). Splněno: ohrožení tísňového volání zakládá nouzový režim odst. 2, ČTÚ nemusí čekat na uplynutí měsíční lhůty.
+
+**5. Řešení.** Žaloba proti samotné výzvě dle § 114 odst. 1 je nedůvodná (NSS 55 A 6/2019) — výzva není závazným rozhodnutím deklarujícím porušení, ale výhodou poskytující prostor k nápravě. Při bezprostředním závažném ohrožení (tísňové volání) ČTÚ vydá bezodkladně okamžité opatření k nápravě (odst. 2) s platností max. 3 + 3 měsíce. Nezjedná-li operátor nápravu, nastupuje přerušení/ukončení dle odst. 4. Procesně: opatření dle odst. 2 je rozhodnutím napadnutelným správní žalobou.
+
+**6. Varianty.** (a) Při běžném (neohrožujícím) porušení ČTÚ postupuje standardní cestou výzvy s měsíční lhůtou, teprve poté závažnější opatření. (b) Pokud by samotné poskytování služby narušovalo hospodářskou soutěž (porušení povinností dle § 84), uplatní se zvláštní režim přerušení dle odst. 3, nikoli odst. 4.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument operátora:* „Výzva fakticky deklaruje porušení zákona a zasahuje do mých práv." Neutralizace: dle NSS 55 A 6/2019 výzva nemá závazné účinky deklarace porušení; soudní ochrana se otevírá až proti následnému rozhodnutí (opatření dle odst. 2/4).
+- *Protiargument:* „Okamžité opatření obchází standardní lhůtu a je nepřiměřené." Neutralizace: odst. 2 je podmíněn bezprostředním závažným ohrožením; max. doba 6 měsíců chrání před neomezeným nouzovým režimem.
+- *Slabé místo:* posouzení „bezprostředního a závažného ohrožení" je neurčitý pojem; nesprávná aplikace okamžitého opatření tam, kde stačila výzva, by byla nepřiměřená.
+
+#### H. Praktický závěr
+
+§ 114 zakotvuje stupňovaný model nápravy: (1) výzva k nápravě (informativní akt, nikoli závazné rozhodnutí — NSS 55 A 6/2019), (2) okamžité opatření při bezprostředním ohrožení (max. 3 + 3 měsíce), (3) přerušení/ukončení sítě nebo služby při závažném/opakovaném porušení, s odst. 3 jako zvláštním režimem ochrany soutěže.
+
+**Checklist (ČTÚ / advokát / povinná osoba):**
+- [ ] Bylo zjištěno porušení podmínek/povinností dle odst. 1 (kontrolou dle § 113)?
+- [ ] Byla vydána výzva k nápravě s přiměřenou lhůtou (zpravidla 1 měsíc)?
+- [ ] Jde o bezprostřední závažné ohrožení odůvodňující okamžité opatření (odst. 2)?
+- [ ] Je u okamžitého opatření respektována maximální doba 3 + 3 měsíce?
+- [ ] Je proti samotné výzvě žaloba nedůvodná, a směřuje opravný prostředek až proti rozhodnutí?
+
+**Typicky rozhodné důkazy / podklady:** protokol o kontrole; text výzvy a doklad o jejím doručení; doklad o (ne)zjednání nápravy ve lhůtě; doklad o bezprostředním ohrožení; rozhodnutí o opatření k nápravě.
 
 ---
 
@@ -667,6 +1073,43 @@ Odst. 5 taxativně (slovo „zejména" ve skutečnosti de facto taxativní v sys
 
 Zákon ČTÚ ukládá shromažďovat data o soudních přezkumech (opravné prostředky, žaloby, délka řízení, předběžná opatření) a na žádost je poskytovat Komisi nebo BEREC. Tím ČTÚ přispívá k monitoringu efektivity regulace na evropské úrovni (Komise pravidelně hodnotí, jak efektivně fungují systémy přezkumu rozhodnutí NRA v členských státech).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ zašle operátorovi J žádost o předání podrobných údajů o velkoobchodních cenách a infrastruktuře „pro účely analýzy trhu a zeměpisného mapování". Odůvodnění žádosti je strohé — uvádí pouze účel jednou větou. Operátor J odmítne s tím, že žádost je nedostatečně odůvodněná a tedy nezákonná, a navíc požaduje informace, které ČTÚ již dříve obdržel od BEREC. Účastníci: ČTÚ, operátor J, BEREC. Důkazně významné: text žádosti, lhůta k poskytnutí, evidence dat získaných od BEREC.
+
+**2. Právní otázka.** Zakládá strohost odůvodnění žádosti její nezákonnost, a může ČTÚ požadovat informace, jež si již opatřil od BEREC?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 115 odst. 1 (žádost s odůvodněním a účelem, zásada minimalizace), odst. 2 (pravidelný sběr k 30. 6. a 31. 12.), odst. 5 (katalog účelů), odst. 6 (zákaz požadovat data získaná od BEREC), odst. 7 (zákaz předběžné regulace), odst. 9 (povinnost chránit).
+- *Související ustanovení téhož zákona:* § 8 odst. 2 (oznámené podnikání), § 115a (zeměpisné mapování), § 106 (analogie pro Ministerstvo).
+- *Související předpisy:* nařízení o zřízení BEREC (2018/1971/EU); GDPR; § 504 obč. zák. (obchodní tajemství); čl. 20 EECC (žádosti o informace).
+- *Judikatura:* NSS 9 A 139/2017-42 (citováno v komentáři) — i velmi obecné odůvodnění žádosti se strohým sdělením účelu obstojí; pouhá obecnost nezpůsobuje nezákonnost žádosti.
+
+**4. Subsumpce.** Žádost dle odst. 1 vyžaduje odůvodnění a uvedení účelu a respektování minimalizace. Strohé odůvodnění s uvedením účelu = dle NSS 9 A 139/2017 dostačuje. Splněno: účel byl sdělen. Naopak požadavek na data již získaná od BEREC = porušení odst. 6 (zásada „once only"). Operátor je tak povinen poskytnout data, vyjma těch, jež ČTÚ obdržel od BEREC.
+
+**5. Řešení.** Žádost není nezákonná pouze pro strohost odůvodnění, sdělil-li ČTÚ účel (NSS 9 A 139/2017). Operátor J je povinen data poskytnout v ČTÚ stanovené přiměřené lhůtě, podobě a rozsahu (odst. 1), včetně obchodního tajemství a osobních údajů (odst. 4), ČTÚ je povinen je chránit (odst. 9). ČTÚ však nesmí požadovat informace, jež získal od BEREC (odst. 6) — v této části je odmítnutí operátora oprávněné. Riziko pro operátora: neposkytnutí ostatních dat zakládá přestupek.
+
+**6. Varianty.** (a) Pokud by ČTÚ požadoval regulatorní data před zahájením komunikační činnosti operátora, narazil by na zákaz odst. 7 (liberalizační zásada). (b) Pokud by šlo o pravidelný pololetní sběr dle odst. 2, lhůta nesmí být kratší než 30 dnů a předání probíhá elektronickým formulářem.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument operátora:* „Strohé odůvodnění činí žádost nepřezkoumatelnou a nezákonnou." Neutralizace: NSS 9 A 139/2017 — postačí sdělení účelu; obecnost sama o sobě zákonnost neruší.
+- *Protiargument:* „Poskytnutí obchodního tajemství poškozuje konkurenční postavení." Neutralizace: odst. 4 ukládá poskytnout i obchodní tajemství, odst. 9 ukládá ČTÚ je chránit před zneužitím — ochrana je zajištěna.
+- *Slabé místo:* posouzení přiměřenosti rozsahu (minimalizace) je neostré; hranice mezi legitimním a nadměrným požadavkem je předmětem sporu.
+
+#### H. Praktický závěr
+
+§ 115 je centrálním informačním ustanovením ZEK: dvě cesty získávání dat — na žádost (odst. 1) a pravidelný pololetní sběr (odst. 2) — vázané zásadou minimalizace a transparentnosti (odůvodnění + účel), s taxativním katalogem účelů (odst. 5) a limity „once only" (odst. 6) a zákazu předběžné regulace (odst. 7).
+
+**Checklist (ČTÚ / povinná osoba):**
+- [ ] Obsahuje žádost odůvodnění a uvedení účelu (postačí i obecné — NSS 9 A 139/2017)?
+- [ ] Spadá účel do katalogu odst. 5 a respektuje minimalizaci?
+- [ ] Nejde o data již získaná od BEREC (odst. 6) nebo o předběžnou regulaci před zahájením činnosti (odst. 7)?
+- [ ] U pravidelného sběru — dodržena elektronická forma a lhůta nejméně 30 dnů (odst. 2–3)?
+- [ ] Zajistil ČTÚ ochranu předaných dat před zneužitím (odst. 9)?
+
+**Typicky rozhodné důkazy / podklady:** text žádosti s odůvodněním a účelem; doklad o stanovené lhůtě a formě; evidence dat získaných od BEREC; elektronické formuláře a doklad o jejich odeslání.
+
 ---
 
 ### § 115a — Zeměpisné mapování
@@ -729,6 +1172,43 @@ Výsledky mapování musí být zveřejněny, pokud nejsou veřejně dostupné �
 
 Zákon uvaluje povinnosti i na jiné orgány veřejné moci, které provádějí vlastní zeměpisné mapování (typicky kraje nebo obce realizující dotační programy rozvoje broadbandu). Tyto orgány musí koordinovat s ČTÚ, sdílet výsledky mapování, zamezit duplicitnímu mapování a řídit střety zájmů, jsou-li samy vlastníky/provozovateli sítí.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Kraj K připravuje dotační program na výstavbu optických sítí ve venkovských oblastech a chce vyhlásit veřejnou podporu pro „bílá místa". ČTÚ na základě zeměpisného mapování určí oblast, kde nejsou a ani nejsou plánovány sítě umožňující stahování alespoň 100 Mb/s, a vyzve operátory k oznámení záměru pokrytí. Operátor L tvrdí, že tam do 3 let optiku vybuduje. Účastníci: ČTÚ, kraj K, operátor L. Důkazně významné: data ze zeměpisného mapování, plánované investice operátora L, vymezení hranic určené oblasti.
+
+**2. Právní otázka.** Za jakých podmínek lze oblast určit jako „bílé místo" a jaký účinek má deklarace operátora o plánované výstavbě na poskytnutí veřejné podpory?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 115a odst. 1 (mapování alespoň 1× za 3 roky, zohlednění pokynů BEREC), odst. 2 (plánované investice až 3 roky), odst. 4 (určení oblasti bez VHCN / sítí ≥ 100 Mb/s), odst. 5 (výzva k oznámení záměru), odst. 6 (zohlednění při veřejných prostředcích), odst. 8 (povinnosti jiných orgánů — koordinace, střet zájmů).
+- *Související ustanovení téhož zákona:* § 115 (sběr informací), § 108 (působnost ČTÚ).
+- *Související předpisy:* čl. 22 EECC (zeměpisné průzkumy); pravidla státní podpory EU (sdělení Komise o broadbandu, SA.33440); novela č. 374/2021 Sb.
+- *Judikatura:* k tržní konzultaci před veřejnou podporou — poskytnutí podpory tam, kde trh sám zajistí pokrytí, by bylo nepřípustnou veřejnou podporou narušující soutěž.
+
+**4. Subsumpce.** Mapování dat o pokrytí = předpoklad určení oblasti (odst. 1, 4). Absence a neplánování sítí ≥ 100 Mb/s = znak „bílého místa". Deklarace operátora L o investici v období až 3 let (odst. 2, 5) = forward-looking údaj, jejž ČTÚ posuzuje, nakolik na něj spoléhá. Sporné: je deklarace L závazná, nebo jen záměr? ČTÚ diskrečně hodnotí věrohodnost.
+
+**5. Řešení.** ČTÚ určí oblast jako „bílé místo" jen tehdy, nejsou-li sítě ≥ 100 Mb/s ani plánovány (odst. 4); plánované investice (deklarace L) ČTÚ posoudí dle věrohodnosti (odst. 2 — diskrece). Oznámí-li L věrohodný záměr výstavby do 3 let, oblast nemusí být „bílým místem" a veřejná podpora by tam byla problematická z hlediska pravidel EU. Kraj K musí výsledky mapování zohlednit (odst. 6) a při vlastním mapování koordinovat s ČTÚ a řešit střet zájmů, je-li sám provozovatelem sítě (odst. 8). Riziko: poskytnutí podpory do oblasti pokryté trhem = nepřípustná veřejná podpora.
+
+**6. Varianty.** (a) Pokud by deklarace operátora L byla nevěrohodná či nepodložená, ČTÚ na ni nemusí spoléhat a oblast určí jako „bílé místo". (b) Pokud by kraj K prováděl vlastní mapování bez koordinace s ČTÚ, porušil by odst. 8 písm. a) a hrozilo by neúčelné duplicitní mapování.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument operátora:* „Mé plánované investice musí ČTÚ bez dalšího respektovat." Neutralizace: odst. 2 dává ČTÚ diskreci posoudit, nakolik na deklarace spoléhá — jde o záměry, nikoli záruky.
+- *Protiargument kraje:* „Mapování je věcí ČTÚ, kraj může poskytovat dotace nezávisle." Neutralizace: odst. 6 ukládá zohlednit výsledky mapování; odst. 8 ukládá koordinaci a zamezení střetu zájmů.
+- *Slabé místo:* určení hranic oblasti a vyhodnocení věrohodnosti investičních záměrů je úvahou s prostorem pro spor; pravidla veřejné podpory EU navíc kladou další podmínky mimo ZEK.
+
+#### H. Praktický závěr
+
+§ 115a (transpozice čl. 22 EECC, novela č. 374/2021 Sb.) je nástroj pro identifikaci „bílých míst" v pokrytí: mapování alespoň 1× za 3 roky se zohledněním pokynů BEREC (odst. 1), forward-looking data o investicích (odst. 2), určení oblasti a tržní konzultace (odst. 4–5) a navázání veřejné podpory na výsledky mapování s koordinací jiných orgánů (odst. 6, 8).
+
+**Checklist (ČTÚ / kraj nebo obec / operátor):**
+- [ ] Proběhlo mapování v periodicitě alespoň 1× za 3 roky se zohledněním pokynů BEREC?
+- [ ] Splňuje oblast znaky „bílého místa" (bez sítí ≥ 100 Mb/s, ani neplánovaných)?
+- [ ] Posoudil ČTÚ věrohodnost deklarovaných investičních záměrů (odst. 2)?
+- [ ] Byla provedena výzva k oznámení záměru (odst. 5) před veřejnou podporou?
+- [ ] Zohlednil orgán poskytující veřejné prostředky výsledky mapování (odst. 6) a koordinoval s ČTÚ (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** data ze zeměpisného mapování (pokrytí, parametry, kvalita); deklarace investičních záměrů; vymezení hranic určené oblasti; doklady o koordinaci s ČTÚ a o tržní konzultaci.
+
 ---
 
 ### § 115b — Jednotný seznam blokovaných internetových stránek
@@ -752,6 +1232,45 @@ Zákon uvaluje povinnosti i na jiné orgány veřejné moci, které provádějí
 #### Podzákonná regulace (odst. 3)
 
 Technické detaily (rozsah zveřejňovaných údajů, formát, způsob a podmínky předávání) stanoví prováděcí předpis — vyhláška ČTÚ. Tato delegace je nezbytná s ohledem na technický a operativně proměnlivý charakter blokačního mechanismu.
+
+---
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Ministerstvo financí vede dle zákona o hazardních hrách seznam internetových stránek s nelegálním hazardem, k nimž mají poskytovatelé připojení zamezit přístup. Poskytovatel připojení M namítá, že čerpá blokační údaje ze tří různých seznamů různých orgánů a není schopen zajistit jednotné blokování. ČTÚ má dle § 115b zveřejňovat jednotný seznam. Účastníci: ČTÚ, Ministerstvo financí (orgán vedoucí seznam), poskytovatel připojení M. Důkazně významné: zdrojové seznamy, formát předávaných údajů, prováděcí vyhláška.
+
+**2. Právní otázka.** Jaký je vztah mezi orgánem vedoucím dílčí blokační seznam a ČTÚ jako zveřejňovatelem jednotného seznamu, a jaké povinnosti z toho plynou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 115b odst. 1 (ČTÚ zveřejňuje jednotný seznam dálkovým přístupem), odst. 2 (povinnost orgánů vedoucích dílčí seznamy předávat údaje ČTÚ), odst. 3 (prováděcí předpis k rozsahu a formě údajů).
+- *Související ustanovení téhož zákona:* § 108 odst. 2 písm. g) (zveřejňování jednotného seznamu jako kompetence ČTÚ).
+- *Související předpisy:* zákon č. 186/2016 Sb., o hazardních hrách (blokační seznam MF); blokační seznam Policie ČR (sexuální zneužívání dětí); prováděcí vyhláška ČTÚ.
+- *Judikatura:* k blokování stránek obecně — blokační povinnost musí mít zákonný základ a být proporcionální; jednotný seznam zajišťuje právní jistotu poskytovatelů.
+
+**4. Subsumpce.** ČTÚ = agregátor a zveřejňovatel jednotného seznamu (odst. 1). Ministerstvo financí = orgán vedoucí dílčí seznam dle jiného předpisu → povinnost předávat údaje ČTÚ (odst. 2). Splněno: existuje dílčí seznam a zákonná povinnost jej předat. Poskytovatel M čerpá z jednotného seznamu (jediný referenční strojově čitelný zdroj).
+
+**5. Řešení.** ČTÚ je povinen zveřejnit jednotný seznam dálkovým přístupem (odst. 1); orgány vedoucí dílčí seznamy (MF, Policie ČR) jsou povinny předávat ČTÚ údaje pro tento účel (odst. 2). Poskytovatel připojení M tak má jediný konsolidovaný zdroj a nemusí čerpat ze tří různých seznamů. Technické detaily (rozsah, formát, podmínky předávání) stanoví prováděcí vyhláška ČTÚ (odst. 3). Riziko: bez funkční vyhlášky a strojově čitelného API je povinnost blokování pro poskytovatele obtížně splnitelná.
+
+**6. Varianty.** (a) Pokud by orgán vedl seznam bez zákonného zmocnění, povinnost předat údaje ČTÚ by nevznikla a zařazení stránky na jednotný seznam by postrádalo právní základ. (b) Pokud by prováděcí vyhláška nestanovila formát předávání, byl by jednotný seznam fakticky nefunkční a blokační povinnost poskytovatelů obtížně vymahatelná.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument poskytovatele:* „Nemohu blokovat, dokud neexistuje jediný strojově čitelný zdroj." Neutralizace: § 115b ukládá ČTÚ zveřejnit jednotný seznam dálkovým přístupem; je-li veden, poskytovatel z něj čerpá — povinnost ČTÚ je předpokladem vymahatelnosti blokace.
+- *Protiargument:* „ČTÚ rozhoduje o zařazení stránek na seznam." Neutralizace: ČTÚ pouze agreguje a zveřejňuje; o zařazení rozhodují orgány vedoucí dílčí seznamy dle vlastních předpisů — ČTÚ není věcným posuzovatelem.
+- *Slabé místo:* zákon neřeší výslovně postup nápravy chybného zápisu na jednotný seznam — náprava se řídí předpisem orgánu vedoucího dílčí seznam.
+
+#### H. Praktický závěr
+
+§ 115b zakotvuje ČTÚ jako agregátora a zveřejňovatele jednotného seznamu blokovaných internetových stránek (odst. 1) s povinností orgánů vedoucích dílčí seznamy předávat údaje (odst. 2); věcné rozhodování o zařazení zůstává příslušným orgánům, technické detaily určuje vyhláška ČTÚ (odst. 3).
+
+**Checklist (ČTÚ / orgán vedoucí dílčí seznam / poskytovatel připojení):**
+- [ ] Zveřejňuje ČTÚ jednotný seznam způsobem umožňujícím dálkový přístup (odst. 1)?
+- [ ] Předává orgán vedoucí dílčí seznam (dle jiného předpisu) údaje ČTÚ (odst. 2)?
+- [ ] Má zápis stránky na dílčí seznam zákonný základ?
+- [ ] Stanoví prováděcí vyhláška rozsah, formu a podmínky předávání (odst. 3)?
+- [ ] Čerpá poskytovatel připojení z jednotného seznamu jako referenčního zdroje?
+
+**Typicky rozhodné důkazy / podklady:** zdrojové (dílčí) blokační seznamy a jejich zákonný základ; formát a doklad o předání údajů ČTÚ; prováděcí vyhláška; technické rozhraní (API) jednotného seznamu.
 
 ---
 
@@ -784,6 +1303,42 @@ Ministerstvo je povinno zachovávat důvěrnost informací obdržených od orgá
 #### Součinnost při srovnávacích zprávách Komise (odst. 4)
 
 Ministerstvo i ČTÚ jsou povinni **nápomocni Komisi** při vytváření srovnávacích zpráv o efektivitě opatření členských států (zejm. v oblasti cílů § 5 ZEK — rozvoj sítí, hospodářská soutěž). Formulace „v případě potřeby" naznačuje, že povinnost je podmíněna žádostí Komise, nikoliv automatická.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Komise připravuje srovnávací zprávu o účinnosti opatření členských států při rozvoji sítí (cíle obdobné § 5 ZEK) a požádá ČR o data a součinnost. Současně jiný členský stát předá Ministerstvu studii označenou jako důvěrnou. Ministerstvo zvažuje, zda data Komisi poskytnout a zda může důvěrnou studii sdílet s odbornou veřejností. Účastníci: Ministerstvo, ČTÚ, Komise, ministerstvo jiného členského státu. Důvěrnost: označení studie, povaha požadovaných dat.
+
+**2. Právní otázka.** V jakém rozsahu je Ministerstvo povinno poskytnout Komisi součinnost při srovnávacích zprávách a jak nakládat s důvěrnými informacemi od orgánů jiných států?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 116 odst. 1 (spolupráce s ministerstvy členských států a Komisí, oznamovací a informační povinnost), odst. 2 (zastupování ČR v poradních sborech a výborech Komise), odst. 3 (důvěrnost informací od orgánů členských států), odst. 4 (součinnost ČTÚ i Ministerstva při srovnávacích zprávách Komise).
+- *Související ustanovení téhož zákona:* § 5 (cíle regulace), § 105 (působnost Ministerstva), § 117 (spolupráce ČTÚ s Komisí a BEREC).
+- *Související předpisy:* čl. 4 odst. 3 SEU (loajální spolupráce); čl. 5 odst. 2 EECC (důvěrnost); rozhodnutí č. 676/2002/ES (RSC/RSPG).
+- *Judikatura:* k zásadě loajální spolupráce — členský stát musí Komisi poskytnout součinnost potřebnou k plnění jejích úkolů, při zachování důvěrnosti označených informací.
+
+**4. Subsumpce.** Žádost Komise o data pro srovnávací zprávu = případ součinnosti dle odst. 4 (povinnost ČTÚ i Ministerstva „v případě potřeby"). Studie od jiného státu označená jako důvěrná = informace chráněná dle odst. 3. Splněno: vzniká povinnost součinnosti a zároveň povinnost zachovat důvěrnost. Sdílení důvěrné studie s veřejností = porušení odst. 3.
+
+**5. Řešení.** Ministerstvo (a ČTÚ) jsou Komisi nápomocni při tvorbě srovnávacích zpráv „v případě potřeby" — tj. na základě žádosti Komise (odst. 4). Důvěrnou studii od jiného členského státu Ministerstvo nesmí zpřístupnit veřejnosti (odst. 3) — povinnost je reciproční (paralela § 117 odst. 3 pro ČTÚ). Procesně: Ministerstvo poskytne data Komisi v rozsahu potřeby, důvěrné informace chrání. Riziko: porušení důvěrnosti narušuje loajální spolupráci a vzájemnou důvěru NRA/ministerstev.
+
+**6. Varianty.** (a) Pokud by šlo o regulatorní data v působnosti ČTÚ (analýzy trhů, BEREC), součinnost zajišťuje primárně ČTÚ dle § 117, nikoli Ministerstvo. (b) Pokud by studie nebyla označena jako důvěrná, povinnost utajení dle odst. 3 by nevznikla.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Součinnost s Komisí je vždy povinná a okamžitá." Neutralizace: odst. 4 ji podmiňuje formulací „v případě potřeby" — povinnost nastupuje na základě žádosti Komise, není automatická.
+- *Protiargument:* „Důvěrné informace lze sdílet, slouží-li veřejnému zájmu." Neutralizace: odst. 3 ukládá bezvýjimečně zachovat důvěrnost informací označených jako důvěrné; reciprocita je podmínkou fungování evropské spolupráce.
+- *Slabé místo:* dělba součinnosti mezi Ministerstvem (strategická rovina) a ČTÚ (regulatorní rovina) může být v konkrétní žádosti Komise sporná.
+
+#### H. Praktický závěr
+
+§ 116 vymezuje evropskou dimenzi role Ministerstva: mezivládní spolupráce a zastupování ČR v poradních sborech a výborech Komise (odst. 1–2), povinnost zachovat důvěrnost informací od orgánů členských států (odst. 3) a součinnost Ministerstva i ČTÚ při srovnávacích zprávách Komise (odst. 4).
+
+**Checklist (Ministerstvo / ČTÚ / Komise):**
+- [ ] Spadá agenda do strategicko-mezivládní roviny (Ministerstvo) nebo regulatorní (ČTÚ, § 117)?
+- [ ] Jde o součinnost vyžádanou Komisí „v případě potřeby" (odst. 4)?
+- [ ] Jsou informace od orgánů členských států označeny jako důvěrné a chráněny (odst. 3)?
+- [ ] Zastupuje Ministerstvo ČR v příslušných poradních sborech a výborech Komise (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** žádost Komise o data/součinnost; označení informací jako důvěrných; podklady pro srovnávací zprávy; doklady o zastupování ČR ve výborech Komise.
 
 ---
 
@@ -830,6 +1385,44 @@ Získá-li ČTÚ informace od podnikatele a poté je předá Komisi, musí o tom
 #### Povinnost důvěrnosti (odst. 3 a 6)
 
 Informace označené jako důvěrné přijmuté od jiných NRA nebo od BEREC musí ČTÚ chránit. Při poskytování informací Komisi nebo BEREC musí ČTÚ zajistit zachování důvěrnosti informací, které jsou obchodním tajemstvím — tj. předávat je v anonymizované nebo agregované formě nebo explicitně žádat příjemce o utajení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor N působí v ČR i v sousedním členském státě a vznikne spor o přístup k síti dle § 129 ZEK, kde protistranou je operátor usazený v onom sousedním státě. ČTÚ chce vydat rozhodnutí, ale NRA sousedního státu zvažuje opačné řešení téhož přeshraničního vztahu. Současně si ČTÚ od operátora N dříve vyžádal data, jež nyní hodlá poskytnout Komisi. Účastníci: ČTÚ, NRA sousedního státu, operátor N, Komise, BEREC. Důvěrnost: povaha dat, jejich obchodní tajemství.
+
+**2. Právní otázka.** Jak má ČTÚ postupovat při přeshraničním sporu vůči NRA jiného státu a jaké povinnosti vznikají při poskytnutí dat operátora Komisi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 117 odst. 1 (členství v BEREC, koordinace rozhodování při přeshraničním sporu dle § 129), odst. 2 (oznamovací povinnosti vůči Komisi), odst. 3 (poskytování informací NRA/BEREC a důvěrnost), odst. 4 (informování podnikatele o poskytnutí dat Komisi), odst. 6 (ochrana obchodního tajemství), odst. 7 (databáze čísel v BEREC).
+- *Související ustanovení téhož zákona:* § 129 (řešení sporů), § 13 (oznámení předávaná BEREC), § 116 (spolupráce Ministerstva).
+- *Související předpisy:* nařízení o zřízení BEREC (2018/1971/EU); čl. 27 EECC (přeshraniční spory); čl. 5 odst. 2 EECC (důvěrnost).
+- *Judikatura:* k přeshraniční koordinaci NRA — cílem je předejít rozporným rozhodnutím a právní nejistotě na přeshraničním trhu; koordinace neznamená povinnost dosáhnout shody za každou cenu.
+
+**4. Subsumpce.** Spor dle § 129 se stranou z jiného členského státu = případ povinné koordinace s tamní NRA (odst. 1). Poskytnutí dat operátora N Komisi = situace zakládající povinnost bezodkladně informovat operátora (odst. 4) a chránit obchodní tajemství (odst. 6). Splněno: jde o přeshraniční spor i o předání dat. ČTÚ koordinuje, ale rozhoduje samostatně ve své působnosti.
+
+**5. Řešení.** ČTÚ při sporu dle § 129 koordinuje rozhodování s NRA sousedního státu (odst. 1), aby se vyhnul rozpornému výsledku; koordinace však neukládá povinnost dosáhnout shody — ČTÚ rozhodne ve své působnosti. Poskytne-li ČTÚ Komisi data dříve vyžádaná od operátora N, musí jej o tom bezodkladně informovat (odst. 4) a zajistit ochranu obchodního tajemství (odst. 6 — agregace, anonymizace, žádost o utajení). Riziko: opomenutí informování podnikatele porušuje odst. 4 a ohrožuje jeho obchodní tajemství.
+
+**6. Varianty.** (a) Pokud by spor neměl přeshraniční prvek (obě strany z ČR), koordinace s cizí NRA dle odst. 1 by odpadla. (b) Pokud by ČTÚ poskytoval Komisi pouze agregovaná data bez identifikace podnikatele, povinnost informování dle odst. 4 by se neaktivovala v rozsahu individuálních dat.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Koordinace s NRA jiného státu váže ČTÚ k převzetí jejich řešení." Neutralizace: odst. 1 ukládá koordinaci, nikoli podřízení; ČTÚ rozhoduje nezávisle (§ 108 odst. 5), koordinace jen minimalizuje rozpory.
+- *Protiargument podnikatele:* „ČTÚ nesmí předat má data Komisi bez mého souhlasu." Neutralizace: ČTÚ může data poskytnout na odůvodněnou žádost (odst. 2–3), je však povinen podnikatele informovat (odst. 4) a chránit obchodní tajemství (odst. 6).
+- *Slabé místo:* mechanismus koordinace přeshraničních sporů nemá vynutitelný arbitrážní prvek na národní úrovni; při trvající neshodě hrozí paralelní, byť koordinovaná, rozhodnutí.
+
+#### H. Praktický závěr
+
+§ 117 zakotvuje ČTÚ jako povinného člena BEREC a jádro evropské regulatorní spolupráce: koordinace přeshraničních sporů dle § 129 (odst. 1), oznamovací povinnosti vůči Komisi (odst. 2), poskytování informací NRA/BEREC se zachováním důvěrnosti (odst. 3, 6), informování podnikatele o předání dat Komisi (odst. 4) a předávání oznámení dle § 13 a dat o číslech do databáze BEREC (odst. 5, 7).
+
+**Checklist (ČTÚ / podnikatel / NRA jiného státu):**
+- [ ] Má spor dle § 129 přeshraniční prvek vyžadující koordinaci s cizí NRA (odst. 1)?
+- [ ] Plní ČTÚ oznamovací a informační povinnosti vůči Komisi (odst. 2)?
+- [ ] Poskytuje ČTÚ informace NRA/BEREC jen na odůvodněnou žádost a chrání důvěrné informace (odst. 3)?
+- [ ] Byl podnikatel bezodkladně informován o poskytnutí jeho dat Komisi (odst. 4)?
+- [ ] Je při předávání Komisi/BEREC zajištěna ochrana obchodního tajemství (odst. 6)?
+- [ ] Předal ČTÚ oznámení dle § 13 (odst. 5) a data o číslech do databáze BEREC (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** podání ve sporu dle § 129 a doklady o koordinaci s cizí NRA; korespondence s Komisí/BEREC; doklad o informování podnikatele (odst. 4); klasifikace dat jako obchodní tajemství a způsob jejich ochrany.
 
 ---
 

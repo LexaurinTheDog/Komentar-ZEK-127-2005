@@ -54,6 +54,42 @@ Nepřímé propojení (transite interconnection) prostřednictvím třetí sít�
 
 Definice je klíčová pro celý regulatorní systém přístupu k „poslední míli" (local loop unbundling, LLU). Účastnické vedení spojuje koncový bod sítě (zákaznická přípojka) s hlavním rozvaděčem MDF nebo s ekvivalentním uzlem. Rozvázání tohoto vedení (§ 85) je historicky nejdůležitějším nástrojem soutěžní regulace v pevných sítích. V kontextu migrací na optická vlákna (FTTH/FTTB) nabývá pojem „ekvivalentní zařízení" na relevanci, neboť optické distribuční uzle mohou plnit funkci tradičního MDF.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Alternativní operátor A (oznámený podnik dle § 13) provozuje virtuální mobilní síť (MVNO) a žádá síťového operátora B o roaming ve smyslu § 78 odst. 1 písm. e). B odmítá s argumentem, že nejde o „přístup" ve smyslu zákona, nýbrž o čistě komerční ujednání mimo regulatorní rámec. Současně mezi A a B vázne spor, zda připojení A k databázi B pro objednávání a fakturaci (písm. i) spadá pod pojem přístupu. Důkazně by bylo třeba obstarat: technickou dokumentaci síťových rozhraní, žádost A a její formu, oznámení podnikání dle § 13 a korespondenci o odmítnutí.
+
+**2. Právní otázka.** Spadá roaming MVNO a přístup k objednávkovým/fakturačním systémům pod definici „přístupu" dle § 78 odst. 1, a tedy do regulatorního režimu ZEK?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 78 odst. 1 písm. e) a i) — demonstrativní výčet forem přístupu, výslovně zahrnující roaming i informační systémy pro objednávání a fakturaci.
+- *Související ustanovení téhož zákona:* § 79 (povinnost nabídnout přístup/propojení), § 80 (smlouva a řešení sporu), § 127 (rozhodování sporů ČTÚ), § 13 (oznámení podnikání jako podmínka aktivní legitimace).
+- *Související předpisy:* směrnice 2018/1972/EU (EECC), čl. 2 — definice přístupu; směrnice 2014/61/EU, čl. 2 bod 2 — fyzická infrastruktura.
+- *Judikatura:* nosně lze odkázat na výklad Soudního dvora EU k širokému pojetí přístupu v telekomunikačním rámci; rozhodovací praxe ČTÚ potvrzuje, že roaming je formou přístupu podléhající § 78 a násl.
+
+**4. Subsumpce.** Roaming je výslovně uveden v písm. e), přístup k databázím pro objednávání a fakturaci v písm. i). Výčet je demonstrativní („zejména"), takže i kdyby konkrétní forma nebyla výslovně jmenována, podřaditelnost pod obecnou definici odst. 1 postačuje. Sporné je pouze, zda A splnil podmínku oznámení podnikání — to je skutková otázka.
+
+**5. Řešení.** Roaming i přístup k systémům spadají pod § 78; B se nemůže vyhnout regulatornímu režimu tvrzením o „čistě komerčním" charakteru. A může postupovat dle § 79–80 a v případě nedohody navrhnout řešení sporu dle § 127. Riziko: pokud A neoznámil podnikání dle § 13, ztrácí aktivní legitimaci pro vynucení nabídky dle § 79 odst. 1.
+
+**6. Varianty.** (a) Jde-li o spojení sítě B se zařízením jediného zákazníka (nikoli s veřejnou sítí), nejde o propojení dle odst. 2, ale o prostý přístup. (b) Pokud by A požadoval spojení dvou veřejných sítí přes síť třetího operátora, šlo by o nepřímé propojení dle odst. 3 s odlišným režimem PoI.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Demonstrativní výčet neznamená, že vše je regulováno." — Neutralizace: regulatornímu režimu podléhá vše, co naplní obecnou definici odst. 1; demonstrativnost výčet rozšiřuje, nikoli zužuje.
+- *Argument B:* „Roaming je předmětem nařízení EU, nikoli národní regulace přístupu." — Neutralizace: unijní roamingová regulace (velkoobchodní stropy) a národní rámec přístupu se nevylučují; § 78 definuje pojem pro účely celé Hlavy IV.
+- Slabé místo: definice sama o sobě nezakládá povinnost — tu zakládá až § 79; § 78 je nutné vždy číst ve spojení s navazujícími ustanoveními.
+
+#### H. Praktický závěr
+
+Definice § 78 je výkladovým klíčem celé Hlavy IV; její šíře (demonstrativní výčet) brání úniku z regulace argumentem o „nepojmenované" formě přístupu. Propojení vždy předpokládá dvě veřejné sítě a propojovací bod.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o přístup (síť–zařízení/podnikatel) nebo o propojení (síť–síť, PoI)?
+- [ ] Naplňuje požadovaná forma některý bod písm. a)–i) nebo obecnou definici odst. 1?
+- [ ] Je žadatel oznámeným podnikem dle § 13?
+- [ ] Jde-li o propojení přes třetí síť, je správně kvalifikováno jako nepřímé (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** technická specifikace rozhraní, oznámení podnikání dle § 13, žádost o přístup/propojení a její forma, dokumentace propojovacího bodu.
+
 ---
 
 ### § 79 — Povinnost nabídnout propojení a přístup; pravomoci Úřadu
@@ -97,6 +133,42 @@ Odst. 2 umožňuje Úřadu zasáhnout i vůči podnikatelům, kteří nejsou pod
 #### Okamžitá vykonatelnost (odst. 3)
 
 Odkladný účinek opravného prostředku je vyloučen u povinnosti zajistit end-to-end konektivitu — odráží prioritu nepřetržitého provozu telekomunikačních služeb před právní jistotou povinného subjektu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Oznámený podnikatel A žádá operátora veřejné sítě B o propojení svých sítí za účelem ukončování hovorů. B (nikoli podnik s VTS) propojení odmítá s tím, že žádnou regulatorní povinnost vůči A nemá, neboť asymetrické povinnosti dle §§ 81–85 mu uloženy nebyly. Souběžně poskytovatel OTT komunikační aplikace C žádá ČTÚ, aby operátorovi B uložil interoperabilitu jeho služby. Důkazy: oznámení podnikání A dle § 13, žádost o propojení, doklad o tržním postavení B, případné rozhodnutí Komise dle § 79 odst. 4 písm. b).
+
+**2. Právní otázka.** Vzniká operátorovi B povinnost nabídnout propojení i bez statusu podniku s VTS, a může ČTÚ uložit interoperabilitu OTT služby bez rozhodnutí Komise?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79 odst. 1 (symetrická povinnost nabídnout propojení každému oznámenému podnikateli) a odst. 2–4 (pravomoci Úřadu mimo rámec VTS, vč. interoperability dle písm. d).
+- *Související ustanovení téhož zákona:* § 13 (oznámení), § 78 (definice), § 80 (smlouva a spor), §§ 81–85 (asymetrické povinnosti pro VTS), §§ 130–131 (konzultace).
+- *Související předpisy:* EECC 2018/1972/EU, čl. 61; prováděcí opatření Komise jako podmínka uložení interoperability OTT.
+- *Judikatura:* rozhodovací praxe ČTÚ k § 80 odst. 7 / § 127 (např. NSS 9 As 9/2024 k povaze sporu o propojení).
+
+**4. Subsumpce.** Povinnost dle odst. 1 je symetrická — váže každého operátora veřejné sítě bez ohledu na VTS; podmínkou je oznámení podnikání žadatele dle § 13. Naopak interoperabilita OTT (odst. 2 písm. d) je podmíněna dvojí zábranou: nezbytností (písm. a/odst. 4 písm. a) a formálním rozhodnutím Komise (odst. 4 písm. b). Bez rozhodnutí Komise nelze povinnost C uložit.
+
+**5. Řešení.** B musí A propojení nabídnout (odst. 1); odmítnutí bez legitimního důvodu je porušením zákonné povinnosti, A se domáhá řešení sporu dle § 80 odst. 7 a § 127. Žádost C ČTÚ zamítne, dokud Komise nepřijme prováděcí opatření dle odst. 4 písm. b). Pozor na odst. 3: opravný prostředek proti uložení end-to-end konektivity (odst. 2 písm. a) nemá odkladný účinek.
+
+**6. Varianty.** (a) Pokud by A neoznámil podnikání, povinnost B dle odst. 1 nevzniká. (b) Pokud by Komise prováděcí opatření k OTT interoperabilitě již přijala a hrozba pro spojení byla doložena v alespoň 3 členských státech, ČTÚ by povinnost C uložit mohl.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Bez VTS nemám žádné přístupové povinnosti." — Neutralizace: odst. 1 je samostatná symetrická povinnost odlišná od asymetrických povinností §§ 81–85.
+- *Argument C:* „Interoperabilitu lze uložit přímo, hrozí uzavření trhu." — Neutralizace: zákon záměrně vylučuje unilaterální národní aktivismus; bez rozhodnutí Komise je uložení nezákonné.
+- Slabé místo: rozsah „odůvodněných případů" dle odst. 2 je neurčitý; uložení musí projít konzultací dle §§ 130–131 a být proporcionální.
+
+#### H. Praktický závěr
+
+§ 79 rozlišuje symetrickou povinnost nabídnout propojení (odst. 1, každý operátor) od mimořádných intervencí Úřadu (odst. 2). Interoperabilita OTT služeb je podmíněna rozhodnutím Komise.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je žadatel oznámeným podnikem dle § 13 (aktivní legitimace pro odst. 1)?
+- [ ] Jde o symetrickou povinnost (odst. 1), nebo o intervenci Úřadu (odst. 2)?
+- [ ] U OTT interoperability: existuje prováděcí rozhodnutí Komise dle odst. 4 písm. b)?
+- [ ] U end-to-end konektivity: je zohledněn vyloučený odkladný účinek (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení podnikání, žádost o propojení a důvody odmítnutí, doklady o tržním postavení, rozhodnutí/opatření Komise, výsledky konzultace dle §§ 130–131.
 
 ---
 
@@ -158,6 +230,43 @@ Ustanovení § 79a tvoří nejkomplexnější regulatorní nástroj fyzického s
 
 Směrnice o snižování nákladů na vysokorychlostní sítě (Broadband Cost Reduction Directive, BCRD) ukládá členským státům povinnost umožnit sdílení fyzické infrastruktury (kanalizace, potrubí, vstupy do budov) nejen uvnitř telekomunikačního sektoru, ale i od provozovatelů jiných infrastruktur (elektro, plyn, voda). ZEK transponuje BCRD prostřednictvím § 79a odst. 7 ve spojení s § 104 a násl., přičemž pravomocí Úřadu je sledovat a vynucovat povinnosti k zpřístupnění.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor A buduje optickou síť (FTTH) v řídce osídlené oblasti, kde tržně motivovaná výstavba naráží na nepřekonatelné ekonomické překážky. Operátor B žádá ČTÚ o uložení povinnosti sdílet pasivní infrastrukturu A, popř. o lokalizovaný roaming. Souběžně bytové družstvo D odmítá zpřístupnit vnitřní kabelové rozvody operátoru C, který chce nabídnout připojení v domě již obslouženém jiným operátorem. Důkazy: přídělové rozhodnutí kmitočtů a podmínka sdílení v něm, mapa pokrytí a doklad o ekonomické neživotaschopnosti duplicitní výstavby, vlastnické vztahy k rozvodům.
+
+**2. Právní otázka.** Za jakých podmínek může ČTÚ uložit (i) sdílení pasivní infrastruktury či lokální roaming dle odst. 1–2 a (ii) sdílení vnitřních kabelových rozvodů dle odst. 7, a vůči komu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 79a odst. 1–2 (pasivní sdílení/roaming, trojí podmínka vč. zakotvení v přídělu), odst. 7 (sdílení rozvodů v budovách a za prvním soustřeďovacím bodem), odst. 9 (bezpečnostní zábrany VHCN).
+- *Související ustanovení téhož zákona:* § 104 (oprávnění k cizí nemovitosti), § 84 (přístupové povinnosti pro VTS), §§ 130–131 (konzultace), § 22 (přídělová rozhodnutí).
+- *Související předpisy:* směrnice 2014/61/EU (BCRD), čl. 3 a 9; EECC, čl. 57–61.
+- *Judikatura:* rozhodovací praxe ČTÚ o symetrickém sdílení infrastruktury; nosně judikatura k proporcionalitě regulatorních zásahů do vlastnického práva.
+
+**4. Subsumpce.** Pro odst. 1 musí být splněna trojí podmínka: neexistence alternativ za férových podmínek, přímá nezbytnost pro místní spektrové služby a zakotvení možnosti sdílení v přídělu kmitočtů. Pro odst. 7 postačí ekonomická neefektivnost nebo fyzická neproveditelnost zdvojení rozvodů; povinnost lze uložit i vlastníkovi rozvodů, který sám veřejnou síť nezajišťuje (bytové družstvo D). Odst. 9 však brání uložení přístupu za první bod, nabízí-li A férový VHCN přístup.
+
+**5. Řešení.** Sdílení pasivní infrastruktury A vůči B lze uložit jen, je-li podmínka sdílení v přídělu A; jinak nelze. Sdílení vnitřních rozvodů vůči družstvu D je možné dle odst. 7, je-li zdvojení neefektivní/neproveditelné, s rozdělením nákladů (vč. rizikové prémie) rozhodnutím ČTÚ. Vlastníci dotčených nemovitostí musí být osloveni v konzultaci dle § 130. Postup vyžaduje konzultaci a proporcionalitu.
+
+**6. Varianty.** (a) Pokud A nabízí férový VHCN přístup (odst. 9 písm. b), ČTÚ přístup za první bod neuloží — leda jde o síť financovanou z veřejných prostředků (odst. 10). (b) Pokud možnost sdílení nebyla zakotvena v přídělu, povinnost dle odst. 1 nelze uložit, i kdyby jinak byla nezbytná.
+
+#### G. Protiargumenty a rizika
+
+- *Argument A (investor):* „Sdílení odradí od investic do nových sítí." — Neutralizace: zákon to chrání zábranami odst. 9 (vč. rizika narušení nových sítí) a zohledněním pobídky k zavedení infrastruktury (odst. 3 písm. f).
+- *Argument vlastníka nemovitosti:* „Zásah do vlastnictví bez souhlasu." — Neutralizace: odst. 6–7 podmiňují zásah veřejným zájmem a neefektivností zdvojení; vlastník je účastníkem konzultace, náklady se mu hradí.
+- Slabé místo: trojí kumulativní podmínka odst. 1 (zejména zakotvení v přídělu) je v praxi často nesplněna, takže nástroj pasivního sdílení je úzce použitelný.
+
+#### H. Praktický závěr
+
+§ 79a je nejkomplexnější nástroj fyzického sdílení v ZEK; člení se na sdílení pasivní infrastruktury/roaming (odst. 1–4), sdílení rozvodů v budovách (odst. 6–7) a přístup za první soustřeďovací bod (odst. 8–10). Každá vrstva má vlastní podmínky a zábrany.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pasivní sdílení/roaming: splněna trojí podmínka vč. zakotvení v přídělu kmitočtů?
+- [ ] Sdílení rozvodů: je zdvojení ekonomicky neefektivní nebo fyzicky neproveditelné?
+- [ ] Byli vlastníci dotčených nemovitostí osloveni v konzultaci dle § 130?
+- [ ] Přístup za první bod: nejsou dány zábrany odst. 9 (férový VHCN přístup)?
+- [ ] Je stanoveno rozdělení nákladů vč. rizikové prémie?
+
+**Typicky rozhodné důkazy / podklady:** přídělová rozhodnutí kmitočtů a podmínky sdílení v nich, mapy pokrytí, analýza ekonomické efektivnosti zdvojení, vlastnické vztahy, výsledky konzultace, pokyny BEREC.
+
 ---
 
 ### § 80 — Smlouva o přístupu nebo propojení; postup při uzavírání
@@ -213,6 +322,43 @@ Odmítnutí smlouvy nelze provést bez věcného odůvodnění: zákon taxativn�
 
 Po uplynutí dvou měsíců od zahájení jednání vzniká žadateli právo podat návrh na řešení sporu dle § 127. Dnem zahájení je den prokazatelného doručení návrhu smlouvy — pojem „prokazatelně předal" implikuje potvrzený příjem (datová schránka, doporučený dopis, potvrzení e-mailem). Úřad pak rozhoduje jako speciální arbitrážní orgán se lhůtou 4 měsíců dle § 127 odst. 3. Toto ustanovení je systematicky provázáno s [06-hlava4-dil1-prava-ucastniku-smlouvy.md](06-hlava4-dil1-prava-ucastniku-smlouvy.md), kde jsou řešeny spory účastníků s operátory.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor A prokazatelně předal operátorovi B (incumbent) návrh smlouvy o propojení dne 1. března. Jednání vázne; do 1. května (více než 2 měsíce) ke smlouvě nedošlo, B navíc dílčí sporné body nevyjasnil. A podává ČTÚ návrh na rozhodnutí sporu dle § 127, jehož součástí je návrh smlouvy se specifikací sporných částí. B namítá, že lhůta neběžela, protože „jednání reálně nezačalo". Důkazy: doklad o prokazatelném předání návrhu (datová schránka / doručenka), korespondence o průběhu jednání, případné odmítnutí dle odst. 5.
+
+**2. Právní otázka.** Od kterého okamžiku běží dvouměsíční lhůta dle § 80 odst. 7 a jaký je rozsah pravomoci ČTÚ při rozhodování sporu o přístup/propojení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 80 odst. 7 (dvouměsíční lhůta, den prokazatelného předání, odkaz na postup § 127), odst. 5 (povinné zdůvodnění odmítnutí), odst. 4 (notifikace smlouvy do 10 dnů).
+- *Související ustanovení téhož zákona:* § 127 (řešení sporů), § 79 (povinnost nabídnout), § 5 (cíle regulace), § 118 (sankce).
+- *Související předpisy:* § 141 odst. 7 správního řádu (uložení povinnosti uzavřít/zamítnutí návrhu); prováděcí vyhláška ČTÚ o náležitostech smlouvy.
+- *Judikatura:* NSS 9 As 9/2024 — ČTÚ má pravomoc spor rozhodnout dle § 80 odst. 7; buď uloží uzavřít předložený návrh, nebo jej zamítne; § 127 zakládá pouze procesní úpravu sporu, předmět sporu vymezuje úplně § 80 odst. 7.
+
+**4. Subsumpce.** Dnem zahájení jednání je dle odst. 7 den prokazatelného předání návrhu — tedy 1. března; subjektivní tvrzení B o „nezačatém jednání" je právně irelevantní. Po 1. květnu má A právo navrhnout řešení sporu. ČTÚ dle NSS rozhodne buď uložením povinnosti uzavřít předložený návrh, nebo jeho zamítnutím; nemůže smlouvu volně dotvářet nad rámec předmětu vymezeného § 80 odst. 7.
+
+**5. Řešení.** Lhůta uplynula, návrh A je přípustný. ČTÚ posoudí sporné části a buď uloží uzavřít návrh smlouvy A (je-li v souladu s regulatorními povinnostmi), nebo jej zamítne. Procesně se aplikuje § 127 a § 141 odst. 7 spr. řádu. Riziko pro A: nedostatečná specifikace sporných částí návrhu může vést k odmítnutí pro vady podání.
+
+**6. Varianty.** (a) Pokud by B v zákonné formě odmítl uzavření smlouvy dle odst. 5 a uvedl konkrétní (technický/ekonomický) důvod, mění se těžiště sporu na posouzení legitimity důvodů. (b) Pokud by A nedoložil prokazatelné předání návrhu, lhůta by neběžela a návrh na rozhodnutí sporu by byl předčasný.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „ČTÚ nemůže uložit smlouvu, to je zásah do smluvní volnosti." — Neutralizace: dle NSS 9 As 9/2024 má ČTÚ výslovnou pravomoc uložit uzavření návrhu dle § 80 odst. 7 ve spojení s § 141 odst. 7 spr. řádu.
+- *Argument B:* „Lhůta nezačala, protože jsme reálně nejednali." — Neutralizace: zákon váže počátek na objektivní skutečnost (prokazatelné předání návrhu), nikoli na subjektivní vůli jednat.
+- Slabé místo: ČTÚ je vázán předmětem vymezeným § 80 odst. 7 a nemůže smlouvu volně dotvářet; nedostatečně specifikovaný návrh A oslabuje jeho pozici.
+
+#### H. Praktický závěr
+
+§ 80 procesně řídí uzavírání přístupových/propojovacích smluv: písemná forma, notifikace ČTÚ do 10 dnů, povinné zdůvodnění odmítnutí a dvouměsíční lhůta, po níž lze spor předložit ČTÚ k rozhodnutí dle § 127.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je doložen den prokazatelného předání návrhu (počátek běhu lhůty)?
+- [ ] Uplynuly 2 měsíce od zahájení jednání?
+- [ ] Obsahuje návrh na rozhodnutí sporu smlouvu se specifikací sporných částí?
+- [ ] Byla smlouva notifikována ČTÚ do 10 dnů od uzavření?
+- [ ] Bylo odmítnutí odůvodněno dle odst. 5 a notifikováno současně ČTÚ?
+
+**Typicky rozhodné důkazy / podklady:** doručenka/datová zpráva s návrhem smlouvy, návrh smlouvy a specifikace sporných částí, korespondence o jednání, oznámení odmítnutí s důvody, doklad o notifikaci ČTÚ.
+
 ---
 
 ### § 81 — Povinnost nediskriminace; důvěrnost informací
@@ -232,6 +378,43 @@ Povinnost nediskriminace formulovaná v odst. 1 je přísná: jde o povinnost *v
 #### Informační bariéra — chinese wall (odst. 2)
 
 Odst. 2 zavádí zákonnou povinnost informační bariéry mezi velkoobchodní a maloobchodní divizi téhož operátora. Informace sdílené při sjednávání přístupové smlouvy (technická data, prognózy nasazení, zákaznická báze) nesmí být použity vůči samotnému žadateli v soutěžním kontextu. Tato povinnost doplňuje regulaci funkční separace (§ 86a) tím, že i bez formálního oddělení brání informačnímu zvýhodnění vlastní maloobchodní divize. Porušení lze kvalifikovat jako zneužití dominantního postavení ve smyslu § 11 zákona č. 143/2001 Sb., o ochraně hospodářské soutěže, a zároveň jako správní delikt dle § 118 ZEK.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor B s VTS poskytuje vlastní maloobchodní divizi přístup k účastnickému vedení s dodací lhůtou 3 dny, zatímco alternativnímu operátorovi A nabízí lhůtu 15 dnů a vyšší cenu vstupu, ačkoli technické parametry jsou totožné. Současně B využije prognózu nasazení, kterou mu A předal při jednání o smlouvě, k cílené marketingové kampani vůči zákazníkům A. Důkazy: srovnání SLA a cen pro interní vs. externí přístup, technická dokumentace prokazující totožnost vstupu, korespondence o předání prognózy, podklady o kampani B.
+
+**2. Právní otázka.** Porušuje B povinnost nediskriminace (ekvivalence) dle § 81 odst. 1 a zákaz zneužití důvěrných informací dle odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 81 odst. 1 (ekvivalence podmínek — EoI) a odst. 2 (informační bariéra, chinese wall).
+- *Související ustanovení téhož zákona:* § 51 (uložení povinnosti), § 82 (transparentnost), § 85 (LLU), § 86a (funkční separace), § 115 (informace ČTÚ), § 118 (správní delikt).
+- *Související předpisy:* § 11 zákona č. 143/2001 Sb., o ochraně hospodářské soutěže (zneužití dominance); EECC, čl. 70.
+- *Judikatura:* C-192/08 TeliaSonera Svenska — cenový squeeze je porušením i bez formální diskriminace, postačí, že maloobchodní cena nedosahuje nákladů vstupu pro konkurenta.
+
+**4. Subsumpce.** Odlišné SLA a ceny při totožných technických parametrech naplňují porušení ekvivalence dle odst. 1 — rozlišení je dovoleno jen při objektivně odlišných podmínkách, které zde nejsou. Použití prognózy A pro kampaň naplňuje porušení odst. 2 (informace smí být užita jen k účelu, pro nějž byla poskytnuta), a zároveň může jít o zneužití dominance dle § 11 ZOHS.
+
+**5. Řešení.** ČTÚ může uložit nápravu a sankci dle § 118; jednání B je rovněž postižitelné dle ZOHS u ÚOHS. A se může domáhat náhrady škody v civilním řízení. Riziko: B namítne objektivní odlišnost vstupů (jiná kapacita, jiná oblast) — to je třeba vyvrátit technickými důkazy o totožnosti.
+
+**6. Varianty.** (a) Pokud by lhůty/ceny byly objektivně odlišné kvůli jiné technické náročnosti vstupu, diskriminace by nebyla dána. (b) Pokud by informaci A poskytl ČTÚ, jejich předání není porušením (výslovná výjimka odst. 2 ve vztahu k § 115).
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Rozdílné ceny odrážejí rozdílné objemy/podmínky." — Neutralizace: nutno doložit objektivní odlišnost vstupu; jinak platí přísná ekvivalence (EoI).
+- *Argument B:* „Prognózu jsme získali legitimně při jednání." — Neutralizace: legitimní získání neopravňuje k užití mimo účel poskytnutí (odst. 2).
+- Slabé místo: prokázání cenového squeeze vyžaduje nákladovou analýzu (test „equally efficient operator"); důkazní břemeno o nákladech je náročné.
+
+#### H. Praktický závěr
+
+§ 81 ukládá podniku s VTS materiální (nikoli jen formální) nediskriminaci — ekvivalenci vstupů — a zákonnou informační bariéru mezi velkoobchodní a maloobchodní divizí. Porušení je postižitelné dle ZEK i ZOHS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou podmínky pro interní a externí žadatele skutečně rovnocenné (ceny, lhůty, SLA, kvalita)?
+- [ ] Existuje objektivní důvod pro odlišnost (jiná kapacita/parametry/oblast)?
+- [ ] Hrozí cenový squeeze (maloobchodní cena vs. náklady vstupu)?
+- [ ] Byly důvěrné informace užity jen k účelu poskytnutí?
+- [ ] Funguje reálná informační bariéra mezi divizemi?
+
+**Typicky rozhodné důkazy / podklady:** srovnání ceníků a SLA interní/externí, nákladová analýza (test stejně efektivního operátora), technická dokumentace vstupů, záznamy o předání a užití informací.
 
 ---
 
@@ -256,6 +439,43 @@ Povinnost transparentnosti dle § 82 odst. 1 slouží dvěma účelům: (i) umo�
 #### Referenční nabídka a zákaz cross-subsidy (odst. 2)
 
 Referenční nabídka (Reference Offer, RO) musí být strukturována podle tržních segmentů — zákazník nesmí být nucen nakupovat balíčky zahrnující služby, které pro svůj produkt nepotřebuje (tzv. tying). Zákaz přefakturace nepotřebných služeb je výslovný a bezpodmínečný. Úřad má pravomoc jednostranně změnit referenční nabídku (odst. 3), pokud nevede k plnění povinností — jde o silný intervenční nástroj, jehož aplikace v ČR byla spojena s regulací přístupu k účastnickému vedení O2 Czech Republic.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ uložil podniku s VTS B povinnost uveřejnit referenční nabídku (RO) přístupu k účastnickému vedení. B do RO zařadil podmínku, že žadatel o přístup k datové službě musí současně odebírat i službu kolokace v rozsahu, který nepotřebuje, a hradit za ni paušál. Alternativní operátor A namítá, že jde o nedovolený tying a že RO nevede k důslednému plnění povinností. Důkazy: text RO, technická analýza nezbytnosti jednotlivých služeb, podklady o ceně a struktuře balíčku.
+
+**2. Právní otázka.** Smí RO podmiňovat poskytnutí požadované služby odběrem služeb, které pro ni nejsou nezbytné, a jaké jsou pravomoci ČTÚ při změně RO?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 82 odst. 2 (povinnost RO a zákaz účtovat za prostředky/služby nezbytné pro požadovanou službu), odst. 3 (pravomoc ČTÚ změnit RO), odst. 1 (transparentnost).
+- *Související ustanovení téhož zákona:* § 51 (uložení povinnosti), § 84 (přístupové povinnosti a RO), § 85 odst. 1 (RO pro LLU), § 81 (nediskriminace).
+- *Související předpisy:* nařízení 2015/2120/EU (otevřený internet) — podmínky omezující přístup; prováděcí vyhláška ČTÚ k náležitostem RO.
+- *Judikatura:* rozhodovací praxe ČTÚ k regulaci RO přístupu k vedení O2/CETIN; nosně judikatura zakazující vázané obchody u dominanta.
+
+**4. Subsumpce.** Podmínka nuceného odběru nepotřebné kolokace naplňuje zakázané účtování za služby, které nejsou nezbytné pro požadovanou službu (odst. 2 věta druhá). RO tím nevede k důslednému plnění povinností (odst. 3), což zakládá pravomoc ČTÚ jednostranně RO změnit.
+
+**5. Řešení.** ČTÚ dle odst. 3 rozhodne o změně RO a vypustí vázanou podmínku. A může do té doby požadovat přístup bez nepotřebné služby; B nesmí přístup podmínit jejím odběrem. Riziko: B argumentuje technickou nezbytností kolokace — to je třeba posoudit technicky case-by-case.
+
+**6. Varianty.** (a) Pokud by kolokace byla technicky skutečně nezbytná pro poskytnutí datové služby, její zahrnutí do RO by bylo legitimní. (b) Pokud by povinnost RO nebyla uložena rozhodnutím dle § 51, B by povinnost uveřejnit RO neměl a režim § 82 by se neaplikoval.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Balíček je technicky provázaný, nelze jej rozdělit." — Neutralizace: nezbytnost se posuzuje objektivně; pokud lze službu poskytnout bez kolokace, jde o zakázaný tying.
+- *Argument B:* „ČTÚ nemůže jednostranně měnit naši nabídku." — Neutralizace: odst. 3 výslovně zakládá pravomoc ČTÚ změnit RO, nevede-li k plnění povinností.
+- Slabé místo: hranice „nezbytnosti" je technicky sporná a vyžaduje znalecké/technické posouzení; samotná transparentnost nezaručuje férové ceny (nutno spojit s § 84/§ 51 cenovou regulací).
+
+#### H. Praktický závěr
+
+§ 82 ukládá podniku s VTS transparentnost a referenční nabídku strukturovanou podle tržních segmentů; zakazuje nucený odběr nepotřebných služeb a dává ČTÚ pravomoc RO jednostranně změnit.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla povinnost transparentnosti/RO uložena rozhodnutím dle § 51?
+- [ ] Je RO strukturována podle potřeb trhu (bez nuceného balíčkování)?
+- [ ] Účtuje B jen za služby nezbytné pro požadovanou službu?
+- [ ] Vede RO k důslednému plnění povinností (jinak změna dle odst. 3)?
+- [ ] Splňuje RO náležitosti dle prováděcí vyhlášky?
+
+**Typicky rozhodné důkazy / podklady:** text referenční nabídky, technická analýza nezbytnosti služeb, ceník a struktura balíčků, rozhodnutí ČTÚ o uložení povinnosti dle § 51.
 
 ---
 
@@ -310,6 +530,42 @@ Možnost Úřadu zrušit povinnosti podmíněná zjištěním, že žádný subj
 #### Interoperabilita set-top boxů (odst. 10)
 
 Povinnost portability zařízení (odst. 10) je prvkem ochrany spotřebitele v kontextu lock-in strategie operátorů platforem. Je podmíněna technickou proveditelností — zákonodárce reflektuje existenci proprietárních CAS systémů. Toto ustanovení je úzce provázáno s povinnostmi dle zákona č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel placené televizní platformy B využívá vlastní systém podmíněného přístupu (CAS / brána). Regionální vysílatel D žádá o šíření svého programu k divákům platformy B za FRAND podmínek; B nabídku odmítá, resp. nabízí cenu výrazně vyšší než vlastním kanálům. Současně zákazník C žádá, aby set-top box poskytnutý B mohl použít u jiného poskytovatele. Důkazy: smluvní podmínky CAS, srovnání cen pro vlastní vs. cizí kanály, technická dokumentace set-top boxu a možnosti jeho portability.
+
+**2. Právní otázka.** Je B povinen nabízet šíření chráněného obsahu vysílateli D za FRAND podmínek (odst. 5) a zajistit přenositelnost set-top boxu (odst. 10)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 83 odst. 4–5 (technologická neutralita brány, FRAND povinnost poskytovatele šíření chráněného obsahu), odst. 7 (přístup k API/EPG), odst. 10 (interoperabilita set-top boxů).
+- *Související ustanovení téhož zákona:* § 72 (must-carry), § 79 odst. 2 písm. b) (API/EPG), § 51 (analýza trhu), § 22 (příděl kmitočtů pro DTT), § 86 odst. 2 písm. b).
+- *Související předpisy:* zákon č. 231/2001 Sb., o provozování rozhlasového a televizního vysílání (regulace obsahu, RRTV); EECC, příloha II.
+- *Judikatura:* nosně rozhodovací praxe k ex ante symetrickým FRAND povinnostem u CAS; judikatura k zákazu vertikálního uzavření platformy.
+
+**4. Subsumpce.** Povinnost FRAND dle odst. 5 je ex ante symetrická — existuje nezávisle na analýze trhu, je odůvodněna strukturou trhu (závislost vysílatelů na jediném distribučním kanálu). Odmítnutí D, resp. diskriminační cena, ji porušuje. Přenositelnost set-top boxu (odst. 10) je podmíněna technickou proveditelností; je-li dána, B ji musí zajistit.
+
+**5. Řešení.** B musí D nabídnout šíření za FRAND podmínkami; ČTÚ může vynutit nápravu. Set-top box musí B umožnit použít u jiných poskytovatelů, je-li to technicky proveditelné. Riziko: B namítne proprietární CAS znemožňující portabilitu — to je třeba technicky posoudit; břemeno tvrzení technické neproveditelnosti nese B.
+
+**6. Varianty.** (a) Zjistí-li ČTÚ analýzou, že žádný subjekt nemá VTS na trhu šíření DTT (odst. 6), může povinnosti odst. 4–5 změnit/zrušit, avšak jen při zachování přístupu k must-carry kanálům (§ 72) a soutěže na trhu CAS. (b) U interaktivních služeb a EPG se aktivuje povinnost přístupu k API dle odst. 7 za úhradu účelně vynaložených nákladů.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „FRAND povinnost platí jen pro podnik s VTS po analýze trhu." — Neutralizace: odst. 5 zakládá ex ante symetrickou povinnost nezávislou na VTS.
+- *Argument B:* „Set-top box je proprietární, portabilita není možná." — Neutralizace: odst. 10 podmiňuje povinnost technickou proveditelností; B musí neproveditelnost doložit, ne jen tvrdit.
+- Slabé místo: hranice „spravedlivých a přiměřených" podmínek je neurčitá; deregulace dle odst. 6 vyžaduje pečlivé posouzení dopadu na must-carry a soutěž CAS.
+
+#### H. Praktický závěr
+
+§ 83 chrání přístup k digitálnímu vysílání: brána musí být technologicky neutrální, poskytovatelé šíření chráněného obsahu mají ex ante FRAND povinnost (odst. 5), set-top boxy musí být přenositelné (je-li to technicky možné). Deregulace dle odst. 6 je podmíněna ochranou must-carry a soutěže.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o poskytovatele šíření chráněného obsahu, na němž vysílatelé závisí (odst. 5)?
+- [ ] Jsou nabízené podmínky skutečně FRAND (srovnání s vlastními kanály)?
+- [ ] Je požadována portabilita set-top boxu a je technicky proveditelná (odst. 10)?
+- [ ] U deregulace dle odst. 6: je zachován přístup k must-carry (§ 72) a soutěž CAS?
+
+**Typicky rozhodné důkazy / podklady:** smluvní podmínky CAS a ceník, srovnání podmínek pro vlastní vs. cizí vysílatele, technická dokumentace brány/API/set-top boxu, analýza relevantního trhu, příděl kmitočtů DTT.
 
 ---
 
@@ -397,6 +653,43 @@ Mechanismus ex post souhlasu Úřadu s odmítnutím je unikátní: operátor s V
 
 Zákon ukládá Úřadu posoudit, zda k řešení problému stačí méně invazivní přístupy (velkoobchodní nabídky, dobrovolný přístup). Kritéria v písm. a)–h) jsou hierarchicky seřazena od technické proveditelnosti po ochranu duševního vlastnictví. Ochrana investorské návratnosti (písm. d) — zejména u sítí VHCN — je záměrně zvýrazněna, neboť přílišná regulatorní expanze by mohla odradit investice do optické infrastruktury.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ uložil podniku s VTS B povinnost dle § 84 odst. 2 písm. k) zpřístupnit kabelovody a vstupní šachty. B odmítá s tím, že kabelovody nejsou součástí relevantního trhu vymezeného analýzou. Alternativní operátor A se domáhá přístupu; B namítá narušení integrity sítě a do 15 pracovních dnů žádá ČTÚ o souhlas s odmítnutím konkrétního požadavku A na co-location. Důkazy: analýza relevantního trhu, technická dokumentace kabelovodů a kapacity, žádost A, žádost B o souhlas s odmítnutím a její datace.
+
+**2. Právní otázka.** Lze povinnost přístupu k inženýrským stavbám uložit i k aktivu, které není součástí relevantního trhu, a jak funguje mechanismus souhlasu ČTÚ s odmítnutím (odst. 6–7)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 84 odst. 2 písm. k) (přístup k inženýrským stavbám bez ohledu na příslušnost k relevantnímu trhu), odst. 6–7 (odmítnutí pro technické důvody a ex post souhlas ČTÚ s fikcí souhlasu), odst. 5 (test alternativ a proporcionalita).
+- *Související ustanovení téhož zákona:* § 51 (analýza, uložení povinnosti), § 82/§ 84 odst. 4 (RO), § 79a (sdílení), § 85 (LLU), § 80 (smlouva a spor), § 80 spr. řádu (obecná nečinnost).
+- *Související předpisy:* směrnice 2014/61/EU (BCRD); EECC, čl. 73; § 141 odst. 7 spr. řádu.
+- *Judikatura:* nosně judikatura k testu nezbytnosti přístupu (essential facilities) a k proporcionalitě regulatorních povinností.
+
+**4. Subsumpce.** Písm. k) výslovně odpojuje povinnost přístupu k inženýrským stavbám od příslušnosti aktiva k relevantnímu trhu — obrana B o „nezahrnutí kabelovodů do trhu" je proto neúčinná. Odmítnutí dle odst. 6 je možné jen pro nesoulad s technickými parametry nebo narušení integrity sítě; B musí do 15 pracovních dnů požádat ČTÚ o souhlas a důvody doložit. Nevydá-li ČTÚ rozhodnutí do 15 pracovních dnů, nastává fikce souhlasu (odst. 7).
+
+**5. Řešení.** Přístup ke kabelovodům lze uložit bez ohledu na vymezení trhu. Odmítne-li B konkrétní co-location pro technický důvod, musí včas požádat ČTÚ o souhlas; jinak je odmítnutí neplatné a A se domůže přístupu. Riziko pro A: marné uplynutí lhůty ČTÚ vede k fikci souhlasu s odmítnutím — A by měl aktivně předkládat protiargumenty k technickým důvodům B.
+
+**6. Varianty.** (a) Pokud by ČTÚ při testu alternativ (odst. 5) shledal, že postačí mírnější forma přístupu (např. velkoobchodní nabídka), uloží tu místo plného přístupu. (b) Pokud by B zmeškal 15denní lhůtu pro žádost o souhlas, odmítnutí pozbývá účinků a přístup musí poskytnout.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Kabelovody nejsou součástí relevantního trhu, nelze je regulovat." — Neutralizace: písm. k) výslovně tuto vazbu vylučuje.
+- *Argument B:* „Přístup naruší integritu sítě." — Neutralizace: břemeno doložení nese B v žádosti o souhlas dle odst. 7; ČTÚ posoudí technickou opodstatněnost.
+- Slabé místo: fikce souhlasu (odst. 7) chrání povinného a může A poškodit při pasivitě ČTÚ; A musí včas a aktivně rozporovat technické důvody, jinak odmítnutí „projde mlčením".
+
+#### H. Praktický závěr
+
+§ 84 obsahuje nejrozsáhlejší katalog přístupových povinností pro podniky s VTS; přístup k inženýrským stavbám lze uložit nezávisle na vymezení trhu (písm. k). Odmítnutí pro technické důvody podléhá ex post souhlasu ČTÚ s fikcí souhlasu při nečinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá požadavek pod katalog odst. 2 (a u inženýrských staveb pod písm. k)?
+- [ ] Provedl ČTÚ test alternativ a proporcionality dle odst. 5?
+- [ ] Je odmítnutí opřeno jen o technické parametry / integritu sítě (odst. 6)?
+- [ ] Požádal B o souhlas s odmítnutím do 15 pracovních dnů (odst. 7)?
+- [ ] Hrozí fikce souhlasu při nečinnosti ČTÚ — jsou protiargumenty včas předloženy?
+
+**Typicky rozhodné důkazy / podklady:** analýza relevantního trhu, technická dokumentace prvků a kapacity, žádost o přístup, žádost o souhlas s odmítnutím a její datace, referenční nabídka.
+
 ---
 
 ### § 85 — Zpřístupnění účastnického vedení
@@ -430,6 +723,42 @@ Povinnost zpřístupnit vedení je regulatorní povinností ukládanou individu�
 Povinnost uveřejnit referenční nabídku pro LLU (odst. 1) je specifičtější než obecná povinnost dle § 82 — vztahuje se výlučně na fyzické vedení a zahrnuje mimo jiné podmínky co-location, harmonogram zpřístupnění, postup pro objednávání a SLA parametry.
 
 V kontextu migrace na optiku (FTTH/FTTB) nabývá pojem „úsek účastnického vedení" nového obsahu: sub-loop access v optické síti odpovídá přístupu k optickým distribučním uzlům (ODU), kde je vlákno ukončeno před pasivním rozbočovačem. Regulatorní rámec tak technologicky neutrálně pokrývá i migrační scénáře.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Incumbent B (CETIN) má uloženu povinnost zpřístupnit účastnické vedení a uveřejnit referenční nabídku LLU. Alternativní operátor A požaduje sdílený přístup (shared LLU) k vedení, aby poskytoval pouze datovou (ADSL) službu při zachování hlasové části u B. Souběžně v lokalitě migrované na FTTH A žádá sub-loop access k optickému distribučnímu uzlu (ODU). B namítá, že pojem „úsek účastnického vedení" se na optiku nevztahuje. Důkazy: referenční nabídka LLU, technická dokumentace MDF/ODU, specifikace požadované modality přístupu, harmonogram zpřístupnění a SLA.
+
+**2. Právní otázka.** Zahrnuje § 85 sdílený přístup i přístup k úseku vedení v optické síti (sub-loop), a jaký je obsah referenční nabídky LLU?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 85 odst. 1 (RO pro LLU), odst. 2 (úsek účastnického vedení), odst. 3–5 (plné zpřístupnění vs. sdílený přístup).
+- *Související ustanovení téhož zákona:* § 78 odst. 4 (definice účastnického vedení), § 84 (přístupové povinnosti), § 82 (transparentnost), § 51 (analýza trhu č. 3a), § 86e (migrace a vyřazování měděné sítě).
+- *Související předpisy:* Doporučení Komise 2014/710/EU (trh přístupu k místní smyčce); EECC, čl. 73; prováděcí vyhláška ČTÚ k náležitostem RO.
+- *Judikatura:* nosně rozhodovací praxe ČTÚ k regulaci LLU O2/CETIN; judikatura SDEU k technologické neutralitě přístupových povinností.
+
+**4. Subsumpce.** Sdílený přístup je výslovně upraven v odst. 5 (přístup k určené části kapacity, např. části kmitočtu) — požadavek A na ADSL část při zachování hlasu B je shared LLU. Pojem „úsek účastnického vedení" (odst. 2) je technologicky neutrální a zahrnuje i sub-loop v optické síti (přístup k ODU); definice § 78 odst. 4 zmiňuje „obdobné zařízení" k MDF. Námitka B o nepoužitelnosti na optiku je neúčinná.
+
+**5. Řešení.** B musí umožnit jak shared LLU, tak sub-loop access včetně optických uzlů, a to za podmínek RO (co-location, harmonogram, SLA, postup objednávání). Spory o konkrétní podmínky se řeší dle § 80/§ 127. Riziko: technická specifikace ODU se liší od MDF; přesné parametry přístupu je třeba dohodnout, jinak rozhodne ČTÚ.
+
+**6. Varianty.** (a) Pokud by povinnost zpřístupnit vedení nebyla B uložena rozhodnutím po analýze trhu, režim § 85 se neaplikuje. (b) Pokud by měděná síť byla vyřazena dle § 86e, povinnost LLU k ní zaniká a přesouvá se režim na novou infrastrukturu dle § 51.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Úsek vedení je definován pro měděnou síť, na optiku nedopadá." — Neutralizace: definice je technologicky neutrální („obdobné zařízení", ODU plní funkci MDF).
+- *Argument B:* „Shared LLU u nás technicky nelze poskytnout." — Neutralizace: nutno doložit technicky; jinak platí povinnost dle odst. 5.
+- Slabé místo: regulace LLU ztrácí význam s útlumem mědi; pro optiku je relevantnější přístup k VHCN (§ 84/§ 85a), což může oslabit praktický dosah § 85 do budoucna.
+
+#### H. Praktický závěr
+
+§ 85 je institucionálním základem LLU: rozlišuje plné zpřístupnění, sdílený přístup a přístup k úseku (sub-loop), technologicky neutrálně i pro optiku. Podnik s VTS musí uveřejnit specifickou referenční nabídku LLU.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla povinnost zpřístupnit vedení uložena rozhodnutím po analýze trhu (č. 3a)?
+- [ ] Je požadovaná modalita plné zpřístupnění, sdílený přístup, nebo sub-loop?
+- [ ] Obsahuje RO podmínky co-location, harmonogram, postup objednávání a SLA?
+- [ ] Jde-li o optiku, je správně podřazena pod „úsek účastnického vedení" (ODU)?
+
+**Typicky rozhodné důkazy / podklady:** referenční nabídka LLU, technická dokumentace MDF/ODU a kapacity, specifikace požadované modality přístupu, harmonogram a SLA, analýza relevantního trhu.
 
 ---
 
@@ -476,6 +805,44 @@ Podmínky v odst. 2 písm. a)–e) jsou kumulativní a přísné: nabídka musí
 #### Záchranná klauzule (odst. 5)
 
 Odst. 5 umožňuje Úřadu prolomit regulatorní prázdniny i u závazné nabídky, pokud existují závažné soutěžní problémy specifické pro daný trh. Tím se zákonodárce pojistil proti zneužití mechanismu k formálnímu splnění podmínek bez reálné otevřenosti trhu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnik s VTS B plánuje výstavbu nové FTTH sítě (VHCN) a nabízí ČTÚ závaznou nabídku společné investice dle § 85a: ostatním operátorům umožní spolufinancování s právem na strukturální přístup k plné kapacitě. B následně uzavře jednu dohodu o spoluinvestici s operátorem A a žádá, aby na novou síť nebyly uplatněny povinnosti dle § 51 (regulatorní prázdniny). Konkurent C namítá, že nabídka není reálně otevřená a flexibilní. Důkazy: text nabídky, příloha č. 2 ZEK splnění kritérií, uzavřená dohoda s A, doklady o zveřejnění nabídky 6 měsíců předem, roční zpráva o dodržování podmínek.
+
+**2. Právní otázka.** Splňuje nabídka B kumulativní podmínky odst. 2 písm. a)–e), a vzniká tím nárok na vyloučení povinností dle § 51 (odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 85a odst. 2 (kumulativní podmínky závaznosti), odst. 3 (vyloučení povinností § 51), odst. 5 (záchranná klauzule), odst. 4 (monitoring).
+- *Související ustanovení téhož zákona:* § 51 (asymetrické povinnosti), § 86c (mechanismus závazků a tržní test), § 86d (wholesale-only), příloha č. 2 ZEK, §§ 130–131 (konzultace).
+- *Související předpisy:* EECC, čl. 76 a příloha IV; pokyny BEREC ke společným investicím.
+- *Judikatura:* nosně rozhodovací praxe k „regulatory holiday" a posuzování otevřenosti spoluinvestičních nabídek.
+
+**4. Subsumpce.** Podmínky odst. 2 jsou kumulativní: celoživotní otevřenost (písm. a), férová/nediskriminační flexibilita pro spoluinvestory (písm. b), zveřejnění min. 6 měsíců předem (písm. c), zachování kvality pro neúčastnící se žadatele (písm. d), splnění přílohy č. 2 a dobrá víra (písm. e). Uzavření jedné dohody na otevřených podmínkách (odst. 3) aktivuje vyloučení § 51 — ledaže protistrana splňuje podmínky § 86d odst. 1 (wholesale-only).
+
+**5. Řešení.** Jsou-li všechny podmínky odst. 2 splněny a dohoda s A je na otevřených podmínkách, ČTÚ rozhodne o závaznosti a vyloučení § 51. Námitky C se vypořádají v tržním testu (§ 86c, konzultace §§ 130–131). Riziko: i po vyloučení § 51 může ČTÚ dle odst. 5 prolomit prázdniny, vzniknou-li závažné soutěžní problémy specifické pro trh.
+
+**6. Varianty.** (a) Pokud dohoda byla uzavřena se subjektem splňujícím § 86d odst. 1 písm. a)–b), vyloučení § 51 dle odst. 3 nenastane. (b) Pokud nabídka neprošla tržním testem jako reálně otevřená, ČTÚ závaznost nestanoví a povinnosti § 51 zůstávají.
+
+#### G. Protiargumenty a rizika
+
+- *Argument C:* „Nabídka je formálně otevřená, ale fakticky nedostupná." — Neutralizace: tržní test dle § 86c a podmínka dobré víry (písm. e) umožňují odhalit fiktivní otevřenost; ČTÚ závaznost nestanoví.
+- *Argument B:* „Po uzavření jedné dohody mám trvalé prázdniny." — Neutralizace: odst. 5 (záchranná klauzule) umožňuje prolomení při závažných soutěžních problémech; monitoring dle odst. 4 je průběžný.
+- Slabé místo: posouzení reálné otevřenosti a flexibilní hodnoty/načasování účasti je skutkově náročné; riziko regulatorní arbitráže při formálním splnění kritérií.
+
+#### H. Praktický závěr
+
+§ 85a zavádí „regulatory holiday" — vyloučení povinností § 51 výměnou za závaznou, otevřenou a nediskriminační nabídku společné investice do VHCN (splnění kumulativních podmínek odst. 2 a alespoň jedné dohody). ČTÚ může prázdniny prolomit záchrannou klauzulí (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje nabídka všech pět kumulativních podmínek odst. 2 písm. a)–e)?
+- [ ] Byla zveřejněna min. 6 měsíců před zahájením (nejde-li o § 86d)?
+- [ ] Splňuje přílohu č. 2 ZEK a je v dobré víře?
+- [ ] Je uzavřena alespoň jedna dohoda na otevřených podmínkách (odst. 3)?
+- [ ] Nejde o spoluinvestora dle § 86d odst. 1 (vylučující vyloučení § 51)?
+- [ ] Je zajištěn monitoring (roční zpráva) dle odst. 4?
+
+**Typicky rozhodné důkazy / podklady:** text nabídky a její zveřejnění, doklad o splnění přílohy č. 2, uzavřené spoluinvestiční dohody, roční zprávy o dodržování podmínek, výsledky tržního testu/konzultace.
 
 ---
 
@@ -529,6 +896,43 @@ Výsledky RA musí být ověřeny nezávislým kvalifikovaným subjektem — zpr
 
 Odst. 8 dopadá na operátory, kteří jsou zároveň veřejnými nebo poloregulovanými subjekty v jiných síťových odvětvích (energetika, vodárenství, doprava). Zákonodárce reaguje na riziko křížového dotování telekomunikačních aktivit z monopolních příjmů jiného odvětví, čímž chrání soutěžní prostředí v telekomunikacích. Prahová hodnota 50 milionů EUR ročního obratu vylučuje malé obecní operátory a zemědělské družstva s lokálními WiFi sítěmi z dosahu povinnosti — de minimis klauzule.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnik s VTS B, kterému ČTÚ uložil cenovou regulaci přístupu k vedení, vede oddělenou evidenci nákladů a výnosů (RA). Alternativní operátor A má podezření, že B kříží financuje svoji maloobchodní divizi z regulovaných velkoobchodních příjmů a že velkoobchodní cena vstupu neodpovídá nákladům. Souběžně B je zároveň aktivní v energetice s výhradními právy a má roční telekomunikační obrat přes 50 mil. EUR. Důkazy: výsledky RA ověřené auditorem, metodika OOP ČTÚ, výpočet velkoobchodních a vnitropodnikových cen, doklad o obratu a výhradních právech v jiném odvětví.
+
+**2. Právní otázka.** Může ČTÚ požadovat doložení výpočtu cen z RA k zabránění křížovému financování a vztahuje se na B zvláštní povinnost dle odst. 8?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86 odst. 2 (uložení RA podniku s VTS), odst. 3 (metodika OOP), odst. 4 (ověření auditorem a publikace), odst. 5 (doložení výpočtu cen, zákaz křížového financování), odst. 8 (subjekty s výhradními právy v jiných odvětvích, práh 50 mil. EUR).
+- *Související ustanovení téhož zákona:* § 51 (uložení povinnosti), § 81 (nediskriminace), § 40 (čisté náklady univerzální služby), § 115 (informace ČTÚ).
+- *Související předpisy:* EECC, čl. 71; zákon o auditorech; účetní pravidla práva EU (definice MSP).
+- *Judikatura:* nosně judikatura k nákladovým testům a křížovému financování (analogicky C-192/08 TeliaSonera).
+
+**4. Subsumpce.** B jako podnik s VTS s cenovou regulací podléhá RA dle odst. 2; ČTÚ může dle odst. 5 uložit doložení výpočtu velkoobchodních a vnitropodnikových cen k zabránění neodůvodněnému křížovému financování. Protože B má výhradní práva v energetice a obrat přesahuje 50 mil. EUR, dopadá na něj i zvláštní povinnost odst. 8 (oddělená evidence nebo strukturální oddělení telco činností).
+
+**5. Řešení.** ČTÚ vyžádá doložení výpočtu cen z RA; zjistí-li křížové financování, uloží nápravu (a případně sankci dle § 118). Výsledky RA musí být ověřeny auditorem do 1 měsíce od zveřejnění účetní závěrky a závěry ověření publikovány. Riziko: B namítne obchodní tajemství — to je chráněno (publikuje se jen závěr ověření, nikoli celá zpráva), nebrání však předání ČTÚ dle § 115.
+
+**6. Varianty.** (a) Pokud by telekomunikační obrat B byl pod 50 mil. EUR, povinnost dle odst. 8 by nevznikla (de minimis). (b) Pokud by B nebyl podnikem s VTS ani regulovaným subjektem na koncovém trhu a nešlo o subjekt dle § 83 odst. 5, povinnost RA by se neuplatnila.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „RA je obchodní tajemství, ČTÚ nemá nárok na detailní data." — Neutralizace: § 115 zakládá informační povinnost vůči ČTÚ; publikuje se jen závěr ověření, tajemství zůstává chráněno.
+- *Argument B:* „Křížové financování nelze prokázat." — Neutralizace: metodika OOP a ověřená RA poskytují nákladový podklad; ČTÚ aplikuje nákladový test.
+- Slabé místo: metodika přiřazování nákladů je komplexní a sporná; výsledek RA závisí na zvolených alokačních klíčích, což otevírá prostor pro odborný spor.
+
+#### H. Praktický závěr
+
+§ 86 ukládá oddělenou evidenci nákladů a výnosů jako kontrolní nástroj cenové regulace a prevence křížového financování. Metodiku stanoví ČTÚ opatřením obecné povahy; výsledky ověřuje nezávislý auditor. Subjekty s výhradními právy v jiných odvětvích nad 50 mil. EUR obratu mají zvláštní povinnost (odst. 8).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá subjekt do okruhu povinných (poskytovatel US, regulovaný subjekt, VTS, § 83 odst. 5)?
+- [ ] Je RA vedena dle metodiky OOP ČTÚ (odst. 3)?
+- [ ] Byly výsledky ověřeny auditorem do 1 měsíce od zveřejnění závěrky a závěry publikovány (odst. 4)?
+- [ ] Doložil subjekt výpočet velkoobchodních/vnitropodnikových cen (odst. 5)?
+- [ ] U výhradních práv v jiném odvětví: přesahuje obrat 50 mil. EUR (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** výsledky RA, metodika OOP ČTÚ, ověřovací zpráva auditora, výpočet velkoobchodních a vnitropodnikových cen, doklad o ročním obratu a výhradních právech v jiném odvětví.
+
 ---
 
 **Díl 6 — Funkční a dobrovolná separace**
@@ -581,6 +985,43 @@ Funkční separace (Functional Separation, FS) je nejpřísnějším regulatorn�
 
 Klíčovým požadavkem je, aby oddělená hospodářská jednotka poskytovala přístup interní maloobchodní divizi a externím operátorům prostřednictvím *stejných* systémů, lhůt a procesů. Jde o princip EoI (Equivalence of Inputs) v jeho nejsilnější podobě — nejen podmínková, ale i procesní ekvivalence. V praxi to znamená, že interní objednávkový systém musí být totožný se systémem pro externí žadatele, bez jakékoliv neformální „rychlé linky" pro vlastní maloobchodní prodej.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ po opakovaných analýzách trhu zjistil, že na velkoobchodním trhu přístupu k vedení přetrvávají soutěžní problémy, které všechna dosud uložená nápravná opatření (nediskriminace, transparentnost, cenová regulace) neřeší. Zvažuje uložení funkční separace incumbentovi B — oddělení velkoobchodní divize do nezávisle provozované hospodářské jednotky. B namítá, že nelze separaci uložit bez schválení Komise a bez prokázání, že jde o nejúčinnější opatření. Důkazy: výsledky opakovaných analýz trhu, doklad o selhání mírnějších opatření, analýza dopadů, žádost ČTÚ Komisi a její schválení.
+
+**2. Právní otázka.** Za jakých podmínek může ČTÚ uložit funkční separaci a jaké náležitosti musí mít návrh předkládaný Komisi?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86a odst. 1–2 (pojem funkční separace a oddělené hospodářské jednotky), odst. 3 (EoI — stejné lhůty, podmínky, systémy a procesy), odst. 4 (podmínka schválení Komisí a obsah žádosti), odst. 5 (náležitosti návrhu rozhodnutí), odst. 6 (koordinovaná analýza trhů).
+- *Související ustanovení téhož zákona:* § 51 odst. 7 (selhání ostatních opatření), § 81 (nediskriminace), § 84/§ 85 (přístupové povinnosti), §§ 130–131 (konzultace), § 86b (dobrovolná separace).
+- *Související předpisy:* EECC, čl. 77; rozhodovací role Komise.
+- *Judikatura:* nosně princip proporcionality a ultima ratio při regulatorních zásazích; rozhodovací praxe k EoI.
+
+**4. Subsumpce.** Funkční separace je ultima ratio: vyžaduje (i) splnění § 51 odst. 7 (selhání ostatních opatření), (ii) předchozí schválení Komisí (odst. 4) a (iii) koordinovanou analýzu trhů po schválení (odst. 6). Žádost Komisi musí obsahovat zjištění dle § 51 odst. 7, odůvodněné posouzení nepravděpodobnosti soutěže, analýzu dopadů a důkaz, že jde o nejúčinnější opatření (odst. 4 písm. a)–d). Bez schválení Komise nelze separaci uložit — námitka B je důvodná, pokud ČTÚ schválení nemá.
+
+**5. Řešení.** ČTÚ může separaci uložit jen po schválení Komisí a při splnění všech podmínek odst. 4; oddělená jednotka pak musí poskytovat přístup interní i externí straně stejnými systémy a procesy (EoI dle odst. 3). Riziko: prokázání, že jde o „nejúčinnější" opatření (odst. 4 písm. d) je důkazně náročné; v praxi EU nebyla FS dosud povinně uložena.
+
+**6. Varianty.** (a) Pokud by B sám nabídl dobrovolnou separaci, postupuje se dle § 86b a § 86c (závazky), nikoli dle § 86a. (b) Pokud by mírnější opatření (např. zpřísněná nediskriminace) postačovalo, podmínka § 51 odst. 7 by nebyla splněna a FS uložit nelze.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Separace je nepřiměřený zásah do organizace podniku." — Neutralizace: zákon ji podmiňuje selháním všech ostatních opatření a schválením Komise; jde o ultima ratio s testem proporcionality.
+- *Argument B:* „EoI nelze v praxi zajistit bez vlastnické separace." — Neutralizace: odst. 3 vyžaduje procesní ekvivalenci (stejné systémy/procesy), kterou lze zajistit i bez změny vlastnictví; pravidla nezávislosti zaměstnanců dle odst. 5 písm. c).
+- Slabé místo: důkaz nejúčinnějšího opatření a předpověď vývoje soutěže jsou nejisté; absence precedentu uložené FS v EU oslabuje argumentační oporu ČTÚ.
+
+#### H. Praktický závěr
+
+§ 86a upravuje funkční separaci jako nejpřísnější (ultima ratio) regulatorní nástroj: organizační a procesní oddělení velkoobchodní divize bez změny vlastnictví, podmíněné selháním ostatních opatření (§ 51 odst. 7) a schválením Komise. Klíčem je procesní EoI (odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je splněn § 51 odst. 7 (selhala všechna ostatní nápravná opatření)?
+- [ ] Obsahuje žádost Komisi všechny náležitosti odst. 4 písm. a)–d)?
+- [ ] Bylo doloženo, že FS je nejúčinnějším opatřením?
+- [ ] Schválila Komise žádost i návrh rozhodnutí (odst. 4–5)?
+- [ ] Zajišťuje oddělená jednotka EoI — stejné systémy, lhůty, procesy (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** výsledky opakovaných analýz trhu, doklady o selhání mírnějších opatření, analýza dopadů FS, žádost a souhlas Komise, pravidla nezávislosti a motivace zaměstnanců oddělené jednotky.
+
 ---
 
 ### § 86b — Dobrovolná separace a převedení přístupové sítě
@@ -608,6 +1049,43 @@ Klíčovým požadavkem je, aby oddělená hospodářská jednotka poskytovala p
 #### Notifikační povinnost a regulatorní přezkum (odst. 1–2)
 
 Tříměsíční oznamovací lhůta dává Úřadu prostor spustit přezkumný cyklus dle § 51 ještě před realizací transakce. Zákon zakotvuje povinnost předběžné notifikace i o každé změně záměru — zákonodárce tak zabraňuje regulatorním arbitrážím, kdy by operátor avizoval separaci, získal regulatorní úlevy a poté záměr opustil.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor B s VTS hodlá převést svá přístupová aktiva (kabeláž, vedení) do nově založené dceřiné, fakticky samostatně provozované entity „NetCo", která bude poskytovat rovnocenné přístupové produkty všem maloobchodním operátorům i vlastní maloobchodní divizi. B oznámí záměr ČTÚ a nabídne závazky o podmínkách přístupu na dobu 7 let. V průběhu příprav B záměr modifikuje (zúží okruh převáděných aktiv), ale ČTÚ o změně neinformuje. Důkazy: oznámení záměru a jeho datace (min. 3 měsíce předem), text nabízených závazků, doklady o změně záměru, výsledky veřejné konzultace.
+
+**2. Právní otázka.** Jaké jsou povinnosti B při dobrovolné separaci dle § 86b a jaké důsledky má neoznámení změny záměru ČTÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86b odst. 1 (tříměsíční notifikace záměru a oznámení každé změny), odst. 2 (analýza trhů a rozhodnutí o povinnostech), odst. 4–5 (nabízené závazky a veřejná konzultace), odst. 6 (monitoring).
+- *Související ustanovení téhož zákona:* § 51 (analýza a uložení povinností), § 86c (mechanismus závazků a tržní test), §§ 4–6 (cíle regulace), § 130 (konzultace), § 86a (uložená funkční separace).
+- *Související předpisy:* EECC, čl. 78–79.
+- *Judikatura:* nosně rozhodovací praxe k dobrovolnému funkčnímu/strukturálnímu oddělení (precedenty BT/Openreach, CETIN/O2).
+
+**4. Subsumpce.** B musí záměr oznámit ČTÚ alespoň 3 měsíce předem (odst. 1) a informovat o každé změně i konečném výsledku. Modifikace záměru (zúžení aktiv) je „změnou záměru", kterou B byl povinen oznámit; neoznámení je porušením povinnosti dle odst. 1. ČTÚ pak provede analýzu trhů dle odst. 2 a rozhodne o závaznosti závazků; nedostatečné závazky nevylučují uložení povinností dle § 51 (odst. 3).
+
+**5. Řešení.** ČTÚ na základě oznámení spustí přezkumný cyklus dle § 51, posoudí nabízené závazky v tržním testu (§ 86c) a veřejné konzultaci dle § 130 (osloví dotčené subjekty). Neoznámení změny může vést k sankci a k tomu, že ČTÚ vyjde z neaktuálních předpokladů — riziko pro B. Závazky lze učinit závaznými na dobu i delší než 5 let (odst. 4).
+
+**6. Varianty.** (a) Pokud by ČTÚ separaci sám ukládal (nedobrovolně), aplikoval by se § 86a se schválením Komise, nikoli § 86b. (b) Pokud by nabízené závazky byly dostatečné pro cíle §§ 4–6, ČTÚ by mohl zmírnit/zrušit jinak ukládané povinnosti dle § 51.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Změna byla nepodstatná, nemusela se oznamovat." — Neutralizace: odst. 1 ukládá oznámit „každou změnu záměru" bez prahu podstatnosti.
+- *Argument B:* „Dobrovolná separace nás zbavuje povinností § 51." — Neutralizace: odst. 3 výslovně umožňuje uložit povinnosti § 51, jsou-li závazky nedostatečné.
+- Slabé místo: rozsah a délka závazků (i přes 5 let) jsou předmětem vyjednávání; posouzení dostatečnosti závazků pro cíle §§ 4–6 je hodnotící a sporné.
+
+#### H. Praktický závěr
+
+§ 86b upravuje dobrovolnou (strukturální i funkční) separaci iniciovanou samotným operátorem: tříměsíční notifikace záměru a každé jeho změny, navazující přezkum trhů dle § 51 a možnost nabídnout závazky o podmínkách přístupu (i na dobu delší než 5 let), které ČTÚ učiní závaznými po veřejné konzultaci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl záměr oznámen ČTÚ alespoň 3 měsíce předem (odst. 1)?
+- [ ] Byla oznámena každá změna záměru i konečný výsledek?
+- [ ] Jsou nabízené závazky dostatečně podrobné (načasování, doba trvání)?
+- [ ] Proběhla veřejná konzultace s oslovením dotčených subjektů (odst. 5)?
+- [ ] Jsou závazky dostatečné pro cíle §§ 4–6 (jinak hrozí povinnosti § 51)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení záměru a jeho datace, text nabízených závazků a harmonogram, doklady o změnách záměru, výsledky veřejné konzultace, navazující analýza trhů.
 
 ---
 
@@ -659,6 +1137,43 @@ Veřejná konzultace při posuzování závazků umožňuje trhu (alternativní 
 
 U závazků ke společné investici stanoví zákon minimální délku závaznosti 7 let — záměrně delší než standardní analytické cykly (3–5 let dle § 51 odst. 3). Tím se ochraňují spoluinvestoři: po dobu, kdy nesplácejí investici a budují si tržní pozici, nemohou být podmínky přístupu změněny k jejich tíži.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnik s VTS B navrhne ČTÚ závazky týkající se podmínek přístupu a společných investic do VHCN (§ 85a), aby preventivně „zakotvil" svoji přístupovou politiku a získal regulatorní jistotu. ČTÚ provede tržní test prostřednictvím konzultace dle § 130; alternativní operátor A navrhne změny nabídky. B revidovanou nabídku upraví. ČTÚ zvažuje stanovit závaznost závazků ke společné investici na 7 let. Důkazy: text navržených závazků s časovým rozvrhem, výsledky tržního testu, předběžné závěry ČTÚ, revidovaná nabídka.
+
+**2. Právní otázka.** Jaký je postup posuzování a stanovení závaznosti závazků a jaká je minimální délka závaznosti u závazků ke společné investici?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86c odst. 1 (předmět závazků), odst. 3 (tržní test konzultací dle § 130), odst. 5 (předběžné závěry a revize nabídky), odst. 6 (rozhodnutí o závaznosti, min. 7 let u spoluinvestic), odst. 8 (monitoring).
+- *Související ustanovení téhož zákona:* § 51 (povinnosti VTS), § 85a (společné investice), § 86b (dobrovolná separace), § 130 (konzultace).
+- *Související předpisy:* čl. 9 nařízení Rady (ES) č. 1/2003 a § 7 odst. 3 ZOHS (analogie závazků v soutěžním právu); EECC, čl. 79.
+- *Judikatura:* nosně rozhodovací praxe k závazkovým řízením (commitment decisions) a jejich přezkoumatelnosti.
+
+**4. Subsumpce.** Závazky dle § 86c jsou preventivní (nikoli reakcí na zahájené řízení). ČTÚ provede tržní test dle odst. 3 (ledaže nabídka zjevně nesplňuje podmínky), sdělí předběžné závěry (odst. 5) a B může nabídku revidovat. Stanoví-li ČTÚ závaznost závazků ke společné investici (odst. 6), činí tak na dobu alespoň 7 let — záměrně delší než analytické cykly (3–5 let dle § 51 odst. 3).
+
+**5. Řešení.** ČTÚ posoudí kritéria odst. 4 (férovost, otevřenost vůči všem, včasná dostupnost přístupu, přiměřenost) a po tržním testu rozhodne o závaznosti. Připomínky A jsou formálně relevantní, ale nezávazné pro ČTÚ. Závaznost spoluinvestičních závazků min. 7 let chrání spoluinvestory před změnou podmínek v jejich neprospěch. Riziko: zjevně nesplňující nabídka tržním testem neprojde (odst. 3).
+
+**6. Varianty.** (a) Pokud nabídka zjevně nesplňuje podmínky/kritéria, ČTÚ tržní test neprovádí a závaznost nestanoví. (b) Po stanovení závaznosti ČTÚ přehodnotí, zda jinak ukládané povinnosti § 51 jsou ještě potřebné (odst. 7).
+
+#### G. Protiargumenty a rizika
+
+- *Argument A:* „Naše připomínky z tržního testu musí ČTÚ respektovat." — Neutralizace: připomínky jsou relevantní pro posouzení, ale zákon nestanoví jejich závaznost pro ČTÚ.
+- *Argument B:* „Závaznost mě chrání před jakoukoli změnou povinností." — Neutralizace: odst. 7–8 umožňují přehodnocení a monitoring; ochrana je vázána na trvání závazků.
+- Slabé místo: minimální 7letá závaznost spoluinvestic snižuje regulatorní flexibilitu při náhlé změně tržních podmínek; posouzení „celkové přiměřenosti" (odst. 4 písm. d) je hodnotící.
+
+#### H. Praktický závěr
+
+§ 86c zavádí preventivní mechanismus závazků (commitment decisions) podniku s VTS, posuzovaných tržním testem (konzultace § 130) a stanovených jako závazné rozhodnutím ČTÚ; u závazků ke společné investici je minimální délka závaznosti 7 let.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je návrh závazků dostatečně podrobný (časový rozvrh, rozsah, trvání)?
+- [ ] Proběhl tržní test konzultací dle § 130 (nejde-li o zjevně nesplňující nabídku)?
+- [ ] Zohlednil ČTÚ kritéria odst. 4 (férovost, otevřenost, včasná dostupnost, přiměřenost)?
+- [ ] U spoluinvestic: je závaznost stanovena na min. 7 let (odst. 6)?
+- [ ] Přehodnotil ČTÚ potřebnost jinak ukládaných povinností § 51 (odst. 7)?
+
+**Typicky rozhodné důkazy / podklady:** text navržených i revidovaných závazků s harmonogramem, výsledky tržního testu/konzultace, předběžné závěry ČTÚ, rozhodnutí o závaznosti, podklady k monitoringu.
+
 ---
 
 ### § 86d — Povinnosti pro velkoobchodní operátory bez maloobchodní přítomnosti
@@ -693,6 +1208,43 @@ Ratio legis je zřejmé: pokud operátor sám nemá maloobchodní zákazníky, n
 
 Zákon zakládá okamžitou notifikační povinnost při jakékoliv změně okolností (vstup na maloobchodní trh, uzavření exkluzivní distribuce). Úřad může zahájit přezkum i proaktivně, pokud z podmínek nabízených zákazníkům dovodí faktické soutěžní problémy — de facto jde o ex post dohled nad chováním WO operátora bez formálního zahájení analýzy trhu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Společnost „NetCo" (typu CETIN) je ČTÚ označena jako podnik s VTS na velkoobchodním trhu přístupu, přičemž sama nemá žádné maloobchodní zákazníky a všechny její útvary i ovládající akcionáři působí pouze velkoobchodně. NetCo není vázána exkluzivní dohodou s jediným maloobchodním operátorem. ČTÚ zvažuje uložení plné sady asymetrických povinností vč. přístupu k inženýrským stavbám (§ 84 odst. 2 písm. k). NetCo namítá, že jako wholesale-only operátor podléhá jen omezenému katalogu povinností. Důkazy: doklad o nepřítomnosti na maloobchodním trhu (struktura skupiny, plánované činnosti), absence exkluzivní dohody, analýza trhu s prognózou chování.
+
+**2. Právní otázka.** Splňuje NetCo podmínky wholesale-only operátora dle § 86d odst. 1 a omezuje to katalog povinností, které lze uložit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86d odst. 1 (podmínky wholesale-only — žádná maloobchodní činnost, žádná de facto exkluzivní dohoda), odst. 2 (omezený katalog povinností — § 81, § 84 odst. 1–4 bez písm. k, popř. cenová regulace), odst. 3–5 (přezkum při změně podmínek či soutěžních problémech).
+- *Související ustanovení téhož zákona:* § 51 (plný katalog povinností), § 81 (nediskriminace), § 84 (přístup), § 85a (společné investice), §§ 130–131 (konzultace).
+- *Související předpisy:* EECC, čl. 80; pojem wholesale-only operátora.
+- *Judikatura:* nosně rozhodovací praxe k odlišnému regulatornímu zacházení s vertikálně neintegrovanými subjekty (chybí riziko margin squeeze).
+
+**4. Subsumpce.** NetCo splňuje obě podmínky odst. 1: (a) všechny jednotky a ovládající subjekty působí jen velkoobchodně a (b) není vázána (de facto) exkluzivní dohodou s jediným maloobchodním podnikem. Protože nemá maloobchodní zákazníky, není dáno riziko margin squeeze ani diskriminace vlastní divize — odpadá důvod pro § 84 odst. 2 písm. k) i pro plnou sadu asymetrických povinností. ČTÚ proto smí uložit jen omezený katalog dle odst. 2.
+
+**5. Řešení.** ČTÚ uloží NetCo pouze povinnosti dle § 81 a § 84 odst. 1–4 s výjimkou písm. k), popř. cenovou regulaci, je-li opodstatněna analýzou s prognózou chování. Plnou sadu uložit nelze. Riziko: změní-li NetCo profil (vstup na maloobchod nebo exkluzivní distribuce), je povinna to bez zbytečného odkladu oznámit (odst. 4) a ČTÚ provede přezkum vč. možnosti uložit povinnosti § 51.
+
+**6. Varianty.** (a) Pokud by NetCo uzavřela de facto exkluzivní dohodu s jediným maloobchodním operátorem, podmínka odst. 1 písm. b) by nebyla splněna a režim wholesale-only by se neuplatnil. (b) Pokud by podmínky nabízené zákazníkům vyvolaly soutěžní problémy (odst. 5), ČTÚ může uložit i další povinnosti dle § 51 odst. 6.
+
+#### G. Protiargumenty a rizika
+
+- *Argument ČTÚ:* „I wholesale-only operátor může poškodit soutěž." — Neutralizace: odst. 5 umožňuje přezkum a doplnění povinností, vzniknou-li reálné soutěžní problémy; režim není absolutní imunitou.
+- *Argument konkurence:* „Skupina NetCo fakticky propojena s maloobchodem." — Neutralizace: posuzují se všechny ovládané společnosti a ovládající akcionáři (odst. 1 písm. a); fakticky exkluzivní vazba podmínku vylučuje.
+- Slabé místo: prognostické posouzení chování (odst. 2) je nejisté; hranice „de facto exkluzivní dohody" je výkladově sporná.
+
+#### H. Praktický závěr
+
+§ 86d zavádí zvláštní mírnější režim pro wholesale-only operátory (bez maloobchodní přítomnosti): odpadá riziko margin squeeze, proto lze uložit jen omezený katalog povinností (§ 81, § 84 odst. 1–4 bez písm. k, popř. cenová regulace). Při změně profilu nebo soutěžních problémech ČTÚ provede přezkum.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Působí všechny jednotky a ovládající subjekty pouze velkoobchodně (odst. 1 písm. a)?
+- [ ] Není dána (de facto) exkluzivní dohoda s jediným maloobchodním podnikem (písm. b)?
+- [ ] Je uložený katalog omezen dle odst. 2 (bez § 84 odst. 2 písm. k)?
+- [ ] Je cenová regulace opodstatněna prognostickou analýzou?
+- [ ] Plní subjekt notifikační povinnost při změně okolností (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** struktura skupiny a okruh ovládajících osob, doklad o nepřítomnosti na maloobchodním trhu, znění distribučních smluv (test exkluzivity), analýza trhu s prognózou chování, podmínky nabízené zákazníkům.
+
 ---
 
 ### § 86e — Vyřazování starší infrastruktury z provozu; migrační závazky
@@ -724,5 +1276,43 @@ Zákon zakládá okamžitou notifikační povinnost při jakékoliv změně okol
 #### Systematický kontext
 
 § 86e tvoří přirozené vyústění celé Hlavy IV: regulace přístupu a propojení je zákonem navázána na existenci konkrétní sítě a jejích prvků; zánik těchto prvků vede k zániku konkrétní regulatorní povinnosti. Nová síť pak vstupuje do stejného cyklu analýzy trhu a uložení povinností dle § 51, čímž je zajištěna regulatorní kontinuita bez právní mezery. Toto ustanovení je rovněž propojeno s [08-hlava5-ochrana-udaju-soukromi.md](08-hlava5-ochrana-udaju-soukromi.md), neboť migrace na novou infrastrukturu ovlivňuje technické prostředky zajišťování důvěrnosti komunikací dle § 88–89 ZEK.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Podnik s VTS B (CETIN) hodlá vyřadit z provozu měděnou síť (PSTN/ISDN, ADSL) a nahradit ji optikou. Na měděné vedení se vztahují přístupové povinnosti (LLU dle § 85), které využívá alternativní operátor A pro své vlastní zákazníky. B oznámí ČTÚ záměr a navrhne dvouleté přechodné období s nabídkou alternativního optického přístupového produktu. A namítá, že nový produkt nepokrývá stejné koncové uživatele a má horší parametry. Důkazy: oznámení záměru vyřazení a jeho datace, migrační harmonogram a výpovědní lhůty, technické srovnání původního a alternativního produktu, mapa pokrytí koncových uživatelů.
+
+**2. Právní otázka.** Za jakých podmínek může ČTÚ zrušit přístupové povinnosti vázané na vyřazovanou měděnou síť (odst. 3) a co musí splňovat alternativní produkt?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 86e odst. 1 (oznámení vyřazení v dostatečném předstihu), odst. 2 (uložení migračních závazků — transparentní harmonogram, výpovědní doba, alternativní produkt srovnatelné kvality), odst. 3 (zrušení povinností § 51, 56, 57, 81, 82, 84, 85a–86d po splnění podmínek), odst. 4 (nedotčenost § 51 u modernizované sítě).
+- *Související ustanovení téhož zákona:* § 85 (LLU), § 51 (analýza a povinnosti), §§ 130–131 (konzultace), §§ 88–89 (důvěrnost komunikací — vliv migrace).
+- *Související předpisy:* EECC, čl. 81 (migrace ze starší infrastruktury).
+- *Judikatura:* nosně rozhodovací praxe ČTÚ k vypínání PSTN/ISDN a migračním plánům CETIN.
+
+**4. Subsumpce.** Zrušení povinností dle odst. 3 je podmíněno kumulativně: (a) prokazatelné vytvoření vhodných podmínek pro migraci vč. alternativního produktu alespoň srovnatelné kvality pokrývajícího tytéž koncové uživatele a (b) dodržení oznámeného procesu. Pokud alternativní produkt B nepokrývá tytéž uživatele nebo má horší parametry, podmínka (a) není splněna a povinnosti nelze zrušit. Zrušení není automatické — vyžaduje formální rozhodnutí ČTÚ po konzultaci.
+
+**5. Řešení.** ČTÚ uloží B migrační závazky dle odst. 2 (harmonogram, výpovědní lhůty, srovnatelný alternativní produkt) a teprve po prokázaném splnění podmínek odst. 3 rozhodne o zrušení přístupových povinností k měděné síti. Námitka A o nesrovnatelnosti je relevantní — B nese břemeno prokázání srovnatelné kvality a pokrytí. Nová optická síť zůstává podrobena regulaci dle § 51 (odst. 4).
+
+**6. Varianty.** (a) Pokud B nedodrží oznámený proces nebo nezajistí srovnatelný produkt, ČTÚ povinnosti nezruší a B nesmí síť vyřadit bez zajištění kontinuity přístupu A. (b) Pokud by migrace ohrozila technické prostředky důvěrnosti komunikací (§ 88–89), je třeba zohlednit i tyto požadavky při schvalování harmonogramu.
+
+#### G. Protiargumenty a rizika
+
+- *Argument B:* „Vyřazení staré sítě je naše obchodní rozhodnutí." — Neutralizace: odst. 1–2 podmiňují vyřazení oznámením a uložením migračních závazků; bez nich nelze povinnosti zrušit a kontinuita přístupu musí být zachována.
+- *Argument B:* „Optický produkt je technicky lepší, tedy srovnatelný." — Neutralizace: „srovnatelná kvalita" zahrnuje i pokrytí týchž koncových uživatelů; lepší technologie nestačí, pokrytí musí zůstat zachováno.
+- Slabé místo: pojem „dostatečný časový předstih" není zákonem kvantifikován (praxe EU ~5 let, ČTÚ ukládá min. dvouleté přechodné období) — vzniká prostor pro spor o délku přechodu.
+
+#### H. Praktický závěr
+
+§ 86e řeší zánik regulačního objektu při migraci ze starší infrastruktury: dvoustupňový mechanismus — migrační závazky (odst. 1–2) a následné zrušení povinností (odst. 3) po prokázaném zajištění alternativního produktu srovnatelné kvality. Nová síť vstupuje do regulace dle § 51 (odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo vyřazení oznámeno ČTÚ v dostatečném časovém předstihu (odst. 1)?
+- [ ] Obsahuje migrační plán transparentní harmonogram a vhodné výpovědní/přechodné lhůty (odst. 2)?
+- [ ] Je k dispozici alternativní produkt alespoň srovnatelné kvality pokrývající tytéž koncové uživatele?
+- [ ] Dodržel poskytovatel oznámený proces (odst. 3 písm. b)?
+- [ ] Vydal ČTÚ formální rozhodnutí o zrušení povinností po konzultaci (zrušení není automatické)?
+- [ ] Zůstává nová infrastruktura podrobena § 51 (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** oznámení záměru vyřazení a jeho datace, migrační harmonogram a výpovědní lhůty, technické srovnání a pokrytí původního vs. alternativního produktu, výsledky konzultace, rozhodnutí ČTÚ o zrušení povinností.
 
 ---

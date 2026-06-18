@@ -88,6 +88,43 @@ Zákon č. 127/2005 Sb. neobsahuje v ČÁSTI PRVNÍ (věcný kodex, §§ 1–151
 
 Zákon podepsali předseda Poslanecké sněmovny **Lubomír Zaorálek**, prezident republiky **Václav Klaus** a předseda vlády **Stanislav Gross**. Podpis Grossem reflektuje vládní politické poměry z počátku roku 2005 (vláda ČSSD). Tyto podpisy jsou v textu zákona uvedeny za ustanovením o účinnosti a nekomentují se věcně; jsou standardní součástí promulgační formule.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor A obdržel dne 25. března 2005 od ČTÚ výzvu k doplnění oznámení komunikační činnosti podle nového režimu ZEK. Operátor namítá, že do 1. května 2005 (resp. ještě dříve, v dubnu 2005) na něj nový zákon vůbec nedopadá, neboť jeho činnost je dosud vykonávána na základě telekomunikační licence udělené podle zákona č. 151/2000 Sb. Současně Rada pro rozhlasové a televizní vysílání zahájila v dubnu 2005 řízení podle nově vloženého § 24a zákona č. 231/2001 Sb. (část ČTRNÁCTÁ ZEK), které operátor zpochybňuje s tím, že novelizující ustanovení nemohlo nabýt účinnosti dříve než hostitelský předpis. Pro posouzení je třeba obstarat: částku Sbírky zákonů č. 43/2005 s datem rozeslání (vyhlášení), znění § 179 a doklad o tom, kdy konkrétně ČTÚ vůči operátorovi uplatnil nové povinnosti.
+
+**2. Právní otázka.** K jakému dni nabyl zákon č. 127/2005 Sb. — včetně svých novelizujících částí druhé až dvacáté sedmé — účinnosti, a lze podle nového režimu postupovat vůči adresátům před tímto dnem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 179 ZEK — klouzavá doložka účinnosti („prvním dnem druhého měsíce následujícího po dni vyhlášení"). Vyhlášení 22. 3. 2005 (částka 43/2005) → účinnost **1. května 2005**.
+- *Související ustanovení téhož zákona:* §§ 152–178 (novelizující části) — sdílejí účinnost § 179, neboť účinnost se vztahuje na zákon jako celek; § 143 a násl. (přechodná ustanovení hlavy VIII), §§ 176 a 178 (přechodná ustanovení k ČT a ČRo).
+- *Související předpisy:* zákon č. 309/1999 Sb., o Sbírce zákonů (vazba vyhlášení–rozeslání částky a počítání lhůt); zákon č. 151/2000 Sb., o telekomunikacích (zrušen ZEK k témuž dni); zákon č. 231/2001 Sb. ve znění § 24a vloženého částí ČTRNÁCTOU.
+- *Judikatura:* obecně uznávaná zásada, že novelizující ustanovení nemá samostatnou existenci a nabývá účinnosti spolu s celým novelizujícím zákonem k datu jím stanovenému (nález Ústavního soudu k tzv. inkorporaci novely do textu novelizovaného předpisu — novela „splývá" s hostitelským zákonem k okamžiku své účinnosti); zásada zákazu pravé retroaktivity (nelze aplikovat novou úpravu na poměry před nabytím účinnosti).
+
+**4. Subsumpce.** Den vyhlášení = 22. 3. 2005 (znak „den vyhlášení"). Druhý měsíc následující po měsíci vyhlášení (březnu) = květen; jeho první den = 1. 5. 2005 (znak „první den druhého měsíce následujícího"). Účinnost se podle § 179 vztahuje na „tento zákon" bez výjimky, tedy i na části druhou až dvacátou šestou — žádná z těchto částí nemá vlastní odchylnou doložku účinnosti. Splněno tedy je, že před 1. 5. 2005 nový režim adresáty nezavazuje; sporné (neprokázané) je, zda ČTÚ vůči operátorovi po 1. 5. 2005 skutečně postupoval, anebo zda úkony činil již v dubnu 2005.
+
+**5. Řešení.** Veškeré úkony ČTÚ i Rady opírající se o nový režim ZEK (oznámení komunikační činnosti, § 24a zák. č. 231/2001 Sb.) jsou způsobilé právních účinků až od 1. 5. 2005. Úkon učiněný v dubnu 2005 s odkazem na novou úpravu by byl předčasný a vadný. Po 1. 5. 2005 naopak námitka operátora neobstojí: nový režim platí, byť pro běh dosavadních licencí a oprávnění je třeba současně aplikovat přechodná ustanovení hlavy VIII (§ 143 a násl.). Procesní krok: zjistit přesné datum úkonu a porovnat je s 1. 5. 2005; je-li pozdější, postupovat podle ZEK, je-li dřívější, namítat předčasnost. Riziko/alternativní výklad: u digitálního vysílání (§§ 24a, 175–178) je třeba odlišit nabytí účinnosti normy (1. 5. 2005) od náběhu konkrétních povinností, který přechodná ustanovení (§§ 176, 178) navazují nikoli na pevné datum, nýbrž na uzavření smluv o šíření multiplexu.
+
+**6. Varianty.** (a) Kdyby byl zákon vyhlášen 1. března 2005, účinnost by stejně nastala 1. května 2005 (klouzavá doložka „uzamyká" počátek na první den druhého následujícího měsíce); delší legisvakance by neoslabila závěr o předčasnosti dubnových úkonů. (b) Kdyby konkrétní novelizující část měla vlastní odchylnou doložku účinnosti (což § 179 nemá), platilo by pro ni datum odchylné — pak by bylo nutné účinnost posuzovat pro každou část zvlášť, nikoli jednotně k 1. 5. 2005.
+
+#### G. Protiargumenty a rizika
+
+- *„Novelizující části nabývají účinnosti samostatně, podle účinnosti svých hostitelských zákonů."* Neobstojí: novelizující ustanovení je součástí zákona č. 127/2005 Sb. a sdílí jeho účinnost dle § 179; teprve k tomuto dni se vtěluje do textu novelizovaného předpisu. Neutralizace odkazem na zákaz pravé retroaktivity a na jednotnost doložky účinnosti („tento zákon").
+- *„Klouzavá doložka je neurčitá, datum účinnosti nelze spolehlivě určit."* Neobstojí: datum je jednoznačně vypočitatelné z data vyhlášení ve Sbírce (22. 3. 2005 → 1. 5. 2005); neurčitost je zdánlivá. Slabé místo: závěr stojí a padá s prokázáním data rozeslání příslušné částky Sbírky — to je třeba doložit, nikoli předpokládat.
+- *„Povinnosti ČT/ČRo k digitálnímu vysílání platí od 1. 5. 2005."* Zavádějící: účinnost normy ano, ale samotné povinnosti náběhem váží přechodná ustanovení (§§ 176, 178) na uzavření smluv o šíření signálu — riziko záměny účinnosti ustanovení a vzniku konkrétní povinnosti.
+
+#### H. Praktický závěr
+
+Účinnost celého zákona č. 127/2005 Sb. včetně všech novelizujících částí nastala jednotně **1. května 2005** na základě klouzavé doložky § 179 (vyhlášení 22. 3. 2005). Před tímto dnem nelze nový režim aplikovat; po něm platí v plném rozsahu, s výhradou přechodných ustanovení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit datum vyhlášení (rozeslání) částky 43/2005 Sbírky zákonů a vypočítat účinnost (první den druhého následujícího měsíce = 1. 5. 2005).
+- [ ] U každého sporného úkonu porovnat jeho datum s 1. 5. 2005 a posoudit případnou předčasnost.
+- [ ] Pro novelizující části (§§ 152–178) nehledat samostatnou doložku účinnosti — sdílejí § 179.
+- [ ] U digitálního vysílání (§§ 24a, 175–178) odlišit účinnost normy od náběhu povinností dle přechodných ustanovení (§§ 176, 178).
+- [ ] Zohlednit přechodná ustanovení hlavy VIII (§ 143 a násl.) pro běh dosavadních licencí dle zák. č. 151/2000 Sb.
+
+**Typicky rozhodné důkazy / podklady:** částka 43/2005 Sb. s datem rozeslání; znění § 179; doklad o datu konkrétního úkonu ČTÚ/Rady; smlouvy o šíření multiplexu (pro náběh povinností ČT/ČRo).
+
 ---
 
 > Tato kapitola uzavírá komentář k zákonu č. 127/2005 Sb., o elektronických komunikacích. Věcná přechodná a závěrečná ustanovení samotné části první ZEK (hlavy VIII–IX, §§ 143–151) jsou komentovány v [11-hlavy8-9-rizeni-spolecna-prechodna.md](11-hlavy8-9-rizeni-spolecna-prechodna.md). Celkový přehled struktury komentáře viz [INDEX.md](INDEX.md).

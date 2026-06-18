@@ -675,6 +675,44 @@ Na přestupky dle § 118 se subsidiárně použije PřestZ, zejm.:
 - § 47 PřestZ — zásady pro stanovení výše pokuty (závažnost, délka trvání, míra zavinění, majetkové poměry, recidiva)
 - §§ 68–112 PřestZ — procesní pravidla (s odchylkami dle § 120 ZEK)
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Mobilní operátor (a. s.) s ročním čistým obratem 12 mld. Kč, který je ČTÚ označen za podnik s významnou tržní silou (PVTS) na velkoobchodním trhu ukončení volání, dlouhodobě neprokáže nákladovou orientaci cen za terminaci, neuveřejní referenční nabídku pro zpřístupnění účastnického vedení a současně v jiné kauze odmítne návrh smlouvy o propojení podnikateli, který řádně oznámil podnikání podle § 13, aniž požádá ČTÚ o souhlas s odmítnutím. ČTÚ při kontrole (§ 113 a násl.) zjistí, že operátor neuplatňuje ceny v souladu s povinností uloženou v rozhodnutí o nápravném opatření. Důkazy: rozhodnutí ČTÚ o uložení povinnosti PVTS, kontrolní protokol, korespondence o návrhu smlouvy o propojení, účetní výkazy pro výpočet 10 % obratu, oddělená evidence nákladů a výnosů.
+
+**2. Právní otázka.** Lze jednání operátora kvalifikovat jako jeden přestupek, nebo jde o vícero souběžných přestupků podle § 118 odst. 11, a jakou sankční sazbu (odst. 26) ČTÚ aplikuje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 118 — katalog přestupků právnických a podnikajících fyzických osob; konkrétně odst. 11 písm. b), f), g), i) (nákladová orientace, odmítnutí propojení, referenční nabídka) a odst. 26 písm. c) (sazba do 50 mil. Kč nebo 10 % obratu).
+- *Související ustanovení téhož zákona:* § 51, § 55, § 60, § 84 (povinnosti PVTS a přístup/propojení); § 85, § 86 (referenční nabídka, oddělená evidence); § 120 (příslušnost ČTÚ, recidiva, promlčení).
+- *Související předpisy:* zákon č. 250/2016 Sb. (PřestZ), zejm. § 20 (odpovědnost PO), § 41 (souběh — společný přestupek), § 47 (výměra pokuty); směrnice (EU) 2018/1972 (Kodex EK) jako transpoziční pozadí.
+- *Judikatura:* NSS 9 A 130/2017-46 (povinnost předložit informace podle § 115; přiměřenost požadavku ČTÚ); NSS 9 A 139/2017-42 (rozsah informační povinnosti vůči ČTÚ). Obecně: judikatura k zásadě, že u trvajícího/hromadného přestupku se ukládá pokuta podle nejpřísněji postižitelného skutku a k ostatním se přihlédne jako k přitěžující okolnosti (§ 41 PřestZ).
+
+**4. Subsumpce.** Každé z dílčích jednání naplňuje samostatnou skutkovou podstatu odst. 11 (neprokázání nákladové orientace — písm. b); referenční nabídka — písm. i); odmítnutí propojení a nepožádání o souhlas — souvisí s odst. 6 a odst. 11 podle konkrétního ustanovení). Subjekt (PVTS) je dán pravomocným rozhodnutím ČTÚ o uložení povinnosti; objektivní stránka spočívá v opomenutí zákonné/uložené povinnosti; zavinění se u PO nezkoumá (objektivní odpovědnost dle § 20 PřestZ s možností liberace). Sporné je, zda jde o jeden trvající přestupek, nebo vícečinný souběh — to určuje rámec pro výpočet pokuty.
+
+**5. Řešení.** ČTÚ vede jedno společné řízení (§ 88 PřestZ), kvalifikuje souběh přestupků odst. 11, ukládá úhrnnou pokutu podle nejpřísnější sazby (odst. 26 písm. c)) — u operátora s obratem 12 mld. Kč je rozhodující 10 % obratu (1,2 mld. Kč) jako strop, nikoli absolutních 50 mil. Kč. Pokuta se vyměří podle § 47 PřestZ (závažnost, délka, dopad na soutěž). Operátor se může liberovat (§ 21 PřestZ), prokáže-li, že vynaložil veškeré úsilí. Procesně: kontrolní protokol, oznámení o zahájení řízení (přeruší promlčení dle § 31 PřestZ), rozklad k Radě ČTÚ.
+
+**6. Varianty.** (a) Pokud by ČTÚ operátora nikdy pravomocně neoznačil za PVTS, odpadá subjekt přestupku odst. 11 a jednání nelze postihnout. (b) Pokud by šlo jen o neuveřejnění referenční nabídky (odst. 11 písm. i)) bez dalších skutků, jde o jediný přestupek a procentní strop (10 % obratu) by se uplatnil jen na tuto jednu skutkovou podstatu.
+
+#### G. Protiargumenty a rizika
+
+- *Souběh vs. trvající přestupek.* Pachatel namítne, že jde o jediné trvající jednání, a nikoli vícečinný souběh, čímž zpochybní úhrnnou výměru. Neutralizace: rozlišit, zda jednotlivá opomenutí porušují tutéž, nebo různé povinnosti (různé skutkové podstaty = souběh); odkázat na § 41 PřestZ.
+- *Status PVTS jako prejudiciální otázka.* Pachatel zpochybní platnost rozhodnutí o uložení povinnosti PVTS. Neutralizace: rozhodnutí ČTÚ je vykonatelné a pro přestupkové řízení závazné, dokud není zrušeno; ČTÚ neřeší jeho zákonnost v přestupkovém řízení.
+- *Slabé místo:* výpočet „čistého obratu" a okruh započítávaných příjmů je sporný a odůvodnění musí být přezkoumatelné; chybějící či nepřesvědčivá kalkulace 10 % obratu je nejčastějším důvodem zrušení rozhodnutí soudem.
+
+#### H. Praktický závěr
+
+§ 118 je nejrozsáhlejší přestupkový katalog ZEK; klíčem k jeho aplikaci je správné zařazení subjektu (každý odstavec míří na jinou kategorii — operátor, PVTS, poskytovatel VDEK, držitel kmitočtů) a navázání skutkové podstaty na konkrétní porušenou povinnost a na sankční sazbu dle odst. 26.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat, do které kategorie subjektu pachatel spadá (odst. 1–25) a zda tuto roli skutečně zastává.
+- [ ] Přiřadit jednání k přesnému písmenu konkrétního odstavce a ověřit zařazení do sazby dle odst. 26 písm. a)/b)/c).
+- [ ] U sazeb b)/c) doložit a přezkoumatelně vypočítat „čistý obrat za poslední ukončené účetní období" a porovnat s absolutním stropem.
+- [ ] Posoudit souběh vícero skutkových podstat a aplikovat § 41 PřestZ (úhrnná pokuta).
+- [ ] Zvážit trest zveřejnění rozhodnutí (odst. 27), dotýká-li se přestupek práv koncových uživatelů.
+- [ ] Ověřit recidivu (§ 120 odst. 3) a běh promlčecí doby (§ 120 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** kontrolní protokol ČTÚ, rozhodnutí o uložení povinnosti (zejm. PVTS), účetní výkazy pro výpočet obratu, oddělená evidence nákladů a výnosů, smluvní a předsmluvní korespondence, oznámení podnikání dle § 13.
+
 ---
 
 ### § 119 — Přestupky fyzických osob
@@ -797,6 +835,44 @@ Jednotná sazba **100 000 Kč** (s výjimkou 200 000 Kč pro tísňová volání
 | Zlomyslná volání na tísňová čísla (odst. 1 písm. e)) | do 200 000 Kč |
 | Přestupky odst. 2–8 | do 100 000 Kč |
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba (nepodnikatel) v období osobní krize během tří týdnů opakovaně volá na tísňovou linku 158, kde buď mlčí, nebo hovoří nesouvisle, aniž oznamuje jakékoli ohrožení života, zdraví, majetku nebo veřejného pořádku; volání vedou k blokování tísňové linky a zbytečným výjezdům policejní hlídky. Provozovatel sítě na žádost Policie ČR zablokuje SIM kartu (§ 33 odst. 10). ČTÚ na základě podnětu zahájí přestupkové řízení. Důkazy: výpisy provozních údajů operátora (CDR), záznamy tísňové linky, protokoly o výjezdech, identifikace volajícího podle účastnické smlouvy.
+
+**2. Právní otázka.** Naplňuje opakované bezobsažné volání na tísňové číslo skutkovou podstatu „zlomyslného volání na tísňová čísla" podle § 119 odst. 1 písm. e) (sazba do 200 000 Kč), nebo „pouze" obecného zlomyslného volání podle písm. a) (do 100 000 Kč)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 119 — přestupky fyzických osob nepodnikatelů; konkrétně odst. 1 písm. a) (zlomyslná volání) a písm. e) (zlomyslná volání/komunikace na tísňová čísla); odst. 9 (sazby 100 000/200 000 Kč).
+- *Související ustanovení téhož zákona:* § 33 (tísňová komunikace), § 33 odst. 10 (blokování SIM pro zlomyslnou komunikaci), § 67 (identifikace zlomyslné/obtěžující komunikace), § 120 (příslušnost ČTÚ, recidiva, promlčení).
+- *Související předpisy:* zákon č. 250/2016 Sb. (PřestZ), zejm. § 13–14 (zavinění — u FO se vyžaduje), § 15 (formy zavinění), § 47 (výměra pokuty); příp. § 276 tr. zák. (šíření poplašné zprávy) při překročení do trestněprávní roviny.
+- *Judikatura:* NSS 2 A 63/2015-94 (opakovaná zlomyslná volání na 158 bez oznámení ohrožení vedoucí k blokování linky a výjezdům hlídky — naplnění skutkové podstaty zlomyslného volání na tísňové číslo).
+
+**4. Subsumpce.** Subjekt: fyzická osoba nepodnikatel. Objekt: funkčnost tísňového systému a bezpečnost. Objektivní stránka: opakované uskutečnění komunikace na tísňové číslo, jež nesleduje legitimní účel a narušuje provoz linky. Subjektivní stránka: na rozdíl od PO se u FO vyžaduje zavinění (§ 13 PřestZ) — „zlomyslnost" implikuje úmysl, popř. vědomou nedbalost; je třeba prokázat, že pachatel věděl, že volá na tísňovou linku bezdůvodně. Volba mezi písm. a) a e) závisí výlučně na tom, zda cílem byla tísňová čísla (e)), nebo jiné číslo (a)).
+
+**5. Řešení.** Jednání spadá pod kvalifikovanou skutkovou podstatu § 119 odst. 1 písm. e) se sazbou do 200 000 Kč. ČTÚ vyměří pokutu podle § 47 PřestZ s ohledem na opakování, dopad na bezpečnostní infrastrukturu a majetkové poměry FO. Pokud pachatel zpochybní zavinění (např. psychickým stavem), ČTÚ posoudí příčetnost a formy zavinění; při vyloučení odpovědnosti za přestupek lze věc předat jinému řízení. Procesně: zajistit CDR a záznamy linky, identifikovat volajícího, oznámení o zahájení řízení (přeruší promlčení).
+
+**6. Varianty.** (a) Pokud by FO uskutečňovala stejná bezobsažná volání na běžné (netísňové) číslo jiné osoby, šlo by o přestupek dle písm. a) se sazbou jen do 100 000 Kč. (b) Pokud by obsahem volání byla nepravdivá zpráva vyvolávající poplach (např. nahlášení neexistujícího výbuchu), překračuje jednání rámec přestupku a může jít o trestný čin šíření poplašné zprávy — přestupkové řízení ČTÚ by ustoupilo trestnímu (zásada ne bis in idem, § 76 PřestZ).
+
+#### G. Protiargumenty a rizika
+
+- *Absence zavinění.* Pachatel namítne nepříčetnost nebo absenci úmyslu (např. omyl, automatické vytočení). Neutralizace: u FO nutno zavinění skutečně prokázat; opakovanost a obsah hovorů (mlčení, nesmyslnost) zpravidla úmysl/vědomou nedbalost dokládají, ale ojedinělé volání samo o sobě nestačí.
+- *Identifikace pachatele.* Účastník smlouvy nemusí být fyzickým volajícím (rodinný příslušník, odcizený telefon). Neutralizace: vázat odpovědnost na osobu, která hovor uskutečnila, nikoli automaticky na majitele SIM.
+- *Slabé místo:* hranice mezi písm. a) a e) a kvalifikace „zlomyslnosti" je hodnotová; chybějící obsahový rozbor hovorů a důkaz o blokování linky/výjezdech oslabuje subsumpci pod přísnější sazbu.
+
+#### H. Praktický závěr
+
+§ 119 zrcadlí § 118, avšak pro nepodnikatele s podstatně užším okruhem skutkových podstat a nízkými sazbami (100 000 Kč, výjimečně 200 000 Kč). Na rozdíl od § 118 (objektivní odpovědnost PO) se zde vyžaduje prokázání zavinění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že pachatelem je fyzická osoba nepodnikatel (jinak míří § 118).
+- [ ] Prokázat zavinění (§ 13–15 PřestZ) — u „zlomyslnosti" zpravidla úmysl či vědomá nedbalost.
+- [ ] Správně rozlišit písm. a) (do 100 000 Kč) od kvalifikovaného písm. e) (do 200 000 Kč) podle toho, zda šlo o tísňová čísla.
+- [ ] Spolehlivě identifikovat osobu, která komunikaci uskutečnila, nikoli jen majitele účastnické smlouvy.
+- [ ] Posoudit překryv s trestním právem (poplašná zpráva) a zásadu ne bis in idem.
+- [ ] Ověřit recidivu (§ 120 odst. 3) a promlčení (§ 120 odst. 4).
+
+**Typicky rozhodné důkazy / podklady:** provozní údaje operátora (CDR/výpisy), záznamy a protokoly tísňové linky, protokoly o výjezdech složek IZS, účastnická smlouva a identifikace volajícího, případně znalecký posudek k příčetnosti.
+
 ---
 
 ### § 120 — Společná ustanovení k přestupkům
@@ -857,6 +933,44 @@ Odstavce 5 a 6 se vztahují výlučně na přestupky za klamavé informace o inf
 #### Vztah k § 120 a procesním pravidlům řízení (§§ 122 a násl.)
 
 § 120 je rámcovým hmotněprávním i procesně organizačním ustanovením; samotný průběh přestupkového řízení (lhůty, doručování, opravné prostředky, donucovací pokuty) se řídí §§ 122–136 ZEK a subsidiárně PřestZ. Viz [11-hlavy8-9-rizeni-spolecna-prechodna.md](11-hlavy8-9-rizeni-spolecna-prechodna.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel veřejně dostupné služby EK (s. r. o.) byl pravomocně potrestán pokutou 800 000 Kč za přestupek dle § 118 odst. 12 písm. j) (neposkytnutí vyúčtování dle § 64). Patnáct měsíců po nabytí právní moci tohoto rozhodnutí ČTÚ při další kontrole zjistí totéž jednání — opětovné systémové neposkytování řádného vyúčtování. Současně se ukáže, že nejstarší dílčí jednání první vlny porušení sahá více než 5 let zpět. Důkazy: obě pravomocná/kontrolní zjištění, doklad o datu právní moci prvního rozhodnutí, časová osa jednotlivých skutků.
+
+**2. Právní otázka.** Aplikuje se na druhé jednání zdvojnásobení sazby podle § 120 odst. 3 (recidiva) a jak se posoudí běh promlčecí doby (§ 120 odst. 4) u skutků starších 5, resp. 8 let?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 120 — společná ustanovení; odst. 1 (příslušnost ČTÚ), odst. 3 (zdvojnásobení sazby při opakování do 2 let od právní moci), odst. 4 (promlčecí doba 5 let, absolutně 8 let).
+- *Související ustanovení téhož zákona:* § 118 a § 119 (skutkové podstaty a sazby, na něž se odst. 3 váže); § 115a a § 122 a násl. (řízení); § 3a (pokuta jako příjem státního rozpočtu).
+- *Související předpisy:* zákon č. 250/2016 Sb. (PřestZ), zejm. § 30 (promlčecí doba), § 31 (přerušení a stavění promlčení), § 47 odst. 2 (recidiva jako přitěžující okolnost — obecná úprava); zákon č. 280/2009 Sb. (daňový řád) pro vymáhání.
+- *Judikatura:* obecná judikatura NSS k tomu, že promlčení přestupku se posuzuje z úřední povinnosti a brání projednání skutku; a že speciální (delší) promlčecí doba se užije přednostně před obecnou úpravou PřestZ (lex specialis derogat legi generali).
+
+**4. Subsumpce.** Odst. 3 (recidiva): „týž přestupek" = totožná skutková podstata (§ 118 odst. 12 písm. j)); první rozhodnutí nabylo právní moci; druhé spáchání nastalo 15 měsíců poté, tedy v rámci 2leté lhůty. Podmínky zdvojnásobení sazby jsou splněny — strop pokuty za druhý skutek se zvyšuje na dvojnásobek. Odst. 4 (promlčení): u dílčích jednání starších 5 let odpovědnost zanikla, ledaže běh promlčení byl přerušen (§ 31 PřestZ); absolutně nelze postihnout skutek starší 8 let.
+
+**5. Řešení.** ČTÚ jako výlučně příslušný orgán (odst. 1) vede řízení o druhém jednání s aplikací zdvojnásobené maximální sazby (odst. 3), avšak konkrétní pokutu stále vyměřuje v mezích § 47 PřestZ — zdvojení stropu neznamená automaticky dvojnásobnou pokutu. Skutky promlčené dle odst. 4 musí z úřední povinnosti vyloučit. Pokutu poté vybírá a vymáhá sám ČTÚ (odst. 2), v krajním případě daňovou exekucí. Procesně: doložit datum právní moci prvního rozhodnutí, totožnost skutkové podstaty a časovou osu jednotlivých skutků.
+
+**6. Varianty.** (a) Pokud by druhé jednání naplnilo jiné písmeno/odstavec než první, nešlo by o „týž přestupek" a zdvojnásobení dle odst. 3 by se neuplatnilo (jen obecná přitěžující okolnost dle § 47 PřestZ). (b) Pokud by šlo o přestupek dle § 118 odst. 5 písm. c) (klamavé informace dle § 115a), byl by k projednání i vymáhání příslušný ČTÚ nebo jiný orgán veřejné moci (odst. 5) a uplatnilo by se zvláštní materiální kritérium dopadu na soutěž (odst. 6).
+
+#### G. Protiargumenty a rizika
+
+- *Výklad „téhož přestupku".* Pachatel namítne, že druhé jednání není totožnou skutkovou podstatou, a odmítne zdvojnásobení sazby. Neutralizace: trvat na totožnosti odstavce i písmene; recidiva dle odst. 3 je užší než obecná recidiva dle § 47 PřestZ.
+- *Promlčení a jeho přerušení.* Pachatel bude tvrdit, že skutky jsou promlčené. Neutralizace: doložit úkon přerušující promlčení (oznámení o zahájení řízení dle § 31 PřestZ) a ohlídat absolutní 8letou lhůtu — po jejím uplynutí nelze postihnout ani přerušené řízení ve vztahu k danému skutku.
+- *Slabé místo:* automatický charakter zdvojnásobení („zvyšuje se") nevylučuje přezkum přiměřenosti výsledné pokuty; bez řádného odůvodnění výměry dle § 47 PřestZ hrozí zrušení rozhodnutí soudem i přes formálně splněnou recidivu.
+
+#### H. Praktický závěr
+
+§ 120 určuje, kdo, jak dlouho a s jakými zvláštnostmi může přestupky ZEK postihnout: výlučná příslušnost ČTÚ (s výjimkou § 115a věcí), automatické zdvojnásobení sazby při opakování do 2 let, prodloužená 5letá (absolutně 8letá) promlčecí doba a zvláštní kritérium dopadu na soutěž u informačních přestupků.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit příslušnost — ČTÚ, u § 118 odst. 5 písm. c) a § 119 odst. 6 písm. c) i jiný orgán dle § 115a odst. 3.
+- [ ] U recidivy doložit právní moc předchozího rozhodnutí, totožnost skutkové podstaty a běh 2leté lhůty (odst. 3).
+- [ ] Posoudit promlčení z úřední povinnosti — 5 let, resp. absolutně 8 let; ověřit úkony přerušující promlčení (odst. 4).
+- [ ] Při výměře pokuty i po zdvojnásobení sazby odůvodnit konkrétní výši dle § 47 PřestZ.
+- [ ] U informačních přestupků (§ 115a) zohlednit dopad na hospodářskou soutěž (odst. 6).
+- [ ] Zajistit výběr a vymáhání pokuty (odst. 2), případně daňovou exekucí.
+
+**Typicky rozhodné důkazy / podklady:** pravomocná předchozí rozhodnutí s vyznačením data právní moci, kontrolní protokoly, časová osa jednotlivých skutků, doklady o úkonech přerušujících promlčení, účetní podklady pro výměru a pro výpočet obratu, případně stanovisko jiného orgánu dle § 115a odst. 3.
 
 ---
 

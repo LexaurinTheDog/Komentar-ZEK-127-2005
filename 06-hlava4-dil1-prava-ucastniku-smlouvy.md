@@ -58,6 +58,42 @@ Odst. 7 implementuje nařízení (EU) 2015/2120 v kombinaci s čl. 75 EECC a pro
 
 Zakotvuje zákaz geo-blokingu při poskytování telekomunikačních služeb. Státní příslušnost, místo pobytu ani místo usazení nesmí být důvodem pro odlišné smluvní podmínky; výjimkou jsou „objektivní důvody" (například technická nedostupnost sítě v určité oblasti). Toto ustanovení doplňuje nařízení (EU) 2018/302 o zákazu geoblockingu v e-commerce a obecný zákaz diskriminace v přístupu k elektronickým komunikacím.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Mobilní operátor M zablokoval odchozí i příchozí provoz na SIM kartě zákazníka Z pro nezaplacené vyúčtování; blokace zahrnula i možnost volat na linku 112. Z v době blokace utrpěl úraz a nemohl přivolat pomoc. Důkazy: smlouva a VOP, doklad o blokaci a její rozsah (logy ústředny), datum a čas pokusu o tísňové volání, lékařská zpráva o úrazu.
+
+**2. Právní otázka.** Smí poskytovatel při omezení služby pro neplacení zablokovat i přístup k tísňovým službám (linka 112)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 61 odst. 3 ZEK — povinnost zajistit nepřetržitý přístup k tísňovým službám a evropským harmonizovaným číslům, vyjma § 33 odst. 10.
+- *Související ustanovení téhož zákona:* § 65 odst. 2 (omezení služby pro neplacení výslovně s výjimkou přístupu k tísňové komunikaci); § 61 odst. 1 (nepřetržitost); § 33 odst. 10 (technické výjimky).
+- *Související předpisy:* čl. 109 EECC (přístup k tísňovým službám); zákon č. 239/2000 Sb. o IZS.
+- *Judikatura:* nosný závěr — přístup k tísňovým službám je veřejnoprávní povinností nezávislou na splnění platebních povinností účastníka; soudy chápou tísňovou komunikaci jako jádro veřejného zájmu, jež nelze podřídit soukromoprávnímu sporu o dluh.
+
+**4. Subsumpce.** Znak „nepřetržitý přístup k tísňovým službám" je absolutní; nebyla naplněna žádná z výjimek § 33 odst. 10. Blokace odchozího volání na 112 je proto protiprávní, ačkoli samotné omezení placené služby pro neplacení (po výzvě s náhradní lhůtou dle § 65) bylo přípustné.
+
+**5. Řešení.** Blokace přístupu k 112 je porušením § 61 odst. 3 a § 65 odst. 2; jde o správní delikt postižitelný ČTÚ a může zakládat občanskoprávní odpovědnost za škodu. Postup: stížnost ČTÚ, doložení rozsahu blokace; operátor měl blokovat jen aktivní (placené) odchozí volání mimo tísňová čísla.
+
+**6. Varianty.** (a) Pokud by šlo o technickou nedostupnost spadající pod § 33 odst. 10 (např. SIM bez registrace v síti), povinnost by nebyla porušena. (b) Pokud by Z volal na běžné číslo (ne tísňové), blokace by byla v souladu s § 65.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Účastník dlužil, blokace byla oprávněná." Neutralizace: § 65 odst. 2 výslovně vyjímá tísňovou komunikaci z rozsahu omezení; dluh neopravňuje k blokaci 112.
+- *Protiargument:* „Technicky nelze blokovat jen běžná čísla a ponechat 112." Neutralizace: moderní ústředny umožňují selektivní blokaci; technická nemožnost by musela být prokázána a spadat pod § 33 odst. 10.
+- *Slabé místo:* prokázání kauzálního nexu mezi blokací a škodou (úrazem) je obtížné; náhrada škody nemusí být přiznána, i když je delikt zjištěn.
+
+#### H. Praktický závěr
+
+Přístup k tísňovým službám a harmonizovaným číslům (116 xxx) je absolutní a nelze jej omezit ani pro neplacení; odpovědnost za obsah přenosu poskytovatel nenese (odst. 5), terminační a ETNS pravidla (odst. 6–7) jsou cenově regulována.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla zachována nepřetržitost služby a přístup k 112 a 116 xxx i při omezení pro neplacení?
+- [ ] Spadá případná nedostupnost pod úzkou výjimku § 33 odst. 10?
+- [ ] Je vedena aktuální databáze účastníků (odst. 4), případně údaje o prepaid kartách?
+- [ ] Neuplatňuje poskytovatel geografickou diskriminaci bez objektivního důvodu (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a VOP, logy ústředny o rozsahu blokace, čas pokusu o tísňové volání, korespondence s operátorem, rozhodnutí ČTÚ.
+
 ---
 
 ### § 62 — Normy a specifikace; síťové plány
@@ -79,6 +115,42 @@ Normy a specifikace v elektronických komunikacích sledují tříúrovňovou hi
 #### Síťové plány jako opatření obecné povahy (odst. 3)
 
 ČTÚ vydává síťové plány formou opatření obecné povahy (§ 171 SŘ), nikoliv vyhláškou ani rozhodnutím — jejich napadení se děje cestou § 101a s.ř.s. Síťové plány typicky zahrnují číslovací plán, frekvenční plán a plány adresace; jejich dodržování je hmotněprávní povinností všech podnikatelů v sítích bez ohledu na to, zda jsou regulovanými subjekty s uloženými povinnostmi ex ante.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ při dozoru zjistí, že operátor O provozuje VoIP službu s vlastním číslovacím schématem, které neumožňuje korektní směrování přenášených čísel mezi sítěmi (přenositelnost čísla selhává), protože O nepoužil příslušné harmonizované specifikace ani síťový plán ČTÚ. Důkazy: technická dokumentace rozhraní O, číslovací plán ČTÚ (OOP), protokoly o neúspěšném přenesení čísla.
+
+**2. Právní otázka.** Je porušení síťového plánu (OOP) a nepoužití harmonizovaných specifikací bezprostředně sankcionovatelné a jakou cestou se síťový plán napadá?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 62 ZEK — povinnost používat normy/specifikace dle hierarchie (OJEU → ETSI/CEN → ITU/CEPT/ISO/IEC) a dodržovat síťové plány vydané jako OOP.
+- *Související ustanovení téhož zákona:* § 118 (správní delikty); § 34 a 34a (přenositelnost čísla, změna ISP — účel norem); § 71 (kvalita).
+- *Související předpisy:* § 171 a násl. SŘ (OOP); § 101a s.ř.s. (přezkum OOP); směrnice 2018/1972/EU (EECC).
+- *Judikatura:* nosný závěr — OOP se přezkoumává v řízení dle § 101a s.ř.s., nikoli rozkladem; dodržení síťových plánů je hmotněprávní povinností všech podnikatelů bez ohledu na uložení ex ante povinností.
+
+**4. Subsumpce.** Povinnost dle § 62 odst. 1 je funkčně vázána na účely (interoperabilita, přenositelnost čísel) — ty zde naplněny jsou. O síťový plán nedodržel; jde o porušení povinnosti dle § 62 odst. 3, sankcionovatelné dle § 118, nikoli přímo dle § 62.
+
+**5. Řešení.** ČTÚ vyzve O k nápravě a může zahájit řízení o správním deliktu dle § 118. Chce-li O zpochybnit samotný síťový plán, musí podat návrh na zrušení OOP k NSS dle § 101a s.ř.s. — nelze proti němu brojit rozkladem.
+
+**6. Varianty.** (a) Pokud by harmonizovaná norma v OJEU nebyla vyhlášena, použily by se subsidiárně ETSI/ITU specifikace (odst. 2). (b) Pokud by O byl jen koncovým uživatelem bez vlastní sítě, povinnost dle § 62 by jej nestíhala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „§ 62 nestanoví sankci, porušení je tedy beztrestné." Neutralizace: sankce plyne z § 118 ZEK; § 62 zakotvuje hmotněprávní povinnost.
+- *Protiargument:* „Síťový plán je nezákonný." Neutralizace: presumpce správnosti OOP trvá do jeho zrušení NSS; do té doby je závazný.
+- *Slabé místo:* určení, zda konkrétní specifikace je „nezbytně nutná" pro daný účel, je výkladově sporné a může vést k odlišnému posouzení.
+
+#### H. Praktický závěr
+
+Normy a specifikace se použijí v třístupňové hierarchii a jen v rozsahu nezbytném pro vymezené účely; síťové plány ČTÚ jsou OOP závazná pro všechny podnikatele, napadnutelná u NSS dle § 101a s.ř.s.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla použita harmonizovaná norma z OJEU, případně subsidiárně ETSI/ITU?
+- [ ] Je užití normy vázáno na zákonný účel (interoperabilita, bezpečnost, přenositelnost)?
+- [ ] Dodržuje podnikatel platné síťové plány (číslovací, frekvenční)?
+- [ ] Při sporu o OOP — využit § 101a s.ř.s., nikoli rozklad?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace rozhraní, platné síťové plány ČTÚ, seznam norem v OJEU, protokoly o testech interoperability.
 
 ---
 
@@ -178,6 +250,43 @@ Odst. 11 zakládá regulační pravomoc ČTÚ nařídit změnu smlouvy nebo jej�
 
 Odst. 12 upřesňuje povinnost písemného potvrzení informací po uzavření smlouvy na dálku a navazuje na obecnou úpravu § 1829 OZ (14denní lhůta pro odstoupení). Specificky pro telekomunikační smlouvy lhůta běží od předání informací podle odst. 1 — ne od uzavření smlouvy. Toto pravidlo chrání spotřebitele, kteří na dálku uzavírají smlouvu, aniž by měli před sebou kompletní dokumentaci.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel S uzavřel přes web operátora O smlouvu o mobilním tarifu. O mu neposkytl strukturované shrnutí smlouvy (Contract Summary) dle šablony EU a předsmluvní informace dle přílohy č. 1 zaslal až 10 dní po uzavření. Reklama slibovala „neomezená data", smlouva však obsahovala FUP limit 20 GB. Důkazy: záznam objednávkového procesu, e-maily s informacemi a jejich datum, archiv reklamní stránky, text VOP.
+
+**2. Právní otázka.** Od kdy běží lhůta pro odstoupení a je operátor vázán reklamním příslibem „neomezených dat", který odporuje VOP?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63 odst. 5–6 (povinné shrnutí smlouvy), odst. 7 (předsmluvní sdělení se stává obsahem smlouvy), odst. 12 (počátek lhůty pro odstoupení od předání informací).
+- *Související ustanovení téhož zákona:* příloha č. 1 ZEK; § 63 odst. 1 (vztah k § 1811, 1820 OZ); § 63 odst. 11 (pravomoc ČTÚ měnit smlouvu).
+- *Související předpisy:* § 1829 OZ (14denní lhůta); § 1826 odst. 2 OZ; zákon č. 634/1992 Sb. (klamavé praktiky); nařízení (EU) 2019/2243 (šablona shrnutí).
+- *Judikatura:* nosný závěr — informační povinnost slouží ochraně slabší strany; účastník musí mít reálnou možnost se s obsahem seznámit, jinak by se ochrana vyprázdnila (srov. citovaná judikatura NSS u § 63b).
+
+**4. Subsumpce.** Předsmluvní informace nebyly poskytnuty před uzavřením a shrnutí smlouvy chybělo → lhůta pro odstoupení dle odst. 12 začala běžet až dnem následujícím po pozdějším předání informací. Reklamní příslib „neomezených dat" se dle odst. 7 stal obsahem smlouvy, ledaže by byl výslovně jinak ujednán — pouhé skryté FUP ve VOP nepostačuje.
+
+**5. Řešení.** S může odstoupit ve 14denní lhůtě počítané od skutečného předání informací (tedy s posunutým počátkem). Současně lze tvrdit vázanost příslibem neomezených dat dle odst. 7. Postup: písemné odstoupení / reklamace, podnět ČTÚ (možná i klamavá praktika dle z. č. 634/1992 Sb.).
+
+**6. Varianty.** (a) Pokud by O prokazatelně poskytl shrnutí i informace před uzavřením a FUP byl zřetelně uveden, příslib „neomezených dat" by byl výslovně modifikován a lhůta běžela standardně. (b) U M2M přenosové služby se § 63 vůbec neuplatní.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „FUP byl ve VOP, S je tedy znal." Neutralizace: dle odst. 7 platí příznivější předsmluvní příslib, není-li výslovně jinak ujednán; skryté omezení v dlouhých VOP nestačí.
+- *Protiargument:* „Informace byly poskytnuty, jen se zpožděním." Neutralizace: odst. 12 váže počátek lhůty na předání informací — zpoždění prodlužuje právo na odstoupení.
+- *Slabé místo:* posouzení, zda byl příslib „výslovně ujednán jinak", závisí na konkrétní formulaci objednávky; sporné u proklikávacích souhlasů.
+
+#### H. Praktický závěr
+
+§ 63 buduje vrstvený informační standard (OZ + příloha č. 1 ZEK + šablona EU); shrnutí smlouvy je povinné bezplatně a proaktivně, předsmluvní sdělení se stávají obsahem smlouvy a lhůta pro odstoupení běží od předání informací.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo poskytnuto shrnutí smlouvy dle šablony EU bezplatně před uzavřením?
+- [ ] Byly předsmluvní informace (příloha č. 1, § 1811/1820 OZ, právo na paušální náhradu) poskytnuty v textové podobě?
+- [ ] Odpovídá smlouva inzerovaným příslibům (odst. 7)?
+- [ ] Byl správně určen počátek lhůty pro odstoupení (odst. 12)?
+- [ ] U mikropodniku/neziskovky — doloženo prohlášení a případný výslovný opt-out (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** archiv objednávkového procesu a reklamy, shrnutí smlouvy, předsmluvní informace s datem předání, VOP, korespondence.
+
 ---
 
 ### § 63a — Transparentnost a zveřejňování informací
@@ -219,6 +328,42 @@ Rozsah zveřejňovaných informací je detailnější než u § 63: zahrnuje i p
 #### Pravidelná aktualizace a dohled ČTÚ (odst. 2–3)
 
 Povinnost pravidelné aktualizace zajišťuje, že zveřejněné informace odpovídají aktuální nabídce — zastaralé cenové plány nebo podmínky mohou být zavádějící a naplňovat znaky klamavé obchodní praktiky dle zákona č. 634/1992 Sb. ČTÚ může vyhláškou standardizovat formu zveřejnění (typicky webové stránky s definovanou strukturou) a požadovat předběžné předložení informací.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel OTT komunikační aplikace s VoIP voláním na čísla (interpersonální služba založená na číslech) zveřejňuje ceník a podmínky pouze ve formě PDF letáku v prodejně, nikoli strojově čitelně, a neuvádí, že u jeho aplikace lze či nelze volat na tísňové služby. ČTÚ zahájí dozor. Důkazy: snímky webu, formát zveřejněných dat, absence informace o tísňovém přístupu.
+
+**2. Právní otázka.** Splnil poskytovatel povinnost transparentního zveřejnění, je-li informace dostupná jen v PDF a chybí údaj o přístupu k tísňovým službám?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63a odst. 1 (přehledné, vyčerpávající, strojově čitelné zveřejnění; písm. b bod 5 — informace o přístupu k tísňovým službám), odst. 2 (aktualizace), odst. 3 (vyhláška ČTÚ).
+- *Související ustanovení téhož zákona:* § 66a (srovnávací nástroj — strojová čitelnost umožňuje agregaci); § 63 odst. 5 (shrnutí smlouvy); § 71 (kvalita).
+- *Související předpisy:* zákon č. 634/1992 Sb. (klamavá praktika u zastaralých údajů); směrnice 2019/882/EU (přístupnost).
+- *Judikatura:* nosný závěr — účel transparentnostních povinností je reálná informovanost koncového uživatele; formálně dostupná, ale fakticky nesrozumitelná či neagregovatelná informace účel nenaplňuje.
+
+**4. Subsumpce.** PDF leták není „strojově čitelný" formát (machine-readable — JSON/XML/API) → znak odst. 1 není naplněn. Absence údaje o přístupu k tísňovým službám porušuje odst. 1 písm. b bod 5. Povinnost je proaktivní, nikoli na žádost.
+
+**5. Řešení.** Poskytovatel musí zveřejnit informace strojově čitelně a doplnit údaj o (ne)dostupnosti tísňového volání. ČTÚ může vyhláškou stanovit formu (odst. 3) a vyžádat předběžné předložení. Při neaktualizaci hrozí kvalifikace jako klamavá praktika.
+
+**6. Varianty.** (a) Jde-li o službu nezávislou na číslech (OTT bez volání na čísla), postačí informace, „do jaké míry" je tísňový přístup podporován. (b) Mikropodnik poskytující jen službu nezávislou na číslech může požívat výjimky dle § 63e.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Informace jsou veřejně dostupné v PDF, povinnost je splněna." Neutralizace: odst. 1 výslovně žádá strojovou čitelnost kvůli agregaci do srovnávacího nástroje (§ 66a).
+- *Protiargument:* „U naší OTT služby tísňový přístup neřešíme." Neutralizace: i tehdy je povinné uživatele informovat, do jaké míry je či není přístup podporován.
+- *Slabé místo:* dokud ČTÚ nevydá vyhlášku dle odst. 3, je „strojová čitelnost" do jisté míry neurčitá; sporné mohou být konkrétní formáty.
+
+#### H. Praktický závěr
+
+§ 63a ukládá proaktivní transparentnost — přehledné, vyčerpávající a strojově čitelné zveřejnění podmínek, cen, poprodejní podpory, mechanismů řešení sporů a údaje o přístupu k tísňovým službám; informace nutno průběžně aktualizovat.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou informace zveřejněny přehledně, vyčerpávajícím a strojově čitelným způsobem?
+- [ ] Je uveden údaj o přístupu k tísňovým službám podle typu služby (na číslech / nezávislé na číslech)?
+- [ ] Jsou informace pravidelně aktualizovány a v přístupném formátu pro zdravotně postižené?
+- [ ] Byly informace na žádost předloženy ČTÚ před zveřejněním?
+
+**Typicky rozhodné důkazy / podklady:** snímky/archiv webu, formát zveřejněných dat (API/JSON), interní pokyny k aktualizaci, případná vyhláška ČTÚ.
 
 ---
 
@@ -301,6 +446,43 @@ Odst. 11 a 12 propojují zánik smlouvy s procesy přenositelnosti čísla (§ 3
 
 Odst. 13 obsahuje materiální sankci — smluvní ujednání odrazující od změny poskytovatele (extrémně dlouhé výpovědní doby, poplatky nad zákonný limit, administrativní překážky) jsou relativně neúčinná (nemají právní účinky). Jde o kogentní ochranu soutěže a mobility zákazníků, kterou nelze smluvně obejít.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel S uzavřel smlouvu na dobu určitou 36 měsíců s dotovaným telefonem. Po 30 měsících mu operátor O smlouvu automaticky prodloužil o dalších 36 měsíců, aniž jej měsíc předem prokazatelně informoval. Současně O jednostranně zvýšil měsíční paušál o 50 Kč s odůvodněním „aktualizace ceníku". Důkazy: smlouva s dobou trvání, doklad o (ne)zaslání předsmluvního upozornění, oznámení o změně ceny, datum a forma jeho doručení.
+
+**2. Právní otázka.** Jaký je účinek sjednání 36měsíční doby, vzniká S výpovědní právo po automatickém prodloužení a při zvýšení ceny?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63b odst. 1 (limit 24 měsíců, jinak konverze na dobu neurčitou), odst. 3–4 (automatické prodloužení a informační povinnost měsíc předem), odst. 5 (jednostranná změna a výpovědní právo), odst. 7–9 (úhrada za předčasné ukončení a dotované zařízení).
+- *Související ustanovení téhož zákona:* § 63 odst. 11 (změna vyvolaná rozhodnutím ČTÚ — výpovědní právo nevzniká); § 34, 34a (přenositelnost a změna ISP).
+- *Související předpisy:* čl. 105 EECC; § 1813 a násl. OZ (zneužívající ujednání).
+- *Judikatura:* *NSS 1 As 405/2020-57* — limit 24 měsíců slouží ochraně spotřebitele, počáteční období nesmí přesáhnout 24 měsíců; *NSS 11 A 66/2024-38* — účastník musí mít skutečnou možnost se o změně snadno dostupným způsobem dozvědět, jinak se ochrana vyprázdní; *NSS 1 As 134/2018-50* — změna zvyšující platby je podstatnou změnou k tíži účastníka, zakládající informační povinnost.
+
+**4. Subsumpce.** Sjednaná doba 36 měsíců přesahuje limit 24 měsíců → smlouva se dle odst. 1 považuje za uzavřenou na dobu neurčitou. Automatické prodloužení bez prokazatelného informování měsíc předem (odst. 3) zakládá právo kdykoli bezplatně vypovědět s max. měsíční výpovědní dobou. Zvýšení paušálu o 50 Kč je změnou k tíži dle judikatury NSS → S má dle odst. 5 právo bezplatně vypovědět do 1 měsíce od doručení oznámení.
+
+**5. Řešení.** S může smlouvu vypovědět bezplatně (změna není výhradně přínosná, administrativní ani vyvolaná zákonem/ČTÚ). Případnou úhradu za dotovaný telefon lze požadovat jen do výše nižší z hodnot dle odst. 7. Postup: výpověď do 1 měsíce, podnět ČTÚ pro porušení informační povinnosti.
+
+**6. Varianty.** (a) Pokud by změna ceny byla vyvolána zákonnou úpravou nebo rozhodnutím ČTÚ dle § 63 odst. 11, výpovědní právo by nevzniklo. (b) Pokud by šlo o splátky výlučně za fyzické připojení FTTH (odst. 2), limit 24 měsíců by se neuplatnil.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Změna ceny byla jen administrativní aktualizace ceníku." Neutralizace: dle NSS 1 As 134/2018 je jakékoli zvýšení plateb podstatnou změnou k tíži účastníka, nikoli neutrální administrativní změnou.
+- *Protiargument:* „Spotřebitel byl informován v aplikaci." Neutralizace: dle NSS 11 A 66/2024 musí mít účastník reálnou a snadno dostupnou možnost se o změně dozvědět; informace musí být prokazatelná v textové podobě.
+- *Slabé místo:* posouzení, zda je změna „výhradně přínosná" či „čistě administrativní", je hraniční; operátor může strukturovat změnu tak, aby výpovědní právo nevzniklo.
+
+#### H. Praktický závěr
+
+Doba určité smlouvy nesmí přesáhnout 24 měsíců (jinak konverze na dobu neurčitou); po automatickém prodloužení a při změně k tíži má účastník bezplatné výpovědní právo; odchodné je striktně limitováno a odrazující podmínky jsou neúčinné.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nepřesahuje sjednaná doba 24 měsíců (mimo výjimku splátek za fyzické připojení)?
+- [ ] Byl účastník prokazatelně informován měsíc před automatickým prodloužením a o nejvýhodnějších cenách?
+- [ ] Jde u změny o podstatnou změnu k tíži zakládající bezplatné výpovědní právo (odst. 5)?
+- [ ] Je úhrada za předčasné ukončení / dotované zařízení v zákonných limitech (odst. 7–9)?
+- [ ] Neobsahuje smlouva odrazující podmínky (odst. 13)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a doba trvání, doklady o informování (forma, datum, prokazatelnost), oznámení o změně, výpočet zůstatkové hodnoty zařízení.
+
 ---
 
 ### § 63c — Nabídky balíčků
@@ -329,6 +511,42 @@ Odst. 2 aplikuje na balíček princip akcesoricity: vadné plnění byť jedné 
 
 Odst. 3 zabraňuje praktice, kdy přidání doplňkové služby nebo zařízení (upgrade telefonu, nový TV kanál) fakticky restartovalo dobu trvání závazku bez výslovného souhlasu. Nové plnění musí mít výslovný souhlas spotřebitele s prodloužením — jinak se přidaná složka řídí zbývající dobou trvání původní smlouvy.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor O nabízí balíček „internet + IPTV + cloudové úložiště" jako jednu cenu. IPTV složka trpí trvalými výpadky. O tvrdí, že IPTV a cloud jsou samostatné služby informační společnosti, na něž se telekomunikační ochrana nevztahuje, a že lze ukončit jen IPTV za poplatek, zatímco internet a cloud běží dál. Při dokoupení nového set-top boxu O restartoval dobu trvání celé smlouvy. Důkazy: smlouva o balíčku, specifikace složek, protokoly o výpadcích IPTV, doklad o dokoupení boxu a (ne)existence výslovného souhlasu s prodloužením.
+
+**2. Právní otázka.** Vztahuje se ochrana dle § 63b na celý balíček a má spotřebitel právo ukončit celý balíček při vadě jen jedné složky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63c odst. 1 (přenos ochrany § 63 odst. 5–6, § 63a, 63b a § 34/34a na celý balíček), odst. 2 (právo ukončit celý balíček při vadě části), odst. 3 (zákaz prodloužení doby přidáním doplňku bez výslovného souhlasu).
+- *Související ustanovení téhož zákona:* § 63b odst. 6–7 (výpověď pro vadné plnění); § 34, 34a.
+- *Související předpisy:* čl. 107 EECC; § 2002 OZ (odstoupení pro podstatné porušení — méně příznivé).
+- *Judikatura:* nosný závěr — ochranná ustanovení nelze obcházet fragmentací nabídky do formálně oddělených smluv; ochrana navázaná na kritickou složku se přenáší na celý balíček.
+
+**4. Subsumpce.** Balíček obsahuje internet (kritickou složku) → dle odst. 1 se ochrana přenáší i na IPTV a cloud, ač by jinak byly mimo režim ZEK. Trvalé výpadky IPTV jsou vadným plněním složky → dle odst. 2 vzniká právo ukončit celý balíček. Dokoupení boxu bez výslovného souhlasu s prodloužením dle odst. 3 dobu trvání neprodlužuje.
+
+**5. Řešení.** S může vypovědět celý balíček (ne jen IPTV) bez sankce dle § 63b odst. 7. Restart doby trvání je neúčinný — řídí se zbývající dobou původní smlouvy. Postup: výpověď celého balíčku s odkazem na § 63c odst. 2, podnět ČTÚ.
+
+**6. Varianty.** (a) Pokud by balíček neobsahoval internet ani číslovanou interpersonální službu, přenos ochrany dle odst. 1 by nenastal. (b) Pokud by S při dokoupení boxu výslovně souhlasil s prodloužením (odst. 3), doba by se prodloužila.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „IPTV a cloud jsou služby informační společnosti mimo ZEK." Neutralizace: odst. 1 výslovně rozšiřuje ochranu i na složky, na něž by se jinak nevztahovala, je-li v balíčku internet/číslovaná služba.
+- *Protiargument:* „Vadná je jen IPTV, ukončit lze jen tu." Neutralizace: odst. 2 přiznává právo ukončit celý balíček při vadě byť jedné složky (akcesoricita).
+- *Slabé místo:* posouzení, zda je výpadek „vadným plněním nebo jiným porušením smlouvy", může záviset na SLA; nepatrné výpadky nemusí postačit.
+
+#### H. Praktický závěr
+
+Ochrana navázaná na kritickou složku balíčku (internet / číslovaná interpersonální služba) se přenáší na celý balíček; vada jediné složky umožňuje ukončit celý balíček a doplněk neprodlužuje dobu trvání bez výslovného souhlasu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje balíček internet nebo číslovanou interpersonální službu (spouštěč přenosu ochrany)?
+- [ ] Bylo právo ukončit celý balíček uplatněno pro vadu/porušení u některé složky (odst. 2)?
+- [ ] Byl k prodloužení doby přidáním doplňku dán výslovný souhlas (odst. 3)?
+- [ ] U mikropodniku/neziskovky — doloženo prohlášení a nedošlo k opt-out (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva o balíčku a specifikace složek, protokoly o vadách, doklad o dokoupení doplňku a forma souhlasu s prodloužením.
+
 ---
 
 ### § 63d — Informační povinnost ČTÚ pro spotřebitele
@@ -340,6 +558,41 @@ Odst. 3 zabraňuje praktice, kdy přidání doplňkové služby nebo zařízení
 **Výklad:**
 
 § 63d přesouvá část informační funkce na regulátora. ČTÚ plní roli informačního zprostředkovatele — sbírá a zveřejňuje vysvětlující materiály k technickým a smluvním parametrům služeb, které průměrný spotřebitel obtížně dešifruje z odborné dokumentace poskytovatelů. Explicitní zmínka osob se zdravotním postižením propojuje toto ustanovení s čl. 111 EECC a s Evropským aktem o přístupnosti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel S nerozumí pojmu „symetrická rychlost" a „FUP" ve vyúčtování a podmínkách. Hledá nezávislé vysvětlení a porovnání, ale operátoři poskytují jen marketingové materiály. Nevidomý uživatel N hledá informace o tom, jak nastavit přístupné rozhraní. Důkazy: dotazy spotřebitelů, stav webu ČTÚ s vysvětlujícími materiály.
+
+**2. Právní otázka.** Má spotřebitel nárok na nezávislé vysvětlující informace od regulátora a v jaké formě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63d ZEK — povinnost ČTÚ sbírat, zpracovávat a dálkově zveřejňovat vysvětlující informace o parametrech služeb, včetně usnadnění pro osoby se zdravotním postižením.
+- *Související ustanovení téhož zákona:* § 66a (srovnávací nástroj); § 63a (informace poskytovatele); § 69b, § 71 (přístupnost a kvalita).
+- *Související předpisy:* čl. 111 EECC; směrnice 2019/882/EU (Evropský akt o přístupnosti).
+- *Judikatura:* nosný závěr — informační funkce regulátora doplňuje, nenahrazuje informační povinnosti poskytovatelů; jde o veřejnoprávní úkol bez přímého subjektivního nároku jednotlivce na konkrétní obsah.
+
+**4. Subsumpce.** § 63d zakládá veřejnoprávní povinnost ČTÚ, nikoli vymahatelný subjektivní nárok spotřebitele na konkrétní materiál. ČTÚ má zveřejnit vysvětlující informace dálkovým přístupem a usnadnit využívání osobám se zdravotním postižením.
+
+**5. Řešení.** S nemá přímý nárok žalovat ČTÚ o konkrétní obsah, může však podnětem upozornit na nedostatečné plnění úkolu. Pro vlastní spor s operátorem využije § 63, 63a a 64. N se může dovolávat přístupných formátů dle § 63d ve spojení s § 69b.
+
+**6. Varianty.** (a) Pokud spotřebitel potřebuje porovnat konkrétní nabídky, primárním nástrojem je § 66a (srovnávací nástroj), nikoli § 63d. (b) Pro spor o vyúčtování je rozhodný § 64, § 63d slouží jen orientaci.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „§ 63d zakládá nárok spotřebitele na informace přímo od ČTÚ." Neutralizace: jde o objektivní veřejnoprávní úkol regulátora, ne o subjektivní veřejné právo s přímou vymahatelností.
+- *Protiargument:* „Informace ČTÚ nahrazují informační povinnost operátora." Neutralizace: funkce ČTÚ je doplňková; povinnosti dle § 63 a 63a tím nezanikají.
+- *Slabé místo:* rozsah a aktuálnost vysvětlujících materiálů nejsou zákonem kvantifikovány — obtížně přezkoumatelné.
+
+#### H. Praktický závěr
+
+§ 63d ukládá ČTÚ roli informačního zprostředkovatele — dálkově zveřejňovat vysvětlující informace k parametrům služeb a usnadnit jejich využívání osobám se zdravotním postižením; jde o veřejnoprávní úkol doplňující povinnosti poskytovatelů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zveřejňuje ČTÚ vysvětlující materiály způsobem umožňujícím dálkový přístup?
+- [ ] Jsou materiály uzpůsobeny pro osoby se zdravotním postižením?
+- [ ] Pro porovnání nabídek — využit primárně § 66a, pro spor § 64?
+
+**Typicky rozhodné důkazy / podklady:** obsah a forma webu ČTÚ, vysvětlující materiály, podněty spotřebitelů.
 
 ---
 
@@ -354,6 +607,42 @@ Odst. 3 zabraňuje praktice, kdy přidání doplňkové služby nebo zařízení
 **Výklad:**
 
 § 63e implementuje čl. 61 odst. 1 EECC — výjimku pro nejmenší poskytovatele OTT komunikačních aplikací (nezávislé na číslech: Signal, Telegram, Discord, apod.), kteří jsou mikropodniky (méně než 10 zaměstnanců a roční obrat/bilanční suma do 2 mil. EUR). Na tyto subjekty by plná regulační zátěž §§ 63–71 kladla nepřiměřené administrativní břemeno. Výjimka je podmíněná: platí, jen pokud takový mikropodnik neposkytuje žádné jiné služby elektronických komunikací (například přístup k internetu). Povinnost informovat uživatele o výjimce zajišťuje, že spotřebitelé vědí, za jakých podmínek smlouvu uzavírají.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Startup poskytuje šifrovanou chatovací aplikaci se 6 zaměstnanci a ročním obratem 1,2 mil. EUR; jde o interpersonální komunikační službu nezávislou na číslech. ČTÚ od něj požaduje plnění předsmluvních informačních povinností dle §§ 63–63d a zveřejnění parametrů kvality dle § 71. Startup namítá výjimku pro mikropodnik. Současně začal nabízet i přístup k internetu. Důkazy: účetní výkazy (počet zaměstnanců, obrat), popis služby, informace poskytnutá uživatelům před uzavřením smlouvy.
+
+**2. Právní otázka.** Vztahuje se na startup výjimka dle § 63e a zaniká, jakmile začne poskytovat i jinou službu elektronických komunikací?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 63e odst. 1 (vynětí §§ 33, 33b, 34, 34a, 38, 43, 63–63d, 69b a 71 pro mikropodnik poskytující výlučně službu nezávislou na číslech), odst. 2 (povinnost informovat uživatele o výjimce).
+- *Související ustanovení téhož zákona:* §§ 63–63d, 71 (vyňaté povinnosti); § 71 odst. 2 (informace o závislosti kvality na vnějších faktorech).
+- *Související předpisy:* čl. 61 odst. 1 EECC; doporučení 2003/361/ES (definice mikropodniku — < 10 zaměstnanců, obrat/bilance ≤ 2 mil. EUR).
+- *Judikatura:* nosný závěr — sektorové výjimky pro nejmenší poskytovatele se vykládají úzce a jejich podmínky (mikropodnik + výlučně služba nezávislá na číslech) musí být splněny kumulativně.
+
+**4. Subsumpce.** Startup splňuje kritéria mikropodniku (6 zaměstnanců, obrat 1,2 mil. EUR) a poskytoval výlučně službu nezávislou na číslech → výjimka dle odst. 1 platila. Jakmile začal poskytovat i přístup k internetu („jiné služby elektronických komunikací"), podmínka výlučnosti odpadla → výjimka zaniká a plné povinnosti §§ 63–71 se obnovují.
+
+**5. Řešení.** Do zahájení poskytování internetu byl startup povinen pouze informovat uživatele o výjimce (odst. 2). Po rozšíření nabídky o internet musí plnit všechny dříve vyňaté povinnosti. Postup: doložit status mikropodniku, prokázat výlučnost služby, jinak splnit §§ 63–71.
+
+**6. Varianty.** (a) Pokud by startup překročil práh mikropodniku (10+ zaměstnanců), výjimka by zanikla i bez rozšíření nabídky. (b) Pokud by zůstal jen u chatovací aplikace, postačila by informace uživatelům o výjimce.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Jsme malá firma, ochranné povinnosti se na nás nevztahují." Neutralizace: výjimka platí jen pro mikropodnik (do 10 osob a 2 mil. EUR) a jen při výlučném poskytování služby nezávislé na číslech.
+- *Protiargument:* „Internet poskytujeme jen okrajově, výjimka trvá." Neutralizace: odst. 1 podmiňuje výjimku tím, že poskytovatel neposkytuje žádnou jinou službu elektronických komunikací — okrajovost není rozhodná.
+- *Slabé místo:* okamžik zániku výjimky při rozšíření nabídky není zákonem časově upřesněn; sporné může být přechodné období.
+
+#### H. Praktický závěr
+
+Mikropodnik poskytující výlučně interpersonální službu nezávislou na číslech je vyňat z §§ 33, 34, 34a, 38, 43, 63–63d, 69b a 71, musí však o výjimce informovat uživatele; výjimka zaniká, jakmile začne poskytovat jinou službu elektronických komunikací nebo překročí parametry mikropodniku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje subjekt kritéria mikropodniku (< 10 zaměstnanců, obrat/bilance ≤ 2 mil. EUR)?
+- [ ] Poskytuje výlučně interpersonální službu nezávislou na číslech?
+- [ ] Informuje uživatele o výjimce vhodným způsobem před uzavřením smlouvy (odst. 2)?
+- [ ] Nedošlo k rozšíření o jinou službu elektronických komunikací (zánik výjimky)?
+
+**Typicky rozhodné důkazy / podklady:** účetní výkazy (zaměstnanci, obrat/bilance), popis a charakter služby, informace o výjimce poskytnutá uživatelům.
 
 ---
 
@@ -410,6 +699,43 @@ Odkladný účinek reklamace je pravidlem v jiných odvětvích; v telekomunikac
 
 Odst. 11 a 12 obsahují výraznou odchylku od obecného civilního práva: po provedení reklamačního vypořádání (vrácení rozdílu ceny) zákon poskytovatele osvobozuje od povinnosti nahradit škodu způsobenou přerušením služby. Toto omezení odpovědnosti je lex specialis k § 2950 OZ (obecná odpovědnost za škodu). Odst. 12 umožňuje jako alternativu k vrácení ceny zajištění náhradního způsobu poskytnutí služby. Zákon tak sleduje praktické řešení výpadků, nikoli soudní spory o náhradu škody za výpadek internetu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník Ú obdržel vyúčtování s položkou 4 200 Kč za prémiové SMS, které netvrdí, že objednal. Reklamaci podal písemně 70 dnů po dodání vyúčtování. Operátor reklamaci zamítl pro opožděnost a trvá na úhradě. Ú žádá ČTÚ o přiznání odkladného účinku. Operátor odmítá doložit, na jaká čísla byly SMS odeslány, s odkazem na to, že data nemá. Důkazy: vyúčtování s datem dodání, datum podání reklamace, údaje o příchozích/odchozích spojeních (§ 90 ZEK), VOP.
+
+**2. Právní otázka.** Zanikla reklamace pro uplynutí dvouměsíční lhůty a může ČTÚ přiznat odkladný účinek; je operátor povinen uchovat údaje pro vyúčtování?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 64 odst. 8 (prekluzivní lhůta 2 měsíce pro reklamaci ceny), odst. 8 věta třetí (odkladný účinek přiznává ČTÚ), odst. 10 (lhůta na vyřízení), odst. 11–12 (vrácení rozdílu, omezení náhrady škody).
+- *Související ustanovení téhož zákona:* § 90 (uchovávání provozních údajů pro vyúčtování); § 129 (rozhodování účastnických sporů ČTÚ).
+- *Související předpisy:* § 19 odst. 3 z. č. 634/1992 Sb. (30denní lhůta — obecná, mírnější); § 2950 OZ (náhrada škody — vyloučena dle odst. 11–12).
+- *Judikatura:* *NS 33 Cdo 347/2023* — podnikatel je povinen (oprávněn) pro účely vyúčtování uchovávat a zpracovávat údaje o příchozích hovorech dle § 90 ZEK.
+
+**4. Subsumpce.** Reklamace ceny podaná 70. den přesahuje prekluzivní lhůtu 2 měsíců (odst. 8) → právo reklamovat zaniklo. Odkladný účinek lze přiznat jen v probíhajícím sporu a na žádost (zde nepřípadné při prekludované reklamaci). Operátor je dle § 90 a NS 33 Cdo 347/2023 povinen uchovávat údaje pro vyúčtování — námitka „data nemáme" neobstojí, byla-li vznesena v rámci sporu o správnost vyúčtování v prekluzivní lhůtě.
+
+**5. Řešení.** Při opožděné reklamaci právo prekluduje a operátor nemusí vyhovět. Ú měl reklamovat do 2 měsíců; pak by mohl žádat ČTÚ o odkladný účinek (atypicky prvním úkonem řízení, bez rozkladu) a v účastnickém sporu (§ 129) by operátor musel doložit údaje dle § 90. Náhradu škody za výpadek nelze požadovat (odst. 11–12).
+
+**6. Varianty.** (a) Pokud by Ú reklamoval do 2 měsíců, ČTÚ by mohl přiznat odkladný účinek a věc projednat. (b) U předplacené karty se vyúčtování neposkytuje, lhůta běží od poskytnutí služby.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Platí obecná 30denní reklamační lhůta dle z. č. 634/1992 Sb." Neutralizace: ZEK je lex specialis a stanoví vlastní prekluzivní lhůtu 2 měsíců na straně zákazníka.
+- *Protiargument:* „Operátor nemá data o spojeních." Neutralizace: dle NS 33 Cdo 347/2023 a § 90 ZEK je povinen je pro účely vyúčtování uchovávat.
+- *Slabé místo:* prekluze je tvrdá — i oprávněná reklamace po lhůtě zaniká; odkladný účinek je výjimečný a nelze jej nárokovat.
+
+#### H. Praktický závěr
+
+Reklamaci ceny i kvality nutno podat do 2 měsíců (prekluze); podání reklamace neodkládá platbu (odkladný účinek může výjimečně přiznat ČTÚ), operátor vyřídí do 1 (2) měsíců a při chybě vrátí rozdíl, náhrada škody za výpadek je vyloučena.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla reklamace podána do 2 měsíců od dodání vyúčtování / vadného poskytnutí služby?
+- [ ] Byla reklamace vyřízena prokazatelně do 1 (2) měsíců?
+- [ ] Byl při žádosti o odkladný účinek využit postup dle § 64 odst. 8 (bez rozkladu)?
+- [ ] Uchoval operátor údaje pro vyúčtování dle § 90 (NS 33 Cdo 347/2023)?
+- [ ] Byl vrácen rozdíl ceny do 1 měsíce od vyřízení reklamace (odst. 11)?
+
+**Typicky rozhodné důkazy / podklady:** vyúčtování s datem dodání, doklad o podání a vyřízení reklamace, provozní/lokalizační údaje dle § 90, VOP, rozhodnutí ČTÚ o odkladném účinku.
+
 ---
 
 ### § 65 — Neplacení nebo opožděné placení účtu
@@ -432,6 +758,43 @@ Zákon definuje soustavnost jako číselné prahové hodnoty: 2 po sobě jdoucí
 
 Nákladová orientace ceny za upozornění zabraňuje výdělečnému upozorňování (typicky SMS s vysokým poplatkem); cena musí odpovídat skutečným nákladům poskytovatele na zaslání oznámení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor O po jediném dni prodlení a bez náhradní lhůty zcela odpojil účastníka Ú (včetně příchozích hovorů a tísňové komunikace) a účtoval mu za upozorňující SMS 50 Kč. Ú dlužil pouze jedno vyúčtování. Důkazy: doklad o prodlení (jediné vyúčtování), text a způsob upozornění, rozsah a okamžik omezení služby, kalkulace nákladů na upozornění.
+
+**2. Právní otázka.** Byl postup operátora (okamžité úplné odpojení po jednom prodlení, blokace tísňové komunikace, poplatek za SMS) v souladu s § 65?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 65 odst. 2 (náhradní lhůta min. 1 týden, omezení jen aktivního přístupu s výjimkou tísňové komunikace, nákladová orientace ceny za upozornění), odst. 3 (ukončení smlouvy jen při soustavném neplacení/opožděném placení — prahy 2/3).
+- *Související ustanovení téhož zákona:* § 61 odst. 3 (absolutní přístup k tísňovým službám); § 64 (vyúčtování).
+- *Související předpisy:* § 1968 a násl. OZ (prodlení dlužníka); z. č. 634/1992 Sb. (nepřiměřené poplatky).
+- *Judikatura:* nosný závěr — omezení služby pro neplacení je přípustné jen po prokazatelné výzvě a marném uplynutí náhradní lhůty; tísňovou komunikaci nelze blokovat nikdy.
+
+**4. Subsumpce.** Operátor neposkytl náhradní lhůtu min. 1 týden → omezení bylo předčasné. Úplné odpojení včetně tísňové komunikace porušuje odst. 2 i § 61 odst. 3. Jediné prodlení nenaplňuje práh soustavnosti (2 opožděné/3 nezaplacená vyúčtování) → ukončení smlouvy dle odst. 3 by bylo protiprávní. Poplatek 50 Kč musí být nákladově orientovaný, jinak neobstojí.
+
+**5. Řešení.** Postup operátora je v rozporu s § 65; Ú se domáhá obnovení služby a může podat podnět ČTÚ. Operátor měl: prokazatelně vyzvat, stanovit lhůtu ≥ 1 týden, pak omezit jen aktivní (odchozí placené) přístup mimo tísňová čísla, účtovat jen nákladovou cenu upozornění.
+
+**6. Varianty.** (a) Při existenci 3 nezaplacených vyúčtování po výzvách by bylo ukončení smlouvy dle odst. 3 přípustné. (b) Při úmyslně nepravdivých identifikačních údajích Ú by O mohl ukončit vztah i bez naplnění prahů soustavnosti.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Účastník dlužil, odpojení bylo oprávněné." Neutralizace: odst. 2 vyžaduje předchozí výzvu a náhradní lhůtu min. 1 týden; bez nich je omezení předčasné.
+- *Protiargument:* „Šlo o soustavné neplacení." Neutralizace: jediné prodlení nedosahuje zákonných prahů (2 opožděná / 3 nezaplacená vyúčtování).
+- *Slabé místo:* „nákladová orientace" ceny za upozornění je obtížně přezkoumatelná bez kalkulace operátora; spotřebitel ji obtížně vyvrací.
+
+#### H. Praktický závěr
+
+Omezení služby pro neplacení je stupňovité a prokazatelné: preventivní upozornění před uzavřením, výzva s náhradní lhůtou min. 1 týden, pak omezení jen aktivního přístupu (nikdy tísňové komunikace); ukončení smlouvy jen při soustavnosti (2/3) a cena za upozornění musí být nákladová.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl účastník před uzavřením prokazatelně upozorněn na důsledky neplacení (na náklady operátora)?
+- [ ] Předcházela omezení prokazatelná výzva s náhradní lhůtou ≥ 1 týden?
+- [ ] Byl zachován přístup k tísňové komunikaci i po omezení?
+- [ ] Je naplněn práh soustavnosti pro ukončení smlouvy (2 opožděná / 3 nezaplacená vyúčtování)?
+- [ ] Je cena za upozornění nákladově orientovaná?
+
+**Typicky rozhodné důkazy / podklady:** doklady o prodlení, text a doručení výzvy, rozsah a okamžik omezení, kalkulace nákladů na upozornění.
+
 ---
 
 ### § 66 — Informační a operátorské služby; účastnické seznamy
@@ -453,6 +816,42 @@ Nákladová orientace ceny za upozornění zabraňuje výdělečnému upozorňov
 #### Přístup k operátorským a informačním službám (odst. 2–3)
 
 Odst. 2 ukládá zajistit přístup k operátorským službám (například linka zákaznické podpory, asistované volání) a alespoň jedné informační telefonní službě. Odst. 3 rozšiřuje povinnost na celoevropský rozměr — přístup musí být zajištěn každému podnikateli usazenému v EU, čímž se zabraňuje fragmentaci informačního ekosystému v rámci jednotného digitálního trhu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel telefonního seznamu T požádá operátora O o předání identifikačních údajů jeho účastníků. O odmítne s tím, že údaje předá jen za nepřiměřeně vysokou cenu a jen u vlastních produktů, a u účastníků, kteří souhlas k uveřejnění nedali, požaduje úplatu rovněž. U účastníka A, který neoznačil přání být kontaktován za účelem marketingu, O předal údaj s příznakem „marketing ano". Důkazy: žádost T, ceník O za předání dat, evidence souhlasů účastníků s uveřejněním a s marketingem.
+
+**2. Právní otázka.** Za jakých podmínek a za jakou cenu je O povinen předat údaje a jak se nakládá s absencí souhlasu s marketingem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 66 odst. 1 (předání údajů účastníků, kteří dali souhlas, za nákladově orientovanou a nediskriminační cenu; domněnka, že při absenci údaje účastník marketing nepřeje), odst. 2–3 (přístup k operátorským a informačním službám, i pro podnikatele z EU).
+- *Související ustanovení téhož zákona:* § 95 (rozsah a podmínky nakládání s údaji); § 96 (nevyžádaná sdělení).
+- *Související předpisy:* nařízení (EU) 2016/679 (GDPR); čl. 112 EECC.
+- *Judikatura:* nosný závěr — povinnost sdílet účastnická data za nákladovou a nediskriminační cenu brání informačnímu monopolu; uveřejnění a marketing vyžadují souhlas, jehož absence se vykládá v neprospěch marketingu.
+
+**4. Subsumpce.** O je povinen předat údaje jen těch účastníků, kteří dali souhlas s uveřejněním, za nákladově orientovanou a nediskriminační cenu (odmítnutí či nepřiměřená cena porušuje odst. 1). Předání příznaku „marketing ano" u účastníka A, který přání neoznačil, je v rozporu s domněnkou odst. 1 (má se za to, že kontakt nepřeje).
+
+**5. Řešení.** O musí předat údaje souhlasících účastníků za nákladovou cenu a respektovat domněnku absence marketingového souhlasu. T se může domáhat nápravy podnětem ČTÚ; chybné nastavení marketingového příznaku je porušením § 66 odst. 1 a může zakládat odpovědnost dle GDPR.
+
+**6. Varianty.** (a) Pokud účastník souhlas s uveřejněním nedal, O jeho údaje předávat nesmí. (b) Žádá-li podnikatel usazený v jiném státě EU o přístup k informační službě, O jej nesmí odmítnout (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Cena za data je věcí smluvní volnosti." Neutralizace: odst. 1 výslovně žádá nákladovou orientaci a nediskriminaci.
+- *Protiargument:* „Nevyznačený marketing znamená, že rozhoduje operátor." Neutralizace: odst. 1 zavádí domněnku, že při absenci údaje účastník marketing nepřeje.
+- *Slabé místo:* prokázání nákladové orientace ceny vyžaduje kalkulaci O; bez ní je posouzení obtížné.
+
+#### H. Praktický závěr
+
+Operátor musí předat údaje souhlasících účastníků provozovatelům seznamů/informačních služeb za nákladovou a nediskriminační cenu, vyznačit marketingový příznak jen u výslovně souhlasících (jinak platí domněnka odmítnutí) a zajistit přístup k operátorským a informačním službám i podnikatelům z EU.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Předávají se údaje jen účastníků, kteří dali souhlas s uveřejněním (§ 95)?
+- [ ] Je cena za předání nákladově orientovaná a nediskriminační?
+- [ ] Je marketingový příznak nastaven jen u výslovně souhlasících (jinak domněnka odmítnutí)?
+- [ ] Je zajištěn přístup k operátorským a informačním službám, i pro podnikatele z EU?
+
+**Typicky rozhodné důkazy / podklady:** žádost o předání dat, ceník/kalkulace nákladů, evidence souhlasů s uveřejněním a marketingem, formát předání.
 
 ---
 
@@ -500,6 +899,42 @@ OTT interpersonální komunikační služby nezávislé na číslech (WhatsApp, 
 
 Povinnost podnikatelů předávat data pro srovnávací nástroj je veřejnoprávní regulační povinností, jejíž nesplnění je sankcionovatelné. Podrobnosti (druhy služeb, rozsah a forma předávání) jsou přeneseny na prováděcí právní předpis (vyhlášku ČTÚ). Data musí být strojově čitelná (srov. § 63a odst. 1), aby mohla být efektivně agregována do srovnávacího nástroje.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Soukromý provozovatel srovnávače P požádá ČTÚ o certifikaci svého nástroje dle § 66a. Nástroj však zobrazuje jen nabídky tří operátorů, s nimiž má P affiliate dohodu, neuvádí čas poslední aktualizace ani vlastníka a nemá mechanismus nahlašování chyb. Operátor X odmítá předat data pro srovnání. Důkazy: technický popis nástroje P, affiliate smlouvy, žádost o data adresovaná X.
+
+**2. Právní otázka.** Splňuje nástroj P požadavky § 66a odst. 2 pro certifikaci a je X povinen předat data?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 66a odst. 1 (bezplatný nezávislý nástroj — ceny a kvalita), odst. 2 (požadavky: nezávislost, identifikace provozovatele, objektivní kritéria, aktuálnost, otevřenost trhu, mechanismus nahlašování chyb), odst. 3 (certifikace), odst. 4–5 (povinnost předat data).
+- *Související ustanovení téhož zákona:* § 63a (strojově čitelné zveřejnění); § 71 (kvalitativní parametry).
+- *Související předpisy:* čl. 103 EECC; prováděcí vyhláška dle odst. 5.
+- *Judikatura:* nosný závěr — srovnávací nástroj musí být provozně nezávislý a poskytovat reprezentativní přehled trhu; zaujatý nebo neúplný nástroj účel transparentnosti maří.
+
+**4. Subsumpce.** Nástroj P není provozně nezávislý (affiliate vazba na tři operátory), nezobrazuje významnou část trhu bez zřetelného prohlášení, neuvádí vlastníka ani čas aktualizace a chybí mechanismus nahlašování chyb → požadavky odst. 2 písm. a, b, d, e, f nejsou splněny, certifikaci nelze udělit. Operátor X je dle odst. 4 povinen předat informace nezbytné pro zajištění nástroje.
+
+**5. Řešení.** ČTÚ certifikaci neudělí, dokud P nezajistí nezávislost, transparentnost, reprezentativnost a nahlašování chyb. X musí data předat v rozsahu prováděcího předpisu (odst. 5); odmítnutí je sankcionovatelné.
+
+**6. Varianty.** (a) Pokud nástroj zobrazí jen část trhu, ale s jasným prohlášením o neúplnosti, požadavek odst. 2 písm. e může být splněn. (b) OTT služby nezávislé na číslech lze zařadit jen, je-li to pro účel srovnání případné (odst. 5).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nástroj je užitečný i s nabídkami jen tří operátorů." Neutralizace: odst. 2 vyžaduje nezávislost a reprezentativnost, jinak je certifikace vyloučena.
+- *Protiargument:* „Operátor není povinen předávat data soukromému provozovateli." Neutralizace: odst. 4 ukládá předání informací nezbytných pro zajištění nástroje ČTÚ i certifikovanému provozovateli.
+- *Slabé místo:* dokud nebude vydán prováděcí předpis dle odst. 5, je rozsah povinnosti předat data neurčitý.
+
+#### H. Praktický závěr
+
+ČTÚ zajistí bezplatný nezávislý srovnávací nástroj (přímo nebo certifikací); nástroj musí být nezávislý, transparentní, aktuální, reprezentativní a s mechanismem nahlašování chyb; operátoři jsou povinni předávat potřebná data.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je nástroj provozně nezávislý na poskytovatelích?
+- [ ] Uvádí vlastníka, objektivní kritéria, čas aktualizace a pokrývá významnou část trhu (jinak prohlášení o neúplnosti)?
+- [ ] Má účinný mechanismus nahlašování nesprávných informací?
+- [ ] Předávají operátoři data v rozsahu prováděcího předpisu (odst. 4–5)?
+
+**Typicky rozhodné důkazy / podklady:** technický popis nástroje, doklady o nezávislosti (vlastnictví, affiliate vazby), kritéria srovnání, žádosti o data a jejich vyřízení.
+
 ---
 
 ### § 67 — Identifikace zlomyslné nebo obtěžující komunikace
@@ -515,6 +950,43 @@ Povinnost podnikatelů předávat data pro srovnávací nástroj je veřejnoprá
 **Výklad:**
 
 § 67 zakotvuje speciální mechanismus zpětné identifikace obtěžujícího volání jako výjimku ze standardní ochrany soukromí (§ 95 odst. 4 — právo odmítnout uveřejnění). Výjimka dopadá výlučně na konkrétní komunikaci označenou účastníkem (nikoli plošně) a je časově omezena na 2 měsíce od komunikace. Náklady nese žadující účastník, nikoli poskytovatel. Tento mechanismus se uplatní paralelně s obecným právem na ochranu před obtěžováním dle § 10 zákona č. 634/1992 Sb. a občanskoprávní úpravou (§ 2900 a násl. OZ). Zákon č. 127/2005 Sb. se omezuje na identifikaci čísla; další kroky (přerušení komunikace, trestní oznámení) se řídí obecnými předpisy.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastnice Ú je opakovaně obtěžována anonymními výhružnými hovory ze skrytého čísla. Požádá operátora O o zpětnou identifikaci čísel u konkrétních hovorů z posledních tří týdnů; volající přitom má u svého operátora aktivováno odmítnutí uveřejnění (§ 95 odst. 4). O odmítá s odkazem na ochranu soukromí volajícího a žádá úhradu. Důkazy: označení konkrétních obtěžujících hovorů (datum, čas), žádost Ú, provozní záznamy o spojeních.
+
+**2. Právní otázka.** Je O povinen identifikovat číslo volajícího i přes jeho odmítnutí uveřejnění, a kdo nese náklady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 67 odst. 1 (zpětná identifikace u konkrétní označené komunikace do 2 měsíců, na náklady žádajícího účastníka), odst. 2 (součinnost operátora volajícího), odst. 3 (poskytnutí údajů dle § 95 odst. 3 i přes odmítnutí dle § 95 odst. 4).
+- *Související ustanovení téhož zákona:* § 95 (ochrana osobních údajů, odmítnutí uveřejnění); § 61 odst. 4 (databáze účastníků).
+- *Související předpisy:* § 2900 a násl. OZ (prevence), § 10 z. č. 634/1992 Sb.; § 354 tr. zák. (nebezpečné pronásledování).
+- *Judikatura:* nosný závěr — zpětná identifikace obtěžující komunikace je úzkou výjimkou z ochrany soukromí; uplatní se jen na konkrétní označenou komunikaci, nikoli plošně.
+
+**4. Subsumpce.** Hovory jsou Ú konkrétně označeny a leží v dvouměsíčním okně → znaky odst. 1 jsou naplněny. Odmítnutí uveřejnění volajícím dle § 95 odst. 4 nebrání identifikaci, protože odst. 3 tuto výjimku výslovně prolamuje. Náklady nese Ú jako žádající účastnice.
+
+**5. Řešení.** O je povinen zajistit identifikaci dotčených čísel a vyžádat součinnost operátora volajícího (odst. 2). Ú uhradí náklady. Další kroky (přerušení komunikace, trestní oznámení pro § 354 tr. zák.) se řídí obecnými předpisy, nikoli § 67.
+
+**6. Varianty.** (a) Pokud by Ú žádala plošnou identifikaci všech budoucích hovorů, nárok by nevznikl — výjimka je vázána na konkrétní označenou komunikaci. (b) Po uplynutí 2 měsíců od komunikace právo na identifikaci zaniká.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Volající si nepřál uveřejnění, identifikace je nepřípustná." Neutralizace: odst. 3 výslovně prolamuje § 95 odst. 4 pro účely identifikace obtěžující komunikace.
+- *Protiargument:* „Náklady musí nést operátor." Neutralizace: odst. 1 ukládá náklady žádajícímu účastníkovi.
+- *Slabé místo:* identifikace samotná neřeší obtěžování — navazující ochrana (občanskoprávní, trestní) je mimo rozsah § 67 a vyžaduje další řízení.
+
+#### H. Praktický závěr
+
+§ 67 umožňuje zpětnou identifikaci konkrétní označené zlomyslné/obtěžující komunikace do 2 měsíců na náklady žádajícího účastníka, a to i přes odmítnutí uveřejnění volajícím; navazující ochrana se řídí obecnými předpisy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je komunikace účastníkem konkrétně označena (datum, čas)?
+- [ ] Je žádost podána do 2 měsíců od komunikace?
+- [ ] Byla vyžádána součinnost operátora volajícího (odst. 2)?
+- [ ] Nese náklady žádající účastník?
+- [ ] Zváženy navazující kroky (§ 354 tr. zák., § 2900 OZ) mimo režim § 67?
+
+**Typicky rozhodné důkazy / podklady:** přesné označení obtěžujících hovorů, žádost účastníka, provozní záznamy o spojeních, údaje dle § 95 odst. 3.
 
 ---
 
@@ -532,6 +1004,41 @@ Povinnost podnikatelů předávat data pro srovnávací nástroj je veřejnoprá
 
 § 69 zakotvuje dvě bezplatná práva koncového uživatele podmíněná technickou možností: identifikaci volajícího (caller ID) a portabilitu e-mailové pošty po ukončení smlouvy. Identifikace volajícího je technicky bezpodmínečně dostupná u většiny sítí; výjimka pro technickou nemožnost se uplatní zejména u přechozích ISDN/analogových připojení nebo specifických VoIP konfigurací. Přístup k e-mailové poště po zániku smlouvy („grace period") je odpovědí na vendor lock-in prostřednictvím vlastní e-mailové domény poskytovatele — zákon nijak nedefinuje „přiměřenou dobu", praxe se pohybuje od 30 do 90 dní. Zákonodárce záměrně ponechal flexibilitu, aby mohla být délka přizpůsobena technickým a obchodním realitám různých typů smluv.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Účastník Ú ukončil smlouvu s ISP a požádal o přesměrování či zachování přístupu k e-mailové schránce na doméně poskytovatele (jmeno@isp.cz), kterou používal 10 let. ISP schránku zrušil týž den po zániku smlouvy a odmítl i službu identifikace volajícího u VoIP s odůvodněním, že jde o placené funkce. Důkazy: smlouva a datum jejího zániku, žádost o zachování e-mailu, technické možnosti sítě.
+
+**2. Právní otázka.** Má Ú právo na bezplatnou identifikaci volajícího a na přístup k e-mailu po přiměřenou dobu po zániku smlouvy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69 ZEK — bezplatná identifikace volajícího (písm. a) a přeposílání/přístup k e-mailu po přiměřenou dobu i po zániku smlouvy (písm. b), je-li to technicky možné.
+- *Související ustanovení téhož zákona:* § 34a (změna ISP); § 63b (zánik závazku).
+- *Související předpisy:* čl. 102 a násl. EECC; § 1 a násl. OZ (poctivost).
+- *Judikatura:* nosný závěr — bezplatné doplňkové funkce slouží k omezení vendor lock-in; „přiměřenou dobu" je nutno vykládat tak, aby účastník mohl reálně migrovat komunikaci.
+
+**4. Subsumpce.** Identifikace volajícího je dle § 69 písm. a bezplatná, je-li technicky možná → účtování za ni je protiprávní. Okamžité zrušení e-mailové schránky v den zániku smlouvy odporuje písm. b, které žádá přístup „po přiměřenou dobu" i po zániku (praxe 30–90 dní); ISP měl poskytnout grace period.
+
+**5. Řešení.** ISP musí poskytovat caller ID bezplatně a zachovat přístup/přeposílání e-mailu po přiměřenou dobu. Ú se může domáhat nápravy podnětem ČTÚ. Okamžité zrušení schránky je porušením § 69 písm. b.
+
+**6. Varianty.** (a) Pokud by zachování schránky bylo technicky neproveditelné (zrušení celé domény), povinnost by se neuplatnila. (b) U starší ISDN/analogové konfigurace může být caller ID technicky nedostupný (výjimka „je-li to technicky možné").
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Caller ID a e-mail jsou nadstandardní placené služby." Neutralizace: § 69 je řadí mezi bezplatné doplňkové funkce podmíněné jen technickou možností.
+- *Protiargument:* „Po zániku smlouvy nemá Ú na nic nárok." Neutralizace: písm. b výslovně přiznává přístup k e-mailu i po zániku smlouvy po přiměřenou dobu.
+- *Slabé místo:* „přiměřená doba" není zákonem určena; ISP může nabízet kratší období a spor o přiměřenost je výkladový.
+
+#### H. Praktický závěr
+
+ISP a poskytovatel číslované interpersonální služby musí bezplatně poskytovat identifikaci volajícího a po přiměřenou dobu i po zániku smlouvy přístup/přeposílání e-mailu (je-li to technicky možné) — jako ochranu před vendor lock-in.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je identifikace volajícího poskytována bezplatně (je-li technicky možná)?
+- [ ] Je po zániku smlouvy zachován přístup/přeposílání e-mailu po přiměřenou dobu?
+- [ ] Je délka grace period reálně dostatečná pro migraci komunikace?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a datum zániku, žádost o zachování e-mailu, doklad o technické (ne)proveditelnosti, ceník účtovaných funkcí.
+
 ---
 
 ### § 69a — Doplňkové podmínky pro ISP ve všeobecném oprávnění
@@ -547,6 +1054,42 @@ Povinnost podnikatelů předávat data pro srovnávací nástroj je veřejnoprá
 **Výklad:**
 
 § 69a umožňuje ČTÚ rozšířit povinnosti ISP a poskytovatelů číslovaných interpersonálních komunikačních služeb prostřednictvím všeobecného oprávnění o doplňkové služby (§ 38 odst. 2 písm. d) — typicky speciální asistenční linky, přeposílání hovorů). Jde o mechanismus subsidiárního ukládání povinností: ČTÚ zasáhne jen tehdy, pokud trh sám doplňkové služby neposkytuje (odst. 2), a to po veřejné konzultaci (§ 130). Územní omezení (odst. 3) reflektuje skutečnost, že v některých regionech mohou být doplňkové služby zajištěny komerčně, v jiných nikoli.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** V regionu R žádný ISP nenabízí spotřebitelům doplňkovou službu přesměrování hovorů a asistenční linky vyžadované v § 38 odst. 2 písm. d). Spotřebitelská organizace upozorní ČTÚ. ČTÚ zvažuje uložení podmínky ve všeobecném oprávnění jen pro region R, ale jeden operátor namítá, že službu už komerčně poskytuje na celém území. Důkazy: analýza dostupnosti služby v regionu R, výsledky veřejné konzultace, nabídky operátorů.
+
+**2. Právní otázka.** Může ČTÚ uložit doplňkovou povinnost ISP ve všeobecném oprávnění a jen pro část území, je-li služba jinde zajištěna trhem?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69a odst. 1 (uložení podmínek ve VO po veřejné konzultaci dle § 130), odst. 2 (ČTÚ podmínky nestanoví, je-li poskytování zajištěno), odst. 3 (možnost omezení na část území).
+- *Související ustanovení téhož zákona:* § 38 odst. 2 písm. d) (doplňkové služby); § 130 (veřejná konzultace); § 9 a násl. (všeobecné oprávnění).
+- *Související předpisy:* čl. 85 a násl. EECC; § 171 SŘ (OOP — forma VO).
+- *Judikatura:* nosný závěr — subsidiární regulace nastupuje jen při selhání trhu; ČTÚ musí prokázat, že služba není zajištěna, a zásah proporcionálně omezit (i územně).
+
+**4. Subsumpce.** V regionu R služba není zajištěna → podmínka odst. 1 (selhání trhu) je naplněna. Jelikož jinde službu trh poskytuje (odst. 2), je proporcionální omezit povinnost jen na region R dle odst. 3. Předchozí veřejná konzultace dle § 130 je nezbytná.
+
+**5. Řešení.** ČTÚ po veřejné konzultaci stanoví podmínku ve všeobecném oprávnění jen pro region R; pro zbytek území ji neuloží, neboť poskytování je zajištěno. Operátor poskytující službu komerčně nemůže být plošně zatížen tam, kde to není nutné.
+
+**6. Varianty.** (a) Pokud by se v konzultaci prokázalo, že služba je zajištěna i v R, ČTÚ podmínku neuloží vůbec (odst. 2). (b) Pokud by selhání bylo celostátní, podmínka by se uložila plošně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „ČTÚ má uložit povinnost plošně všem ISP." Neutralizace: odst. 2 a 3 ukládají subsidiaritu a možnost územního omezení — plošný zásah by byl nepřiměřený.
+- *Protiargument:* „Veřejná konzultace je formalita." Neutralizace: § 130 činí konzultaci podmínkou zákonnosti VO; její absence zakládá vadu.
+- *Slabé místo:* posouzení, zda je služba „zajištěna", závisí na kvalitě analýzy trhu; nedostatečná data mohou vést k chybnému zásahu.
+
+#### H. Praktický závěr
+
+ČTÚ může ISP a poskytovatelům číslovaných služeb uložit doplňkové služby (§ 38 odst. 2 písm. d) ve všeobecném oprávnění po veřejné konzultaci, avšak jen subsidiárně (selhání trhu) a proporcionálně, včetně možnosti omezit povinnost na část území.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je prokázáno, že doplňková služba není trhem zajištěna (odst. 2)?
+- [ ] Proběhla veřejná konzultace dle § 130?
+- [ ] Je zásah proporcionální (zvážena územní limitace dle odst. 3)?
+- [ ] Má opatření formu všeobecného oprávnění (VO)?
+
+**Typicky rozhodné důkazy / podklady:** analýza dostupnosti služby na trhu, výsledky veřejné konzultace, nabídky operátorů, text všeobecného oprávnění.
 
 ---
 
@@ -584,6 +1127,43 @@ Odst. 2 zakotvuje možnost regulace cen pro spotřebitele se zvláštními soci�
 
 Dohledová pravomoc ČTÚ nad nabídkami zvláštních sazeb (odst. 7–8) zajišťuje transparentnost a nediskriminaci i při samoregulaci trhu — ČTÚ může nesprávné nabídky nařizovacím rozhodnutím změnit nebo zrušit.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ chce zajistit, aby sluchově postižení měli rovnocenný přístup ke komunikačním službám (reléové tlumočnické služby, kompatibilita se sluchadly), a aby sociálně slabí senioři měli zvláštní sociální tarif. Operátor O namítá, že povinnost poskytovat sociální tarif všem operátorům je nadměrně zatěžující a že ztrátu by měl nést sám. Důkazy: analýza potřeb osob se zdravotním postižením, kalkulace ztráty ze sociálního tarifu, výsledky veřejné konzultace.
+
+**2. Právní otázka.** Může ČTÚ uložit povinnost rovnocenného přístupu a sociálních sazeb jen některým operátorům a kdo hradí ztrátu poskytovatele?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 69b odst. 1 (rovnocenný přístup pro zdravotně postižené ve VO po konzultaci), odst. 2 (zvláštní sociální ceny + úhrada ztráty státem prostřednictvím ČTÚ, § 48 a 49 obdobně), odst. 4 (designace jen některých poskytovatelů kvůli zátěži), odst. 6 (dostatečná dostupnost čísla, zákaz neodůvodněného odpojení), odst. 7–8 (dohled nad nabídkami).
+- *Související ustanovení téhož zákona:* §§ 48–49 (úhrada čistých nákladů univerzální služby); § 38, 43 (univerzální služba, cenová regulace); § 130 (konzultace).
+- *Související předpisy:* čl. 85, 111 EECC; směrnice 2019/882/EU.
+- *Judikatura:* nosný závěr — sociální tarify nesmí být nepřiměřeně přenášeny na ostatní zákazníky; mechanismus státní kompenzace ztráty je analogický úhradě nákladů univerzální služby.
+
+**4. Subsumpce.** Rovnocenný přístup lze uložit ve VO po konzultaci (odst. 1). Sociální sazby lze uložit s tím, že ztrátu hradí stát prostřednictvím ČTÚ dle § 48–49 obdobně (odst. 2) — O ji tedy nenese sám. Hrozí-li nadměrná zátěž, ČTÚ může designovat jen některé poskytovatele (odst. 4), zohlední však schopnost pokrýt všechny spotřebitele se zvláštními potřebami (odst. 5).
+
+**5. Řešení.** ČTÚ po konzultaci uloží rovnocenný přístup; sociální tarif uloží s kompenzací ztráty z veřejných prostředků a může jej omezit na vybrané operátory. Námitka O o nesení ztráty neobstojí — kompenzaci zajišťuje stát.
+
+**6. Varianty.** (a) Pokud by plošné uložení nezatěžovalo trh nadměrně, ČTÚ může povinnost uložit všem (odst. 4 se neuplatní). (b) Nabídka sociálního tarifu netransparentní či diskriminační může být ČTÚ změněna/zrušena (odst. 8).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Ztrátu ze sociálního tarifu nese operátor." Neutralizace: odst. 2 zakládá úhradu ztráty státem prostřednictvím ČTÚ (§ 48–49 obdobně).
+- *Protiargument:* „Povinnost musí platit pro všechny operátory stejně." Neutralizace: odst. 4 umožňuje designaci jen některých poskytovatelů ke snížení administrativní/finanční zátěže.
+- *Slabé místo:* výpočet a úhrada ztráty dle § 48–49 jsou administrativně náročné a sporné; spory o výši kompenzace jsou pravděpodobné.
+
+#### H. Praktický závěr
+
+§ 69b umožňuje ČTÚ uložit rovnocenný přístup pro osoby se zdravotním postižením a zvláštní sociální sazby; ztrátu z těchto sazeb hradí stát (§ 48–49 obdobně), povinnost lze designovat jen některým operátorům a ČTÚ dohlíží na transparentnost a nediskriminaci nabídek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Proběhla veřejná konzultace dle § 130 před uložením povinnosti?
+- [ ] Je zajištěn rovnocenný přístup pro osoby se zdravotním postižením (odst. 1)?
+- [ ] Je ztráta ze sociálního tarifu hrazena státem dle § 48–49 obdobně (odst. 2)?
+- [ ] Byla zvážena designace jen některých poskytovatelů (odst. 4–5)?
+- [ ] Jsou nabídky zvláštních sazeb transparentní a nediskriminační (odst. 7–8)?
+
+**Typicky rozhodné důkazy / podklady:** analýza potřeb osob se zdravotním postižením a sociálně slabých, kalkulace ztráty, výsledky konzultace, rozhodnutí/VO ČTÚ.
+
 ---
 
 ### § 71 — Kvalita služby
@@ -618,6 +1198,43 @@ Odst. 3 explicitně propojuje opatření ke kvalitě s nařízením (EU) 2015/21
 
 ČTÚ přijímá data průběžně (odst. 4) a využívá je pro srovnávací nástroj (§ 66a). Při neplnění povinností může ČTÚ intervenovat dvojím způsobem: opatřením obecné povahy (pro celý trh nebo typ služby) nebo individuálním rozhodnutím (vůči konkrétnímu poskytovateli). Odst. 6 zakládá pravomoc ČTÚ stanovit minimální garantované parametry kvality — de facto SLA uložené regulátorem. Tato pravomoc je klíčová pro prosazení net neutrality a ochranu spotřebitelů před degradací internetového připojení.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ISP nabízí „internet 100 Mbit/s" jako garantovanou rychlost, ale fakticky soustavně poskytuje 30 Mbit/s a navíc zpomaluje provoz konkrétní videoplatformy ve prospěch vlastní IPTV. Nezveřejňuje žádné srovnatelné parametry kvality. ČTÚ zahájí dozor. Důkazy: měření skutečné rychlosti, smlouva a inzerovaná rychlost, doklady o zpomalování konkrétní aplikace, zveřejněné (či chybějící) parametry kvality.
+
+**2. Právní otázka.** Porušil ISP povinnost zveřejňovat kvalitativní informace a zásadu síťové neutrality a jaké nástroje má ČTÚ?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 71 odst. 1 (zveřejnění úplných, srovnatelných, spolehlivých a aktuálních informací o kvalitě), odst. 3 (soulad s nařízením o otevřeném internetu), odst. 4 (předávání dat pro § 66a), odst. 5–6 (OOP/rozhodnutí, minimální kvalita).
+- *Související ustanovení téhož zákona:* § 66a (srovnávací nástroj); § 63a (transparentnost); § 63 odst. 7 (závaznost inzerovaných parametrů).
+- *Související předpisy:* nařízení (EU) 2015/2120 (otevřený internet / net neutralita); čl. 104 EECC.
+- *Judikatura:* nosný závěr — zákaz blokování a zpomalování provozu je jádrem síťové neutrality; preferování vlastního obsahu na úkor konkurence je porušením nařízení 2015/2120.
+
+**4. Subsumpce.** ISP nezveřejnil srovnatelné parametry kvality → porušení odst. 1. Soustavné poskytování 30 místo inzerovaných 100 Mbit/s je odchylkou od smlouvy (srov. § 63 odst. 7) a zpomalování konkrétní aplikace ve prospěch vlastní IPTV porušuje nařízení 2015/2120, na něž odkazuje odst. 3.
+
+**5. Řešení.** ČTÚ může uložit zveřejnění parametrů kvality a stanovit minimální kvalitu (odst. 5–6) opatřením obecné povahy nebo rozhodnutím; zpomalování aplikace je porušením net neutrality. Účastník se může domáhat slevy/odstoupení dle § 63b odst. 6–7 a podat podnět ČTÚ.
+
+**6. Varianty.** (a) Pokud by kolísání rychlosti bylo v mezích zveřejněných parametrů a SLA, o porušení by nešlo. (b) Zpomalení z důvodu řízení provozu povolené nařízením 2015/2120 (např. bezpečnostní opatření) by bylo přípustné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Rychlost 100 Mbit/s je jen maximální, ne garantovaná." Neutralizace: informace musí být srovnatelné a spolehlivé (odst. 1) a inzerované parametry zavazují dle § 63 odst. 7; soustavná odchylka je vadným plněním.
+- *Protiargument:* „Řízení provozu je v naší kompetenci." Neutralizace: nařízení 2015/2120 zakazuje preferování vlastního obsahu mimo úzké výjimky řízení provozu.
+- *Slabé místo:* prokázání skutečné rychlosti vyžaduje certifikované měření; jednorázová měření mohou být zpochybněna.
+
+#### H. Praktický závěr
+
+§ 71 ukládá ISP a poskytovatelům číslovaných služeb zveřejňovat úplné, srovnatelné a aktuální parametry kvality v souladu s nařízením o otevřeném internetu; ČTÚ může stanovit minimální kvalitu a sankcionovat blokování či zpomalování provozu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zveřejňuje poskytovatel úplné, srovnatelné, spolehlivé a aktuální parametry kvality?
+- [ ] Informuje o závislosti kvality na vnějších faktorech (odst. 2)?
+- [ ] Dodržuje nařízení (EU) 2015/2120 (zákaz blokování/zpomalování)?
+- [ ] Předává data pro srovnávací nástroj dle § 66a (odst. 4)?
+- [ ] Splňuje případné minimální parametry kvality stanovené ČTÚ (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** certifikovaná měření rychlosti, smlouva a inzerované parametry, doklady o řízení/zpomalování provozu, zveřejněné parametry kvality.
+
 ---
 
 ### § 72 — Povinnost šíření rozhlasového a televizního programu (must-carry)
@@ -631,6 +1248,42 @@ Odst. 3 explicitně propojuje opatření ke kvalitě s nařízením (EU) 2015/21
 **Výklad:**
 
 § 72 implementuje must-carry povinnost dle čl. 114 EECC. Must-carry (povinné šíření) zasahuje do smluvní a provozní svobody operátorů kabelových, satelitních a IPTV sítí tím, že jim nařizuje kapacitu věnovat určenému obsahu (veřejnoprávní vysílání, regionální stanice). ČTÚ může tuto povinnost uložit rozhodnutím, ale výlučně na základě zákona o provozování rozhlasového a televizního vysílání — zákon č. 231/2001 Sb. v aktuálním znění je tedy hmotněprávním základem pro konkrétní obsah must-carry povinnosti. Speciální zmínka o přístupnosti pro zdravotně postižené (teletext, audiodeskripce, skryté titulky) propojuje must-carry s obecnými přístupnostními požadavky.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel kabelové sítě K odmítá do své nabídky zařadit program veřejnoprávní televize a regionální stanice s tím, že jde o zásah do jeho podnikatelské svobody. ČTÚ zvažuje uložení must-carry povinnosti. K namítá, že chybí konkrétní zákonný podklad a že program nemá být přístupný pro sluchově postižené (skryté titulky). Důkazy: počet koncových uživatelů využívajících síť K jako hlavní prostředek příjmu, podklad v zákoně o vysílání, technické možnosti přenosu doplňkových služeb.
+
+**2. Právní otázka.** Může ČTÚ uložit must-carry povinnost a za jakých podmínek, včetně přístupnostních doplňkových služeb?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72 odst. 1 (uložení povinnosti šířit určený program z důvodu veřejného zájmu sítím využívaným významným počtem uživatelů jako hlavní prostředek příjmu, včetně přístupnosti pro zdravotně postižené), odst. 2 (povinnost uloží jen na základě zákona o vysílání).
+- *Související ustanovení téhož zákona:* § 72a–72c (smlouva o šíření, kapacita multiplexu); § 71 (kvalita).
+- *Související předpisy:* zákon č. 231/2001 Sb. o provozování rozhlasového a televizního vysílání (hmotněprávní základ); čl. 114 EECC.
+- *Judikatura:* nosný závěr — must-carry je přípustným zásahem do svobody podnikání ve veřejném zájmu (pluralita a dostupnost vysílání), podmíněným zákonným podkladem a proporcionalitou.
+
+**4. Subsumpce.** Síť K je významným počtem uživatelů využívána jako hlavní prostředek příjmu → spadá do dosahu odst. 1. Povinnost lze uložit jen na základě zákona č. 231/2001 Sb. (odst. 2). Doplňkové přístupnostní služby (skryté titulky, audiodeskripce) jsou součástí must-carry dle odst. 1.
+
+**5. Řešení.** ČTÚ může rozhodnutím uložit K šíření určeného programu a souvisejících přístupnostních služeb, opírá-li se o zákon o vysílání. Námitka K o absenci podkladu neobstojí, je-li určení programu zakotveno v zákoně č. 231/2001 Sb.
+
+**6. Varianty.** (a) Pokud by síť K nevyužíval významný počet uživatelů jako hlavní prostředek příjmu, povinnost uložit nelze. (b) Bez podkladu v zákoně o vysílání by uložení bylo nezákonné (odst. 2).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Must-carry neúměrně zasahuje do svobody podnikání." Neutralizace: jde o zásah ve veřejném zájmu (pluralita), proporcionálně omezený a vázaný na zákonný podklad.
+- *Protiargument:* „Přístupnostní služby nejsou součástí povinnosti." Neutralizace: odst. 1 výslovně zahrnuje vhodný přístup pro zdravotně postižené.
+- *Slabé místo:* posouzení „významného počtu uživatelů využívajících síť jako hlavní prostředek příjmu" je skutkově náročné a může být sporné.
+
+#### H. Praktický závěr
+
+Must-carry povinnost lze uložit rozhodnutím ČTÚ sítím využívaným významným počtem uživatelů jako hlavní prostředek příjmu, vždy jen na základě zákona o vysílání (z. č. 231/2001 Sb.) a včetně přístupnostních doplňkových služeb.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je síť/služba využívána významným počtem uživatelů jako hlavní prostředek příjmu vysílání?
+- [ ] Je dán podklad v zákoně č. 231/2001 Sb. (odst. 2)?
+- [ ] Zahrnuje povinnost přístupnostní doplňkové služby pro zdravotně postižené?
+- [ ] Je zásah proporcionální veřejnému zájmu?
+
+**Typicky rozhodné důkazy / podklady:** data o využití sítě jako hlavního prostředku příjmu, určení programu dle zákona o vysílání, technické možnosti přenosu doplňkových služeb.
 
 ---
 
@@ -657,6 +1310,42 @@ Odst. 3 explicitně propojuje opatření ke kvalitě s nařízením (EU) 2015/21
 #### Rozhodování sporů ČTÚ (odst. 4–5)
 
 Při neuzavření smlouvy rozhoduje ČTÚ spor postupem dle § 127 (rozhodování přístupových sporů). Výlučná příslušnost ČTÚ (nikoli soudu) ke sporu o uzavření smlouvy je typická pro regulovaná odvětví se specifickými technickými parametry. Zákaz odkladného účinku opravného prostředku (odst. 5) zajišťuje kontinuitu vysílání.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel televizního vysílání V požádá operátora multiplexu M o uzavření smlouvy o šíření svého programu v síti DVB-T2. M odmítá jednat a po výzvě smlouvu neuzavře s tvrzením, že nemá kapacitu. V tvrdí, že požadavky odpovídají technickým parametrům sítě a nabízí nákladovou cenu. Důkazy: žádost V, návrh smlouvy dle § 72b se specifikací sporných částí, technické parametry multiplexu, kalkulace nabízené ceny.
+
+**2. Právní otázka.** Je M povinen smlouvu uzavřít a kdo rozhoduje spor, nedojde-li k dohodě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72a odst. 2 (povinnost jednat na žádost provozovatele), odst. 3 (povinnost uzavřít smlouvu při splnění 4 kumulativních podmínek), odst. 4 (spor rozhoduje ČTÚ dle § 127 obdobně), odst. 5 (opravný prostředek bez odkladného účinku).
+- *Související ustanovení téhož zákona:* § 72b (povinný návrh smlouvy o DVB); § 72 (must-carry); § 127 (rozhodování sporů).
+- *Související předpisy:* zákon č. 231/2001 Sb.; § 1746 OZ (kontraktační povinnost ze zákona).
+- *Judikatura:* nosný závěr — kontraktační povinnost v regulovaném odvětví je vymahatelná před regulátorem; odmítnutí jednat při splnění zákonných podmínek je porušením povinnosti.
+
+**4. Subsumpce.** V požádal → M má povinnost jednat (odst. 2). Jsou-li splněny 4 podmínky (soulad s návrhem dle § 72b, technická slučitelnost, zachování integrity sítě, cena ne pod nákladovou úrovní), M je povinen smlouvu uzavřít (odst. 3). Nedojde-li k dohodě, spor rozhodne ČTÚ na návrh kterékoli strany dle § 127 (odst. 4).
+
+**5. Řešení.** V podá ČTÚ návrh na rozhodnutí sporu s návrhem smlouvy a specifikací sporných částí. ČTÚ posoudí splnění podmínek a může nahradit projev vůle M. Opravný prostředek proti rozhodnutí nemá odkladný účinek (odst. 5) — vysílání pokračuje.
+
+**6. Varianty.** (a) Pokud M prokáže reálný nedostatek kapacity (technická neslučitelnost), povinnost uzavřít smlouvu nevznikne. (b) Je-li nabízená cena pod nákladovou úrovní, M smlouvu uzavřít nemusí (odst. 3 podmínka iv).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Smluvní svoboda — M nemusí kontrahovat." Neutralizace: § 72a odst. 3 zakládá kontraktační povinnost při splnění zákonných podmínek; spor řeší ČTÚ.
+- *Protiargument:* „Spor patří k soudu." Neutralizace: odst. 4 zakládá výlučnou příslušnost ČTÚ dle § 127 pro regulovaná odvětví.
+- *Slabé místo:* posouzení „technické slučitelnosti" a „nákladové ceny" je expertně náročné; M může účelově tvrdit nedostatek kapacity.
+
+#### H. Praktický závěr
+
+Operátor šiřitelské infrastruktury je povinen jednat a při splnění 4 kumulativních podmínek (soulad s § 72b, technická slučitelnost, integrita sítě, cena ≥ nákladová) uzavřít smlouvu s provozovatelem vysílání; spor rozhoduje ČTÚ dle § 127, opravný prostředek bez odkladného účinku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Požádal provozovatel vysílání o uzavření smlouvy (spouštěč povinnosti jednat)?
+- [ ] Jsou splněny všechny 4 podmínky dle § 72a odst. 3?
+- [ ] Obsahuje návrh na rozhodnutí sporu návrh smlouvy a specifikaci sporných částí (odst. 4)?
+- [ ] Je zohledněno, že opravný prostředek nemá odkladný účinek (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** žádost a návrh smlouvy, technické parametry multiplexu, kalkulace nákladové ceny, doklady o (ne)dostupné kapacitě.
 
 ---
 
@@ -702,6 +1391,42 @@ Při neuzavření smlouvy rozhoduje ČTÚ spor postupem dle § 127 (rozhodován�
 
 § 72b zavádí pro zemské digitální televizní vysílání (DVB-T/T2) povinný referenční návrh smlouvy (standardní nabídka), který musí být zveřejněn nejméně 1 měsíc před uzavřením smlouvy — analogický princip nabídky referenčního přístupu (RAO) v oblasti propojení sítí — srov. [05-hlava3-dil6-8-ceny-propojeni-pristup.md](05-hlava3-dil6-8-ceny-propojeni-pristup.md). Standardní podmínky zahrnují kompletní technické specifikace multiplexu (DVB-T2 parametry: datový tok, ochranný interval, pokrytí, EPG) a cenovou strukturu. Oddělení celkové ceny a ceny za datový tok umožňuje srovnání nabídek různých operátorů multiplexu. Povinný odkaz na § 63 odst. 3 (v době přijetí novely odkazoval na náležitosti smluv) zajišťuje propojení s obecným smluvním režimem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel zemského digitálního vysílání M uveřejnil návrh smlouvy o šíření DVB-T2 jen ve své prodejně, nikoli dálkovým přístupem, a smlouvu s provozovatelem vysílání uzavřel již po 10 dnech od zveřejnění. Návrh navíc neobsahoval údaje o disponibilním datovém toku a možnosti statistického multiplexování. Důkazy: text a způsob zveřejnění návrhu, datum zveřejnění a datum uzavření smlouvy, obsah technické specifikace.
+
+**2. Právní otázka.** Splnil M povinnost zveřejnit referenční návrh smlouvy a dodržet minimální lhůtu, a postačuje neúplná technická specifikace?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72b odst. 1 (povinnost vypracovat a zveřejnit návrh smlouvy v provozovně i dálkovým přístupem; uzavření nejdříve měsíc po zveřejnění), odst. 2 (povinný obsah technické specifikace — datový tok, statistické multiplexování, pokrytí, EPG aj.).
+- *Související ustanovení téhož zákona:* § 72a (kontraktační povinnost); § 63 odst. 3 (náležitosti smlouvy); § 72c (kapacita multiplexu).
+- *Související předpisy:* zákon č. 231/2001 Sb.; standardy DVB-T2 (ETSI).
+- *Judikatura:* nosný závěr — referenční nabídka (standardní podmínky) má zajistit transparentnost a srovnatelnost; neúplný nebo opožděně zveřejněný návrh maří účel ustanovení (analogie referenční nabídky přístupu/propojení).
+
+**4. Subsumpce.** Zveřejnění jen v provozovně bez dálkového přístupu porušuje odst. 1. Uzavření smlouvy po 10 dnech nedodrželo minimální lhůtu 1 měsíce od zveřejnění (odst. 1). Absence údajů o datovém toku a statistickém multiplexování porušuje povinný obsah dle odst. 2 písm. c.
+
+**5. Řešení.** M musí zveřejnit kompletní návrh i dálkovým přístupem a vyčkat 1 měsíc před uzavřením. Předčasně uzavřená smlouva trpí vadou postupu; ČTÚ může vynutit nápravu. Technická specifikace musí obsahovat všechny položky odst. 2.
+
+**6. Varianty.** (a) Pokud by předmětem nebylo zemské digitální TV vysílání, povinný referenční návrh dle § 72b by se neuplatnil (postup dle § 72a). (b) Při změně návrhu se ustanovení použije obdobně (odst. 1 věta poslední).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zveřejnění v provozovně postačuje." Neutralizace: odst. 1 vyžaduje současně i dálkový přístup.
+- *Protiargument:* „Měsíční lhůta je formalita." Neutralizace: lhůta zajišťuje transparentnost a srovnatelnost; její nedodržení je vadou postupu.
+- *Slabé místo:* spor o úplnost technické specifikace je expertní; drobné mezery nemusí vždy znamenat porušení.
+
+#### H. Praktický závěr
+
+Pro zemské digitální TV vysílání musí provozovatel vypracovat a v provozovně i dálkovým přístupem zveřejnit referenční návrh smlouvy s úplnou technickou specifikací (datový tok, statistické multiplexování, pokrytí, EPG aj.) a uzavřít smlouvu nejdříve měsíc po zveřejnění.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byl návrh smlouvy zveřejněn v provozovně i způsobem umožňujícím dálkový přístup?
+- [ ] Byla dodržena minimální lhůta 1 měsíce před uzavřením?
+- [ ] Obsahuje technická specifikace všechny položky dle odst. 2 (vč. datového toku a statistického multiplexování)?
+- [ ] Jsou součástí návrhu náležitosti dle § 63 odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** text a způsob zveřejnění návrhu, datum zveřejnění a uzavření smlouvy, úplnost technické specifikace multiplexu.
+
 ---
 
 ### § 72c — Hlášení volné kapacity digitálního multiplexu
@@ -713,6 +1438,42 @@ Při neuzavření smlouvy rozhoduje ČTÚ spor postupem dle § 127 (rozhodován�
 **Výklad:**
 
 § 72c zavádí pravidelné (roční k 31. 12.) a průběžné (do 5 dnů od změny) hlášení kapacity multiplexu. Transparentnost o volné kapacitě multiplexu je zásadní pro efektivní přidělování kapacity novým vysílatelům — bez těchto dat by ČTÚ ani nový zájemce nevěděli, zda je technicky možné přidat další program do multiplexu. Dvojí zveřejňování (podnikatel v provozovnách a online, ČTÚ online) zajišťuje dostupnost informací jak pro regulátora, tak pro trh.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Nový zájemce o vysílání Z chce vstoupit do multiplexu provozovaného M, ale neví, zda je volná kapacita. M nenahlásil ČTÚ údaje o volné kapacitě k 31. 12. ani do konce ledna a po uvolnění kapacity v březnu změnu neoznámil do 5 dnů. Údaje nezveřejnil v provozovně ani online. Důkazy: hlášení (či jeho absence) k 31. 12., datum uvolnění kapacity a oznámení změny, stav zveřejnění v provozovně a online.
+
+**2. Právní otázka.** Porušil M oznamovací a zveřejňovací povinnost ohledně volné kapacity multiplexu a v jakých lhůtách měl plnit?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 72c ZEK — sdělení ČTÚ údajů o volné kapacitě a struktuře datového toku vždy k 31. 12. do konce následujícího měsíce a při změně do 5 dnů; zveřejnění v provozovně i dálkovým přístupem; ČTÚ údaje zveřejňuje.
+- *Související ustanovení téhož zákona:* § 72a–72b (smlouva a návrh smlouvy o šíření); § 118 (správní delikty).
+- *Související předpisy:* zákon č. 231/2001 Sb.; standardy DVB-T2.
+- *Judikatura:* nosný závěr — transparentnost volné kapacity je předpokladem efektivního a nediskriminačního přidělování kapacity novým vysílatelům; neplnění hlášení maří přístup nových zájemců.
+
+**4. Subsumpce.** M nesdělil údaje k 31. 12. do konce ledna → porušení lhůty dle § 72c věty první. Neoznámení uvolnění kapacity do 5 dnů od změny porušuje druhou lhůtu. Nezveřejnění v provozovně a online porušuje zveřejňovací povinnost. Jde o porušení povinnosti sankcionovatelné dle § 118.
+
+**5. Řešení.** ČTÚ vyzve M ke splnění hlášení a zveřejnění a může zahájit řízení o správním deliktu. Z se může u ČTÚ domáhat zpřístupnění údajů o kapacitě jako podkladu pro vstup do multiplexu (návazně § 72a).
+
+**6. Varianty.** (a) Pokud by M údaje řádně nahlásil a zveřejnil, Z by mohl posoudit dostupnost kapacity a požádat o smlouvu dle § 72a. (b) Pokud ke změně kapacity nedošlo, povinnost pětidenního oznámení se neaktivuje.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Roční hlášení postačuje, průběžné je nadbytečné." Neutralizace: § 72c výslovně žádá i oznámení změny do 5 dnů.
+- *Protiargument:* „Údaje jsou obchodním tajemstvím." Neutralizace: zákon ukládá jejich zveřejnění (provozovna i online); transparentnost kapacity má přednost.
+- *Slabé místo:* přesné vymezení „struktury využívaného datového toku" může být sporné; kvalita hlášení je obtížně kontrolovatelná bez technické expertizy.
+
+#### H. Praktický závěr
+
+Provozovatel multiplexu a poskytovatel služby šíření musí ČTÚ hlásit volnou kapacitu a strukturu datového toku k 31. 12. do konce následujícího měsíce a každou změnu do 5 dnů a tyto údaje zveřejnit v provozovně i online; transparentnost umožňuje vstup nových vysílatelů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly údaje o volné kapacitě nahlášeny ČTÚ k 31. 12. do konce následujícího měsíce?
+- [ ] Byla každá změna oznámena do 5 dnů?
+- [ ] Jsou údaje zveřejněny v provozovně i způsobem umožňujícím dálkový přístup?
+- [ ] Zveřejnil ČTÚ údaje dálkovým přístupem?
+
+**Typicky rozhodné důkazy / podklady:** roční hlášení k 31. 12., doklady o změnách kapacity a jejich oznámení, stav zveřejnění v provozovně a online.
 
 ---
 
@@ -749,6 +1510,42 @@ Při neuzavření smlouvy rozhoduje ČTÚ spor postupem dle § 127 (rozhodován�
 #### Povinnost umožnit připojení kompatibilního zařízení (odst. 6–9)
 
 Odst. 6 a 7 spolu tvoří soustavu liberalizace trhu koncových zařízení: operátor musí (i) akceptovat jakékoliv technicky vyhovující zařízení a (ii) zveřejnit specifikace rozhraní tak, aby výrobci mohli zařízení navrhovat. Lhůta 1 měsíce pro počáteční zveřejnění a 3 měsíce pro změny specifikací dává výrobcům prostor pro přizpůsobení. ČTÚ vede registr rozhraní a předává jej Komisi — vytváří se tak evropský registr síťových rozhraní usnadňující vnitrostátní trh EU se zařízeními. Tato úprava brání faktické monopolizaci trhu terminálních zařízení operátory (historická zkušenost z doby před liberalizací, kdy operátoři pronajímali výlučně vlastní přístroje).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Výrobce W uvede na trh router (telekomunikační koncové zařízení) splňující technické požadavky dle RED. Operátor O odmítne připojit toto zařízení k síti a trvá na pronájmu vlastního modemu. Současně O nezveřejnil technické specifikace rozhraní, a tak výrobci nemohou navrhovat kompatibilní zařízení. Důkazy: prohlášení o shodě zařízení W (RED), žádost o připojení, zveřejněné (či chybějící) specifikace rozhraní O.
+
+**2. Právní otázka.** Je O povinen umožnit připojení technicky vyhovujícího zařízení a zveřejnit specifikace rozhraní?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 73 odst. 6 (povinnost umožnit připojení koncového zařízení splňujícího technické požadavky), odst. 7 (zveřejnění a oznámení typů rozhraní a jejich specifikací; lhůty 1 měsíc / 3 měsíce), odst. 8 (dostatečná podrobnost specifikací).
+- *Související ustanovení téhož zákona:* § 73 odst. 1–4 (definice přístroje a koncového zařízení); § 74 (vyřazení nevyhovujícího přístroje).
+- *Související předpisy:* zákon č. 22/1997 Sb. (TZ); směrnice 2014/53/EU (RED).
+- *Judikatura:* nosný závěr — operátor nesmí monopolizovat trh terminálních zařízení; povinnost akceptovat vyhovující zařízení a zveřejnit rozhraní je nástrojem liberalizace.
+
+**4. Subsumpce.** Router W splňuje technické požadavky (RED) → dle odst. 6 je O povinen umožnit jeho připojení; odmítnutí a vynucený pronájem vlastního modemu je porušením. Nezveřejnění specifikací rozhraní porušuje odst. 7–8 a brání výrobcům konstruovat kompatibilní zařízení.
+
+**5. Řešení.** O musí připojit vyhovující zařízení W a zveřejnit specifikace rozhraní v zákonných lhůtách (1 měsíc před zpřístupněním služby, změny 3 měsíce předem). W/uživatel se může domáhat nápravy podnětem ČTÚ; ČTÚ vede registr rozhraní a oznamuje jej Komisi.
+
+**6. Varianty.** (a) Pokud zařízení W nesplňuje technické požadavky, O připojení umožnit nemusí (a může nastoupit § 74). (b) Způsobuje-li zařízení poškození sítě či interferenci, postupuje se dle § 74 odst. 5–6.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Z bezpečnostních důvodů akceptujeme jen vlastní modemy." Neutralizace: odst. 6 ukládá akceptovat každé technicky vyhovující zařízení; bezpečnostní výhrady řeší až § 74 (poškození sítě/interference).
+- *Protiargument:* „Specifikace rozhraní jsou know-how." Neutralizace: odst. 7–8 ukládají jejich zveřejnění natolik podrobně, aby výrobci mohli konstruovat kompatibilní zařízení.
+- *Slabé místo:* posouzení „splnění technických požadavků" konkrétního zařízení může být sporné a vyžadovat expertizu.
+
+#### H. Praktický závěr
+
+Operátor musí umožnit připojení každého koncového zařízení splňujícího technické požadavky a zveřejnit specifikace rozhraní (1 měsíc před zpřístupněním služby, změny 3 měsíce předem); účelem je liberalizace trhu terminálních zařízení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje koncové zařízení technické požadavky (RED / z. č. 22/1997 Sb.)?
+- [ ] Umožnil operátor jeho připojení k vhodnému rozhraní (odst. 6)?
+- [ ] Zveřejnil a oznámil ČTÚ typy rozhraní a specifikace v zákonných lhůtách (odst. 7)?
+- [ ] Jsou specifikace dostatečně podrobné pro konstrukci kompatibilních zařízení (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** prohlášení o shodě zařízení (RED), žádost o připojení a její vyřízení, zveřejněné specifikace rozhraní, registr rozhraní ČTÚ.
 
 ---
 
@@ -788,6 +1585,42 @@ Odst. 6 a 7 spolu tvoří soustavu liberalizace trhu koncových zařízení: ope
 
 Odst. 5 a 6 upravují dvoustupňový postup pro ochranu sítě před škodlivým zařízením: (i) povolení ČTÚ (standardní cesta), (ii) mimořádné bezprostřední odpojení operátorem bez předchozího povolení (opatření ex post s povinností nabídnout alternativu a neprodleně informovat ČTÚ). Tím zákon reflektuje nutnost okamžité reakce v krizových situacích (útok na síť, náhlá masivní interference). Odst. 7 pak umožňuje ČTÚ znemožnit provozování přístroje i při neznámém provozovateli — extrémní opatření pro případy ilegálního rádiového provozu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Na trh se dostala série rádiových vysílačů, které způsobují škodlivou interferenci v pásmu využívaném leteckým provozem. ČTÚ zjistí, že zařízení sice prošla certifikací dle harmonizované normy, ale norma má nedostatek. Současně jedno takové zařízení akutně ruší provoz konkrétní sítě a operátor potřebuje okamžitě jednat. Důkazy: měření interference, certifikační dokumentace a aplikovaná norma, identifikace zdroje rušení.
+
+**2. Právní otázka.** Jak má ČTÚ odůvodnit vyřazení přístroje z provozu a může operátor zařízení odpojit bezprostředně?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 74 odst. 1–2 (vyřazení z provozu s odůvodněním tří typů neshody — chybná aplikace normy, nedostatek normy, nesplnění požadavků; oznámení Komisi), odst. 3–4 (podnět dozorovému orgánu, omezení z důvodu spektra/interference/zdraví), odst. 5 (povolení ČTÚ k odpojení), odst. 6 (mimořádné bezprostřední odpojení s alternativou a vyrozuměním ČTÚ), odst. 7 (znemožnění provozu při neznámém provozovateli).
+- *Související ustanovení téhož zákona:* § 73 (technické požadavky, připojení zařízení); § 114 odst. 1 (podmínky využívání spektra); § 118 (delikty).
+- *Související předpisy:* zákon č. 22/1997 Sb.; směrnice 2014/53/EU (RED); zákon č. 90/2016 Sb. (posuzování shody).
+- *Judikatura:* nosný závěr — vyřazení přístroje z provozu vyžaduje řádné odůvodnění typu neshody, neboť na něm závisí návazné kroky EU (revize normy); mimořádné odpojení je krajní opatření podmíněné nabídkou alternativy.
+
+**4. Subsumpce.** Neshoda je typu „nedostatek v harmonizované normě" (odst. 2 písm. b) → ČTÚ musí tento důvod uvést a oznámit Komisi (vede k revizi normy). Akutní rušení konkrétní sítě umožňuje mimořádné bezprostřední odpojení operátorem dle odst. 6, je-li nezbytné pro ochranu sítě, s povinností nabídnout bezplatnou alternativu a neprodleně vyrozumět ČTÚ.
+
+**5. Řešení.** ČTÚ rozhodne o vyřazení přístroje z provozu s odůvodněním dle písm. b, uveřejní rozhodnutí a oznámí Komisi; dá podnět dozorovému orgánu (odst. 3). Operátor smí v akutní situaci zařízení odpojit ihned (odst. 6) s alternativou a vyrozuměním. Při neznámém provozovateli může ČTÚ provoz znemožnit dle odst. 7.
+
+**6. Varianty.** (a) Pokud by neshoda spočívala v chybné aplikaci normy (písm. a), odůvodnění a návazné kroky by se lišily (náprava u výrobce/notifikované osoby). (b) Bez akutního ohrožení sítě by operátor musel postupovat cestou povolení ČTÚ dle odst. 5, nikoli bezprostředního odpojení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Zařízení má certifikát, nelze je vyřadit." Neutralizace: i certifikované zařízení lze vyřadit (odst. 2 písm. a, b); certifikát nevylučuje nedostatek normy ani její chybnou aplikaci.
+- *Protiargument:* „Operátor nesmí odpojit zařízení bez povolení ČTÚ." Neutralizace: odst. 6 umožňuje mimořádné bezprostřední odpojení při ohrožení sítě, s alternativou a vyrozuměním ČTÚ.
+- *Slabé místo:* odst. 6 vyžaduje nabídnout bezplatné alternativní řešení — jeho absence činí odpojení vadným; v praxi může být alternativa obtížně zajistitelná.
+
+#### H. Praktický závěr
+
+ČTÚ vyřazuje nevyhovující přístroje z provozu s odůvodněním typu neshody (a oznámením Komisi); rádiová zařízení lze omezit z důvodu spektra, interference či zdraví; operátor smí mimořádně odpojit zařízení ohrožující síť (s alternativou a vyrozuměním ČTÚ) a ČTÚ může provoz znemožnit i při neznámém provozovateli.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je v rozhodnutí o vyřazení uveden typ neshody (chybná aplikace / nedostatek normy / nesplnění požadavků)?
+- [ ] Bylo rozhodnutí oznámeno Komisi a uveřejněno dálkovým přístupem?
+- [ ] Je omezení rádiového zařízení odůvodněno spektrem, interferencí nebo zdravím (odst. 4)?
+- [ ] Při mimořádném odpojení — byla nabídnuta bezplatná alternativa a vyrozuměn ČTÚ (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** měření interference, certifikační dokumentace a aplikovaná norma, identifikace zdroje rušení, doklad o nabídnuté alternativě a vyrozumění ČTÚ.
+
 ---
 
 ### § 75 — Znemožnění provozu mobilního zařízení na žádost Policie ČR
@@ -813,6 +1646,43 @@ Odst. 5 a 6 upravují dvoustupňový postup pro ochranu sítě před škodlivým
 #### Blokace odcizeného zařízení (odst. 3–5)
 
 Odst. 3 zakotvuje odlišný účel blokace — ochrana vlastníka odcizeného telefonu. IMEI block odcizeného přístroje je podmíněn dvojím souhlasem: (i) protokol Policie o oznámení odcizení a (ii) souhlas vlastníka. Tím zákon vylučuje svévolné blokace zařízení bez vědomí vlastníka. Právo majitele SIM karty požadovat zablokování SIM (bez blokace IMEI) je zachováno jako paralelní ochranný mechanismus. Elektronická forma žádostí (odst. 5) modernizuje administrativní proces a umožňuje bezpečné elektronické podání s ověřením totožnosti odpovědné osoby.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Policie ČR vede trestní řízení, v němž podezřelý používá mobilní telefon se šifrováním komunikace na úrovni přístroje, takže nasazený odposlech je neúčinný. Soud vydal souhlas se znemožněním provozu tohoto zařízení. Současně jiný občan oznámil odcizení svého telefonu a žádá o jeho zablokování. Operátor v prvním případě bez soudního souhlasu blokovat odmítá, ve druhém žádá doložení vlastnictví. Důkazy: písemná žádost Policie s číslem jednacím soudního souhlasu, protokol o oznámení odcizení, souhlas vlastníka, IMEI zařízení.
+
+**2. Právní otázka.** Za jakých podmínek je operátor povinen znemožnit provoz mobilního zařízení (IMEI block) pro účely trestního řízení a v případě odcizení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 75 odst. 1–2 (blokace šifrujícího zařízení na žádost Policie a na její náklady, jen na dobu povoleného odposlechu, žádost s číslem jednacím soudního souhlasu), odst. 3–4 (blokace odcizeného zařízení na žádost Policie doloženou protokolem o oznámení a souhlasem vlastníka), odst. 5 (elektronická forma žádostí).
+- *Související ustanovení téhož zákona:* § 61 odst. 4 (databáze účastníků); § 97 (zákonné odposlechy).
+- *Související předpisy:* § 88 tr. ř. (odposlech a záznam telekomunikačního provozu); § 8 tr. ř. (součinnost).
+- *Judikatura:* nosný závěr — zásah do provozu zařízení pro účely trestního řízení vyžaduje soudní souhlas a je časově omezen na dobu povoleného odposlechu; blokace odcizeného zařízení chrání vlastníka a vyžaduje jeho souhlas.
+
+**4. Subsumpce.** V prvním případě je dán soudní souhlas a žádost obsahuje číslo jednací (odst. 2) → operátor je povinen, je-li to technicky proveditelné, zařízení blokovat na dobu povoleného odposlechu, na náklady Policie. Ve druhém případě je nutný protokol o oznámení odcizení a souhlas vlastníka (odst. 4) — operátor je oprávněn požadovat jejich doložení; je-li to technicky proveditelné a ekonomicky přiměřené, blokaci provede.
+
+**5. Řešení.** Operátor v prvním případě blokuje IMEI po dobu odposlechu (odst. 1). Ve druhém po doložení protokolu a souhlasu vlastníka zablokuje odcizené zařízení (odst. 3); současně zůstává zachováno právo majitele SIM žádat o její zablokování. Žádosti lze podat elektronicky (odst. 5).
+
+**6. Varianty.** (a) Bez soudního souhlasu (odst. 2) operátor blokaci pro účely trestního řízení provést nesmí. (b) Bez souhlasu vlastníka odcizeného zařízení nelze IMEI block dle odst. 3 provést — chrání to před svévolnou blokací.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Policie může blokovat i bez soudního souhlasu." Neutralizace: odst. 2 výslovně vyžaduje číslo jednací rozhodnutí soudu o souhlasu; bez něj je žádost vadná.
+- *Protiargument:* „Odcizené zařízení lze blokovat na pouhé oznámení." Neutralizace: odst. 4 vyžaduje protokol o oznámení odcizení i souhlas vlastníka.
+- *Slabé místo:* podmínka „technické proveditelnosti" (a u odcizení i „ekonomické přiměřenosti") dává operátorovi prostor namítat nesplnitelnost; rozsah je obtížně přezkoumatelný.
+
+#### H. Praktický závěr
+
+Operátor mobilní sítě je povinen na písemnou žádost Policie ČR znemožnit provoz mobilního zařízení (IMEI block) — pro účely odposlechu jen se soudním souhlasem, na náklady Policie a na dobu odposlechu, a v případě odcizení po doložení protokolu a souhlasu vlastníka; žádosti lze podat elektronicky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje žádost o blokaci pro trestní řízení číslo jednací soudního souhlasu (odst. 2)?
+- [ ] Je blokace časově omezena na dobu povoleného odposlechu a hrazena Policií (odst. 1)?
+- [ ] Je u odcizeného zařízení doložen protokol o oznámení a souhlas vlastníka (odst. 4)?
+- [ ] Je zachováno právo majitele SIM žádat o její zablokování (odst. 3)?
+- [ ] Je posouzena technická proveditelnost (a u odcizení i ekonomická přiměřenost)?
+
+**Typicky rozhodné důkazy / podklady:** písemná žádost Policie s číslem jednacím soudního souhlasu, protokol o oznámení odcizení, souhlas vlastníka, IMEI zařízení, doklad o technické proveditelnosti.
 
 ---
 

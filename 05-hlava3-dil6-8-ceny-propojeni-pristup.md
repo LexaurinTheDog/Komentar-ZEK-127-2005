@@ -58,6 +58,43 @@ Odst. 7 ukládá příjemci zvláštní ceny aktivní povinnost informovat posky
 
 Odst. 8 obsahuje výslovnou delegaci na nařízení vlády — podrobnosti o dokladech, výši cenového zvýhodnění, vedení evidence a podmínkách přístupu. Jde o rozsáhlou prováděcí normotvorbu; zákon sám výši cenového zvýhodnění nestanoví, čímž umožňuje flexibilní nastavení s ohledem na sociální politiku.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad menší obce v řídce osídlené oblasti upozorní ČTÚ, že místní obyvatelé nemají dostupný pevný přístup k internetu ani stabilní pevné telefonní připojení; komerční operátoři pokrytí odmítají jako nerentabilní. Současně se na poskytovatele obrátí pan N., příjemce dávky státní sociální pomoci se složkou na živobytí, s žádostí o zvláštní cenu, prokáže se dokladem podle nařízení vlády. Účastníci: ČTÚ (Úřad), komerční operátor potenciálně určený poskytovatelem, pan N. jako osoba se zvláštními sociálními potřebami. Důkazy: výsledky zeměpisného mapování (§ 115a), doklad o pobírání dávky, evidence poskytovatele podle odst. 5.
+
+**2. Právní otázka.** Vzniká poskytovateli, jemuž byla uložena povinnost poskytovat zvláštní ceny podle § 38 odst. 3, nárok na úhradu ztráty od státu, a za jakých podmínek je povinen zvláštní cenu panu N. přiznat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 38 — rozsah univerzální služby, katalog dílčích služeb (odst. 2), zvláštní ceny pro sociálně potřebné (odst. 3), definice osoby se zvláštními sociálními potřebami (odst. 4), centrální evidence (odst. 5), informační povinnost příjemce (odst. 7).
+- *Související ustanovení téhož zákona:* § 39 (určení poskytovatele výběrovým řízením, přiměřené použití pro zvláštní ceny), § 44 a 45 (cenová dostupnost), § 48 a § 49 (výpočet a úhrada ztráty obdobně), § 43 odst. 4 (definice zdravotního postižení).
+- *Související předpisy:* nařízení vlády podle odst. 8 (doklady, výše cenového zvýhodnění, náležitosti evidence); zákon o dávce státní sociální pomoci; směrnice 2018/1972/EU (EECC), čl. 84–88 a 109.
+- *Judikatura:* k nákladové orientaci a kompenzaci nákladů veřejné služby se vztahuje obecná doktrína SDEU ve věci Altmark Trans (C-280/00) — kompenzace nesmí přesáhnout čisté náklady; nosný závěr: kompenzace závazku veřejné služby není zakázanou veřejnou podporou jen při splnění čtyř kritérií včetně předem stanovených parametrů.
+
+**4. Subsumpce.** Pan N. je osobou s nízkými příjmy podle odst. 4 (příjemce dávky se složkou na živobytí), prokáže-li se doklady podle odst. 8 — podmínka přiznání zvláštní ceny je splněna. Poskytovatel, jemuž byla povinnost uložena (odst. 6), nese ztrátu z poskytování zvláštní ceny; odst. 3 věta předposlední zakládá nárok na její úhradu státem prostřednictvím Úřadu, přičemž pro výpočet se použijí § 48 a § 49 obdobně. Sporné může být, zda obec spadá do území, kde komerční dostupnost chybí — to závisí na výsledku zeměpisného mapování a přezkumu podle § 39 odst. 2.
+
+**5. Řešení.** Poskytovatel je povinen zvláštní cenu přiznat po předložení dokladů, vést o tom evidenci (odst. 5) a předávat údaje do centrální evidence Úřadu pro zamezení dvojího čerpání. Nárok na úhradu ztráty uplatní postupem podle § 48–49. Procesně: ověření čerpání dávky proběhne přes MPSV (odst. 5 poslední věta). Riziko: pokud pan N. nesplní informační povinnost podle odst. 7 (oznámení změn do 30 dnů), může čerpat zvýhodnění neoprávněně, což zakládá povinnost vrácení (§ 49 odst. 4 obdobně).
+
+**6. Varianty.** (a) Kdyby komerční operátor poskytoval pevný internet za srovnatelných podmínek, Úřad by povinnost vůbec neuložil (§ 39 odst. 2) a mechanismus zvláštních cen by se neaktivoval. (b) Kdyby pan N. byl pouze držitelem průkazu ZTP bez nízkých příjmů, posuzoval by se jako osoba se zdravotním postižením podle § 43, nikoli jako osoba s nízkými příjmy — režim speciálního tarifu podle § 43 odst. 2 písm. b) namísto zvláštní ceny.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel může namítat, že úhrada ztráty nepokrývá veškeré jeho náklady, neboť § 48 odečítá tržní výhody a vyhnutelné náklady. Neutralizace: zákon záměrně hradí pouze čisté náklady (Altmark, EECC čl. 90), nikoli celkové; nárok na úplnou kompenzaci neexistuje.
+- *Protiargument:* obec namítá diskriminaci, není-li v jejím území povinnost uložena. Neutralizace: rozhodující je objektivní výsledek zeměpisného mapování a test tržní dostupnosti podle § 39 odst. 2, nikoli subjektivní vnímání.
+- *Slabé místo:* výši cenového zvýhodnění zákon nestanoví a deleguje ji na nařízení vlády (odst. 8); bez aktuálního nařízení je aplikace odst. 3 fakticky neúplná. Doporučuje se ověřit platné znění prováděcího předpisu.
+
+#### H. Praktický závěr
+
+V praxi § 38 vymezuje, co musí být dostupné každému spotřebiteli (přístup k internetu a hlasové komunikaci v pevném místě) a zavádí dva paralelní sociální mechanismy: zvláštní ceny (odst. 3) a navazující evidenci (odst. 5). Poskytovatel má nárokovou úhradu ztrát z veřejných zdrojů, ale jen v rozsahu čistých nákladů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá služba do katalogu § 38 odst. 2 (internet / hlas / přístup ZP / doplňkové služby)?
+- [ ] Je žadatel osobou se zvláštními sociálními potřebami podle odst. 4 a prokázal se doklady podle odst. 8?
+- [ ] Předal poskytovatel údaje do centrální evidence Úřadu (zamezení dvojího čerpání)?
+- [ ] Splnil příjemce informační povinnost podle odst. 7 (oznámení změn do 30 dnů)?
+- [ ] Je úhrada ztráty omezena na čisté náklady podle § 48–49?
+
+**Typicky rozhodné důkazy / podklady:** výsledky zeměpisného mapování (§ 115a), doklad o pobírání dávky / průkaz ZTP, evidence příjemců podle odst. 5, vyjádření MPSV o čerpání dávky, výpočet čistých nákladů podle § 48.
+
 ---
 
 ### § 39 — Určení poskytovatele univerzální služby
@@ -118,6 +155,43 @@ Selže-li výběrové řízení (žádný přihlašovatel nebo žádný nevyhovu
 
 Odst. 15–16 řeší situaci, kdy poskytovatel hodlá převést síť potřebnou pro plnění povinnosti na jiný subjekt. Zákon zavádí notifikační povinnost vůči Úřadu, který pak posuzuje dopad a vydá rozhodnutí o zachování, změně nebo zrušení povinnosti. Chrání se tím kontinuita dostupnosti universální služby pro spotřebitele — riziko, které by mohlo nastat, kdyby nabyvatel sítě nesplňoval předpoklady pro její provozování nebo odmítl povinnosti převzít.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ konzultuje záměr uložit povinnost poskytovat přiměřený přístup k internetu v pevném místě v určitém kraji. Do výběrového řízení se přihlásí dva operátoři, operátor A a operátor B; A nabídne nižší předpokládané čisté náklady, ale Úřad zpochybní jeho technické předpoklady. Operátor B splňuje technické podmínky, ale s vyššími náklady. Úřad uloží povinnost operátorovi B. Operátor A podá rozklad a tvrdí porušení kritéria minimalizace nákladů. Účastníci: ČTÚ, operátor A (neúspěšný žadatel), operátor B (vybraný). Důkazy: přihlášky s návrhem výpočtu čistých nákladů (§ 39 odst. 5), doklady o finančních, technických a odborných předpokladech (odst. 6), zpráva o výběrovém řízení (odst. 10).
+
+**2. Právní otázka.** Je Úřad povinen vybrat žadatele s nejnižšími náklady, i když má pochybnosti o jeho technické způsobilosti, nebo může upřednostnit technickou způsobilost před kritériem nákladů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 39 — trojkroková procedura (konzultace, přezkum tržní dostupnosti, výběrové řízení), kritéria hodnocení (odst. 4: technické předpoklady i minimalizace nákladů), uložení povinnosti tomu, kdo nejlépe vyhověl kritériím (odst. 8).
+- *Související ustanovení téhož zákona:* § 6 (zásady postupu Úřadu), § 38 (rozsah povinností), § 48 (výpočet čistých nákladů), § 130 (konzultace), § 115a (zeměpisné mapování), § 53 (SMP — náhradní určení dle odst. 13).
+- *Související předpisy:* občanský zákoník — ustanovení o veřejné soutěži (odst. 11 přiměřeně); EECC čl. 86; správní řád (řízení a rozklad).
+- *Judikatura:* obecná správní doktrína k přezkumu hodnocení v soutěžních řízeních — soud přezkoumává dodržení pravidel a nepřekročení mezí správního uvážení, nikoli věcnou správnost hodnocení; nosný závěr NSS: kritéria musí být předem stanovena a aplikována nediskriminačně a transparentně.
+
+**4. Subsumpce.** Kritéria podle odst. 4 zahrnují kumulativně jak finanční/technické/odborné předpoklady (písm. a), tak požadavek nejnižších nákladů (písm. b). Žádné z kritérií není absolutně nadřazeno; Úřad musí žadatele posoudit komplexně. Splní-li operátor A pouze kritérium nákladů, ale nikoli technické předpoklady, nevyhovuje kumulativně stanoveným kritériím a nemůže být označen za toho, kdo „nejlépe vyhověl". Sporné je, zda Úřad pochybnosti o technické způsobilosti A dostatečně doložil — to nese důkazní břemeno Úřad v odůvodnění rozhodnutí.
+
+**5. Řešení.** Úřad postupuje správně, pokud transparentně odůvodní, že operátor A nesplňuje technické předpoklady podle odst. 4 písm. a), a proto navzdory nižším nákladům nevyhovuje kritériím nejlépe. Procesně: rozhodnutí musí být oznámeno všem žadatelům (odst. 8), zpráva o řízení uveřejněna (odst. 10). Riziko: nedostatečné odůvodnění technické nezpůsobilosti A by vedlo ke zrušení rozhodnutí v rozkladu nebo správním soudem. Alternativa: selže-li celé řízení (odst. 13), Úřad uloží povinnost SMP podniku.
+
+**6. Varianty.** (a) Kdyby byla služba dostupná za tržních podmínek, Úřad by povinnost vůbec neuložil (odst. 2) a výběrové řízení by nevyhlásil. (b) Kdyby vybraný operátor B následně hodlal převést přístupovou síť na třetí subjekt, aktivovala by se notifikační povinnost podle odst. 15 a Úřad by posoudil dopad na kontinuitu služby (odst. 16).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* neúspěšný žadatel namítne, že kritérium minimalizace nákladů (odst. 4 písm. b) má přednost a Úřad měl vybrat nejlevnější nabídku. Neutralizace: kritéria jsou kumulativní, nikoli hierarchická; technická způsobilost je podmínkou řádného plnění veřejné služby a její absence vylučuje výběr bez ohledu na cenu.
+- *Protiargument:* operátor namítne, že povinnost neměla být uložena, neboť trh službu zajistí sám. Neutralizace: rozhodující je výsledek konzultace a přezkumu podle odst. 2 doložený zeměpisným mapováním.
+- *Slabé místo:* přiměřené použití úpravy veřejné soutěže z OZ (odst. 11) může vyvolat výkladové spory o rozsah subsidiarity soukromoprávní úpravy ve správním řízení; doporučuje se opřít rozhodnutí primárně o speciální úpravu ZEK.
+
+#### H. Praktický závěr
+
+§ 39 buduje kvazisoutěžní model určení poskytovatele: regulace je ultima ratio (odst. 2), uložení probíhá rozhodnutím po výběrovém řízení s předem zveřejněnými kritérii. Při selhání řízení nastupuje náhradní určení SMP podniku (odst. 13). Kontinuita služby je chráněna notifikací převodu sítě (odst. 15–16).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Proběhla konzultace záměru podle odst. 1 s přihlédnutím k zeměpisnému mapování?
+- [ ] Ověřil Úřad tržní dostupnost služby (odst. 2) před vyhlášením řízení?
+- [ ] Byla kritéria hodnocení zveřejněna předem a aplikována transparentně a nediskriminačně (odst. 4, 7)?
+- [ ] Obsahuje přihláška návrh výpočtu čistých nákladů podle § 48 (odst. 5)?
+- [ ] Bylo rozhodnutí oznámeno všem žadatelům a zpráva uveřejněna (odst. 8, 10)?
+
+**Typicky rozhodné důkazy / podklady:** přihlášky a návrhy výpočtu čistých nákladů, doklady o předpokladech žadatelů, zpráva o výběrovém řízení, výsledky konzultace a zeměpisného mapování, oznámení o převodu sítě podle odst. 15.
+
 ---
 
 ### § 40 — Přístup k internetu a přístup k hlasové komunikační službě
@@ -152,6 +226,42 @@ Odst. 1 a 3 formulují povinnost vyhovět **přiměřeným požadavkům** spotř
 
 Odst. 6 zavádí specifickou notifikační povinnost poskytovatele při nemožnosti splnit požadavek ve stanovené lhůtě: sdělení spotřebiteli do 1 měsíce od obdržení požadavku a současné informování Úřadu. Informování Úřadu slouží dohledovým účelům — Úřad může systémově sledovat, zda konkrétní poskytovatel opakovaně nesplňuje lhůty, a vyvodit regulatorní důsledky.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitelka paní K., bydlící v rodinném domě na okraji obce, požádá poskytovatele univerzální služby (jemuž byla uložena povinnost podle § 38 odst. 2 písm. a) o zřízení pevného přístupu k internetu. Poskytovatel odmítne s tím, že vzdálenost k nejbližšímu uzlu sítě činí požadavek nepřiměřeným. Paní K. namítá, že soused o 200 metrů blíže připojení má. Účastníci: paní K. (spotřebitelka), poskytovatel univerzální služby, ČTÚ (dohled). Důkazy: technická dokumentace sítě, doklad o vzdálenosti koncového bodu, korespondence o odmítnutí, parametry kvality podle prováděcího předpisu (§ 47).
+
+**2. Právní otázka.** Šlo o „přiměřený požadavek" ve smyslu § 40 odst. 1, který je poskytovatel povinen splnit, nebo bylo odmítnutí pro technickou neproveditelnost či nepřiměřenou vzdálenost oprávněné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 40 — povinnost vyhovět přiměřeným požadavkům (odst. 1, 3), katalog 11 funkčních standardů přiměřeného přístupu k internetu (odst. 2), notifikační povinnost při prodlení (odst. 6), delegace na prováděcí předpis (odst. 7).
+- *Související ustanovení téhož zákona:* § 38 odst. 2 písm. a) a b) (uložení povinnosti), § 47 (parametry kvality a lhůty), § 39 (určení poskytovatele), § 43 (zvláštní opatření pro ZP).
+- *Související předpisy:* prováděcí právní předpis podle odst. 7 (charakteristiky přiměřených požadavků) a § 47 odst. 3 (parametry kvality); EECC čl. 84 odst. 3 (minimální funkční standard).
+- *Judikatura:* obecná správní doktrína k neurčitým právním pojmům — výklad „přiměřeného požadavku" je věcí správního uvážení Úřadu, přezkoumatelného soudem v mezích zákazu libovůle; nosný závěr: důkazní břemeno o nepřiměřenosti nese ten, kdo se jí dovolává.
+
+**4. Subsumpce.** Povinnost vyhovět se vztahuje na „přiměřené" požadavky; přiměřenost je neurčitý právní pojem konkretizovaný prováděcím předpisem (odst. 7). Existence připojení u bližšího souseda je indicií technické proveditelnosti, ale není sama o sobě rozhodující — záleží na konkrétních parametrech (kapacita uzlu, trasování). Důkazní břemeno o nepřiměřenosti (technická neproveditelnost, nepřiměřená vzdálenost) nese poskytovatel. Nesplní-li je, jde o neoprávněné odmítnutí.
+
+**5. Řešení.** Pokud poskytovatel neprokáže technickou neproveditelnost ani nepřiměřenost vzdálenosti dle prováděcího předpisu, jde o porušení povinnosti podle odst. 1 a paní K. má nárok na zřízení připojení. Nemůže-li poskytovatel vyhovět ve stanovené lhůtě z důvodů na své straně, je povinen do 1 měsíce písemně sdělit paní K. tuto skutečnost a náhradní lhůtu a informovat Úřad (odst. 6). Procesně: paní K. může podat podnět Úřadu k výkonu dohledu. Riziko: odmítnutí bez notifikace podle odst. 6 zakládá samostatné porušení.
+
+**6. Varianty.** (a) Kdyby paní K. požadovala přístup mimo pevné místo (mobilní), nešlo by o povinnost podle odst. 1, jež se týká pevného místa. (b) Kdyby šlo o osobu se zdravotním postižením žádající rovnocenný přístup, aplikoval by se § 43, nikoli § 40, a poskytovatel by byl povinen poskytnout i speciálně vybavené zařízení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel tvrdí, že každý jednotlivý požadavek v odlehlé lokalitě je nepřiměřený. Neutralizace: nepřiměřenost se posuzuje individuálně podle prováděcího předpisu, nikoli paušálně; existence pokrytí v okolí oslabuje obranu.
+- *Protiargument:* katalog 11 služeb (odst. 2) je pouze ilustrativní. Neutralizace: jde o minimální funkční standard transponující EECC čl. 84 odst. 3 — přístup musí umožňovat všech 11 kategorií, jinak není „přiměřený".
+- *Slabé místo:* obsah pojmu „přiměřený požadavek" závisí na aktuálním prováděcím předpisu; bez jeho ověření je posouzení neúplné.
+
+#### H. Praktický závěr
+
+§ 40 stanoví minimální funkční standard pevného přístupu k internetu (11 kategorií služeb) a povinnost vyhovět přiměřeným požadavkům. Klíčové je rozložení důkazního břemene: nepřiměřenost prokazuje poskytovatel. Při prodlení platí notifikační povinnost do 1 měsíce vůči spotřebiteli i Úřadu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Umožňuje nabízený přístup všech 11 funkčních kategorií podle odst. 2?
+- [ ] Jde o pevné místo (odst. 1, 3) a o „přiměřený požadavek" podle prováděcího předpisu (odst. 7)?
+- [ ] Prokázal poskytovatel technickou neproveditelnost / nepřiměřenost při odmítnutí?
+- [ ] Byla splněna notifikační povinnost podle odst. 6 (do 1 měsíce spotřebiteli i Úřadu)?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace sítě a koncového bodu, doklad o vzdálenosti, korespondence o požadavku a odmítnutí, parametry kvality a lhůty podle prováděcího předpisu, podnět/spis dohledu ČTÚ.
+
 ---
 
 ### § 43 — Zvláštní opatření pro osoby se zdravotním postižením
@@ -179,6 +289,42 @@ Povinnost poskytnout speciálně vybavené koncové zařízení za cenu standard
 #### Tísňové komunikace a konverzní služby
 
 Odst. 1 výslovně zahrnuje přístup k tísňovým službám prostřednictvím tísňové komunikace. V případě nutnosti musí být k dispozici i **služby úplné konverzace** (total conversation — simultánní přenos hlasu, textu a videa) a **konverzní služby** (relay services) umožňující komunikaci mezi osobami neslyšícími a slyšícími. Jde o transpozici čl. 109 EECC.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan H., zcela neslyšící držitel průkazu ZTP z důvodu hluchoty, požádá poskytovatele univerzální služby (s povinností podle § 38 odst. 2 písm. c) o pronájem speciálně vybaveného koncového zařízení s textovým a videopřenosem a o speciální tarif. Poskytovatel nabídne zařízení, ale za jeho plnou tržní cenu, a speciální tarif odmítne s tím, že pan H. již čerpá zvláštní cenu podle § 38 odst. 3. Účastníci: pan H. (osoba se zdravotním postižením podle odst. 4), poskytovatel univerzální služby, ČTÚ. Důkazy: průkaz ZTP (hluchota), žádost o zařízení a tarif, ceník standardního zařízení, doklad o přiznané zvláštní ceně.
+
+**2. Právní otázka.** Je poskytovatel povinen poskytnout speciálně vybavené zařízení za cenu standardního zařízení, a vylučuje čerpání zvláštní ceny podle § 38 odst. 3 nárok na speciální tarif podle § 43 odst. 2 písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 43 — povinnost rovnocenného a cenově dostupného přístupu (odst. 1), právo na speciální zařízení za cenu standardního (odst. 2 písm. a), speciální tarif (odst. 2 písm. b), autonomní definice osoby se zdravotním postižením (odst. 4).
+- *Související ustanovení téhož zákona:* § 38 odst. 2 písm. c) a odst. 3 (zvláštní ceny), § 44 (doplňkové služby), § 56 odst. 4 (výjimka z nákladovosti pro služby podle § 43), § 48 (čisté náklady).
+- *Související předpisy:* prováděcí předpis podle odst. 3 (charakteristiky speciálních zařízení); zákon č. 329/2011 Sb. (průkaz osoby se zdravotním postižením); zákon č. 108/2006 Sb. (stupně závislosti); EECC čl. 109 (total conversation a relay services).
+- *Judikatura:* k autonomním legislativním definicím — pojmy definované „pro účely tohoto zákona" se nevykládají podle jiných předpisů; nosný závěr ustálené judikatury NSS: legální definice má přednost před obecným jazykovým významem.
+
+**4. Subsumpce.** Pan H. je držitelem průkazu ZTP z důvodu hluchoty, tedy osobou se zdravotním postižením podle odst. 4 písm. a) — podmínka osobní působnosti je splněna. Podle odst. 2 písm. a) má nárok na pronájem/prodej speciálního zařízení za cenu standardního zařízení; účtování plné tržní ceny je porušením. K tarifu: odst. 2 písm. b) věta za středníkem výslovně stanoví, že poskytnutí zvláštní ceny podle § 38 odst. 3 se považuje za splnění cenového zvýhodnění v rámci speciálního tarifu — čerpání zvláštní ceny tedy konzumuje povinnost cenového zvýhodnění tarifu.
+
+**5. Řešení.** Poskytovatel je povinen poskytnout zařízení za cenu standardního zařízení (cenový rozdíl nese poskytovatel). Pokud pan H. již čerpá zvláštní cenu podle § 38 odst. 3, je tím povinnost cenového zvýhodnění speciálního tarifu naplněna — odmítnutí dalšího kumulativního zvýhodnění je v souladu s odst. 2 písm. b). Procesně: spor o cenu zařízení může pan H. uplatnit podnětem k ČTÚ. Riziko/sporná otázka: zda poskytovateli vzniká za cenový rozdíl nárok na kompenzaci z čistých nákladů (§ 48) — zákon to výslovně neřeší.
+
+**6. Varianty.** (a) Kdyby pan H. zvláštní cenu nečerpal, měl by samostatný nárok na speciální tarif podle odst. 2 písm. b). (b) Kdyby šlo o osobu pouze s nízkými příjmy bez zdravotního postižení, § 43 by se neaplikoval — uplatnil by se režim zvláštních cen podle § 38 odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel namítne, že poskytnutí zařízení pod tržní cenou je nepřípustnou ztrátou bez nároku na kompenzaci. Neutralizace: cenová dotace je záměrnou součástí povinnosti (odst. 2 písm. a) a § 56 odst. 4 ji výslovně vyjímá z požadavku nákladovosti; otázku kompenzace lze řešit cestou čistých nákladů, byť ji zákon výslovně neupravuje.
+- *Protiargument:* pan H. žádá kumulaci zvláštní ceny i tarifního zvýhodnění. Neutralizace: odst. 2 písm. b) výslovně považuje zvláštní cenu za splnění tarifního zvýhodnění — dvojí čerpání je vyloučeno.
+- *Slabé místo:* mlčení zákona ke kompenzaci nákladů podle § 43 odst. 2 písm. a) je interpretační mezerou; doporučuje se opřít argumentaci o systematiku § 48 a sociální účel úpravy.
+
+#### H. Praktický závěr
+
+§ 43 zajišťuje osobám se zdravotním postižením (autonomně definovaným v odst. 4) rovnocenný a cenově dostupný přístup, právo na speciální zařízení za standardní cenu a speciální tarif, včetně přístupu k tísňové a konverzní komunikaci. Zvláštní cena podle § 38 odst. 3 konzumuje cenové zvýhodnění tarifu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Patří osoba do některé ze čtyř skupin podle odst. 4 (ZTP-hluchota / ZTP/P / závislost II–IV / pečující)?
+- [ ] Bylo speciální zařízení nabídnuto za cenu standardního zařízení (odst. 2 písm. a)?
+- [ ] Čerpá osoba již zvláštní cenu podle § 38 odst. 3 (konzumuje zvýhodnění tarifu dle odst. 2 písm. b)?
+- [ ] Je zajištěn přístup k tísňové komunikaci, popř. službám úplné konverzace a konverzním službám (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** průkaz ZTP / ZTP/P, doklad o stupni závislosti, žádost o zařízení a tarif, ceník standardního zařízení, doklad o přiznané zvláštní ceně, prováděcí předpis k charakteristikám zařízení.
 
 ---
 
@@ -222,6 +368,42 @@ Odst. 7 zakotvuje povinnost spotřebiteli umožnit **dálkový monitoring nákla
 
 Odst. 8 chrání spotřebitele před tzv. „third-party billing" — praxí, kdy třetí strany (např. provozovatelé prémiových obsahových služeb) zařazují své pohledávky do vyúčtování operátora. Spotřebitel má právo tuto funkci deaktivovat. Jde o specifický ochrannný mechanismus, jehož praktická aplikace závisí na prováděcím právním předpisu (odst. 9).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitel pan M. čerpá od poskytovatele univerzální služby selektivní blokování odchozích volání na prémiová čísla. Po měsíci mu přijde vyúčtování s vysokou částkou za prémiové SMS odeslané z jeho čísla; poskytovatel tvrdí, že blokování se na SMS nevztahovalo. Pan M. dále zjistí, že na jeho účet byly zařazeny pohledávky třetí strany (poskytovatele obsahové služby), aniž o to požádal. Účastníci: pan M. (spotřebitel), poskytovatel univerzální služby, třetí strana (provozovatel prémiové služby). Důkazy: smlouva a podmínky aktivace blokování, výpis vyúčtování, žádost o deaktivaci vyúčtování třetích stran.
+
+**2. Právní otázka.** Vztahuje se bezplatné selektivní blokování podle § 44 odst. 2 i na odesílání prémiových SMS, a má spotřebitel právo deaktivovat vyúčtování třetích stran podle odst. 8?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 44 — definice doplňkových služeb: selektivní blokování (odst. 2, výslovně i prémiové textové/multimediální zprávy, bezplatně), kontrola nákladů a bezplatná upozornění (odst. 7), deaktivace vyúčtování třetích stran (odst. 8).
+- *Související ustanovení téhož zákona:* § 38 odst. 2 písm. d) (katalog doplňkových služeb), § 63 (smluvní podmínky), § 47 (kvalita), ustanovení Hlavy IV o právech účastníků.
+- *Související předpisy:* prováděcí předpis podle odst. 9 (technické podrobnosti a rozsah doplňkových služeb); zákon č. 634/1992 Sb. o ochraně spotřebitele; EECC čl. 84 a příloha VI.
+- *Judikatura:* k bezplatnosti zákonem garantovaných doplňkových služeb — nosný závěr ustálené praxe: smluvní ujednání zpoplatňující zákonem bezplatně poskytovanou službu je v rozporu se zákonem a neplatné; zákazník nemůže být nucen platit za to, co zákon stanoví bezplatně.
+
+**4. Subsumpce.** Odst. 2 výslovně zahrnuje do selektivního blokování zamezení „odesílání prémiových textových nebo multimediálních zpráv" — pokud poskytovatel blokování SMS na prémiová čísla neaktivoval, nešlo o řádné splnění zákonné definice služby (s výhradou technické proveditelnosti). Deaktivace vyúčtování třetích stran (odst. 8) je samostatným právem spotřebitele; pan M. jej může uplatnit kdykoli. Sporné může být, zda technická proveditelnost blokování SMS byla dána — to nese poskytovatel.
+
+**5. Řešení.** Poskytovatel byl povinen na žádost bezplatně zablokovat i prémiové SMS, je-li to technicky proveditelné; pokud aktivoval pouze blokování volání, neposkytl službu v zákonném rozsahu a pan M. má nárok na storno neoprávněně účtovaných částek. K odst. 8: pan M. má právo na deaktivaci vyúčtování třetích stran do budoucna. Procesně: reklamace u poskytovatele, při neúspěchu námitka/spor u ČTÚ. Riziko: prokázání technické neproveditelnosti blokování by zprostilo poskytovatele odpovědnosti.
+
+**6. Varianty.** (a) Kdyby blokování prémiových SMS bylo technicky neproveditelné a poskytovatel to doložil, povinnost by nevznikla. (b) Kdyby pan M. žádal podrobný rozpis účtů (odst. 1), nemohl by být zpoplatněn — jde o bezplatnou službu, a navíc by neobsahoval položky za bezplatná volání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel namítne, že služby z § 44 lze zpoplatnit jako nadstandard. Neutralizace: odst. 2 (blokování) výslovně stanoví bezplatnost; zpoplatnění odporuje zákonné definici služby.
+- *Protiargument:* vyúčtování třetích stran je platným smluvním ujednáním. Neutralizace: odst. 8 zakládá nepodmíněné právo spotřebitele tuto možnost deaktivovat bez ohledu na předchozí ujednání.
+- *Slabé místo:* rozsah a technické podrobnosti služeb závisí na prováděcím předpisu (odst. 9); bez jeho ověření je posouzení „technické proveditelnosti" neúplné.
+
+#### H. Praktický závěr
+
+§ 44 definuje obsah doplňkových služeb z § 38 odst. 2 písm. d). Klíčové prakticky jsou: bezplatnost selektivního blokování a podrobného rozpisu, právo na bezplatné upozornění při neobvyklé spotřebě (odst. 7) a právo deaktivovat vyúčtování třetích stran (odst. 8).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla sporná služba poskytnuta bezplatně tam, kde to zákon stanoví (rozpis účtů, blokování)?
+- [ ] Pokrylo selektivní blokování i prémiové SMS/MMS (odst. 2), je-li to technicky proveditelné?
+- [ ] Umožnil poskytovatel dálkovou kontrolu nákladů a bezplatné upozornění při neobvyklé spotřebě (odst. 7)?
+- [ ] Byla respektována žádost o deaktivaci vyúčtování třetích stran (odst. 8)?
+
+**Typicky rozhodné důkazy / podklady:** smlouva a podmínky aktivace doplňkové služby, výpis vyúčtování, žádost o deaktivaci/blokování, doklad o technické (ne)proveditelnosti, prováděcí předpis podle odst. 9.
+
 ---
 
 ### § 45 — Cenová dostupnost
@@ -242,6 +424,42 @@ Odst. 8 chrání spotřebitele před tzv. „third-party billing" — praxí, kd
 
 Odst. 2 formuluje dvě povinnosti: (i) **povinnost poskytovatele** uplatňovat na území, kde poskytuje univerzální službu, **jednotné ceny** bez geografické diferenciace a (ii) **princip Úřadu** minimalizovat zásahy do obchodních podmínek. Povinnost jednotné ceny zabraňuje tzv. cream-skimming (výběrovému poskytování jen v hustě osídlených oblastech za nízkou cenu) a zajišťuje, že spotřebitelé v periferních oblastech nejsou cenovými podmínkami diskriminováni.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel univerzální služby uplatňuje na celém území, kde poskytuje pevný přístup k internetu, jednotnou cenu 400 Kč/měsíc. V hustě osídlené aglomeraci konkurence nabízí 250 Kč, a poskytovatel zde proto chce snížit cenu jen v aglomeraci, zatímco v odlehlých obcích ji ponechat. ČTÚ v rámci monitoringu (odst. 1) zjistí rostoucí rozdíl mezi cenou a vývojem průměrné mzdy a inflace. Účastníci: poskytovatel univerzální služby, ČTÚ, spotřebitelé v odlehlých oblastech. Důkazy: ceníky, data ČSÚ o inflaci a mzdách, výsledky monitoringu cenové dostupnosti.
+
+**2. Právní otázka.** Může poskytovatel univerzální služby geograficky diferencovat ceny v rámci území, kde službu poskytuje, nebo je povinen uplatňovat jednotné ceny podle § 45 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 45 — monitoring cenové dostupnosti Úřadem s ohledem na ceny, inflaci a mzdu (odst. 1), meziresortní součinnost, povinnost jednotných cen poskytovatele a princip minimální intervence (odst. 2).
+- *Související ustanovení téhož zákona:* § 39 (určení poskytovatele), § 56–59 (regulace cen, rozhodnutí o ceně), § 38 odst. 3 (zvláštní ceny), § 44 (doplňkové služby).
+- *Související předpisy:* zákon č. 89/1995 Sb. o státní statistické službě (data ČSÚ); zákon č. 526/1990 Sb. o cenách; EECC čl. 85 (affordability).
+- *Judikatura:* k zákazu cream-skimmingu a jednotnosti cen veřejné služby — nosný závěr z unijní praxe: jednotné ceny v rámci závazku veřejné služby zabraňují diskriminaci spotřebitelů v nákladnějších oblastech a jsou legitimním omezením obchodní volnosti poskytovatele.
+
+**4. Subsumpce.** Odst. 2 ukládá poskytovateli povinnost uplatňovat jednotné ceny na území (nebo jeho části), kde univerzální službu poskytuje. Geografická diferenciace mezi aglomerací a odlehlými obcemi v rámci téhož území, kde je povinnost uložena, by tuto povinnost porušila a vedla k cream-skimmingu. Současně platí, že Úřad má při zajišťování dostupnosti minimalizovat zásahy do obchodních podmínek (odst. 2 věta druhá) — snížení ceny plošně je tedy přípustné, selektivní nikoli.
+
+**5. Řešení.** Poskytovatel musí cenu uplatňovat jednotně na celém území, kde mu byla povinnost uložena; nemůže snížit cenu jen v aglomeraci. Chce-li reagovat na konkurenci, může cenu snížit plošně. Zjistí-li ČTÚ na základě monitoringu (odst. 1), že cena není cenově dostupná vzhledem k inflaci a mzdě, může přistoupit k cenové regulaci (§ 56 a násl.). Procesně: monitoring je průběžný; meziresortní data poskytují MPO, MF, MPSV a ČSÚ. Riziko: selektivní cena by byla porušením odst. 2 a podnětem k zásahu Úřadu.
+
+**6. Varianty.** (a) Kdyby povinnost byla uložena jen pro „část území" (aglomeraci), jednotnost by se vztahovala jen na tuto část a v jiné části by poskytovatel nebyl vázán. (b) Kdyby šlo o službu poskytovanou mimo režim univerzální služby (komerčně), povinnost jednotných cen by se neuplatnila a poskytovatel by mohl diferencovat.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel namítá, že jednotná cena mu brání konkurovat v aglomeraci a odporuje principu minimální intervence. Neutralizace: princip minimální intervence váže Úřad, nikoli poskytovatele; povinnost jednotných cen je výslovná a chrání spotřebitele v nákladnějších oblastech.
+- *Protiargument:* monitoring cenové dostupnosti je vágní a nezakládá konkrétní povinnost. Neutralizace: monitoring je podkladem pro případnou cenovou regulaci podle § 56–57; jeho výsledky jsou objektivizovány daty ČSÚ a resortů.
+- *Slabé místo:* zákon nestanoví prahové hodnoty cenové dostupnosti — posouzení „přijatelnosti" ceny závisí na uvážení Úřadu, což zvyšuje riziko sporu o metodiku.
+
+#### H. Praktický závěr
+
+§ 45 ukládá Úřadu průběžně sledovat cenovou dostupnost univerzální služby v kontextu inflace a mezd (s povinnou součinností resortů a ČSÚ) a poskytovateli uplatňovat jednotné ceny bez geografické diferenciace, čímž brání cream-skimmingu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uplatňuje poskytovatel jednotné ceny na celém území, kde službu poskytuje (odst. 2)?
+- [ ] Provádí Úřad monitoring cenové dostupnosti s ohledem na ceny, inflaci a mzdu (odst. 1)?
+- [ ] Byla zajištěna součinnost MPO, MF, MPSV a ČSÚ, je-li potřebná?
+- [ ] Minimalizuje Úřad zásahy do obchodních podmínek (princip minimální intervence)?
+
+**Typicky rozhodné důkazy / podklady:** ceníky a jejich územní platnost, statistická data ČSÚ o inflaci a mzdách, výstupy monitoringu cenové dostupnosti, podklady součinnosti resortů.
+
 ---
 
 ### § 46 — Podmínky poskytování dalších služeb
@@ -255,6 +473,42 @@ Odst. 2 formuluje dvě povinnosti: (i) **povinnost poskytovatele** uplatňovat n
 #### Zákaz balíčkování nad rámec povinnosti
 
 § 46 zakazuje poskytovateli univerzální služby, aby v rámci smluvních podmínek vázal poskytnutí povinných dílčích služeb na odběr dalších, dobrovolných služeb nebo zařízení. Jde o specifické vyjádření zákazu vázaných ujednání v sektoru elektronických komunikací. Provázanost se smluvními podmínkami (§ 63) je výslovná — smlouva musí být strukturována tak, aby spotřebitel platil výlučně za to, co nezbytně potřebuje pro využívání příslušné dílčí služby. Na problematiku smluvních podmínek, klientských práv a zákazu vázaných ujednání navazuje Hlava IV — viz [06-hlava4-dil1-prava-ucastniku-smlouvy.md](06-hlava4-dil1-prava-ucastniku-smlouvy.md).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Spotřebitelka paní R. žádá poskytovatele univerzální služby o zřízení pevné hlasové přípojky podle § 38 odst. 2 písm. b). Poskytovatel jí jako podmínku uzavření smlouvy nabídne pouze balíček zahrnující povinnou hlasovou službu spolu s pronájmem televizního set-top boxu a předplatným streamovací služby, bez možnosti objednat samostatně jen hlasovou přípojku. Účastníci: paní R. (spotřebitelka), poskytovatel univerzální služby, ČTÚ. Důkazy: nabídka/smluvní podmínky poskytovatele, ceník samostatných a balíčkových služeb, korespondence o žádosti.
+
+**2. Právní otázka.** Smí poskytovatel univerzální služby podmínit poskytnutí povinné dílčí služby (hlasové přípojky) odběrem dalších, nepovinných služeb nebo zařízení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 46 — zákaz vázat poskytnutí povinných dílčích služeb na úhradu služeb nebo zařízení, které nejsou nezbytné pro požadovanou dílčí službu; provázání se smluvními podmínkami (§ 63).
+- *Související ustanovení téhož zákona:* § 38 odst. 2 písm. a) až d) a odst. 3 (rozsah povinností), § 63 (smluvní podmínky), § 44 (doplňkové služby), ustanovení Hlavy IV o právech účastníků.
+- *Související předpisy:* § 1814 a násl. zákona č. 89/2012 Sb. (zakázaná ujednání ve spotřebitelských smlouvách); zákon č. 634/1992 Sb. (vázané nabídky); EECC čl. 84 a 102.
+- *Judikatura:* k zákazu vázaných (tying) ujednání — nosný závěr z praxe ochrany spotřebitele i soutěžního práva: podmiňování dodávky žádané služby odběrem nesouvisejícího plnění je nepřípustné, není-li vázání objektivně nezbytné pro poskytnutí hlavní služby.
+
+**4. Subsumpce.** § 46 zakazuje, aby spotřebitel musel platit za služby nebo zařízení, které „nejsou nezbytné nebo nejsou vyžadovány" pro poskytnutí požadované dílčí služby. Set-top box a streamovací předplatné nejsou nezbytné pro poskytnutí pevné hlasové přípojky — jejich povinné navázání proto odporuje § 46. Smluvní podmínky (§ 63) musí být strukturovány tak, aby paní R. mohla odebrat výlučně hlasovou službu.
+
+**5. Řešení.** Poskytovatel je povinen umožnit paní R. odběr samostatné hlasové přípojky bez povinného balíčku. Nabídka „pouze v balíčku" je v rozporu s § 46. Paní R. má nárok na uzavření smlouvy jen na povinnou dílčí službu. Procesně: reklamace/námitka u poskytovatele, podnět ČTÚ k výkonu dohledu nad smluvními podmínkami. Riziko: poskytovatel může tvrdit technickou neoddělitelnost služeb — to by musel doložit a u hlasové přípojky vs. TV/streamingu je taková obrana neudržitelná.
+
+**6. Varianty.** (a) Kdyby šlo o zařízení skutečně nezbytné pro využití hlasové služby (např. koncové zařízení – koncový bod sítě podle § 40 odst. 4), navázání by bylo přípustné. (b) Kdyby paní R. balíček dobrovolně poptávala, § 46 by se neuplatnil — zákaz míří jen na vynucené vázání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel namítá obchodní svobodu nabízet balíčky. Neutralizace: § 46 je speciální omezení pro poskytovatele univerzální služby; nezakazuje balíčky obecně, jen jejich vnucení jako podmínku povinné služby.
+- *Protiargument:* balíček je pro spotřebitele výhodnější (nižší jednotková cena). Neutralizace: výhodnost nezhojí porušení práva na samostatný odběr; spotřebitel musí mít volbu.
+- *Slabé místo:* hranice „nezbytnosti" zařízení/služby může být u některých technických komponent sporná; doporučuje se opřít posouzení o § 40 odst. 4 (vymezení připojení) a prováděcí předpisy.
+
+#### H. Praktický závěr
+
+§ 46 zakazuje poskytovateli univerzální služby vázat povinné dílčí služby na odběr nepovinných služeb či zařízení. Smlouva (§ 63) musí umožnit platbu výlučně za to, co je nezbytné pro požadovanou dílčí službu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o poskytovatele univerzální služby a o povinnou dílčí službu podle § 38 odst. 2/3?
+- [ ] Je navázaná služba/zařízení skutečně nezbytné pro poskytnutí požadované dílčí služby?
+- [ ] Umožňují smluvní podmínky (§ 63) samostatný odběr povinné služby?
+- [ ] Nedochází k vynucenému vázání nesouvisejícího plnění?
+
+**Typicky rozhodné důkazy / podklady:** smluvní podmínky a nabídka poskytovatele, ceníky samostatných i balíčkových služeb, technická specifikace nezbytnosti zařízení, korespondence o žádosti spotřebitele.
 
 ---
 
@@ -277,6 +531,42 @@ Odst. 2 formuluje dvě povinnosti: (i) **povinnost poskytovatele** uplatňovat n
 #### Povinné každoroční zveřejnění výsledků
 
 Odst. 2 ukládá každoroční zveřejňování výsledků kvality do 31. března za předchozí rok. Transparentnost je zde nástrojem tržní disciplíny i dohledové efektivity: Úřad může sledovat plnění povinností na základě veřejně přístupných dat, aniž by musel zahajovat kontrolní řízení.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel univerzální služby za uplynulý rok nesplnil v několika regionech výkonnostní cíl pro lhůtu zřízení připojení a nezveřejnil do 31. března výsledky kvality za předchozí rok na svých internetových stránkách. ČTÚ na základě podnětu spotřebitelského sdružení zahájí dohled. Účastníci: poskytovatel univerzální služby, ČTÚ, dotčení spotřebitelé. Důkazy: prováděcí předpis stanovící parametry a výkonnostní cíle, interní data poskytovatele o plnění KPI, screenshoty/archiv internetových stránek dokládající (ne)zveřejnění.
+
+**2. Právní otázka.** Zakládá nezveřejnění výsledků kvality do 31. března a nesplnění výkonnostních cílů samostatná porušení povinností podle § 47, a jaké jsou jejich důsledky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 47 — povinnost plnit parametry kvality a výkonnostní cíle (odst. 1), každoroční zveřejnění výsledků do 31. března (odst. 2), delegace parametrů na prováděcí předpis (odst. 3).
+- *Související ustanovení téhož zákona:* § 40 odst. 6 (lhůty a notifikace při prodlení odkazují na parametry podle § 47 odst. 3), § 38 (rozsah povinností), ustanovení o správních deliktech a dohledu ČTÚ.
+- *Související předpisy:* prováděcí právní předpis podle odst. 3 (mezní hodnoty parametrů a výkonnostní cíle); EECC čl. 84 odst. 5 a příloha V/VI.
+- *Judikatura:* k transparentnosti jako nástroji dohledu — nosný závěr ustálené správní praxe: povinnost zveřejnit výsledky ve stanovené lhůtě je samostatnou povinností, jejíž nesplnění je deliktem nezávisle na věcném (ne)plnění kvalitativních parametrů.
+
+**4. Subsumpce.** Odst. 1 ukládá plnit parametry kvality a výkonnostní cíle — jejich nesplnění v regionech je porušením této povinnosti, je-li doloženo srovnáním s mezními hodnotami prováděcího předpisu. Odst. 2 ukládá samostatnou povinnost zveřejnit výsledky do 31. března; její nesplnění je dalším, věcně odlišným porušením bez ohledu na to, zda byly parametry splněny. Jde tedy o dvě samostatná porušení.
+
+**5. Řešení.** ČTÚ může poskytovatele vyzvat k nápravě a uplatnit nástroje dohledu (sankce za správní delikt) za obě porušení. Poskytovatel je povinen výsledky bezodkladně zveřejnit a doložit plnění KPI. Procesně: zjišťování se opírá o veřejně přístupná data (transparentnost umožňuje dohled bez nutnosti zahajovat rozsáhlé kontrolní řízení). Riziko: nesplnění výkonnostních cílů z objektivních důvodů (vyšší moc) může zmírnit odpovědnost, ale nezprošťuje povinnosti zveřejnění.
+
+**6. Varianty.** (a) Kdyby poskytovatel výsledky zveřejnil včas a parametry splnil, nešlo by o porušení; transparentní data by naopak fungovala jako důkaz souladu. (b) Kdyby prováděcí předpis konkrétní parametr nestanovil, nelze jeho „nesplnění" sankcionovat — bez mezní hodnoty chybí měřítko porušení.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel namítne, že zveřejnění je formalita a věcně kvalitu plnil. Neutralizace: odst. 2 je samostatná povinnost; její nesplnění je deliktem nezávisle na věcném plnění.
+- *Protiargument:* parametry stanovené prováděcím předpisem jsou nepřiměřené. Neutralizace: zákonnost a přiměřenost prováděcího předpisu lze napadnout, ale do doby zrušení je závazný; poskytovatel jej musí plnit.
+- *Slabé místo:* zákon sám neuvádí konkrétní hodnoty (např. minimální rychlost) — posouzení plnění je zcela závislé na aktuálním prováděcím předpisu, který je nutné ověřit.
+
+#### H. Praktický závěr
+
+§ 47 zavádí systém parametrů kvality a výkonnostních cílů (delegovaný na prováděcí předpis) a samostatnou povinnost každoročního zveřejnění výsledků do 31. března. Transparentnost slouží jako nástroj dohledu i tržní disciplíny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje pro sporný parametr mezní hodnota v prováděcím předpisu (odst. 3)?
+- [ ] Plní poskytovatel výkonnostní cíle podle odst. 1 (doloženo daty)?
+- [ ] Zveřejnil výsledky za předchozí rok do 31. března (odst. 2)?
+- [ ] Bylo by prodlení podle § 40 odst. 6 navázáno na lhůty z § 47 odst. 3?
+
+**Typicky rozhodné důkazy / podklady:** prováděcí předpis s parametry a cíli, interní data poskytovatele o plnění KPI, archiv internetových stránek dokládající zveřejnění, podněty spotřebitelů, spis dohledu ČTÚ.
 
 ---
 
@@ -312,6 +602,43 @@ Odst. 3 vyžaduje, aby výpočet byl proveden odděleně pro každou dílčí po
 
 Zákon nastavuje pevný procesní kalendář: podklady do 31. července (odst. 5), Úřad ověří do 6 týdnů od předložení (odst. 6). Úřad může ověřením pověřit nestranný třetí subjekt. Výsledky musí být uveřejněny — transparentnost výpočtu chrání jak poskytovatele, tak veřejný zájem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Poskytovatel univerzální služby předloží ČTÚ k 31. červenci výpočet čistých nákladů za zúčtovací období ve výši 80 mil. Kč. Úřad při ověření zjistí, že poskytovatel nezohlednil tržní výhody (rozšíření zákaznické základny a posílení značky díky poskytování veřejné služby) a že u jedné z povinností chybí účetní doklady. Účastníci: poskytovatel univerzální služby, ČTÚ (popř. nezávislý ověřovatel). Důkazy: výpočet čistých nákladů, účetní doklady, podklady pro vyčíslení tržních výhod a vyhnutelných nákladů.
+
+**2. Právní otázka.** Jakým způsobem se čisté náklady vypočítají a jaké jsou důsledky toho, že poskytovatel nezohlednil tržní výhody a u jedné povinnosti nedoložil náklady?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 48 — inkrementální definice čistých nákladů (odst. 2: rozdíl nákladů s povinností a bez ní, plus přiměřená návratnost, mínus vyhnutelné náklady a tržní výhody), oddělený výpočet a zákaz dvojího zaúčtování (odst. 3), procesní lhůty a doplnění podkladů (odst. 5), ověření do 6 týdnů (odst. 6).
+- *Související ustanovení téhož zákona:* § 39 odst. 5 (návrh výpočtu v přihlášce), § 49 (úhrada a test neúnosné zátěže), § 50 (výroční zpráva), § 38 odst. 2 (povinnosti, jejichž náklady lze zahrnout).
+- *Související předpisy:* prováděcí předpis podle odst. 7 (postup výpočtu, kritéria neúnosné zátěže, vymezení tržních výhod); EECC čl. 89–90 a příloha VII; doktrína Altmark (C-280/00) k zákazu nadměrné kompenzace.
+- *Judikatura:* nosný závěr SDEU (Altmark): kompenzace závazku veřejné služby nesmí přesáhnout čisté náklady se zohledněním přiměřeného zisku; přebytek je nedovolenou veřejnou podporou.
+
+**4. Subsumpce.** Podle odst. 2 jsou čisté náklady inkrementálním rozdílem se zohledněním přiměřené návratnosti a s odečtením vyhnutelných nákladů a tržních výhod. Nezohlednění tržních výhod znamená nadhodnocení čistých nákladů — Úřad je při výpočtu odečte. U povinnosti bez doložených dokladů Úřad podle odst. 5 stanoví lhůtu k doplnění; nedojde-li k nápravě, příslušné náklady do čistých nákladů nezahrne. Zákaz dvojího zaúčtování (odst. 3) brání opakovanému připsání sdílených nákladů více povinnostem.
+
+**5. Řešení.** Úřad provede vlastní výpočet na základě podkladů poskytovatele, odečte vyčíslené tržní výhody a vyhnutelné náklady a u nedoložené povinnosti vyzve k doplnění (odst. 5). Pokud poskytovatel doklady nedoplní, Úřad náklady této povinnosti vyloučí. Ověření provede do 6 týdnů (odst. 6), může jím pověřit nezávislý subjekt, a výsledek uveřejní. Riziko: odpovědnost za správnost a úplnost nese poskytovatel (odst. 5); chybné podklady vedou ke snížení uznaných nákladů.
+
+**6. Varianty.** (a) Kdyby poskytovatel tržní výhody řádně vyčíslil a odečetl, výsledné čisté náklady by byly nižší, ale bezvadné a plně uznatelné. (b) Kdyby tytéž náklady přiřadil dvěma povinnostem, šlo by o zakázané dvojí zaúčtování (odst. 3) a Úřad by je započetl jen jednou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel namítá, že tržní výhody jsou spekulativní a neměřitelné. Neutralizace: odst. 2 jejich zohlednění výslovně vyžaduje; metodu vyčíslení stanoví prováděcí předpis (odst. 7) — neměřitelnost není důvodem k jejich opomenutí.
+- *Protiargument:* lhůta 6 týdnů na ověření je pro Úřad nedostatečná, ověření je proto nezávazné. Neutralizace: Úřad může pověřit nezávislý subjekt; lhůta je pořádková a její překročení neruší povinnost správného výpočtu.
+- *Slabé místo:* metodika vymezení tržních výhod a kritéria neúnosné zátěže jsou v prováděcím předpisu — bez něj je výpočet i navazující úhrada (§ 49) neúplná.
+
+#### H. Praktický závěr
+
+§ 48 stanoví inkrementální metodu výpočtu čistých nákladů s odečtem vyhnutelných nákladů a tržních výhod, oddělený výpočet pro každou povinnost a zákaz dvojího zaúčtování. Procesně platí pevný kalendář (podklady do 31. 7., ověření do 6 týdnů) a odpovědnost poskytovatele za správnost podkladů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je výpočet proveden inkrementálně (rozdíl s povinností a bez ní) s přiměřenou návratností (odst. 2)?
+- [ ] Byly odečteny vyhnutelné náklady a tržní výhody?
+- [ ] Je výpočet proveden odděleně pro každou povinnost bez dvojího zaúčtování (odst. 3)?
+- [ ] Byly podklady předloženy do 31. července a doloženy účetními doklady (odst. 5)?
+- [ ] Ověřil Úřad podklady do 6 týdnů a výsledek uveřejnil (odst. 6)?
+
+**Typicky rozhodné důkazy / podklady:** výpočet čistých nákladů, účetní doklady, vyčíslení tržních výhod a vyhnutelných nákladů, prováděcí předpis k metodice, závěry nezávislého ověření.
+
 ---
 
 ### § 49 — Financování univerzální služby
@@ -340,6 +667,42 @@ Odst. 2 třetí věta stanoví maximální lhůtu pro poukázání částky na 3
 
 Odst. 4 zavádí specifické penále ve výši **1 promile denně** z rozdílu mezi původně přiznanou a správně stanovenou výší úhrady. Penále je příjmem státního rozpočtu; Úřad může z důvodu tvrdosti penále snížit nebo prominout. Tato klauzule je ochrannáfiskální pojistka: zbavuje poskytovatele motivace předkládat Úřadu nadhodnocené nebo neúplné podklady.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Úřad stanoví čisté náklady poskytovatele za zúčtovací období na 60 mil. Kč. Poskytovatel požádá o úhradu (do 31. července). Úřad posoudí, zda tato částka představuje pro poskytovatele neúnosnou zátěž; zjistí, že poskytovatel je velký operátor s ročním obratem v miliardách a 60 mil. Kč pro něj neúnosnou zátěž nepředstavuje. Variantně později vyjde najevo, že část podkladů byla nesprávná. Účastníci: poskytovatel univerzální služby, ČTÚ, stát (zdroj úhrady). Důkazy: rozhodnutí o čistých nákladech (§ 48), hospodářské výsledky poskytovatele, kritéria neúnosné zátěže podle prováděcího předpisu.
+
+**2. Právní otázka.** Vzniká poskytovateli nárok na úhradu čistých nákladů automaticky, nebo jen tehdy, představují-li tyto náklady neúnosnou zátěž, a jaké jsou důsledky čerpání na základě nesprávných údajů?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 49 — lhůta pro žádost do 31. července (odst. 1), test neúnosné zátěže jako podmínka úhrady a lhůta výplaty do 3 měsíců (odst. 2), úhrada státem prostřednictvím Úřadu (odst. 3), zrušení rozhodnutí, vrácení a penále 1 promile denně při čerpání na nesprávných údajích (odst. 4).
+- *Související ustanovení téhož zákona:* § 48 (výpočet čistých nákladů a kritéria neúnosné zátěže v prováděcím předpisu), § 50 (výroční zpráva), § 38 odst. 3 (zvláštní ceny — obdobné použití).
+- *Související předpisy:* prováděcí předpis podle § 48 odst. 7 (kritéria neúnosné zátěže); EECC čl. 90 odst. 1; pravidla EU o veřejné podpoře (Altmark).
+- *Judikatura:* nosný závěr SDEU (Altmark, C-280/00): kompenzace nesmí přesáhnout čisté náklady; navíc kompenzace je podmíněna tím, že povinnost představuje skutečnou zátěž — bez ní by šlo o neodůvodněný přesun veřejných prostředků.
+
+**4. Subsumpce.** Úhrada podle odst. 2 není automatická — Úřad nejprve rozhodne, zda čisté náklady představují pro poskytovatele neúnosnou zátěž (kritéria v prováděcím předpisu). U velkého operátora s miliardovým obratem 60 mil. Kč nemusí neúnosnou zátěž představovat — pak nárok na úhradu nevzniká. Pokud zátěž neúnosná je, Úřad rozhodne o výši úhrady a vyplatí ji do 3 měsíců od právní moci. Při pozdějším zjištění nesprávných údajů (odst. 4) Úřad rozhodnutí zruší, nově rozhodne, poskytovatel vrátí prostředky do 15 dnů a hradí penále 1 promile denně z rozdílu.
+
+**5. Řešení.** Úřad správně provede test neúnosné zátěže; neshledá-li ji, úhradu nepřizná. Shledá-li ji, vyplatí kompenzaci v zákonné lhůtě. V případě nesprávných údajů aktivuje sankční mechanismus odst. 4 (vrácení + penále), které je příjmem státního rozpočtu; z důvodu tvrdosti je může snížit či prominout. Riziko pro poskytovatele: předložení nadhodnocených/neúplných podkladů vede k vrácení i penalizaci.
+
+**6. Varianty.** (a) Kdyby poskytovatelem byl malý subjekt, pro nějž 60 mil. Kč fakticky ohrožuje ekonomickou existenci, šlo by o neúnosnou zátěž a nárok na úhradu by vznikl. (b) Kdyby Úřad nestihl výplatu do 3 měsíců od právní moci, porušil by lhůtu chránící poskytovatele před likviditními problémy.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* poskytovatel namítá, že čisté náklady mu musí být uhrazeny vždy, byly-li řádně vypočteny. Neutralizace: odst. 2 podmiňuje úhradu neúnosnou zátěží (EECC čl. 90, Altmark) — bez ní nárok nevzniká.
+- *Protiargument:* penále 1 promile denně je nepřiměřeně přísné. Neutralizace: zákon umožňuje jeho snížení či prominutí z důvodu tvrdosti (odst. 4 poslední věta); přísnost odráží ochranu veřejných prostředků před nadhodnocenými podklady.
+- *Slabé místo:* kritéria neúnosné zátěže nejsou v zákoně — jsou v prováděcím předpisu; bez jeho ověření je posouzení nároku neúplné a vystavené riziku sporu o metodiku.
+
+#### H. Praktický závěr
+
+§ 49 podmiňuje úhradu čistých nákladů testem neúnosné zátěže (kompenzace není automatická), stanoví výplatu do 3 měsíců od právní moci a sankční mechanismus (vrácení do 15 dnů + penále 1 promile denně) pro čerpání na nesprávných údajích.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byla žádost o úhradu podána do 31. července (odst. 1)?
+- [ ] Posoudil Úřad, zda čisté náklady představují neúnosnou zátěž (odst. 2, kritéria v prováděcím předpisu)?
+- [ ] Byla úhrada vyplacena do 3 měsíců od právní moci rozhodnutí?
+- [ ] Při nesprávných údajích: zrušení rozhodnutí, vrácení do 15 dnů, penále 1 promile denně (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o čistých nákladech (§ 48), hospodářské výsledky poskytovatele, kritéria neúnosné zátěže dle prováděcího předpisu, doklady o správnosti/úplnosti podkladů, výpočet penále.
+
 ---
 
 ### § 50 — Obsah výroční zprávy univerzální služby
@@ -355,6 +718,42 @@ Odst. 4 zavádí specifické penále ve výši **1 promile denně** z rozdílu m
 #### Transparentnost jako regulatorní nástroj
 
 § 50 zavazuje Úřad k uveřejňování výroční zprávy s minimálním obsahem zahrnujícím výsledky výpočtu čistých nákladů, peněžní vyčíslení tržních výhod a informace o provedených úhradách. Zpráva tvoří součást výroční zprávy o činnosti Úřadu (§ 110), čímž je integrace do obecného dohledového rámce zajištěna. Veřejné uveřejňování dat o výpočtu kompenzace umožňuje odborné veřejnosti, Komisi i Sdružení BEREC hodnotit soulad české kompenzační praxe s požadavky EECC.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Alternativní operátor a spotřebitelské sdružení namítají, že úhrady čistých nákladů poskytovatele univerzální služby jsou nadhodnocené a netransparentní. Ve výroční zprávě Úřadu za zúčtovací období chybí peněžní vyčíslení tržních výhod poskytovatele a jsou uvedeny pouze souhrnné, nerozčleněné čisté náklady. Účastníci: ČTÚ (autor zprávy), poskytovatel univerzální služby, alternativní operátor a veřejnost jako adresáti transparentnosti. Důkazy: výroční zpráva Úřadu, podklady výpočtu čistých nákladů (§ 48), údaje o úhradách.
+
+**2. Právní otázka.** Splňuje výroční zpráva minimální obsahové náležitosti podle § 50 odst. 1, chybí-li v ní peněžní vyčíslení tržních výhod a rozčlenění čistých nákladů podle jednotlivých povinností?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 50 — minimální obsah výroční zprávy: výsledek výpočtu čistých nákladů podle jednotlivých povinností i celkem (odst. 1 písm. a), určení a peněžní vyčíslení tržních výhod (písm. b), informace o provedených úhradách (písm. c); zpráva jako součást výroční zprávy Úřadu podle § 110 (odst. 2).
+- *Související ustanovení téhož zákona:* § 48 (výpočet a tržní výhody), § 49 (úhrady), § 110 (výroční zpráva o činnosti Úřadu).
+- *Související předpisy:* EECC čl. 90 a příloha VII (transparentnost kompenzace); pravidla EU o veřejné podpoře (kontrola nadměrné kompenzace).
+- *Judikatura:* nosný závěr unijní praxe k transparentnosti: zveřejnění rozčleněného výpočtu kompenzace umožňuje Komisi i konkurentům kontrolu souladu s pravidly veřejné podpory; absence vyčíslení tržních výhod znemožňuje ověřit, že kompenzace nepřesahuje čisté náklady.
+
+**4. Subsumpce.** Odst. 1 stanoví minimální obsah taxativně: písm. a) vyžaduje výsledek výpočtu podle jednotlivých povinností i celkové čisté náklady — pouhé souhrnné číslo nestačí; písm. b) vyžaduje určení a peněžní vyčíslení tržních výhod — jejich absence je porušením; písm. c) informace o úhradách. Zpráva, která neobsahuje rozčlenění ani vyčíslení tržních výhod, nesplňuje zákonné minimum.
+
+**5. Řešení.** Úřad je povinen doplnit výroční zprávu o rozčleněný výpočet čistých nákladů a peněžní vyčíslení tržních výhod. Tyto údaje jsou nezbytné, aby odborná veřejnost, Komise a BEREC mohly hodnotit soulad kompenzace s EECC a pravidly veřejné podpory. Procesně: zpráva tvoří součást výroční zprávy Úřadu (§ 110) a podléhá uveřejnění. Riziko: neúplná zpráva oslabuje obhajitelnost kompenzace vůči případnému přezkumu veřejné podpory.
+
+**6. Varianty.** (a) Kdyby v daném období žádné úhrady neproběhly (zátěž nebyla neúnosná), zpráva by uvedla nulové úhrady, ale stále by musela obsahovat výpočet čistých nákladů a tržních výhod. (b) Kdyby poskytovatel neměl žádné tržní výhody, zpráva by tuto skutečnost (nulové vyčíslení) výslovně uvedla — mlčení nestačí.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* Úřad namítá, že souhrnné číslo postačuje k informování veřejnosti. Neutralizace: odst. 1 písm. a) výslovně vyžaduje výsledky podle jednotlivých povinností i celkem; písm. b) peněžní vyčíslení tržních výhod — minimální obsah je závazný.
+- *Protiargument:* podrobné zveřejnění ohrožuje obchodní tajemství poskytovatele. Neutralizace: zákon transparentnost vyžaduje; obchodní tajemství lze chránit přiměřenou agregací citlivých vstupů, nikoli vynecháním celých zákonných náležitostí.
+- *Slabé místo:* zákon nestanoví detailní formát zprávy — rozsah „určení tržních výhod" může být sporný; doporučuje se opřít se o metodiku § 48 a přílohu VII EECC.
+
+#### H. Praktický závěr
+
+§ 50 ukládá Úřadu uveřejnit výroční zprávu s minimálním obsahem: rozčleněné i celkové čisté náklady, peněžní vyčíslení tržních výhod a informace o úhradách. Zpráva je součástí výroční zprávy Úřadu (§ 110) a slouží transparentnímu dohledu nad kompenzací veřejné služby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Obsahuje zpráva výsledky výpočtu podle jednotlivých povinností i celkové čisté náklady (písm. a)?
+- [ ] Jsou tržní výhody určeny a peněžně vyčísleny (písm. b)?
+- [ ] Jsou uvedeny informace o provedených úhradách (písm. c)?
+- [ ] Je zpráva součástí výroční zprávy Úřadu podle § 110 a uveřejněna (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** výroční zpráva Úřadu, podklady výpočtu čistých nákladů (§ 48), vyčíslení tržních výhod, evidence provedených úhrad podle § 49.
 
 ---
 
@@ -426,6 +825,43 @@ Na maloobchodních trzích pro koncové uživatele, kde nestačí povinnosti dle
 
 Odst. 13 upravuje postup pro trhy definované Komisí jako nadnárodní — jejich analýzu Úřad provádí koordinovaně s ostatními NRA. Odst. 16 zakotvuje možnost požádat BEREC o pomoc při zpoždění analýzy a ukládá Úřadu oznámit Komisi návrh nápravných opatření do 6 měsíců od uplynutí příslušné lhůty. Tím je zajištěna supranacionální kontrola nad národní regulatorní nečinností.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ provede analýzu velkoobchodního trhu přístupu k pevné síti a opatřením obecné povahy konstatuje, že trh není efektivně konkurenční, neboť na něm působí incumbent s významnou tržní silou a nástroje soutěžního práva nepostačují. Následně rozhodnutím stanoví tento incumbent podnikem s VTS a uloží mu povinnosti průhlednosti (§ 82), nediskriminace (§ 81) a přístupu (§ 84). Incumbent napadá jak OOP (analýzu), tak navazující rozhodnutí, namítá nesprávné vymezení trhu a nepřiměřenost opatření. Účastníci: ČTÚ, incumbent (podnik s VTS), alternativní operátoři jako příjemci přístupu, ÚOHS (konzultace). Důkazy: analýza trhu, zeměpisné mapování (§ 115a), stanovisko ÚOHS, výsledky konzultace podle § 130 a 131.
+
+**2. Právní otázka.** Za jakých podmínek může Úřad na základě analýzy relevantního trhu stanovit podnik s VTS a uložit mu nápravná opatření, a jak je strukturován vztah mezi opatřením obecné povahy (analýzou) a individuálním rozhodnutím o uložení povinností?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 51 — analýza trhu jako OOP a definice efektivně konkurenčního trhu (odst. 1), kritéria budoucího vývoje (odst. 2), pětiletý cyklus (odst. 3), konzultace a stanovisko ÚOHS (odst. 5), katalog nápravných opatření (odst. 6), jiné povinnosti se souhlasem Komise (odst. 7), funkční separace (odst. 8), zákazy na maloobchodním trhu (odst. 14).
+- *Související ustanovení téhož zákona:* § 52 (relevantní trh, trojkriteriový test), § 53 (definice VTS), § 81, § 82, § 84, § 86, § 86a, § 56–57 (regulace cen), § 79 a 79a, § 130 a 131 (konzultace a notifikace), § 115a (mapování).
+- *Související předpisy:* EECC čl. 64–76; Doporučení Komise o relevantních trzích (2020/C 97/01); zákon č. 143/2001 Sb. o ochraně hospodářské soutěže (ex post nástroje ÚOHS); čl. 102 SFEU.
+- *Judikatura:* nosný závěr ke vztahu sektorové a soutěžní regulace — ex ante regulace ZEK nastupuje tam, kde nástroje soutěžního práva nepostačují (odst. 1); k přezkumu OOP správními soudy: vymezení trhu a uložení opatření musí být řádně odůvodněno a proporcionální.
+
+**4. Subsumpce.** Trh není efektivně konkurenční, působí-li na něm podnik s VTS a nepostačují-li nápravná opatření soutěžního práva (odst. 1) — obě podmínky jsou v modelu splněny. Úřad stanoví VTS rozhodnutím a uloží opatření z taxativního katalogu odst. 6 (zde písm. a, b, d). Účastníkem řízení je pouze dotčený podnik (odst. 6 poslední věta). Proporcionalita (odst. 5) vyžaduje volbu nejméně zatěžujícího opatření — uložení tří opatření musí být odůvodněno tím, že mírnější nástroje nestačí.
+
+**5. Řešení.** Postup Úřadu je zákonný, pokud (i) analýza zohlednila budoucí vývoj a konkurenční tlaky (odst. 2), (ii) proběhly konzultace podle § 130 a 131 a bylo zveřejněno stanovisko ÚOHS (odst. 5), a (iii) uložená opatření jsou proporcionální. Dvoustupňová struktura (OOP = analýza, rozhodnutí = uložení povinnosti) je transpozicí čl. 66 EECC. Riziko: chybné vymezení trhu nebo nedostatečné odůvodnění proporcionality vede ke zrušení OOP či rozhodnutí. Alternativa: nepostačují-li opatření odst. 6, lze přistoupit k funkční separaci (odst. 8) nebo cenové regulaci (§ 56–57).
+
+**6. Varianty.** (a) Kdyby analýza shledala trh efektivně konkurenčním nebo trh přestal být relevantním (§ 52 odst. 1), Úřad by VTS a povinnosti zrušil (odst. 11). (b) Kdyby šlo o nadnárodní trh určený Komisí, Úřad by analýzu prováděl koordinovaně s ostatními NRA (odst. 13) a mohl požádat BEREC o součinnost (odst. 16).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* incumbent namítne, že ex ante regulace duplikuje pravomoci ÚOHS. Neutralizace: odst. 1 výslovně podmiňuje regulaci tím, že nástroje soutěžního práva nepostačují; sektorový regulátor jedná předvídatelně a rychleji než ex post soutěžní orgán.
+- *Protiargument:* uložení více opatření současně je nepřiměřené. Neutralizace: odst. 5 ukládá zvolit nejméně zatěžující způsob; kumulace je přípustná, je-li odůvodněna nedostatečností mírnějších nástrojů.
+- *Slabé místo:* jiné povinnosti nad rámec katalogu odst. 6 vyžadují souhlas Komise (odst. 7); jejich uložení bez tohoto souhlasu je vadné. Funkční separace (odst. 8) je krajním nástrojem s vysokým rizikem přezkumu.
+
+#### H. Praktický závěr
+
+§ 51 je páteří sektorové ex ante regulace: Úřad analýzou (OOP) zjistí absenci efektivní soutěže a rozhodnutím stanoví podnik s VTS a uloží mu nápravná opatření z taxativního katalogu (odst. 6), proporcionálně a po konzultaci se stanoviskem ÚOHS. Analýza se opakuje nejméně každých 5 let.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zohlednila analýza budoucí vývoj a všechny konkurenční tlaky (odst. 2)?
+- [ ] Proběhly konzultace podle § 130 a 131 a bylo zveřejněno stanovisko ÚOHS (odst. 5)?
+- [ ] Jsou uložená opatření z taxativního katalogu odst. 6 a proporcionální (nejméně zatěžující)?
+- [ ] Vyžaduje některé opatření souhlas Komise (odst. 7) nebo jde o funkční separaci (odst. 8)?
+- [ ] Byla dodržena pětiletá lhůta pro novou analýzu (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** analýza relevantního trhu (OOP), zeměpisné mapování (§ 115a), stanovisko ÚOHS, výsledky národní konzultace a notifikace Komisi/BEREC, odůvodnění proporcionality opatření.
+
 ---
 
 ### § 52 — Relevantní trh
@@ -454,6 +890,42 @@ Odst. 4 zavádí vyvratitelnou domněnku: u trhů zahrnutých do Doporučení Ko
 
 Odst. 1 výslovně ukládá Úřadu zohledňovat výsledky zeměpisného mapování (§ 115a) při vymezení trhů. Zeměpisné mapování pokrývá faktický stav sítěové infrastruktury na celém území ČR — tím je geografická dimenze relevantního trhu (zejména rozdíl mezi hustě a řídce osídlenými oblastmi) podložena empirickými daty.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ zvažuje regulovat nově vznikající velkoobchodní trh, který není uveden v Doporučení Komise o relevantních trzích. Alternativní operátoři tvrdí, že incumbent zde brání přístupu. Úřad musí posoudit, zda jde o trh způsobilý k ex ante regulaci. V jiné variantě Úřad analyzuje trh, který v Doporučení uveden je. Účastníci: ČTÚ, incumbent, alternativní operátoři, ÚOHS (stanovisko). Důkazy: data o struktuře trhu a bariérách vstupu, zeměpisné mapování (§ 115a), stanovisko ÚOHS, analýza nedostatečnosti soutěžního práva.
+
+**2. Právní otázka.** Jsou pro vymezení nového, v Doporučení neuvedeného relevantního trhu kumulativně splněna tři kritéria podle § 52 odst. 3, a jak se liší důkazní situace u trhů uvedených v Doporučení (odst. 4)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52 — stanovení relevantních trhů OOP a zohlednění mapování (odst. 1) se stanoviskem ÚOHS, konzultace dalších trhů (odst. 2), kumulativní trojkriteriový test (odst. 3: bariéry vstupu, nesměřování k soutěži, nedostatečnost soutěžního práva), presumpce splnění pro doporučené trhy (odst. 4).
+- *Související ustanovení téhož zákona:* § 51 (analýza trhu a nápravná opatření), § 53 (VTS), § 115a (zeměpisné mapování), § 130 a 131 (konzultace).
+- *Související předpisy:* EECC čl. 64 a 67; Doporučení Komise o relevantních trzích (2020/C 97/01); zákon č. 143/2001 Sb. (nedostatečnost soutěžního práva — třetí kritérium).
+- *Judikatura:* nosný závěr k trojkriteriovému testu (unijní praxe): trh je regulovatelný jen při kumulativním splnění všech tří kritérií; absence byť jednoho (zejména třetího — dostatečnost soutěžního práva) vylučuje ex ante regulaci.
+
+**4. Subsumpce.** U trhu neuvedeného v Doporučení nese Úřad plné důkazní břemeno, že kumulativně platí: (i) značné a nikoli dočasné bariéry vstupu (odst. 3 písm. a), (ii) struktura nesměřující k efektivní soutěži (písm. b) a (iii) nedostatečnost soutěžního práva (písm. c). Selže-li byť jedno kritérium, trh není regulovatelný. U trhu uvedeného v Doporučení platí vyvratitelná domněnka splnění (odst. 4) — Úřad reguluje, nedospěje-li k opačnému závěru; důkazní břemeno se obrací ve prospěch regulace.
+
+**5. Řešení.** Pro nový trh musí Úřad prokázat všechna tři kritéria a návrh konzultovat podle § 130 a 131 (odst. 2); bez prokázání třetího kritéria (nedostatečnost soutěžního práva) nelze trh regulovat. Pro doporučený trh postačí, že Úřad nedospěje k závěru o nesplnění některého kritéria. Procesně: vymezení je OOP se stanoviskem ÚOHS (odst. 1). Riziko: u nového trhu je nejvyšší riziko sporu právě u třetího kritéria, které vyjadřuje subsidiaritu sektorové regulace.
+
+**6. Varianty.** (a) Kdyby Úřad u doporučeného trhu shledal, že některé kritérium splněno není, domněnku odst. 4 vyvrátí a trh nereguluje (výjimečné). (b) Kdyby bariéry vstupu byly jen dočasné, kritérium písm. a) by nebylo splněno a trh by nebyl regulovatelný bez ohledu na ostatní kritéria.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* incumbent namítne, že soutěžní právo (ÚOHS) by problém vyřešilo, a tedy třetí kritérium není splněno. Neutralizace: Úřad musí doložit, proč ex post nástroje nepostačují (struktura trhu, potřeba předvídatelné ex ante regulace); u doporučených trhů hraje ve prospěch regulace domněnka odst. 4.
+- *Protiargument:* presumpce odst. 4 zbavuje Úřad povinnosti test provést. Neutralizace: odst. 4 jen obrací důkazní břemeno; Úřad kritéria vyhodnotit musí, jen nemusí pozitivně prokazovat jejich splnění.
+- *Slabé místo:* geografická dimenze trhu (rozdíl hustě/řídce osídlených oblastí) musí být podložena zeměpisným mapováním (§ 115a); jeho absence oslabuje vymezení.
+
+#### H. Praktický závěr
+
+§ 52 podmiňuje regulovatelnost relevantního trhu kumulativním splněním trojkriteriového testu (odst. 3). U trhů z Doporučení Komise platí vyvratitelná domněnka splnění (odst. 4); u jiných nese Úřad plné důkazní břemeno. Vymezení je OOP se stanoviskem ÚOHS a zohledněním zeměpisného mapování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jsou kumulativně splněna všechna tři kritéria odst. 3 (bariéry / nesměřování k soutěži / nedostatečnost soutěžního práva)?
+- [ ] Jde o trh uvedený v Doporučení (presumpce odst. 4), nebo o jiný trh (plné důkazní břemeno Úřadu)?
+- [ ] Byl návrh dalšího trhu konzultován podle § 130 a 131 (odst. 2)?
+- [ ] Zohlednil Úřad zeměpisné mapování a uvedl stanovisko ÚOHS (odst. 1)?
+
+**Typicky rozhodné důkazy / podklady:** data o bariérách vstupu a struktuře trhu, analýza nedostatečnosti soutěžního práva, zeměpisné mapování (§ 115a), stanovisko ÚOHS, Doporučení Komise o relevantních trzích.
+
 ---
 
 ### § 52a — Nadnárodní poptávka a koordinované analýzy
@@ -467,6 +939,42 @@ Odst. 1 výslovně ukládá Úřadu zohledňovat výsledky zeměpisného mapová
 **Výklad:**
 
 § 52a je implementačním ustanovením zavádějícím dva alternativní mechanismy nadnárodní spolupráce NRA: (i) žádost BEREC o analýzu nadnárodní poptávky a (ii) koordinované oznámení návrhu opatření při srovnatelných tržních podmínkách v různých členských státech. Oba mechanismy odrážejí zájem EU na harmonizaci regulatorní praxe v trzích s přeshraniční dimenzí. Ustanovení výslovně zdůrazňuje, že výsledky analýzy BEREC nenahrazují ani neomezují pravomoc Úřadu vymezit trhy na národní nebo nižší úrovni.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Dva národní regulační úřady (ČTÚ a NRA sousedního členského státu) zaznamenají, že velcí podnikoví zákazníci poptávají přeshraniční velkoobchodní datové okruhy, které jednotlivé NRA neumějí samostatně efektivně regulovat. Zvažují požádat BEREC o analýzu nadnárodní poptávky. Účastníci: ČTÚ, sousední NRA, BEREC, dotčení operátoři a podnikoví zákazníci. Důkazy: data o přeshraniční poptávce, doklad o srovnatelnosti tržních podmínek, odůvodnění vážného problému na straně poptávky.
+
+**2. Právní otázka.** Za jakých podmínek mohou NRA požádat BEREC o analýzu nadnárodní poptávky podle § 52a odst. 1 a jaký je vztah této analýzy k vymezení trhů na národní úrovni?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 52a — žádost BEREC o analýzu nadnárodní poptávky při vážném problému na straně poptávky (odst. 1, bez dotčení určení nadnárodních trhů podle § 51 odst. 13 a národních trhů podle § 52), koordinované oznámení návrhu opatření při srovnatelných podmínkách i bez nadnárodního trhu (odst. 2).
+- *Související ustanovení téhož zákona:* § 51 odst. 13 a 16 (nadnárodní trhy, součinnost BEREC), § 52 (relevantní trhy), § 53 (VTS), § 130 a 131 (konzultace a notifikace).
+- *Související předpisy:* EECC čl. 66 a 67; nařízení (EU) 2018/1971 o BEREC; Doporučení Komise o relevantních trzích.
+- *Judikatura:* nosný závěr unijní praxe k harmonizaci NRA: koordinace prostřednictvím BEREC slouží jednotné regulatorní praxi v přeshraničních trzích, aniž by omezovala pravomoc NRA vymezit trhy na národní úrovni.
+
+**4. Subsumpce.** Podmínkou žádosti podle odst. 1 je (i) společný postup jednoho nebo více dotčených NRA, (ii) existence vážného problému na straně poptávky a (iii) vazba na produkty/služby na trzích uvedených v Doporučení. Analýza BEREC nenahrazuje určení nadnárodních trhů podle § 51 odst. 13 ani národní vymezení podle § 52. Odst. 2 umožňuje koordinované oznámení návrhu opatření i bez nadnárodního trhu, jsou-li tržní podmínky ve všech dotčených státech dostatečně srovnatelné.
+
+**5. Řešení.** ČTÚ a sousední NRA mohou podat BEREC odůvodněnou žádost o analýzu nadnárodní poptávky, doloží-li vážný problém na straně poptávky. Výsledek analýzy je podkladem, nikoli závazným určením — pravomoc Úřadu vymezit trhy na národní nebo nižší úrovni zůstává nedotčena. Procesně navazuje konzultace podle § 130 a 131. Riziko: analýza BEREC nemá normotvornou povahu; samotné regulatorní opatření musí vzejít z postupu podle § 51 a § 52.
+
+**6. Varianty.** (a) Kdyby šlo o trh, který Komise určila jako nadnárodní, postupovalo by se podle § 51 odst. 13 (koordinovaná analýza a rozhodnutí), nikoli pouze podle § 52a. (b) Kdyby tržní podmínky v dotčených státech srovnatelné nebyly, koordinované oznámení podle odst. 2 by nebylo namístě.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* operátor namítne, že analýza BEREC fakticky předjímá regulaci bez řádného procesu. Neutralizace: odst. 1 výslovně stanoví, že analýzou není dotčeno určení trhů; regulatorní opatření vzniká až postupem podle § 51/52 s konzultací.
+- *Protiargument:* „vážný problém na straně poptávky" je neurčitý a snadno zneužitelný. Neutralizace: žádost musí být odůvodněná a doložená daty o přeshraniční poptávce; BEREC žádost posuzuje.
+- *Slabé místo:* § 52a je implementační, procesní povahy — sám o sobě nezakládá povinnosti podnikům; jeho praktický význam závisí na navazujícím postupu podle § 51.
+
+#### H. Praktický závěr
+
+§ 52a zavádí dva nástroje nadnárodní spolupráce NRA: žádost BEREC o analýzu nadnárodní poptávky (odst. 1) a koordinované oznámení návrhu opatření při srovnatelných podmínkách (odst. 2). Oba slouží harmonizaci, aniž by omezovaly národní pravomoc vymezit trhy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o společný postup dotčených NRA s doloženým vážným problémem na straně poptávky (odst. 1)?
+- [ ] Týká se poptávka produktů/služeb na trzích z Doporučení Komise?
+- [ ] Je zřejmé, že analýza BEREC nenahrazuje určení nadnárodních (§ 51 odst. 13) ani národních (§ 52) trhů?
+- [ ] Při postupu podle odst. 2: jsou tržní podmínky v dotčených státech dostatečně srovnatelné?
+
+**Typicky rozhodné důkazy / podklady:** data o přeshraniční poptávce, odůvodnění vážného problému, doklad o srovnatelnosti tržních podmínek, Doporučení Komise, výstup analýzy BEREC.
 
 ---
 
@@ -500,6 +1008,42 @@ Odst. 3 umožňuje označit jako SMP více subjektů se **společnou VTS** (coll
 
 SMP podnik není totéž co dominantní podnik v soutěžněprávním smyslu, i když jsou koncepty funkčně blízké. Úřad (ČTÚ) může uložit povinnosti SMP podniku i tehdy, kdy ÚOHS žádné porušení neshledal — a naopak, ÚOHS může stíhat SMP podnik za zneužití dominantního postavení, i když ČTÚ opatření neuložil. Obě pravomoci existují paralelně a nezávisle. Koordinace je zajištěna konzultační povinností (§ 51 odst. 5 — stanovisko ÚOHS) a obecnou zásadou loajální spolupráce správních orgánů.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ analyzuje oligopolní velkoobchodní trh, na němž působí tři mobilní operátoři s obdobnými podíly, paralelní cenovou politikou a vysokou transparentností trhu. Žádný z nich není individuálně dominantní, ale jejich chování vykazuje znaky tiché koordinace (parallel pricing). Úřad zvažuje stanovit je jako podniky se společnou VTS. Účastníci: ČTÚ, tři operátoři, alternativní poskytovatelé závislí na velkoobchodním vstupu, ÚOHS. Důkazy: data o tržních podílech, cenovém vývoji, transparentnosti trhu, bariérách vstupu, struktuře nabídky.
+
+**2. Právní otázka.** Lze tři operátory bez individuální dominance stanovit jako podniky se společnou významnou tržní silou podle § 53 odst. 3 a 4, jsou-li splněny podmínky kolektivní dominance?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 53 — definice VTS jako schopnosti chovat se nezávisle na konkurenci a zákaznících (odst. 1), přenesení tržní síly na úzce související trh / leverage (odst. 2), samostatná i společná VTS (odst. 3), posuzování společné VTS podle pokynů Komise (odst. 4).
+- *Související ustanovení téhož zákona:* § 51 (analýza trhu a uložení opatření, odst. 15 — přenesení na související trh), § 52 (relevantní trh), § 81, § 82, § 84, § 86, § 56–57 (nápravná opatření).
+- *Související předpisy:* EECC čl. 63 a příloha; Pokyny Komise pro analýzu trhu a posuzování VTS (2018/C 159/01); čl. 102 SFEU a § 10 zákona č. 143/2001 Sb. (dominantní postavení).
+- *Judikatura:* SDEU United Brands (27/76) — nezávislé chování jako test dominance; Airtours v. Komise (T-342/99) a Laurent Piau (T-193/02) — podmínky kolektivní dominance (transparentnost trhu, udržitelnost koordinace, neexistence účinné konkurenční reakce a protitlaku odběratelů).
+
+**4. Subsumpce.** Podle odst. 1 je VTS schopnost chovat se ve značné míře nezávisle na konkurenci a zákaznících — funkční ekvivalent dominance (United Brands). Společná VTS (odst. 3) předpokládá splnění podmínek kolektivní dominance dle pokynů Komise (odst. 4) a kritérií Airtours: dostatečná transparentnost trhu, udržitelnost tiché koordinace (odvetný mechanismus) a absence účinného protitlaku konkurentů a odběratelů. Paralelní cenová politika a vysoká transparentnost svědčí pro splnění; chybí-li odvetný mechanismus, společná VTS by nebyla prokázána.
+
+**5. Řešení.** Úřad může stanovit tři operátory jako podniky se společnou VTS, prokáže-li kumulativně podmínky kolektivní dominance podle pokynů Komise a kritérií Airtours. Stanovení probíhá v rámci § 51 (rozhodnutím na základě analýzy). Procesně: nezbytné je stanovisko ÚOHS (§ 51 odst. 5) a konzultace. Riziko: kolektivní dominance je důkazně náročná — neprokázání byť jedné podmínky (zejména udržitelnosti koordinace) vede k neúspěchu. Alternativa: leverage podle odst. 2 ve spojení s § 51 odst. 15 umožňuje regulaci na souvisejícím trhu.
+
+**6. Varianty.** (a) Kdyby jeden operátor měl výrazně vyšší podíl a působil nezávisle, šlo by spíše o samostatnou VTS (odst. 1) než o společnou. (b) Kdyby operátor s VTS na velkoobchodním trhu mohl přenést sílu na maloobchodní trh (vazby umožňující leverage), Úřad by podle odst. 2 a § 51 odst. 15 mohl regulovat i tento související trh.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* operátoři namítnou, že paralelní ceny jsou výsledkem běžné soutěže, nikoli koordinace. Neutralizace: Úřad musí doložit udržitelný koordinační mechanismus (Airtours); pouhá paralelita nestačí, ale spolu s transparentností a bariérami vstupu může podmínky naplnit.
+- *Protiargument:* SMP status je totožný s dominancí a duplikuje pravomoc ÚOHS. Neutralizace: SMP a dominance jsou funkčně blízké, ale pravomoci ČTÚ a ÚOHS jsou paralelní a nezávislé; koordinaci zajišťuje stanovisko ÚOHS (§ 51 odst. 5).
+- *Slabé místo:* kolektivní dominance je v praxi obtížně prokazatelná a často napadána u soudu; doporučuje se opřít analýzu důsledně o pokyny Komise a Airtours/Piau.
+
+#### H. Praktický závěr
+
+§ 53 definuje podnik s VTS jako funkční ekvivalent dominantního postavení (United Brands) a umožňuje stanovit samostatnou i společnou VTS (odst. 3) a přenesení tržní síly na úzce související trh (odst. 2, leverage). Posuzování společné VTS se řídí pokyny Komise a doktrínou kolektivní dominance.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je naplněn test nezávislého chování na konkurenci a zákaznících (odst. 1)?
+- [ ] U společné VTS: jsou splněny podmínky kolektivní dominance dle pokynů Komise a kritérií Airtours (odst. 3 a 4)?
+- [ ] Existují vazby umožňující přenesení tržní síly na úzce související trh (odst. 2, ve spojení s § 51 odst. 15)?
+- [ ] Bylo stanovení provedeno v rámci § 51 se stanoviskem ÚOHS a konzultací?
+
+**Typicky rozhodné důkazy / podklady:** data o tržních podílech a cenovém vývoji, analýza transparentnosti trhu a bariér vstupu, vyhodnocení udržitelnosti koordinace, stanovisko ÚOHS, pokyny Komise pro posuzování VTS.
+
 ---
 
 **— DÍL 8: CENY A REGULACE CEN (§§ 54–60) —**
@@ -515,6 +1059,42 @@ SMP podnik není totéž co dominantní podnik v soutěžněprávním smyslu, i 
 #### Cenová transparentnost jako obecná povinnost
 
 § 54 zakotvuje dvě základní povinnosti v oblasti cenové transparentnosti, vztahující se na všechny poskytovatele veřejně dostupných služeb elektronických komunikací (nikoli jen na SMP podniky). (i) Povinnost **předchozího zveřejnění** cen před jejich nabytím platnosti (ex ante transparentnost) zahrnuje i způsob umožňující dálkový přístup — typicky webová stránka operátora. Zvláštní právní předpis, na nějž § 54 odkazuje, zahrnuje zákon č. 526/1990 Sb. o cenách. (ii) Povinnost **okamžitého předkládání** platných cen Úřadu na vyžádání v elektronické podobě umožňuje regulátoru průběžný monitoring cenové úrovně jako vstupní data pro případnou analýzu trhů a cenovou regulaci.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ při monitoringu zjistí, že operátor zvýšil maloobchodní ceny mobilních datových tarifů, ale na svých internetových stránkách nové ceny ani určené podmínky před nabytím platnosti nezveřejnil — zákazníci se o zvýšení dozvěděli až z vyúčtování. Úřad následně operátora vyzve k bezodkladnému předložení platných ceníků v elektronické podobě, ale operátor reaguje s několikatýdenním zpožděním. Účastníci: operátor (poskytovatel veřejně dostupné služby), ČTÚ, dotčení účastníci. Důkazy: archiv internetových stránek, ceníky a jejich datace, výzva Úřadu a doklad o lhůtě poskytnutí.
+
+**2. Právní otázka.** Porušil operátor povinnost předchozího zveřejnění cen podle § 54 písm. a) a povinnost bezodkladného předložení cen Úřadu podle písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 54 — povinnost uveřejnit ceny a jejich změny včetně určených podmínek před nabytím platnosti, i dálkovým přístupem (písm. a); povinnost bezodkladně předkládat platné ceny Úřadu na vyžádání v elektronické podobě (písm. b).
+- *Související ustanovení téhož zákona:* § 56 (regulace cen — monitoring vstupních dat), § 63 (smluvní podmínky), § 47 (informování), ustanovení Hlavy IV o právech účastníků.
+- *Související předpisy:* zákon č. 526/1990 Sb. o cenách (zvláštní právní předpis, na nějž § 54 odkazuje); zákon č. 634/1992 Sb. o ochraně spotřebitele; EECC čl. 102–103 (transparentnost informací).
+- *Judikatura:* nosný závěr ustálené praxe ochrany spotřebitele: změna ceny musí být spotřebiteli oznámena předem a transparentně; dodatečné oznámení až ve vyúčtování nesplňuje požadavek předchozího zveřejnění.
+
+**4. Subsumpce.** Písm. a) ukládá uveřejnit ceny a jejich změny před nabytím platnosti, a to i dálkovým přístupem — operátor tím, že nové ceny nezveřejnil před nabytím platnosti, povinnost porušil. Písm. b) ukládá předložit platné ceny Úřadu bezodkladně na vyžádání v elektronické podobě — několikatýdenní zpoždění „bezodkladnosti" neodpovídá, jde o druhé, samostatné porušení. Obě povinnosti dopadají na všechny poskytovatele veřejně dostupných služeb, nikoli jen na SMP podniky.
+
+**5. Řešení.** Operátor porušil obě povinnosti § 54. ČTÚ může uplatnit dohledové nástroje (výzva k nápravě, sankce za správní delikt). Předchozí zveřejnění je předpokladem cenové transparentnosti vůči spotřebitelům; bezodkladné předložení cen Úřadu je předpokladem monitoringu pro případnou cenovou regulaci (§ 56 odst. 3). Procesně: zjištění se opírá o archiv internetových stránek a dataci ceníků. Riziko: opakované porušení může být přitěžující okolností a podkladem pro intenzivnější dohled.
+
+**6. Varianty.** (a) Kdyby operátor ceny zveřejnil před nabytím platnosti a Úřadu je předložil bezodkladně, k porušení by nedošlo. (b) Kdyby šlo o SMP podnik s uloženou cenovou regulací, povinnosti § 54 by se kumulovaly s povinnostmi prokazovat nákladovou orientaci podle § 60.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* operátor namítne, že ceny byly dostupné v prodejnách, tudíž transparentnost byla zajištěna. Neutralizace: písm. a) vyžaduje zveřejnění před nabytím platnosti a způsobem umožňujícím dálkový přístup — fyzická dostupnost nestačí.
+- *Protiargument:* „bezodkladně" není pevná lhůta, takže zpoždění nelze sankcionovat. Neutralizace: bezodkladnost znamená bez zbytečného odkladu; několikatýdenní prodlení jí zjevně neodpovídá.
+- *Slabé místo:* odkaz na „zvláštní právní předpis" vyžaduje ověření aktuálního znění zákona o cenách a souvisejících podmínek zveřejňování.
+
+#### H. Praktický závěr
+
+§ 54 ukládá všem poskytovatelům veřejně dostupných služeb dvě transparenční povinnosti: předchozí zveřejnění cen a změn (i dálkovým přístupem) a bezodkladné předložení platných cen Úřadu na vyžádání. Slouží ochraně spotřebitele i monitoringu cen pro případnou regulaci.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Byly ceny a jejich změny zveřejněny před nabytím platnosti, i způsobem umožňujícím dálkový přístup (písm. a)?
+- [ ] Byly určené podmínky zveřejněny spolu s cenami?
+- [ ] Předložil poskytovatel platné ceny Úřadu bezodkladně a v elektronické podobě (písm. b)?
+- [ ] Jde o poskytovatele veřejně dostupné služby / poskytovatele univerzální služby (osobní působnost)?
+
+**Typicky rozhodné důkazy / podklady:** archiv internetových stránek a datace ceníků, ceníky a určené podmínky, výzva Úřadu a doklad o lhůtě poskytnutí, vyúčtování dokládající okamžik oznámení změny.
 
 ---
 
@@ -540,6 +1120,42 @@ SMP podnik není totéž co dominantní podnik v soutěžněprávním smyslu, i 
 #### Vztah k regulaci cen SMP podniku (§ 56–57)
 
 § 55 dopadá na každého podnikatele povinného propojit sítě (§ 34), zatímco §§ 56–57 upravují cenovou regulaci pro SMP podniky. Tyto dvě úpravy se překrývají u SMP podniků, u nichž Úřad uložil povinnost nákladové orientace cen (§ 60). U podnikatelů, kteří nejsou SMP podniky, je § 55 jedinou normou zavazující ke sjednání nákladově orientovaných cen propojení — bez regulatorního rozhodnutí Úřadu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Operátor A povinný propojit se s jinými sítěmi podle § 34 účtuje operátorovi B za přenesení telefonního čísla (portaci) cenu, kterou B považuje za nepřiměřeně vysokou, neodpovídající skutečným nákladům. ČTÚ ve sporu o ceně rozhoduje, jakou cenu má A účtovat. A namítá, že Úřad měl postupovat podle obecných ustanovení o podpoře soutěže (§ 4, § 5), nikoli podle § 55. Účastníci: operátor A (povinný k propojení), operátor B, ČTÚ. Důkazy: kalkulace nákladů na portaci, doklady o efektivně a účelně vynaložených nákladech a přiměřeném zisku, srovnání s náklady jiných operátorů.
+
+**2. Právní otázka.** Podle jaké úpravy má Úřad stanovit cenu za přenesení telefonního čísla — podle speciální úpravy nákladové orientace v § 55, nebo podle obecných ustanovení o podpoře hospodářské soutěže?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 55 — povinnost sjednat ceny za propojení nákladově orientovaně pro subjekty povinné podle § 34 (odst. 1); autonomní definice nákladově orientované ceny (odst. 2: efektivně a účelně vynaložené náklady + přiměřený zisk + návratnost investic se zohledněním rizik).
+- *Související ustanovení téhož zákona:* § 34 (povinné propojení), § 4 a § 5 odst. 1 písm. b) (obecná podpora soutěže), § 56–57 (regulace cen SMP), § 60 (prokazování nákladové orientace), § 86 (oddělená evidence nákladů).
+- *Související předpisy:* EECC čl. 70–74; zákon č. 526/1990 Sb. o cenách; doktrína Altmark k přiměřenému zisku.
+- *Judikatura:* **NSS 5 A 147/2010 - 135 (14. 11. 2014)** — citováno v komentáři: Úřad je sice obecně povinen dbát o hospodářskou soutěž (§ 4, § 5), ale při stanovení ceny za přenesení čísla musí postupovat podle **speciální úpravy § 55 odst. 1 a 2** — dbát, aby ceny zahrnovaly účelně vynaložené náklady a přiměřený zisk.
+
+**4. Subsumpce.** Operátor A je subjektem povinným poskytovat službu podle § 34, a proto se na sjednání cen za propojení vztahuje § 55 — povinnost nákladové orientace. Cena za přenesení čísla musí podle odst. 2 zahrnovat efektivně a účelně vynaložené náklady a přiměřený zisk. Podle NSS 5 A 147/2010 je § 55 odst. 1 a 2 **speciální úpravou**, která má při stanovení této ceny přednost před obecnými ustanoveními § 4 a § 5. Námitka A o použití obecné úpravy je proto nedůvodná.
+
+**5. Řešení.** Úřad postupuje správně, stanoví-li cenu podle § 55 odst. 2 tak, aby zahrnovala účelně vynaložené náklady a přiměřený zisk; obecná ustanovení o podpoře soutěže nejsou pro určení výše ceny rozhodující (NSS 5 A 147/2010). Procesně: Úřad vychází z kalkulace nákladů A a může ji ověřit. Riziko: nezohlednění přiměřeného zisku nebo investičních rizik (vč. rizik nových sítí) by cenu podhodnotilo a odporovalo odst. 2.
+
+**6. Varianty.** (a) Kdyby A byl SMP podnikem s uloženou povinností nákladové orientace, aplikoval by se navíc § 60 (prokazování souladu s oddělenou evidencí § 86) a § 56–57. (b) Kdyby A nebyl povinen propojit se podle § 34, povinnost nákladové orientace podle § 55 by se na něj nevztahovala.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* povinný operátor namítne, že má postupovat podle obecné úpravy soutěže. Neutralizace: NSS 5 A 147/2010 výslovně určuje § 55 odst. 1 a 2 jako speciální úpravu s předností; obecná ustanovení § 4 a § 5 výši ceny neurčují.
+- *Protiargument:* „přiměřený zisk" je neurčitý a umožňuje nadhodnocení ceny. Neutralizace: zisk je vázán na efektivně a účelně vynaložené náklady a přiměřenou návratnost se zohledněním rizik; Úřad může kalkulaci ověřit a porovnat se srovnatelnými trhy.
+- *Slabé místo:* § 55 nedefinuje konkrétní metodu výpočtu (LRIC apod.) — ta se odvíjí od regulatorní praxe a u SMP od § 60; bez metodiky je posouzení nákladovosti náročné.
+
+#### H. Praktický závěr
+
+§ 55 ukládá subjektům povinným k propojení (§ 34) sjednat nákladově orientované ceny — zahrnující efektivně a účelně vynaložené náklady, přiměřený zisk a návratnost investic se zohledněním rizik. Podle NSS 5 A 147/2010 jde o speciální úpravu, podle níž se stanoví i cena za přenesení telefonního čísla.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je subjekt povinen poskytovat službu podle § 34 (osobní působnost § 55)?
+- [ ] Zahrnuje sjednaná cena pouze efektivně a účelně vynaložené náklady a přiměřený zisk (odst. 2)?
+- [ ] Byla zohledněna návratnost investic a rizika, včetně rizik nových sítí?
+- [ ] Postupuje Úřad podle speciální úpravy § 55, nikoli obecné (§ 4, § 5) — NSS 5 A 147/2010?
+
+**Typicky rozhodné důkazy / podklady:** kalkulace nákladů na propojení/portaci, doklady o efektivně a účelně vynaložených nákladech, výpočet přiměřeného zisku a návratnosti, srovnání s cenami srovnatelných trhů.
 
 ---
 
@@ -569,6 +1185,42 @@ SMP podnik není totéž co dominantní podnik v soutěžněprávním smyslu, i 
 
 Odst. 4 zakotvuje podstatné omezení regulatorní pravomoci Úřadu: při uplatnění cenové regulace musí Úřad dbát, aby cena byla **přinejmenším nákladová**. Tím zákon garantuje regulovanému subjektu, že cenové rozhodnutí nepovede k cenovému stlačení pod úroveň efektivně a účelně vynaložených nákladů. Výjimka pro služby dle § 43 (zvláštní opatření pro osoby se zdravotním postižením — speciálně vybavená zařízení za standardní cenu) odráží sociální charakter těchto povinností, kde cenová dotace je záměrnou součástí mechanismu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ na základě analýzy trhu uloží SMP podniku regulaci cen velkoobchodního přístupu rozhodnutím o ceně. Podnik namítá, že stanovená cena je nižší než jeho efektivně a účelně vynaložené náklady a vede k cenovému stlačení pod nákladovou úroveň, čímž je ohrožena návratnost jeho investic. Současně účtuje DPH a tvrdí, že regulovaná cena měla DPH zahrnovat. Účastníci: SMP podnik, ČTÚ, alternativní operátoři (odběratelé přístupu). Důkazy: rozhodnutí o ceně a jeho metodika, kalkulace nákladů podniku, doklady o investicích a oddělené evidenci (§ 86).
+
+**2. Právní otázka.** Smí Úřad stanovit regulovanou cenu pod úrovní efektivně a účelně vynaložených nákladů, a zahrnuje regulace cen i DPH?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 56 — definice regulace cen jako stanovení/usměrňování cen bez DPH (odst. 1), dvojí oblast uplatnění (univerzální služba a SMP, odst. 2), monitoring (odst. 3), garance přinejmenším nákladové ceny s výjimkou služeb podle § 43 (odst. 4).
+- *Související ustanovení téhož zákona:* § 57 (podmínky uplatnění regulace), § 58 (způsoby regulace), § 59 (rozhodnutí o ceně), § 60 (prokazování nákladové orientace), § 45 (cenová dostupnost), § 43 (výjimka), § 86 (oddělená evidence).
+- *Související předpisy:* zákon č. 235/2004 Sb. o DPH (DPH jako průchozí plnění); EECC čl. 74; zákon č. 526/1990 Sb. o cenách.
+- *Judikatura:* nosný závěr ke garanci nákladové ceny — regulátor nesmí cenovým rozhodnutím vyvolat stlačení pod efektivně vynaložené náklady (srov. logiku zákazu margin squeeze v Deutsche Telekom, C-280/08 P); cena musí pokrýt alespoň náklady regulovaného subjektu.
+
+**4. Subsumpce.** Podle odst. 1 se regulace týká cen **bez DPH** — DPH je průchozí plnění, na jehož sazbu podnik nemá vliv; námitka o zahrnutí DPH je nedůvodná. Podle odst. 4 musí být cena plynoucí z rozhodnutí Úřadu **přinejmenším nákladová** (s výjimkou služeb podle § 43). Stanovení ceny pod úrovní efektivně a účelně vynaložených nákladů by tuto garanci porušilo. Tvrzení podniku o ceně pod náklady je tedy relevantní, jde-li skutečně o efektivně a účelně vynaložené náklady — což podléhá ověření (§ 60).
+
+**5. Řešení.** Úřad musí stanovit cenu tak, aby byla přinejmenším nákladová (odst. 4); pokud by regulovaná cena byla pod úrovní efektivně a účelně vynaložených nákladů, byla by v rozporu se zákonem (s výjimkou služeb § 43). DPH se do regulované ceny nezahrnuje (odst. 1). Procesně: regulace SMP cen je podmíněna analýzou trhu (§ 57) a provádí se rozhodnutím o ceně (§ 59). Riziko: podnik musí prokázat, že tvrzené náklady jsou skutečně efektivní a účelné (§ 60), jinak garance odst. 4 nehraje v jeho prospěch.
+
+**6. Varianty.** (a) Kdyby šlo o služby podle § 43 (zdravotně postižení), garance nákladovosti by se neuplatnila — cenová dotace je zde záměrná (odst. 4 in fine). (b) Kdyby šlo o ceny univerzální služby (nikoli SMP), regulace by se vázala na cenovou dostupnost podle § 45, nikoli na analýzu trhu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* podnik tvrdí, že každá regulace pod jeho požadovanou cenou je pod náklady. Neutralizace: odst. 4 garantuje jen efektivně a účelně vynaložené náklady; neefektivní náklady podnik nárokovat nemůže a jejich účelnost ověřuje Úřad (§ 60).
+- *Protiargument:* regulace má zahrnovat DPH, jinak je výpočet neúplný. Neutralizace: odst. 1 výslovně reguluje ceny bez DPH — DPH je cizí daňové plnění mimo dispozici podniku.
+- *Slabé místo:* hranice mezi „efektivně a účelně vynaloženými" a neefektivními náklady je sporná a závisí na metodice (§ 59) a oddělené evidenci (§ 86); bez nich je garance odst. 4 obtížně aplikovatelná.
+
+#### H. Praktický závěr
+
+§ 56 vymezuje regulaci cen (bez DPH) ve dvou oblastech — univerzální služba a ceny SMP podniku — prováděnou rozhodnutím o ceně, a garantuje, že regulovaná cena bude přinejmenším nákladová (s výjimkou služeb podle § 43). Tím chrání návratnost investic regulovaného subjektu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Týká se regulace ceny bez DPH (odst. 1)?
+- [ ] Jde o cenu univerzální služby nebo cenu SMP podniku na regulovaném trhu (odst. 2)?
+- [ ] Je cena plynoucí z rozhodnutí přinejmenším nákladová (odst. 4), nejde-li o služby podle § 43?
+- [ ] Provádí se regulace rozhodnutím o ceně (§ 59) a u SMP po analýze trhu (§ 57)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o ceně a jeho metodika, kalkulace efektivně a účelně vynaložených nákladů, doklady oddělené evidence (§ 86), údaje monitoringu cen (odst. 3).
+
 ---
 
 ### § 57 — Uplatnění regulace cen
@@ -590,6 +1242,42 @@ Odst. 4 zakotvuje podstatné omezení regulatorní pravomoci Úřadu: při uplat
 #### Investiční ochrana a podpora NGN sítí (odst. 3)
 
 Odst. 3 obsahuje zásadní investičně-regulatorní směrnici: Úřad musí v rozhodnutí o ceně zohledňovat (i) potřebu podpory hospodářské soutěže, (ii) dlouhodobé zájmy uživatelů ve vztahu k vysokorychlostním sítím, (iii) přiměřenou návratnost investic s přihlédnutím k investičním rizikům a (iv) prediktabilitu velkoobchodních cen jako pobídku pro vstup alternativních operátorů. Tato úprava transpozuje čl. 74 odst. 2 EECC. Je to norma s výraznou teleologickou dimenzí — cenová regulace nesmí být drakonická natolik, aby odrazovala od investic do sítí nové generace (NGN/VHCN — very high capacity networks), neboť by tím podkopávala cíl Digitální dekády EU.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ provede analýzu velkoobchodního trhu přístupu a zjistí, že trh není efektivně konkurenční a hrozí uplatňování nepřiměřeně vysokých cen v neprospěch koncových uživatelů. Úřad nejprve uloží SMP podniku povinnosti průhlednosti, nediskriminace a přístupu (§ 51 odst. 6 písm. a–d, f), ty však k nápravě nevedou. Úřad proto zvažuje cenovou regulaci a v rozhodnutí o ceně musí zohlednit investice podniku do sítí s velmi vysokou kapacitou (VHCN). Účastníci: SMP podnik (investor do VHCN), ČTÚ, alternativní operátoři. Důkazy: analýza trhu, doklady o investicích do NGN/VHCN, kalkulace nákladů a rizik.
+
+**2. Právní otázka.** Za jakých podmínek může Úřad přistoupit k cenové regulaci a jak musí v rozhodnutí o ceně zohlednit investice do vysokorychlostních sítí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 57 — dvoustupňová podmíněnost regulace: prokázání absence efektivní soutěže analýzou (odst. 1: velkoobchod, odst. 2: maloobchod) a subsidiarita vůči opatřením § 51 odst. 6 písm. a–d a f; investiční ochrana a podpora NGN/VHCN (odst. 3).
+- *Související ustanovení téhož zákona:* § 51 (analýza a nápravná opatření), § 56 (regulace cen a garance nákladovosti), § 58 (způsoby regulace), § 59 (rozhodnutí o ceně), § 60 (prokazování), § 86 (oddělená evidence).
+- *Související předpisy:* EECC čl. 74 odst. 2 (podpora investic do VHCN); Doporučení Komise o nákladových metodikách a nediskriminaci; cíle Digitální dekády EU.
+- *Judikatura:* nosný závěr unijní praxe — cenová regulace nesmí být natolik restriktivní, aby odrazovala od investic do sítí nové generace; regulátor musí umožnit přiměřenou návratnost s přihlédnutím k investičním rizikům.
+
+**4. Subsumpce.** Podmínka odst. 1 (velkoobchodní trh) je splněna: analýza prokázala absenci efektivní soutěže a hrozbu nepřiměřených cen. Subsidiarita je splněna rovněž — opatření § 51 odst. 6 písm. a–d a f) byla uložena, ale nevedla k nápravě. Úřad je tedy oprávněn uplatnit cenovou regulaci. Podle odst. 3 musí v rozhodnutí o ceně zohlednit podporu soutěže, dlouhodobé zájmy uživatelů ve vztahu k VHCN, přiměřenou návratnost investovaného kapitálu se zohledněním rizik a prediktabilitu velkoobchodních cen.
+
+**5. Řešení.** Úřad může přistoupit k cenové regulaci, protože mírnější opatření selhala (subsidiarita). V rozhodnutí o ceně musí vyvážit dva cíle: nápravu tržního selhání a ochranu investičních pobídek do VHCN (odst. 3) — cena nesmí být drakonická. Procesně navazuje § 58 (volba způsobu) a § 59 (rozhodnutí o ceně, metodika, konzultace). Riziko: nedostatečné zohlednění investic a rizik by rozhodnutí činilo nezákonným pro rozpor s odst. 3 a podkopávalo cíl rozvoje VHCN.
+
+**6. Varianty.** (a) Kdyby opatření § 51 odst. 6 (průhlednost, nediskriminace, přístup) k nápravě postačovala, cenová regulace by nebyla namístě (subsidiarita, odst. 1). (b) U maloobchodního trhu (odst. 2) je cenová regulace dále podmíněna tím, že nestačí ani regulace velkoobchodní (odst. 1) — jde o ještě vyšší stupeň subsidiarity.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* SMP podnik namítne, že cenová regulace jako taková odrazuje od investic do VHCN. Neutralizace: odst. 3 výslovně ukládá zohlednit investice a umožnit přiměřenou návratnost s riziky; cena nemá být restriktivní, nýbrž vyvážená.
+- *Protiargument:* Úřad mohl rovnou regulovat ceny bez předchozích mírnějších opatření. Neutralizace: odst. 1 zakotvuje subsidiaritu — cenová regulace nastupuje až po selhání opatření § 51 odst. 6 písm. a–d a f).
+- *Slabé místo:* posouzení „přiměřené návratnosti" a investičních rizik je metodicky náročné a sporné (§ 59); chybná metodika je nejčastějším důvodem zrušení cenového rozhodnutí.
+
+#### H. Praktický závěr
+
+§ 57 podmiňuje cenovou regulaci dvoustupňově: prokázáním absence efektivní soutěže analýzou a subsidiaritou vůči mírnějším opatřením § 51 odst. 6. V rozhodnutí o ceně musí Úřad zohlednit investice do NGN/VHCN a umožnit přiměřenou návratnost se zohledněním rizik (odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Prokázala analýza absenci efektivní soutěže (hrozba nepřiměřených cen — odst. 1, nebo selhání maloobchodu — odst. 2)?
+- [ ] Selhala mírnější opatření podle § 51 odst. 6 písm. a–d a f) (subsidiarita)?
+- [ ] U maloobchodu: nepostačovala ani regulace velkoobchodní (odst. 2)?
+- [ ] Zohlednilo rozhodnutí o ceně investice do VHCN, přiměřenou návratnost a prediktabilitu cen (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** analýza relevantního trhu, doklady o selhání mírnějších opatření, doklady o investicích do NGN/VHCN a investičních rizicích, kalkulace návratnosti kapitálu, metodika rozhodnutí o ceně.
 
 ---
 
@@ -619,6 +1307,42 @@ Odst. 3 obsahuje zásadní investičně-regulatorní směrnici: Úřad musí v r
 
 Zákon výslovně povoluje kumulaci způsobů regulace — Úřad může kombinovat např. price-cap s povinností nákladové orientace a zákazem stlačování marží.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vertikálně integrovaný SMP podnik nastavuje velkoobchodní cenu přístupu tak vysoko, že alternativní operátoři nemohou na maloobchodním trhu nabídnout konkurenceschopnou cenu — dochází ke stlačování marží (margin squeeze). ČTÚ chce zasáhnout a zvažuje kombinaci nástrojů: závazný kalkulační postup s nákladovou orientací, zákaz stlačování marží s povinností replikovatelnosti nabídek a dočasně i cenové moratorium. Účastníci: vertikálně integrovaný SMP podnik, ČTÚ, alternativní operátoři. Důkazy: velkoobchodní a maloobchodní ceníky, test replikovatelnosti, kalkulace marží, srovnání s cenami srovnatelných trhů.
+
+**2. Právní otázka.** Jaké způsoby regulace cen může Úřad uplatnit proti stlačování marží vertikálně integrovaného SMP podniku a lze tyto způsoby kombinovat?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 58 — katalog způsobů regulace: min./max. ceny vč. benchmarkingu (odst. 1 písm. a, odst. 2), podmínkové usměrňování vč. price-cap, cost-passthrough, nákladové orientace a zákazu stlačování marží s replikovatelností (písm. b body 1–4), cenové moratorium max. 12 měsíců (písm. c), přípustnost kumulace (odst. 3).
+- *Související ustanovení téhož zákona:* § 57 (podmínky uplatnění regulace), § 56 (garance nákladovosti), § 59 (rozhodnutí o ceně), § 60 (prokazování), § 86 (oddělená evidence), § 51 (analýza a VTS).
+- *Související předpisy:* EECC čl. 74; Doporučení Komise o nediskriminaci a nákladových metodikách.
+- *Judikatura:* SDEU Deutsche Telekom AG v. Komise (C-280/08 P) a TeliaSonera (C-52/09) — stlačování marží vertikálně integrovaného dominantního operátora je samostatným zneužitím dominance; test replikovatelnosti nabídky (equally efficient competitor) je nosným kritériem.
+
+**4. Subsumpce.** Stlačování marží spadá pod § 58 odst. 1 písm. b) bod 4 — Úřad může uložit závazný postup tvorby cen na souvisejících maloobchodních trzích vertikálně integrovaného podniku, včetně zákazu stlačování marží a povinnosti zajistit replikovatelnost nabídek. Nákladovou orientaci lze uložit podle bodu 3, price-cap podle bodu 1. Cenové moratorium (písm. c) je přípustné jako dočasné opatření, nejvýše na 12 měsíců. Odst. 3 výslovně umožňuje kumulaci — Úřad může nástroje účelně spojit.
+
+**5. Řešení.** Úřad může proti stlačování marží uložit zákaz stlačování marží s povinností replikovatelnosti (bod 4), kombinovaný se závaznou nákladovou orientací (bod 3), a přechodně i cenové moratorium (písm. c, max. 12 měsíců). Kumulace je zákonná (odst. 3). Test replikovatelnosti se opírá o standard stejně efektivního konkurenta (Deutsche Telekom, TeliaSonera). Procesně: volba způsobu se promítne do rozhodnutí o ceně (§ 59) s metodickým odůvodněním. Riziko: každý kumulovaný nástroj musí být proporcionální a odůvodněný; moratorium nesmí překročit 12 měsíců.
+
+**6. Varianty.** (a) Kdyby podnik nebyl vertikálně integrován, nástroj podle bodu 4 (zákaz margin squeeze) by nebyl namístě — uplatnily by se spíše body 1–3 nebo přímá regulace písm. a). (b) Kdyby šlo o čistě dočasný problém, Úřad by mohl vystačit s cenovým moratoriem (písm. c) bez trvalejších nástrojů.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* podnik namítne nepřípustnou kumulaci více nástrojů. Neutralizace: odst. 3 kumulaci výslovně povoluje, je-li účelná a proporcionální.
+- *Protiargument:* benchmarking (odst. 2) podle cen jiných trhů nezohledňuje národní specifika. Neutralizace: srovnatelnost trhů je podmínkou; Úřad musí volit skutečně srovnatelné trhy a zohlednit odlišnosti.
+- *Slabé místo:* cenové moratorium je časově omezené (12 měsíců) a jako provizorní nástroj nenahradí sofistikované cenové rozhodnutí; jeho překročení by bylo nezákonné.
+
+#### H. Praktický závěr
+
+§ 58 nabízí taxativní katalog nástrojů cenové regulace ve třech skupinách (přímé ceny/benchmarking, podmínkové usměrňování vč. zákazu stlačování marží s replikovatelností, cenové moratorium max. 12 měsíců), které lze účelně kombinovat (odst. 3). Pro vertikálně integrované SMP podniky je klíčový nástroj proti margin squeeze.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá zvolený nástroj do taxativního katalogu odst. 1 (písm. a–c, vč. bodů b.1–b.4)?
+- [ ] U stlačování marží: jde o vertikálně integrovaný podnik a je uložena povinnost replikovatelnosti (bod 4)?
+- [ ] Nepřekračuje cenové moratorium 12 měsíců (písm. c)?
+- [ ] Je kumulace nástrojů účelná a proporcionální (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** velkoobchodní a maloobchodní ceníky, test replikovatelnosti (stejně efektivní konkurent), kalkulace marží a nákladů, srovnání s cenami srovnatelných trhů (benchmarking).
+
 ---
 
 ### § 59 — Rozhodnutí o ceně
@@ -638,6 +1362,42 @@ Zákon výslovně povoluje kumulaci způsobů regulace — Úřad může kombino
 #### Konzultační povinnost a uveřejnění
 
 Návrh rozhodnutí o ceně podléhá konzultaci dle § 130 (národní) a § 131 (notifikace Komisi a BEREC). Uveřejnění výsledného rozhodnutí (odst. 2) zajišťuje cenovou transparentnost vůči trhu — všichni účastníci (regulovaný podnik, alternativní operátoři, odběratelé přístupu) znají regulovanou cenu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ vydá rozhodnutí o ceně velkoobchodního přístupu pro SMP podnik. V odůvodnění uvede pouze obecně, že cena vychází z nákladového modelu, ale neuvede konkrétní metodu (zda jde o LRIC, LRIC+, retail-minus či benchmarking). SMP podnik podá rozklad a namítá nepřezkoumatelnost rozhodnutí pro absenci metodologického odůvodnění. Účastníci: SMP podnik, ČTÚ, alternativní operátoři jako odběratelé přístupu. Důkazy: rozhodnutí o ceně a jeho odůvodnění, podklady metody výpočtu, výsledky konzultace podle § 130 a 131.
+
+**2. Právní otázka.** Splňuje rozhodnutí o ceně zákonné požadavky § 59 odst. 1, neuvádí-li v odůvodnění konkrétní metodu, která byla podkladem rozhodnutí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 59 — povinnost uvést v odůvodnění metodu postupu Úřadu (odst. 1), konzultace návrhu podle § 130 a 131, uveřejnění rozhodnutí (odst. 2).
+- *Související ustanovení téhož zákona:* § 56–58 (regulace cen a její způsoby), § 60 (prokazování nákladové orientace — metoda jako podklad), § 86 (oddělená evidence), § 130 a 131 (konzultace a notifikace).
+- *Související předpisy:* § 68 odst. 3 zákona č. 500/2004 Sb. (správní řád — obecné náležitosti odůvodnění); EECC čl. 74 a 32 (transparentnost a notifikace).
+- *Judikatura:* nosný závěr ustálené judikatury NSS k přezkoumatelnosti správních rozhodnutí: rozhodnutí bez srozumitelného a úplného odůvodnění (zde metody výpočtu ceny) je nepřezkoumatelné a podléhá zrušení; odůvodnění musí umožnit přezkum úvah správního orgánu.
+
+**4. Subsumpce.** § 59 odst. 1 ukládá nad rámec obecných náležitostí (§ 68 odst. 3 SŘ) výslovně uvést **metodu** postupu Úřadu, která byla podkladem rozhodnutí. Pouhé obecné konstatování „nákladového modelu" bez specifikace metody (LRIC, LRIC+, retail-minus, benchmarking) tento požadavek nesplňuje. Rozhodnutí je proto nepřezkoumatelné — regulovaný podnik ani odvolací orgán nemohou ověřit správnost a přiměřenost výpočtu. Námitka SMP podniku je důvodná.
+
+**5. Řešení.** Rozhodnutí o ceně bez specifikace metody je vadné pro nepřezkoumatelnost a podléhá zrušení v rozkladu nebo správním soudem. Úřad musí v odůvodnění uvést konkrétní metodu, neboť je současně podkladem pro splnění povinnosti prokazovat nákladovou orientaci podle § 60. Procesně: návrh rozhodnutí podléhá konzultaci podle § 130 a 131 a výsledné rozhodnutí se uveřejňuje (odst. 2). Riziko: absence metodologického odůvodnění je častým a úspěšným důvodem zrušení cenového rozhodnutí.
+
+**6. Varianty.** (a) Kdyby Úřad metodu (např. bottom-up LRIC) v odůvodnění transparentně popsal, rozhodnutí by bylo přezkoumatelné a námitka by neuspěla. (b) Kdyby Úřad opomněl konzultaci podle § 130 a 131, rozhodnutí by bylo vadné z procesního důvodu nezávisle na kvalitě metodologického odůvodnění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* Úřad namítne, že metoda je obchodně citlivá a nelze ji plně zveřejnit. Neutralizace: § 59 odst. 1 metodu v odůvodnění vyžaduje; citlivé vstupy lze chránit, ale samotnou metodu výpočtu nikoli vynechat.
+- *Protiargument:* obecné náležitosti odůvodnění (§ 68 SŘ) postačují. Neutralizace: § 59 je speciální a požadavek na uvedení metody přesahuje obecný standard SŘ.
+- *Slabé místo:* zákon nestanoví, kterou metodu Úřad zvolí — volba metody je věcí uvážení, ale musí být odůvodněná a konzultovaná; nedostatečné odůvodnění volby metody je dalším rizikem zrušení.
+
+#### H. Praktický závěr
+
+§ 59 ukládá Úřadu uvést v odůvodnění rozhodnutí o ceně konkrétní metodu výpočtu (LRIC, LRIC+, retail-minus, benchmarking apod.) — jde o nadstandardní požadavek oproti § 68 SŘ, zajišťující přezkoumatelnost. Návrh podléhá konzultaci (§ 130, 131) a rozhodnutí se uveřejňuje.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Uvádí odůvodnění konkrétní metodu, která byla podkladem rozhodnutí (odst. 1)?
+- [ ] Umožňuje odůvodnění přezkum úvah Úřadu (přezkoumatelnost)?
+- [ ] Byl návrh rozhodnutí konzultován podle § 130 a 131?
+- [ ] Bylo rozhodnutí uveřejněno (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o ceně a jeho odůvodnění, popis a podklady metody výpočtu, výsledky národní konzultace a notifikace Komisi/BEREC, doklad o uveřejnění.
 
 ---
 
@@ -662,6 +1422,42 @@ Odst. 1 druhá věta opravňuje Úřad použít metody **nezávislé na metodác
 #### Nápravné rozhodnutí — povinnost úpravy cen (odst. 2)
 
 Zjistí-li Úřad nesoulad s povinností nákladové orientace, uloží rozhodnutím **povinnost upravit ceny** — neopravuje tedy ceny přímo, ale ukládá povinnost úpravy s konkrétním odůvodněním. Tato struktura zachovává hospodářskou autonomii regulovaného podniku (stanovení konkrétní výše ceny je ponecháno podniku) a zároveň zajišťuje regulatorní dohled.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** SMP podnik s uloženou povinností nákladové orientace cen je Úřadem vyzván, aby prokázal, že jeho velkoobchodní ceny přístupu jsou nákladově orientované a v souladu s metodikou oddělené evidence nákladů (§ 86). Podnik předloží vlastní kalkulaci, kterou Úřad ověří nezávislým modelem (bottom-up LRIC) a porovná s cenami srovnatelných trhů; zjistí, že ceny převyšují nákladovou úroveň. Úřad uloží podniku povinnost ceny upravit. Účastníci: SMP podnik, ČTÚ, alternativní operátoři jako odběratelé přístupu. Důkazy: kalkulace podniku, oddělená evidence nákladů (§ 86), nezávislý nákladový model Úřadu, srovnání s cenami srovnatelných trhů.
+
+**2. Právní otázka.** Kdo nese důkazní břemeno při prokazování nákladové orientace cen a může Úřad použít vlastní metodu výpočtu nezávislou na metodě podniku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 60 — přenesení důkazního břemene na SMP podnik při prokazování nákladové orientace a souladu s oddělenou evidencí (odst. 1), oprávnění Úřadu použít nezávislé metody i ceny srovnatelných trhů (odst. 1 věta druhá), nápravné rozhodnutí o povinnosti upravit ceny s odůvodněním (odst. 2).
+- *Související ustanovení téhož zákona:* § 56–57 (regulace cen), § 58 (způsoby regulace, vč. nákladové orientace), § 59 (rozhodnutí o ceně, metoda), § 86 (oddělená evidence nákladů), § 51 (analýza a uložení povinností).
+- *Související předpisy:* EECC čl. 74 a příloha; Doporučení Komise o nákladových metodikách a nediskriminaci; zákon č. 143/2001 Sb. (na rozdíl od něj zde aktivní povinnost prokazovat soulad).
+- *Judikatura:* nosný závěr unijní a správní praxe — v sektorové ex ante regulaci nese regulovaný SMP podnik povinnost aktivně prokázat soulad cen s nákladovým základem; regulátor není vázán kalkulačním modelem podniku a může použít nezávislé metody, čímž se eliminuje informační asymetrie.
+
+**4. Subsumpce.** Odst. 1 přenáší na SMP podnik **důkazní břemeno** — na vyžádání Úřadu musí prokázat, že ceny jsou nákladově orientované a v souladu s metodikou oddělené evidence (§ 86). To je opačné rozložení než v soutěžním právu, kde břemeno nese orgán. Odst. 1 věta druhá opravňuje Úřad použít metody nezávislé na metodách podniku (top-down/bottom-up LRIC) i benchmarking. Zjistí-li Úřad nesoulad, podle odst. 2 uloží rozhodnutím s odůvodněním povinnost ceny upravit — neopravuje je přímo.
+
+**5. Řešení.** Podnik nese důkazní břemeno; nepodaří-li se mu prokázat nákladovou orientaci a soulad s § 86, Úřad může vyjít z vlastního nezávislého modelu a benchmarkingu a uložit povinnost úpravy cen (odst. 2). Rozhodnutí musí obsahovat odůvodnění. Procesně: konkrétní výši ceny si stanoví podnik sám (zachování autonomie), Úřad ukládá jen povinnost úpravy. Riziko: pokud podnik soulad neprokáže, neúspěch v důkazu jde k jeho tíži; nezávislý model Úřadu eliminuje obranu založenou na vlastní výhodné metodice.
+
+**6. Varianty.** (a) Kdyby podnik soulad cen s nákladovým základem a § 86 přesvědčivě prokázal, Úřad by povinnost úpravy neuložil. (b) Kdyby podniku nebyla vůbec uložena povinnost nákladové orientace (rozhodnutím podle § 56–57), § 60 by se neaplikoval — prokazovací povinnost váže jen podnik s touto uloženou povinností.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* podnik namítne, že Úřad musí prokázat porušení, nikoli podnik prokazovat soulad. Neutralizace: odst. 1 výslovně přenáší důkazní břemeno na SMP podnik — sektorová regulace se zde liší od ex post soutěžního práva.
+- *Protiargument:* Úřad nesmí použít jinou metodu než podnik. Neutralizace: odst. 1 věta druhá Úřad výslovně opravňuje použít nezávislé metody i ceny srovnatelných trhů, aby předešel regulatory capture informační asymetrií.
+- *Slabé místo:* nápravné rozhodnutí ukládá jen „povinnost upravit ceny" bez stanovení konkrétní výše — hrozí opakovaný spor, nesplní-li podnik povinnost adekvátně; Úřad pak musí postup opakovat.
+
+#### H. Praktický závěr
+
+§ 60 přenáší na SMP podnik s uloženou povinností nákladové orientace důkazní břemeno prokázat soulad cen s nákladovým základem a oddělenou evidencí (§ 86). Úřad smí použít nezávislé metody a benchmarking; při nesouladu ukládá rozhodnutím s odůvodněním povinnost ceny upravit, ponechávaje stanovení konkrétní výše podniku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Má podnik uloženu povinnost nákladové orientace cen rozhodnutím Úřadu (osobní působnost § 60)?
+- [ ] Prokázal podnik na vyžádání soulad cen s nákladovou orientací a metodikou oddělené evidence (§ 86, odst. 1)?
+- [ ] Použil Úřad případně nezávislou metodu nebo ceny srovnatelných trhů (odst. 1 věta druhá)?
+- [ ] Obsahuje nápravné rozhodnutí o povinnosti upravit ceny odůvodnění (odst. 2)?
+
+**Typicky rozhodné důkazy / podklady:** kalkulace nákladů podniku, oddělená evidence nákladů (§ 86), nezávislý nákladový model Úřadu (LRIC), srovnání s cenami srovnatelných trhů, rozhodnutí o ceně a o povinnosti úpravy.
 
 ---
 

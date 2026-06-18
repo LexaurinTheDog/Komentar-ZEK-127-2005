@@ -45,6 +45,43 @@ Výjimky z principu jsou v ZEK obsaženy ve specifických ustanoveních, jež uk
 
 Odst. 3 deklaruje, že ZEK — přestože sleduje cíl vytváření a ochrany hospodářské soutěže — nepředstavuje lex specialis vylučující aplikaci soutěžního práva (zákon č. 143/2001 Sb., o ochraně hospodářské soutěže; přímo použitelné čl. 101 a 102 SFEU). Obě regulační vrstvy existují paralelně: ČTÚ jako sektorový regulátor a Úřad pro ochranu hospodářské soutěže (ÚOHS) jako soutěžní orgán mohou ve svých řízeních dojít k odlišným závěrům, aniž by to samo o sobě znamenalo nezákonnost. Koordinace mezi ČTÚ a ÚOHS probíhá na základě memoranda o spolupráci a je reflektována v povinnosti ČTÚ konzultovat regulační opatření s ÚOHS dle § 52 ZEK.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel streamingové videoplatformy (společnost A) zpřenáší své audiovizuální pořady přes vlastní serverovou infrastrukturu a partnerské CDN. ČTÚ zahájí s A řízení s tvrzením, že A „zajišťuje síť elektronických komunikací" a „poskytuje službu elektronických komunikací", a požaduje plnění oznamovacích a technických povinností dle ZEK. A namítá, že je pouze poskytovatelem obsahu (audiovizuální mediální služby) a do působnosti ZEK nespadá. Důkazně je třeba obstarat: technickou dokumentaci o tom, kdo provozuje přenosové vrstvy, smlouvy s CDN a ISP, popis redakčního dohledu nad obsahem.
+
+**2. Právní otázka.** Spadá činnost A pod věcnou působnost ZEK podle § 1 odst. 1, nebo je vyňata jako „obsah" podle § 1 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 odst. 1 (trojice regulovaných okruhů), § 1 odst. 2 (princip oddělení přenosu od obsahu — content/conduit divide).
+- *Související ustanovení téhož zákona:* § 2 odst. 3 písm. a (definice služby elektronických komunikací s výslovnou výjimkou pro služby poskytující obsah a vykonávající redakční dohled); § 2 odst. 2 písm. b (síť elektronických komunikací).
+- *Související předpisy:* zákon č. 132/2010 Sb. o audiovizuálních mediálních službách na vyžádání (AVMSD); zákon č. 143/2001 Sb. o ochraně hospodářské soutěže (§ 1 odst. 3); recitál 7 EECC.
+- *Judikatura:* SD EU rozlišuje poskytovatele přenosu od poskytovatele obsahu podle toho, kdo nese odpovědnost za přenos signálu vůči koncovým uživatelům (nosný závěr judikatury k pojmu „služba elektronických komunikací" — rozhodující je přenosová funkce, nikoli obsahová).
+
+**4. Subsumpce.** Znak „podnikání/činnost v oblasti elektronických komunikací" (§ 1 odst. 1) je naplněn jen tehdy, pokud A skutečně poskytuje službu spočívající zcela nebo převážně v přenosu signálů. Pokud A přenos fakticky zajišťují třetí osoby (CDN, ISP) a A vykonává pouze redakční dohled nad obsahem, je naplněn vylučovací znak § 1 odst. 2 ve spojení s § 2 odst. 3 písm. a in fine. Sporné je, zda A neprovozuje vlastní přenosovou vrstvu — to je třeba prokázat technicky.
+
+**5. Řešení.** Je-li A pouze poskytovatelem obsahu bez vlastní přenosové funkce, nespadá do působnosti ZEK a řízení ČTÚ má být zastaveno; A podléhá AVMSD, nikoli ZEK. Procesně A doloží smlouvy a technickou architekturu prokazující, že přenos zajišťují jiné subjekty. Riziko: pokud A provozuje i jen část přenosové infrastruktury, může být kvalifikována jako poskytovatel přenosové služby pro tu část.
+
+**6. Varianty.** (a) Pokud by A provozovala vlastní páteřní síť a nabízela ji i třetím stranám, byla by „operátorem" a „zajišťovala by síť" (§ 2 odst. 1 písm. d, e) → spadá pod ZEK. (b) Pokud by A nabízela i interpersonální chatovou komunikaci jako podstatnou funkci, mohla by jít o ICS dle § 2 odst. 3 písm. b.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „vše přes síť = elektronická komunikace":* ČTÚ může tvrdit, že každá služba šířená přes internet je službou elektronických komunikací. Neutralizace: § 1 odst. 2 a § 2 odst. 3 písm. a in fine výslovně vyjímají obsah a redakční dohled; rozhodující je přenosová, nikoli obsahová funkce.
+- *Protiargument „věcné vazby přenos–obsah":* druhá věta § 1 odst. 2 připouští existenci vazeb (mediální pluralita). Riziko překlasifikace, pokud subjekt kombinuje přenos i obsah — třeba pečlivě oddělit role.
+- *Slabé místo:* hranice mezi přenosem a obsahem je u konvergovaných služeb (vertikálně integrovaný hráč provozující síť i platformu) neostrá; chybí ustálená česká judikatura, výklad se opírá o EECC a unijní praxi.
+
+#### H. Praktický závěr
+
+§ 1 vymezuje působnost ZEK (podnikání, komunikační činnost, výkon státní správy včetně regulace trhu) a stanoví dva limity: oddělení přenosu od obsahu (odst. 2) a paralelní aplikaci soutěžního práva (odst. 3). V praxi je § 1 rozhodující pro otázku, zda subjekt vůbec spadá pod regulaci ČTÚ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zajišťuje subjekt přenos signálů, nebo jen poskytuje/řídí obsah?
+- [ ] Kdo fakticky provozuje přenosovou vrstvu (vlastní síť vs. CDN/ISP třetích stran)?
+- [ ] Je vyloučení podle § 1 odst. 2 ve spojení s § 2 odst. 3 písm. a aplikovatelné?
+- [ ] Byl zohledněn paralelní režim soutěžního práva (§ 1 odst. 3, ÚOHS, čl. 101–102 SFEU)?
+- [ ] Byl výklad proveden eurokonformně s EECC a nařízením 2015/2120?
+
+**Typicky rozhodné důkazy / podklady:** technická architektura služby, smlouvy s CDN a ISP, doklady o redakčním dohledu nad obsahem, registrace/oznámení u ČTÚ, klasifikace dle AVMSD.
+
 ---
 
 ### § 2 — Vymezení pojmů
@@ -233,6 +270,43 @@ Rozlišení na **ICS založenou na číslech** (number-based, NB-ICS) a **ICS ne
 
 **Interoperabilita služby** (písm. c): Technologicky neutrální definice zaměřená na výsledek (umožnění komunikace), nikoli na prostředky. ČTÚ může ukládat povinnost interoperability jako nápravné opatření po analýze trhu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel mobilní aplikace „TalkNow" (společnost B) nabízí šifrovaný hlasový a videohovor a chat mezi registrovanými uživateli; aplikace neumožňuje volat na běžná telefonní čísla a uživatelé jsou identifikováni pouze uživatelskými jmény. ČTÚ tvrdí, že B je poskytovatelem interpersonální komunikační služby (ICS) a má povinnosti v oblasti přístupu k tísňovým službám a přenositelnosti. B namítá, že její služba je nezávislá na číslech. Důkazně je třeba obstarat: technický popis adresování uživatelů, zda lze volat na/z čísel číslovacích plánů, dokumentaci k tísňovému volání.
+
+**2. Právní otázka.** Je TalkNow „interpersonální komunikační službou založenou na číslech" (§ 2 odst. 3 písm. c), nebo „nezávislou na číslech" (písm. d), a jaké povinnosti z toho plynou?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 3 písm. b (definice ICS), písm. c a d (NB-ICS vs. NI-ICS), písm. e (veřejně dostupná služba).
+- *Související ustanovení téhož zákona:* § 99 a násl. (přístup k tísňové komunikaci — primárně NB-ICS); § 34 (přenositelnost čísel — pouze NB-ICS); § 2 odst. 4 písm. e–h (tísňová komunikace, centra tísňové komunikace).
+- *Související předpisy:* čl. 2 odst. 5–7 EECC; čl. 109 EECC (tísňová komunikace); nařízení (EU) 2015/2120 (otevřený internet).
+- *Judikatura:* SD EU posuzuje povahu OTT služeb podle toho, zda umožňují komunikaci s čísly národních/mezinárodních číslovacích plánů (nosný závěr: služba, která neumožňuje volání na/z veřejných čísel, je NI-ICS).
+
+**4. Subsumpce.** Znak „přímá interpersonální a interaktivní výměna informací mezi konečným počtem osob" (písm. b) je naplněn (hovor/chat mezi registrovanými uživateli). Znak „spojení s přidělenými čísly číslovacích plánů" (písm. c) naplněn NENÍ, neboť TalkNow neumožňuje komunikaci s veřejnými čísly → jde o NI-ICS dle písm. d. Tím odpadají povinnosti vázané výlučně na NB-ICS (přenositelnost dle § 34). Povinnost přístupu k tísňové komunikaci se na NI-ICS vztahuje v omezeném rozsahu.
+
+**5. Řešení.** TalkNow je NI-ICS; B nepodléhá povinnosti přenositelnosti čísel a podléhá omezenějšímu regulatornímu rámci. Procesně B doloží, že adresování probíhá výhradně přes uživatelská jména a že není možné volání na/z čísel. Riziko: pokud aplikace přidá funkci „call out" na běžná čísla, mění se kvalifikace na NB-ICS s plnými povinnostmi.
+
+**6. Varianty.** (a) Pokud by TalkNow umožnila volat na pevná/mobilní čísla (breakout), stala by se NB-ICS → povinnosti k tísňovým službám a přenositelnosti. (b) Pokud by interpersonální komunikace byla jen nepodstatnou pomocnou funkcí (např. chat v herní aplikaci), nešlo by o ICS vůbec (§ 2 odst. 3 písm. b in fine).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „každý messenger je plně regulovaný":* ČTÚ může chtít na NI-ICS aplikovat plný rozsah povinností. Neutralizace: písm. d a navazující ustanovení (§ 34, § 99) vážou klíčové povinnosti na NB-ICS; rozsah povinností NI-ICS je užší.
+- *Protiargument „interakce s čísly nepřímo existuje":* sporná je situace, kdy služba propojuje uživatele i s čísly přes brány třetích stran. Neutralizace: rozhodující je, zda službu samotnou lze adresovat čísly, nikoli existence brány třetí osoby.
+- *Slabé místo:* definice ICS jsou nové a hranice „nepodstatné pomocné funkce" (písm. b in fine) je výkladově neostrá; chybí ustálená národní judikatura, opora je v EECC a pokynech BEREC.
+
+#### H. Praktický závěr
+
+§ 2 je interpretačním srdcem ZEK — legální definice platí výhradně „pro účely tohoto zákona". Pro praxi jsou nejcitlivější definice subjektů (uživatel/účastník/koncový uživatel), sítí (VHCN, neaktivní prvky) a služeb (ICS a její podtypy NB/NI), neboť determinují rozsah povinností.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Do které kategorie subjektu/služby/sítě dané jednání spadá (přesná subsumpce pod § 2)?
+- [ ] U ICS: jde o NB-ICS, nebo NI-ICS (umožňuje komunikaci s čísly číslovacích plánů)?
+- [ ] Je služba „veřejně dostupná" (§ 2 odst. 3 písm. e) — není nikdo předem vyloučen?
+- [ ] Jde o síť VHCN dle § 2 odst. 2 písm. g (optika do distribučního bodu / podobná výkonnost)?
+- [ ] Byla definice vyložena eurokonformně s čl. 2 EECC?
+
+**Typicky rozhodné důkazy / podklady:** technická dokumentace služby/sítě, popis adresování a funkcí, smlouvy s uživateli, parametry přenosové rychlosti/latence (pro VHCN), klasifikační analýza dle § 2.
+
 ---
 
 ### § 3 — Český telekomunikační úřad
@@ -273,6 +347,43 @@ Sídlem ČTÚ je Praha, konkrétně sídlo na adrese Sokolovská 219, Praha 9 �
 - **Sdružením BEREC** — konzistentní aplikace regulačního rámce EU (čl. 38 EECC)
 - **Skupinou RSPG** — politika rádiového spektra EU (§ 5 odst. 2 písm. f ZEK)
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Vláda připraví novelu, jíž by chtěla podřídit ČTÚ při ukládání nápravných opatření SMP předchozímu souhlasu Ministerstva průmyslu a obchodu. Operátor C, dotčený nápravným opatřením, namítá v navazujícím správním řízení, že takový pokyn Ministerstva, na jehož základě ČTÚ rozhodl, je v rozporu s funkční nezávislostí regulátora. Důkazně je třeba obstarat: spisový materiál o tom, zda ČTÚ rozhodl na základě vlastního uvážení, nebo na pokyn jiného orgánu; korespondenci mezi ČTÚ a Ministerstvem.
+
+**2. Právní otázka.** Je ČTÚ jako ústřední správní úřad při výkonu regulačních pravomocí vázán pokyny vlády/Ministerstva, nebo musí rozhodovat funkčně nezávisle?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 1 (zřízení ČTÚ jako ústředního správního úřadu, funkční nezávislost), odst. 3 (samostatná rozpočtová kapitola — finanční autonomie).
+- *Související ustanovení téhož zákona:* § 107 (jmenování a odvolání předsedy ČTÚ vládou); § 114 (státní politika Ministerstva); § 5 (cíle, jejichž nositeli jsou Ministerstvo i ČTÚ); § 6 (zásady).
+- *Související předpisy:* zákon č. 2/1969 Sb. (kompetenční zákon); zákon č. 218/2000 Sb. (rozpočtová pravidla); čl. 3 odst. 3 EECC (funkční nezávislost a finanční zdroje NRO); zákon č. 29/2000 Sb. (poštovní služby — druhá agenda).
+- *Judikatura:* SD EU důsledně chrání nezávislost národních regulačních orgánů; pokyn výkonné moci zasahující do rozhodovací nezávislosti NRO v konkrétní věci je v rozporu se směrnicovým rámcem (nosný závěr judikatury k nezávislosti regulátorů).
+
+**4. Subsumpce.** Znak „ústřední správní úřad pro výkon státní správy ve věcech stanovených tímto zákonem" (odst. 1) zakládá funkční nezávislost ČTÚ. Pokud ČTÚ rozhodl o nápravném opatření na základě závazného pokynu Ministerstva, není naplněn požadavek samostatného výkonu pravomoci a opatření je stiženo vadou. Vláda smí pouze jmenovat/odvolat předsedu (§ 107), nikoli zasahovat do jednotlivého rozhodování.
+
+**5. Řešení.** Nápravné opatření vydané na pokyn jiného orgánu je nezákonné pro porušení funkční nezávislosti ČTÚ (§ 3 odst. 1 vykládaný eurokonformně dle čl. 3 EECC); ve správním soudnictví je důvodem ke zrušení. Procesně se C domáhá zrušení opatření a poukazuje na spisové stopy externího pokynu. Riziko: prokázání faktického pokynu může být obtížné, není-li ve spisu zachycen.
+
+**6. Varianty.** (a) Koncepční (nezávazné) směrování přes státní politiku dle § 114 je přípustné a nezakládá vadu. (b) Pokud by šlo o přidělení spektra vládou dle § 16 odst. 8, jde o zákonem předvídanou pravomoc vlády, nikoli o nepřípustný zásah do nezávislosti ČTÚ.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ČTÚ je součástí výkonné moci, tedy podřízen vládě":* Neutralizace: zřízení zákonem a samostatná rozpočtová kapitola (odst. 3) implementují čl. 3 EECC; nezávislost je funkční (rozhodovací), nikoli organizační podřízenost.
+- *Protiargument „Ministerstvo je spolunositelem cílů dle § 5":* sdílení cílů neznamená nadřízenost; § 5 odst. 3 svěřuje prosazování zájmů koncových uživatelů výhradně ČTÚ.
+- *Slabé místo:* hranice mezi přípustným koncepčním usměrňováním (§ 114) a nepřípustným zásahem do konkrétního rozhodování je v praxi neostrá; důkazní břemeno o existenci pokynu nese namítající strana.
+
+#### H. Praktický závěr
+
+§ 3 zřizuje ČTÚ jako funkčně nezávislý ústřední správní úřad s dvojí agendou (elektronické komunikace + pošta) a finanční autonomií (samostatná rozpočtová kapitola). Klíčový praktický význam: regulační rozhodnutí ČTÚ musí být výrazem jeho vlastního uvážení, nikoli pokynů jiných orgánů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Rozhodl ČTÚ na základě vlastního uvážení, nebo na pokyn vlády/Ministerstva?
+- [ ] Je zásah do nezávislosti v rozporu s čl. 3 EECC?
+- [ ] Spadá věc do agendy elektronických komunikací (ZEK), nebo poštovních služeb (zák. č. 29/2000 Sb.)?
+- [ ] Byl předseda jmenován/odvolán postupem dle § 107?
+- [ ] Byla respektována finanční autonomie (kapitola 344)?
+
+**Typicky rozhodné důkazy / podklady:** správní spis ČTÚ, korespondence ČTÚ–Ministerstvo/vláda, organizační řád ČTÚ, dokumentace státní politiky dle § 114.
+
 ---
 
 ## Hlava II — Cíle a základní zásady regulace
@@ -296,6 +407,43 @@ Sídlem ČTÚ je Praha, konkrétně sídlo na adrese Sokolovská 219, Praha 9 �
 3. **Časová podmíněnost** — formulace „do doby dosažení plně konkurenčního prostředí" je normativně důležitá: ČTÚ je povinen průběžně vyhodnocovat, zda regulační opatření jsou stále odůvodněna, a odůvodnění ztrátě mají opatření zrušit (§ 6 odst. 2 ZEK).
 
 § 4 je interpretačním klíčem pro veškerá regulační opatření ČTÚ — každé rozhodnutí musí být schopno obstát testem souladu s účelem regulace. Odchylka od tohoto účelu (např. ukládání povinností nad rámec toho, co je nezbytné pro nastolení soutěže) by zakládala nezákonnost opatření a byla by v příkrém rozporu s požadavkem proporcionality dle § 6 odst. 3 ZEK.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** ČTÚ ukládá podnikateli se SMP na velkoobchodním trhu přístupu k infrastruktuře povinnost zpřístupnit účastnické vedení za regulovanou cenu. Po dvou letech nezávislí operátoři vybudovali vlastní alternativní VHCN sítě a na trhu vznikla robustní soutěž. ČTÚ však opatření ponechává v platnosti až do příští formální analýzy trhu (za 3 roky). Dotčený SMP podnikatel D namítá, že důvod regulace pominul a opatření trh deformuje. Důkazně je třeba obstarat: data o pokrytí a podílech, doklady o investicích konkurence, ekonomickou analýzu konkurenčnosti trhu.
+
+**2. Právní otázka.** Je ČTÚ povinen zrušit nápravné opatření SMP již v období mezi formálními analýzami trhu, pokud na trhu vznikla účinná a udržitelná soutěž (§ 4 ve spojení s § 6 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 (účel regulace jako přechodný a subsidiární — „do doby dosažení plně konkurenčního prostředí").
+- *Související ustanovení téhož zákona:* § 6 odst. 2 (povinnost průběžné kontroly a zrušení opatření při účinné soutěži); § 51–53 (analýza relevantního trhu); § 54 a násl. (povinnosti SMP); § 6 odst. 3 (proporcionalita).
+- *Související předpisy:* čl. 67 EECC (analýzy trhu a podmínky uložení povinností SMP); čl. 3 EECC (cíle); doporučení Komise o relevantních trzích.
+- *Judikatura:* SD EU a správní soudy zdůrazňují, že regulace SMP musí být odůvodněna trvajícím selháním trhu; opatření bez trvajícího důvodu je nepřiměřené (nosný závěr: regulace je nástroj, nikoli trvalý stav).
+
+**4. Subsumpce.** Účel dle § 4 — nahradit chybějící soutěž „do doby dosažení plně konkurenčního prostředí" — předpokládá trvání tržního selhání. Vznikla-li účinná a udržitelná soutěž (alternativní VHCN, klesající podíl SMP), je naplněna podmínka „pominul důvod" a „existuje účinná soutěž" dle § 6 odst. 2. Tím odpadá teleologické ospravedlnění opatření; jeho další trvání je v rozporu s účelem § 4 a s proporcionalitou.
+
+**5. Řešení.** ČTÚ je povinen opatření změnit nebo zrušit i mimo cyklus formální analýzy (§ 6 odst. 2 je v tomto směru kogentní), neboť § 4 stanoví přechodnost regulace. Procesně D podá podnět/žádost a doloží ekonomickou analýzu soutěžnosti; při nečinnosti ČTÚ je dán prostor pro soudní ochranu. Riziko: posouzení „udržitelnosti" soutěže je odborně sporné a ČTÚ má prostor pro uvážení o tempu zrušení.
+
+**6. Varianty.** (a) Pokud by soutěž byla jen krátkodobá/nestabilní (jeden nový hráč bez jistoty setrvání), důvod regulace by nepominul a opatření by trvalo. (b) Pokud by alternativní sítě pokrývaly jen metropolitní oblasti, mohla by být regulace geograficky diferencována (§ 5 odst. 4 písm. d), nikoli zcela zrušena.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „opatření platí do příští analýzy":* ČTÚ může tvrdit, že je vázán cyklem analýz. Neutralizace: § 6 odst. 2 ukládá průběžné vyhodnocování i mezi analýzami a § 4 zakotvuje přechodnost; ČTÚ nesmí udržovat neodůvodněnou regulaci.
+- *Protiargument „předčasné zrušení ohrozí soutěž":* riziko návratu dominance po zrušení. Neutralizace: zrušení je namístě jen při „udržitelné" soutěži; lze volit postupné uvolnění (sunset), nikoli zachování plné regulace.
+- *Slabé místo:* § 4 je programové ustanovení bez vlastní sankce; jeho normativní síla se projevuje až ve spojení s § 6 odst. 2 a 3 — samostatně je obtížně vynutitelné.
+
+#### H. Praktický závěr
+
+§ 4 je interpretačním klíčem celé regulace: regulace je nástroj přechodný a subsidiární vůči soutěži („regulate less as markets become competitive"). Každé regulační opatření ČTÚ musí obstát testem souladu s tímto účelem; regulace nad rámec nezbytného k nastolení soutěže je nezákonná.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Existuje stále tržní selhání, které opatření nahrazuje, nebo již nastala účinná a udržitelná soutěž?
+- [ ] Je opatření nezbytné a přiměřené účelu dle § 4 (ve spojení s § 6 odst. 3)?
+- [ ] Plní ČTÚ povinnost průběžné kontroly dle § 6 odst. 2 i mimo cyklus analýz?
+- [ ] Byla zvážena geografická diferenciace místo úplného zrušení?
+- [ ] Je rozhodnutí ČTÚ vyloženo teleologicky v souladu s cíli EECC?
+
+**Typicky rozhodné důkazy / podklady:** analýza relevantního trhu, data o tržních podílech a pokrytí, doklady o investicích konkurence, ekonomická analýza udržitelnosti soutěže, odůvodnění opatření.
 
 ---
 
@@ -405,6 +553,43 @@ Odst. 4 propojuje cíle z odst. 1–3 se zásadami z § 6 (nediskriminace, objek
 
 **Odst. 5 — interpretační závaznost**: Odst. 5 zavádí výkladové pravidlo pro případ pochybností o významu ustanovení ZEK — ta musí být vykládána v souladu se zásadami z odst. 4. Tím zákonodárce zajišťuje teleologický výklad ZEK coby transpoziční normy v souladu s cíli EECC.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Sdružení zastupující osoby se zdravotním postižením a senior­ské organizace namítá, že ČTÚ při stanovování podmínek pro trh hlasových služeb nezohlednil potřeby zranitelných skupin (chybí přístupné tarify a přístupné rozhraní k tísňovým službám). Současně menší operátor E namítá, že nové opatření obecné povahy de facto zvýhodňuje sítě postavené na jediné konkrétní technologii. Důkazně je třeba obstarat: text a odůvodnění opatření, konzultační podklady, doklady o přístupnosti pro zranitelné skupiny.
+
+**2. Právní otázka.** Porušil ČTÚ povinnost zajistit maximální výhody pro uživatele včetně zranitelných skupin (§ 5 odst. 1 písm. a, odst. 3 písm. e) a zásadu technologické neutrality (§ 5 odst. 4, navazující na § 6 odst. 3)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 1 písm. a (maximální výhody, zranitelné skupiny), odst. 3 (výlučné prosazování zájmů koncových uživatelů ČTÚ — písm. b ochrana spotřebitele, písm. e zranitelné osoby, písm. g net neutralita), odst. 4 (zásady), odst. 5 (interpretační závaznost zásad).
+- *Související ustanovení téhož zákona:* § 6 (nediskriminace, technologická neutralita, transparentnost); § 38 (univerzální služba); § 2 odst. 2 písm. g (VHCN — odst. 2 písm. h); § 99 a násl. (tísňová komunikace).
+- *Související předpisy:* čl. 3 EECC (cíle), čl. 27 EECC (ekvivalentní přístup), nařízení (EU) 2015/2120 (otevřený internet); GDPR a zákon č. 374/2021 Sb. (ePrivacy).
+- *Judikatura:* správní soudy přezkoumávají, zda OOP ČTÚ obstojí z hlediska proporcionality a nediskriminace; opatření zvýhodňující konkrétní technologii je v rozporu s technologickou neutralitou (nosný závěr).
+
+**4. Subsumpce.** Povinnost dle § 5 odst. 1 písm. a a odst. 3 písm. e je aktivní — ČTÚ musí prokazatelně zohlednit potřeby zranitelných skupin; chybí-li v odůvodnění OOP jakákoli reflexe těchto potřeb, povinnost naplněna není. Znak technologické neutrality (§ 5 odst. 4, § 6 odst. 3) je porušen, pokud opatření fakticky zvýhodňuje jeden druh technologie. Odst. 5 přitom ukládá vykládat ustanovení ZEK v souladu se zásadami z odst. 4.
+
+**5. Řešení.** Opatření, které ignoruje potřeby zranitelných skupin nebo zvýhodňuje konkrétní technologii, je nezákonné pro rozpor s § 5 odst. 1 písm. a / odst. 3 písm. e a se zásadou technologické neutrality; ve správním soudnictví je důvodem ke zrušení OOP. Procesně se subjekty domáhají zrušení OOP a poukazují na absenci reflexe v odůvodnění. Riziko: ČTÚ může tvrdit, že zohlednění proběhlo implicitně — proto je klíčové odůvodnění opatření.
+
+**6. Varianty.** (a) Pokud ČTÚ v odůvodnění prokazatelně zvážil potřeby zranitelných skupin a technologie nezvýhodnil, opatření obstojí. (b) Pokud by šlo o zásah do net neutrality (§ 5 odst. 3 písm. g) — např. zvýhodnění určitých aplikací — uplatní se přímo nařízení 2015/2120.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „cíle § 5 jsou jen programové":* ČTÚ může tvrdit, že odst. 1–3 nezakládají vymahatelné povinnosti. Neutralizace: odst. 5 zakotvuje interpretační závaznost zásad odst. 4 a odst. 3 svěřuje ČTÚ výlučné prosazování zájmů koncových uživatelů — jde o měřítko zákonnosti OOP.
+- *Protiargument „technologická neutralita brání podpoře VHCN":* podpora VHCN (odst. 2 písm. h) může vypadat jako preference optiky. Neutralizace: cílem je výkonnostní standard (definice VHCN je technologicky otevřená — i DOCSIS/5G), nikoli konkrétní technologie.
+- *Slabé místo:* cíle v § 5 jsou zčásti vzájemně v napětí (soutěž vs. investice, přístup vs. investiční rizika dle odst. 4 písm. c); vyvážení je věcí uvážení ČTÚ, soudní přezkum je omezený na zjevné excesy.
+
+#### H. Praktický závěr
+
+§ 5 strukturuje cíle regulace do tří okruhů: podpora soutěže a rozvoj vnitřního trhu EU (Ministerstvo + ČTÚ, odst. 1–2) a prosazování zájmů koncových uživatelů (výlučně ČTÚ, odst. 3). Odst. 4 propojuje cíle se zásadami § 6 a odst. 5 zakotvuje jejich interpretační závaznost. V praxi je § 5 měřítkem zákonnosti regulačních opatření.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zohlednil ČTÚ v odůvodnění potřeby zranitelných skupin (odst. 1 písm. a, odst. 3 písm. e)?
+- [ ] Je opatření technologicky neutrální (odst. 4, § 6 odst. 3)?
+- [ ] Respektuje opatření net neutralitu a svobodu volby uživatelů (odst. 3 písm. g, nařízení 2015/2120)?
+- [ ] Byla zohledněna geografická diferenciace a investiční rizika (odst. 4 písm. c, d)?
+- [ ] Byl proveden výklad v souladu se zásadami odst. 4 dle odst. 5?
+
+**Typicky rozhodné důkazy / podklady:** text a odůvodnění OOP/rozhodnutí, konzultační podklady (§ 130), analýzy dopadu na zranitelné skupiny, technická specifikace dotčených sítí, koordinační stanoviska BEREC/RSPG.
+
 ---
 
 ### § 6 — Základní regulační zásady (nediskriminace, průběžná kontrola opatření, technologická neutralita, transparentnost, předvídatelnost spektrové regulace, kybernetická bezpečnost)
@@ -483,5 +668,43 @@ Tato záruka se týká jen harmonizovaného spektra (viz § 2 odst. 4 písm. j Z
 Odst. 6 řeší specifický typ normativní kolize: situaci, kdy regulační opatření uložené ČTÚ podle ZEK znemožňuje podnikateli splnit povinnosti uložené zákonem č. 181/2014 Sb. o kybernetické bezpečnosti (ZKB). V takovém případě ČTÚ na základě **žádosti** (nikoli z úřední povinnosti) opatření změní nebo zruší.
 
 Toto ustanovení je projevem systémové koordinace dvou regulačních režimů — sektorového (ZEK/ČTÚ) a průřezového kybernetickobezpečnostního (ZKB/NÚKIB). Zákonodárce dává ZKB přednost: pokud plnění povinností uložených ČTÚ brání plnění povinností uložených NÚKIB (protiopatření nebo opatření obecné povahy dle ZKB), ČTÚ je povinen svá opatření přizpůsobit. Podmínkou je podání žádosti dotčeným podnikatelem — ČTÚ nenastupuje automaticky.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** NÚKIB uloží operátorovi F opatřením obecné povahy dle zákona o kybernetické bezpečnosti zákaz používat ve své síti komponenty určitého dodavatele (rizikový dodavatel). Současně má F z dřívějšího rozhodnutí ČTÚ jako SMP uloženou povinnost přístupu, jejíž technické plnění je vázáno právě na zařízení onoho dodavatele. F nemůže splnit obě povinnosti zároveň. Důkazně je třeba obstarat: obě rozhodnutí/OOP, technickou analýzu nemožnosti souběžného plnění, žádost F adresovanou ČTÚ.
+
+**2. Právní otázka.** Je ČTÚ povinen na žádost F změnit nebo zrušit své regulační opatření, znemožňuje-li jeho plnění splnění povinností uložených dle ZKB (§ 6 odst. 6)? A obstojí napadené OOP z hlediska transparentnosti a předvídatelnosti (§ 6 odst. 4 a 5)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 6 (kolize se ZKB — řešení na žádost), odst. 1 (nediskriminace), odst. 2 (průběžná kontrola opatření), odst. 3 (technologická neutralita), odst. 4 (transparentnost a odůvodnění), odst. 5 (20letá předvídatelnost u harmonizovaného spektra).
+- *Související ustanovení téhož zákona:* § 5 odst. 4 (zásady jako celek); § 54 a násl. (povinnosti SMP); § 58 a násl. (regulace cen — odůvodnění dle odst. 4 písm. b); § 2 odst. 4 písm. j (harmonizované spektrum).
+- *Související předpisy:* zákon č. 181/2014 Sb. o kybernetické bezpečnosti (protiopatření, OOP NÚKIB); čl. 3, 45, 55 odst. 2 EECC; zákon č. 412/2005 Sb. (utajované informace — výjimka dle odst. 4 písm. a); § 504 OZ (obchodní tajemství).
+- *Judikatura:* správní soudy zrušují OOP ČTÚ pro nedostatečné odůvodnění, zejména u cenových rozhodnutí (nosný závěr: regulační opatření musí být přezkoumatelně odůvodněno).
+
+**4. Subsumpce.** Znak „plnění podmínek/povinností stanovených rozhodnutím ČTÚ znemožňuje zcela nebo zčásti plnit povinnosti dle ZKB" (odst. 6) je naplněn, prokáže-li F technickou nemožnost souběhu. Aktivace mechanismu je vázána na žádost F (ČTÚ nenastupuje ex offo). Současně OOP ČTÚ musí splňovat zásadu transparentnosti (odst. 4) — náležité odůvodnění a předvídatelnost; absence odůvodnění zakládá samostatnou vadu.
+
+**5. Řešení.** ČTÚ na žádost F své opatření změní nebo zruší tak, aby umožnil splnění povinností dle ZKB (přednost kybernetickobezpečnostního režimu dle odst. 6). Procesně F podá odůvodněnou žádost s technickou analýzou; lze využít i § 6 odst. 2 (průběžná kontrola), pominul-li by důvod opatření. Riziko: ČTÚ může rozsah kolize zúžit a opatření jen modifikovat, nikoli zrušit; nesplnění povinnosti formální žádosti vylučuje aplikaci odst. 6.
+
+**6. Varianty.** (a) Pokud by F žádost nepodal, ČTÚ není povinen jednat dle odst. 6 z úřední povinnosti (na rozdíl od odst. 2, kde je monitoring ex offo). (b) Pokud by opatření ČTÚ zvýhodňovalo konkrétní technologii dodavatele, bylo by současně v rozporu se zásadou technologické neutrality (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument „ČTÚ má řešit kolizi sám z úřední povinnosti":* odst. 6 výslovně váže postup na žádost. Neutralizace: rozlišuj odst. 2 (monitoring ex offo) od odst. 6 (na žádost); pro jistotu vždy podat formální žádost.
+- *Protiargument „diskriminace dodavatelů zakázaná dle odst. 1":* vyloučení rizikového dodavatele dle ZKB může vypadat jako neodůvodněná diferenciace. Neutralizace: odst. 1 připouští rozdílné zacházení se zákonným podkladem (zde ZKB) a věcným odůvodněním (bezpečnostní riziko).
+- *Slabé místo:* hranice „znemožňuje zcela nebo zčásti" je neurčitá; rozsah, v jakém ČTÚ opatření změní vs. zruší, podléhá uvážení a může být sporný; chybí bohatá národní judikatura ke vztahu ZEK–ZKB.
+
+#### H. Praktický závěr
+
+§ 6 kodifikuje pět základních regulačních zásad (nediskriminace, technologická neutralita, transparentnost), průběžnou kontrolu opatření (odst. 2), zvláštní 20letou předvídatelnost u harmonizovaného spektra pro bezdrátové vysokorychlostní služby (odst. 5) a řešení kolize se ZKB na žádost (odst. 6). V praxi jsou tyto zásady měřítkem zákonnosti každého OOP i rozhodnutí ČTÚ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je rozdílné zacházení podloženo zákonem a věcně odůvodněno (odst. 1)?
+- [ ] Sleduje ČTÚ účinky opatření průběžně a zruší je při pominutí důvodu/účinné soutěži (odst. 2)?
+- [ ] Je opatření technologicky neutrální (odst. 3)?
+- [ ] Je opatření náležitě odůvodněno, včetně rozhodnutí o ceně, a byla zachována předvídatelnost (odst. 4)?
+- [ ] U harmonizovaného spektra: byla zajištěna předvídatelnost min. 20 let pro bezdrátové vysokorychlostní služby (odst. 5)?
+- [ ] Při kolizi se ZKB: byla podána žádost dle odst. 6 a doložena nemožnost souběžného plnění?
+
+**Typicky rozhodné důkazy / podklady:** text a odůvodnění OOP/rozhodnutí ČTÚ, protiopatření/OOP NÚKIB dle ZKB, technická analýza nemožnosti souběhu povinností, žádost dle odst. 6, podklady k cenovému odůvodnění (§ 58 a násl.), dokumentace přídělů harmonizovaného spektra.
 
 ---
