@@ -87,6 +87,60 @@ Komunikační činnosti tvoří taxativní triádu, jež vymezuje působnost ZEK
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=35f245515d3a8fb186b4 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 7
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Komunikačními činnostmi jsou
+>
+> - a) zajišťování sítí elektronických komunikací,
+>
+> - b) poskytování služeb elektronických komunikací,
+>
+> - c) provozování přístrojů ([[#§ 73|§ 73]]).
+>
+> (2) Zajišťování veřejné komunikační sítě, poskytování veřejně dostupné služby elektronických komunikací, zavádění vysokorychlostních sítí elektronických komunikací podle zákona o opatřeních ke snížení nákladů na budování vysokorychlostních sítí elektronických komunikací a zajišťování sítí elektronických komunikací pro účely bezpečnosti státu se uskutečňují ve veřejném zájmu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 73
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35f245515d3a8fb186b4 -->
+
 ### § 8 — Podnikání v elektronických komunikacích a obecné podmínky
 
 > **§ 8**
@@ -175,6 +229,70 @@ Oprávnění vzniká ex lege doručením bezvadného oznámení; bezúhonnost je
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=85750a421fa46192df70 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 8
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Předmětem podnikání v elektronických komunikacích je
+>
+> - a) zajišťování veřejných komunikačních sítí,
+>
+> - b) poskytování služeb elektronických komunikací.
+>
+> (2) Podnikat v elektronických komunikacích na území České republiky může za podmínek stanovených tímto zákonem osoba, která splňuje obecné podmínky. Oprávnění k podnikání v elektronických komunikacích, s výjimkou poskytování interpersonálních komunikačních služeb nezávislých na číslech, vzniká této osobě dnem doručení oznámení podnikání, které splňuje náležitosti podle § 13.
+>
+> (3) Obecnými podmínkami pro podnikání v elektronických komunikacích se rozumí u
+>
+> - a) fyzické osoby její zletilost, plná svéprávnost a bezúhonnost,
+>
+> - b) právnické osoby její bezúhonnost.
+>
+> (4) Za bezúhonného se pro účely tohoto zákona považuje osoba, která nebyla pravomocně odsouzena pro úmyslný trestný čin související s vykonáváním komunikačních činností podle [[#§ 7|§ 7]] nebo se na ni hledí, jako by nebyla odsouzena67).
+>
+> (5) U právnické osoby musí podmínku bezúhonnosti podle odstavce 4 splňovat rovněž každý člen statutárního orgánu.
+>
+> (6) Podmínky pro vznik oprávnění k poskytování interpersonálních komunikačních služeb nezávislých na číslech upravuje [[živnostenský zákon|živnostenský zákon]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=85750a421fa46192df70 -->
+
 ### § 8a — Prokazování bezúhonnosti
 
 > **§ 8a**
@@ -250,6 +368,66 @@ Bezúhonnost se prokazuje kombinací české (vyžádá Úřad) a zahraniční k
 ---
 
 **Díl 2 — Všeobecné oprávnění**
+
+
+<!-- LEGAL-REVISION:BEGIN id=d0a14cb2b89024ed53e2 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 8a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Bezúhonnost se prokazuje výpisem z rejstříku trestů a dále dokladem obdobným výpisu z rejstříku trestů vydaným státem,
+>
+> - a) jehož je fyzická osoba státním příslušníkem, nejde-li o státního příslušníka České republiky,
+>
+> - b) ve kterém se fyzická osoba v posledních 3 letech zdržovala nepřetržitě déle než 3 měsíce a
+>
+> - c) ve kterém má nebo v posledních 3 letech měla právnická osoba sídlo, provozovala svoji činnost anebo měla svůj majetek.
+>
+> (2) Za účelem prokázání bezúhonnosti si Úřad vyžádá výpis z rejstříku trestů podle zákona o rejstříku trestů a evidenci přestupků.
+>
+> (3) Za účelem prokázání bezúhonnosti předloží fyzická osoba doklad obdobný výpisu z rejstříku trestů vydaný státem, ve kterém se v posledních 3 letech zdržovala nepřetržitě déle než 3 měsíce; fyzická osoba, která je státním příslušníkem jiného státu než České republiky, předloží i doklad obdobný výpisu z rejstříku trestů vydaný státem, jehož je státním příslušníkem. Místo dokladu podle věty první může fyzická osoba za účelem prokázání bezúhonnosti předložit výpis z rejstříku trestů s přílohou obsahující informace, které jsou zapsané v evidenci trestů těchto států.
+>
+> (4) Za účelem prokázání bezúhonnosti předloží právnická osoba doklad obdobný výpisu z rejstříku trestů vydaný cizím státem, ve kterém má nebo v posledních 3 letech měla sídlo, provozovala svoji činnost anebo měla svůj majetek.
+>
+> (5) Výpisy dokládající splnění podmínky bezúhonnosti nesmí být starší než 3 měsíce. Nevydává-li stát takové výpisy, doloží se bezúhonnost čestným prohlášením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d0a14cb2b89024ed53e2 -->
 
 ### § 9 — Vydání všeobecného oprávnění
 
@@ -328,6 +506,56 @@ Všeobecné oprávnění je normativním nástrojem (opatření obecné povahy),
 **Typicky rozhodné důkazy / podklady:** technický popis služby a její vazby na číslování, znění platného všeobecného oprávnění, obchodní podmínky.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e9ad2e7b732c903aa62e generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 9 — Vydání všeobecného oprávnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Všeobecné oprávnění je opatření obecné povahy Úřadu, které stanoví podmínky výkonu komunikačních činností vztahující se na všechny nebo na určité druhy sítí a služeb elektronických komunikací provozování přístrojů a na využívání rádiových kmitočtů a k využívání čísel a které je závazné pro fyzické a právnické osoby vykonávající činnosti podle [[#§ 7|§ 7]].
+>
+> (2) Úřad je oprávněn vydat všeobecné oprávnění k zajišťování sítí elektronických komunikací a přiřazených prostředků, k poskytování služeb elektronických komunikací, k provozování přístrojů a k využívání rádiových kmitočtů, pro které není třeba udělit individuální oprávnění k využívání rádiových kmitočtů ([[#§ 17|§ 17]]), a k využívání čísel.
+>
+> (3) Všeobecné oprávnění se nevztahuje na poskytování interpersonálních komunikačních služeb nezávislých na číslech.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 17
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9ad2e7b732c903aa62e -->
 
 ### § 10 — Podmínky stanovené všeobecným oprávněním
 
@@ -450,6 +678,102 @@ Dva druhy podmínek vyžadují meziresortní projednání před jejich zahrnutí
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=44fbe7ee5e6437b39b43 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 10 — Podmínky stanovené všeobecným oprávněním
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad může všeobecným oprávněním stanovit podmínky týkající se
+>
+> - a) ochrany osobních údajů a soukromí specifické pro odvětví elektronických komunikací, a to po projednání s Úřadem pro ochranu osobních údajů,
+>
+> - b) informace poskytované Úřadu podle tohoto zákona, jiných právních předpisů nebo přímo použitelných předpisů Evropské unie,
+>
+> - c) zajištění odposlechu podle § 97 odst. 1,
+>
+> - d) komunikace veřejných orgánů s obyvatelstvem za účelem varování veřejnosti před bezprostředním nebezpečím nebo zmírnění následků velkých katastrof, a to po projednání s Ministerstvem vnitra,
+>
+> - e) využívání sítí a služeb elektronických komunikací za krizové situace72) nebo válečného stavu za účelem zajištění komunikace mezi tísňovými službami a úřady,
+>
+> - f) povinnosti poskytnout přístup k síti podle tohoto zákona,
+>
+> - g) plnění povinnosti podle [[#§ 62|§ 62]],
+>
+> - h) povinnosti transparentnosti vztahující se na provozovatele veřejné sítě elektronických komunikací a poskytovatele veřejně dostupné služby elektronických komunikací k zajištění spojení mezi koncovými body sítě a v nezbytných a přiměřených případech i přístup příslušných orgánů k těmto informacím nezbytný pro ověření jejich přesnosti,
+>
+> - i) kritérií a postupů pro ukládání zvláštních povinností podle [[#§ 11|§ 11]],
+>
+> - j) zajišťování sítí elektronických komunikací za stavu nebezpečí, nouzového stavu, stavu ohrožení státu6) a válečného stavu7) (dále jen „krizový stav“).
+>
+> (2) Úřad může všeobecným oprávněním stanovit zvláštní podmínky pro zajišťování sítí elektronických komunikací týkající se
+>
+> - a) propojení sítí podle tohoto zákona,
+>
+> - b) povinnosti poskytovat službu šíření určeného rozhlasového nebo televizního programu a s tímto programem související služby podle [[#§ 72|§ 72]],
+>
+> - c) ochrany občanů před škodlivými účinky elektromagnetického záření způsobeného sítěmi elektronických komunikací8),
+>
+> - d) zachování integrity veřejných sítí elektronických komunikací včetně podmínek pro zabránění elektromagnetickému rušení mezi sítěmi nebo službami elektronických komunikací,
+>
+> - e) ochrany veřejných komunikačních sítí vůči neoprávněnému přístupu podle § 89 odst. 1,
+>
+> - f) využívání rádiového spektra, s ohledem na účelné využívání rádiového spektra a zabránění škodlivé interferenci; s výjimkou případů, kdy rádiové kmitočty nelze využívat na základě všeobecného oprávnění,
+>
+> - g) oznamování zahájení využívání rádiového spektra podle písmene f),
+>
+> - h) sdíleného využívání rádiových kmitočtů,
+>
+> - i) podmínek pro označování přístrojů a jejich signálů za účelem zjištění jejich provozovatele.
+>
+> (3) Úřad všeobecným oprávněním může stanovit zvláštní podmínky při poskytování služeb elektronických komunikací týkající se
+>
+> - a) interoperability služeb,
+>
+> - b) dostupnosti čísel z národního číslovacího plánu a univerzálních mezinárodních bezplatných telefonních čísel (UIFN) a čísel z číslovacích plánů ostatních členských států, pokud je to technicky proveditelné, pro koncové uživatele, a další podmínky podle tohoto zákona,
+>
+> - c) ochrany spotřebitelů specifické pro odvětví elektronických komunikací,
+>
+> - d) omezení ve vztahu k přenášení nedovoleného nebo škodlivého obsahu podle jiných právních předpisů73).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 97, § 62, § 11, § 72, § 89
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=44fbe7ee5e6437b39b43 -->
+
 ### § 11 — Zvláštní povinnosti
 
 > **§ 11**
@@ -533,6 +857,66 @@ Zvláštní povinnosti jsou individuálním regulačním nástrojem ukládaným 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1cf317749bd3ef8aa21c generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 11 — Zvláštní povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Zvláštními povinnostmi při zajišťování sítí elektronických komunikací se rozumí povinnosti
+>
+> - a) spojené s poskytováním univerzální služby podle dílu 6 této hlavy,
+>
+> - b) podle § 51 odst. 6 až 8, [[#§ 14|14]] a [[#§ 15|15]],
+>
+> - c) týkající se přístupu k síti a propojení podle [[#§ 78|§ 78]], [[#§ 79|79]], [[#§ 79a|79a]], [[#§ 80|80]] a [[#§ 84|84]],
+>
+> - d) týkající se systému podmíněného přístupu podle [[#§ 83|§ 83]],
+>
+> - e) podle [[#§ 69a|§ 69a]].
+>
+> (2) Úřad je oprávněn uložit zvláštní povinnost podle odstavce 1 za podmínek stanovených zákonem odděleně od podmínek uvedených ve všeobecném oprávnění a po konzultaci podle [[#§ 130|§ 130]] a popřípadě i podle [[#§ 131|§ 131]]. Pokud Úřad zvláštní povinnost uložil, přechází tato povinnost na právního nástupce povinné osoby. V případě pochybností o tom, zda a v jakém rozsahu přešla zvláštní povinnost na právního nástupce, rozhodne o těchto skutečnostech Úřad.
+>
+> (3) Informace o uložení zvláštních povinností Úřad uveřejní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51, § 14, § 15, § 78, § 79, § 79a, § 80, § 84, § 83, § 69a, § 130, § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1cf317749bd3ef8aa21c -->
+
 ### § 12 — Změna a zrušení všeobecného oprávnění
 
 > **§ 12**
@@ -596,6 +980,58 @@ Změnu či zrušení všeobecného oprávnění lze provést jen v taxativně vy
 **Typicky rozhodné důkazy / podklady:** odůvodnění změny, příslušné harmonizační rozhodnutí Komise nebo mezinárodní závazek, podklady z konzultace, návrh přechodných ustanovení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=68ed8abd5545eeb1a441 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 12 — Změna a zrušení všeobecného oprávnění
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> Úřad změní nebo zruší v souladu s postupem podle [[#§ 130|§ 130]] a popřípadě i podle [[#§ 131|§ 131]] všeobecné oprávnění v odůvodněných případech. Odůvodněnými případy se rozumí
+>
+> - a) změna skutečností, na základě kterých bylo všeobecné oprávnění vydáno,
+>
+> - b) dodržení závazků vyplývajících z členství České republiky v Evropské unii, Severoatlantické alianci anebo v mezinárodních organizacích,
+>
+> - c) zajištění obrany a bezpečnosti státu9).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 130, § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=68ed8abd5545eeb1a441 -->
 
 ### § 13 — Oznámení podnikání
 
@@ -709,6 +1145,76 @@ Oprávnění vzniká ex lege dnem doručení bezvadného oznámení na elektroni
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a18eebe3435580b71d88 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 13 — Oznámení podnikání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Osoba, která hodlá vykonávat komunikační činnost, která je podnikáním v elektronických komunikacích, s výjimkou poskytování interpersonálních komunikačních služeb nezávislých na číslech, je povinna předem tuto skutečnost písemně oznámit Úřadu, a to na elektronickém formuláři zveřejněném Úřadem podle pokynů Sdružení BEREC týkajících se vzoru pro oznámení. Oznámení je učiněno dnem jeho doručení Úřadu.
+>
+> (2) Nesplňuje-li oznámení podnikání podle odstavce 1 obsahové náležitosti podle odstavců 3 až 5 nebo není-li doloženo splnění obecných podmínek podle § 8 odst. 3, Úřad neprodleně vyzve dotčenou osobu k odstranění vad oznámení ve lhůtě ne kratší než 14 dnů. Nedojde-li k odstranění vad oznámení podnikání ani po uplynutí této lhůty, nevznikne této osobě oprávnění k podnikání v elektronických komunikacích a Úřad jí tuto skutečnost sdělí; neúplné oznámení podnikání není překážkou výkonu komunikační činnosti.
+>
+> (3) Fyzická osoba v oznámení uvede jméno, popřípadě jména, a příjmení, popřípadě obchodní firmu, adresu sídla, adresu místa trvalého pobytu nebo přechodného pobytu nad 90 dnů na území České republiky, popřípadě adresu bydliště v zahraničí (dále jen „bydliště“) a identifikační číslo osoby (dále jen „identifikační číslo“), bylo-li přiděleno a adresu její internetové stránky spojené se zajišťováním sítí nebo poskytováním služeb elektronických komunikací, pokud taková stránka existuje. Vykonává-li fyzická osoba na území České republiky komunikační činnosti podle § 8 odst. 2 prostřednictvím odštěpného závodu, uvede též označení a adresu umístění odštěpného závodu a identifikační číslo, bylo-li přiděleno.
+>
+> (4) Právnická osoba v oznámení uvede obchodní firmu nebo název, adresu sídla, identifikační číslo, bylo-li přiděleno, jméno, popřípadě jména, příjmení a bydliště osoby oprávněné jednat jménem této právnické osoby a adresu své internetové stránky spojené se zajišťováním sítí nebo poskytováním služeb elektronických komunikací, pokud taková stránka existuje. Vykonává-li právnická osoba na území České republiky komunikační činnosti podle § 8 odst. 2 prostřednictvím odštěpného závodu, uvede též označení a adresu umístění odštěpného závodu a identifikační číslo, bylo-li přiděleno.
+>
+> (5) Fyzická a právnická osoba dále v oznámení uvede
+>
+> - a) vymezení druhu veřejné komunikační sítě, kterou hodlá zajišťovat, a popis služby elektronických komunikací, kterou hodlá poskytovat, s odkazem na příslušné všeobecné oprávnění,
+>
+> - b) datum předpokládaného zahájení zajišťování veřejné komunikační sítě nebo poskytování služby elektronických komunikací.
+>
+> (6) Fyzická a právnická osoba dále při oznámení doloží splnění obecných podmínek podle § 8 odst. 3 a zaplacení správního poplatku za přijetí žádosti o vydání osvědčení podle § 14 odst. 1, pokud požaduje jeho vydání. Právnická osoba dosud nezapsaná ve veřejném rejstříku při oznámení předloží též ověřenou kopii smlouvy nebo listiny o zřízení nebo založení právnické osoby.
+>
+> (7) Fyzická a právnická osoba, která splnila oznamovací povinnost podle odstavců 2 až 5, je povinna Úřadu písemně neprodleně sdělit změny údajů uvedených v oznámení na elektronickém formuláři podle odstavce 1. To neplatí v případě, kdy změna údajů byla oznámena prostřednictvím jiného agendového místa10a).
+>
+> (8) Fyzická a právnická osoba, která ukončila nebo přerušila vykonávání komunikační činnosti oznámené podle odstavce 1, je povinna ve lhůtě 1 týdne ode dne ukončení nebo přerušení výkonu komunikační činnosti oznámit tuto skutečnost Úřadu; odstavec 1 se použije obdobně.
+>
+> (9) Podnikatel žádající o přístup nebo propojení na území České republiky není povinen oznámit Úřadu vykonávání komunikačních činností, neposkytuje-li na území České republiky službu elektronických komunikací nebo nezajišťuje-li síť elektronických komunikací.
+>
+> (10) Fyzická a právnická osoba, která přerušila vykonávání komunikační činnosti podle odstavce 8, je povinna v případě opětovného zahájení vykonávání této činnosti, tuto skutečnost Úřadu oznámit; odstavec 1 se použije obdobně.
+>
+> (11) Jestliže fyzická nebo právnická osoba nevykonává komunikační činnost, kterou oznámila podle odstavce 1, neprovedla oznámení podle odstavce 8 a neoznámila, že zjednala nápravu ve lhůtě do 1 měsíce ode dne doručení písemné výzvy Úřadu, dojde k zániku oprávnění k podnikání v elektronických komunikacích. Úřad informaci o takovém zániku oprávnění k podnikání uveřejní na elektronické úřední desce Úřadu, a je-li to možné, zašle informaci této osobě prostřednictvím datové schránky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 14
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a18eebe3435580b71d88 -->
+
 ### § 14 — Osvědčení a evidence podnikatelů
 
 > **§ 14**
@@ -791,6 +1297,70 @@ Osvědčení je deklaratorní (nikoli konstitutivní) doklad vydávaný fakultat
 ---
 
 **Díl 3 — Správa rádiového spektra**
+
+
+<!-- LEGAL-REVISION:BEGIN id=7af0615ad0f201a977f2 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 14 — Osvědčení a evidence podnikatelů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad do 1 týdne od doručení oznámení podle § 13 odst. 1 přidělí fyzické osobě identifikační číslo, pokud jí dosud nebylo přiděleno; identifikační číslo poskytne Úřadu správce základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci10a). Úřad do 1 týdne od doručení oznámení vydá osobě podle § 13 odst. 1 po doručení oznámení na její písemnou žádost osvědčení potvrzující, že tato osoba předložila úplné oznámení podnikání podle [[#§ 13|§ 13]] a splnila obecné podmínky podle § 8 odst. 3.
+>
+> (2) V osvědčení podle odstavce 1 Úřad uvede
+>
+> - a) tyto identifikační údaje:
+>
+>   - 1. u fyzické osoby jméno, popřípadě jména, a příjmení, popřípadě obchodní firmu, adresu sídla, popřípadě označení a adresu umístění odštěpného závodu na území České republiky a identifikační číslo, bylo-li přiděleno,
+>
+>   - 2. u právnické osoby obchodní firmu nebo název, adresu sídla, popřípadě označení a adresu umístění odštěpného závodu na území České republiky, identifikační číslo, bylo-li přiděleno,
+>
+> - b) vymezení druhu sítě elektronických komunikací nebo služby elektronických komunikací, jejíž zajišťování nebo poskytování bylo oznámeno, a skutečnost, zda oznamovateli vzniklo oprávnění podle [[#§ 79|§ 79]] a [[#§ 104|104]],
+>
+> - c) podmínky, za kterých podnikatel, který zajišťuje sítě elektronických komunikací nebo poskytuje služby elektronických komunikací podle všeobecného oprávnění, může požádat o práva na instalování zařízení, sjednat propojení a získat přístup nebo propojení, aby byl usnadněn výkon těchto práv například na jiných úrovních státní správy nebo vůči jiným podnikatelům.
+>
+> (3) Úřad vede v elektronické podobě databázi osob, kterým vzniklo oprávnění podle § 8 odst. 2. Databáze obsahuje údaje nejvýše v rozsahu údajů uvedených v oznámení podnikání podle [[#§ 13|§ 13]]. Databáze je veřejně přístupná způsobem umožňujícím dálkový přístup.
+>
+> (4) Na žádost osoby uvedené v § 13 odst. 7 vydá Úřad osvědčení o sdělení změny oznámených údajů v rozsahu odstavce 2.
+>
+> (5) Pokud bylo vydáno rozhodnutí Úřadu podle § 13 odst. 11 nebo § 114 odst. 3 nebo [[#§ 4|4]], uvede Úřad údaje obsažené v databázi podle odstavce 3 bezodkladně do souladu se skutečným stavem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 8, § 79, § 104, § 114, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7af0615ad0f201a977f2 -->
 
 ### § 15 — Povinnosti Úřadu při správě rádiového spektra
 
@@ -958,6 +1528,118 @@ Odst. 13 zakotvuje povinnost Úřadu spolupracovat v rámci **Skupiny RSPG** (Ra
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=97bb9127bf20a676cb29 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 15 — Povinnosti Úřadu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad vykonává k zajištění správy a účelného využívání rádiových kmitočtů správu rádiového spektra, která je v souladu s harmonizačními záměry Evropské unie a se závazky vyplývajícími z mezinárodní smlouvy, kterou je Česká republika vázána, nebo z členství v mezinárodních organizacích.
+>
+> (2) Správou rádiového spektra se rozumí sestavování návrhu plánu přidělení kmitočtových pásem (národní kmitočtová tabulka) a jeho změn, sestavování plánu využití rádiového spektra, udělování individuálního oprávnění k využívání rádiových kmitočtů, udělování přídělu rádiových kmitočtů, udělování souhlasu k převodu přídělu rádiových kmitočtů nebo jeho části, přidělování volacích značek a identifikačních čísel a kódů, koordinace rádiových kmitočtů a kmitočtových pásem a kontrola využívání rádiového spektra. Úřad v rámci správy rádiového spektra odpovídá za jeho účelné využití. Pro účely zajištění koordinace rádiových kmitočtů a pásem může Úřad uzavřít veřejnoprávní smlouvu s právnickou osobou vybranou postupem podle [[§ 163 odst. 4|§ 163 odst. 4]] [[správního řádu|správního řádu]] za účelem spolupráce v oblasti zajišťování vnitrostátní kmitočtové koordinace.
+>
+> (3) Veřejnoprávní smlouva obsahuje alespoň
+>
+> - a) vymezení předmětu smlouvy,
+>
+> - b) podmínky spolupráce smluvních stran,
+>
+> - c) výpovědní dobu a výpovědní důvody,
+>
+> - d) ujednání o povinnosti zachovávat mlčenlivost ohledně informací získaných v souvislosti s výkonem činnosti podle písmene a).
+>
+> (4) Využíváním rádiových kmitočtů se rozumí jejich používání pro radiokomunikační službu nebo k zajišťování sítě elektronických komunikací, jejímž prostřednictvím jsou poskytovány služby elektronických komunikací nebo radiokomunikační služby.
+>
+> (5) Využívání rádiových kmitočtů musí probíhat v souladu se zákonem, plánem přidělení kmitočtových pásem (národní kmitočtová tabulka), plánem využití rádiového spektra, přídělem rádiových kmitočtů, individuálním oprávněním k využívání rádiových kmitočtů, krátkodobým oprávněním k využívání rádiových kmitočtů a individuálním oprávněním k využívání rádiových kmitočtů pro experimentální účely, popřípadě všeobecným oprávněním.
+>
+> (6) Pro účely výkonu správy rádiového spektra a kontroly elektronických komunikací, vyhledávání a odstraňování zdrojů rušení rádiových kmitočtů a pro kontrolu a vyhodnocení plnění podmínek, které byly uloženy držiteli přídělu rádiových kmitočtů podle [[#§ 22|§ 22]] ve výběrovém řízení podle [[#§ 21|§ 21]], Úřad vede databázi přidělených rádiových kmitočtů s informacemi zejména o číslech rozhodnutí, kterými byly rádiové kmitočty přiděleny, a době, na kterou byly přiděleny. Databáze je veřejně přístupná způsobem umožňujícím dálkový přístup. Veřejný přístup není k údajům o osobě držitele individuálního oprávnění k využívání rádiových kmitočtů podle [[#§ 18|§ 18]], pokud je držitel fyzickou osobou, a o rádiových kmitočtech přidělených
+>
+> - a) Ministerstvu vnitra pro účely bezpečnosti státu,
+>
+> - b) Policii České republiky pro účely bezpečnosti státu,
+>
+> - c) Bezpečnostní informační službě,
+>
+> - d) Vězeňské službě České republiky,
+>
+> - e) Hasičskému záchrannému sboru České republiky,
+>
+> - f) Ministerstvu obrany pro vojenské účely,
+>
+> - g) Celní správě České republiky,
+>
+> - h) Generální inspekci bezpečnostních sborů,
+>
+> - i) Úřadu pro zahraniční styky a informace.
+>
+> (7) K části databáze vedené Úřadem podle odstavce 6 Úřad zřizuje a provozuje informační portál (dále jen „portál“), jehož prostřednictvím zpřístupní informace o využívání rádiových kmitočtů v pevné, pohyblivé a rozhlasové radiokomunikační službě v sítích elektronických komunikací v rozsahu těchto údajů:
+>
+> - a) osoba držitele individuálního oprávnění k využívání rádiových kmitočtů podle [[#§ 18|§ 18]],
+>
+> - b) název a geografické souřadnice stanoviště rádiových stanic,
+>
+> - c) nadmořská výška stanoviště rádiových stanic,
+>
+> - d) vyzářený výkon rádiové stanice nebo výkon přivedený do antény,
+>
+> - e) přidělený rádiový kmitočet nebo kanál a jeho šířka.
+>
+> (8) Je-li to nezbytné pro zajištění správy a účelného využívání rádiového spektra může Úřad opatřením obecné povahy vyloučit ze zpřístupnění některé údaje podle odstavce 7. Úřad může tyto údaje rovněž vyloučit ze zpřístupnění na základě podnětu držitele individuálního oprávnění k využívání rádiových kmitočtů, a to z důvodu zajištění bezpečnosti sítí elektronických komunikací nebo informací podle jiných právních předpisů74).
+>
+> (9) Přístup veřejnosti k údajům v portálu, jejichž zpřístupnění nebylo vyloučeno podle odstavce 8, je umožněn bezplatně po ověření totožnosti tazatele. Úřad může k tomu účelu zpracovávat osobní údaje osob, kterým byly prostřednictvím portálu zpřístupněny údaje podle odstavce 7, a v nezbytném rozsahu předávat tyto údaje držitelům individuálních oprávnění k využívání rádiových kmitočtů.
+>
+> (10) Úřad poskytuje informace do Informačního systému o rádiovém spektru10b).
+>
+> (11) Úřad je povinen provádět systematické monitorování účelného využívání rádiového spektra držiteli individuálních oprávnění k využívání rádiových kmitočtů podle [[#§ 18|§ 18]] a systematické monitorování dodržování závazků vyplývajících držitelům přídělů rádiových kmitočtů z výběrových řízení podle [[#§ 21|§ 21]]. Za tím účelem je oprávněn shromažďovat příslušné údaje od dotčených držitelů individuálních oprávnění k využívání rádiových kmitočtů, kontrolovat věrohodnost poskytnutých údajů, vyhodnocovat plnění podmínek, které byly uloženy držiteli přídělu rádiových kmitočtů podle § 22 odst. 2 a [[#§ 3|3]] ve výběrovém řízení podle [[#§ 21|§ 21]].
+>
+> (12) K realizaci úkolů podle odstavců 1, [[#§ 2|2]], 5 až 7 Úřad provozuje příslušné informační systémy a automatizovaný systém monitorování kmitočtového spektra.
+>
+> (13) Za účelem podpory strategického plánování a koordinace přístupů k politice rádiového spektra v Evropské unii Úřad spolupracuje s Komisí a ostatními příslušnými regulačními orgány v souladu s odstavcem 1, prostřednictvím Skupiny RSPG a na vyžádání i s Evropským parlamentem a Radou Evropské unie, na
+>
+> - a) vypracovávání osvědčených postupů o otázkách souvisejících s rádiovým spektrem,
+>
+> - b) usnadňování koordinace mezi členskými státy a přispívání k rozvoji vnitřního trhu,
+>
+> - c) koordinaci svých přístupů k přidělování rádiového spektra a vydávání oprávnění k jeho využívání, a to formou zveřejňování zpráv nebo stanovisek o otázkách souvisejících s rádiovým spektrem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 163, § 22, § 21, § 18, § 3, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=97bb9127bf20a676cb29 -->
+
 ### § 15a — Přeshraniční koordinace a mezinárodní spolupráce
 
 > **§ 15a**
@@ -1020,6 +1702,58 @@ Subordinace Úřadu prováděcímu aktu Komise (odst. 4) je výrazem primátu un
 **Typicky rozhodné důkazy / podklady:** měřicí protokoly o interferenci, korespondence s národním úřadem, podklady o harmonizaci pásma, stanovisko RSPG, prováděcí akt Komise.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=42d1e014c14f64ea158e generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 15a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad spolupracuje s úřady jiných členských států stejně jako se zeměmi, které nejsou členy Evropské unie, pro předcházení přeshraniční škodlivé interferenci v harmonizovaném rádiovém spektru a při řešení sporů v rámci přeshraniční koordinace.
+>
+> (2) Úřad může požádat Skupinu RSPG o konzultaci nebo vydání stanoviska za účelem řešení problému nebo sporu v souvislosti s přeshraniční koordinací nebo přeshraniční škodlivou interferencí v harmonizovaném rádiovém spektru.
+>
+> (3) Úřad může požádat Komisi o poskytnutí podpory za účelem vyřešení problémů s koordinací harmonizovaného rádiového spektra se zeměmi sousedícími s Evropskou unií, včetně kandidátských a přistupujících zemí.
+>
+> (4) Nebyl-li problém nebo spor vyřešen opatřeními podle odstavců 1 a [[#§ 2|2]], může Úřad podat žádost Komisi o vydání prováděcího aktu ve věci přeshraniční škodlivé interference v harmonizovaném rádiovém spektru. Souhlasí-li Komise s vydáním tohoto prováděcího aktu, Úřad rozhodne v této věci až po nabytí účinnosti tohoto prováděcího aktu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=42d1e014c14f64ea158e -->
 
 ### § 16 — Kmitočtové plány
 
@@ -1119,6 +1853,78 @@ Plánování spektra je dvoustupňové: NKT vydává Ministerstvo vyhláškou, p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6e7fc04ece7ece786c99 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 16 — Kmitočtové plány
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Plán přidělení kmitočtových pásem (národní kmitočtová tabulka) stanoví Ministerstvo vyhláškou.
+>
+> (2) Plán využití rádiového spektra, popřípadě jeho části, Úřad vydává jako opatření obecné povahy.
+>
+> (3) Plán přidělení kmitočtových pásem (národní kmitočtová tabulka) v souladu se závazky vyplývajícími z mezinárodní smlouvy, kterou je Česká republika vázána, nebo z členství v mezinárodních organizacích obsahuje kmitočtová pásma pro jednotlivé radiokomunikační služby, popřípadě rádiová zařízení a obecné podmínky pro využívání kmitočtů.
+>
+> (4) Úřad v plánu využití rádiového spektra stanoví technické parametry a podmínky využití rádiového spektra radiokomunikačními službami, včetně uvedení, zda mají být rádiové kmitočty využívány na základě všeobecného oprávnění nebo na základě individuálního oprávnění k využívání rádiových kmitočtů, zda je počet práv k využívání rádiových kmitočtů omezen, nebo zda došlo k omezení práv k využívání rádiových kmitočtů a omezení zásad uvedených v [[#§ 16a|§ 16a]].
+>
+> (5) Úřad je oprávněn upřednostnit ve veřejném zájmu využívání rádiového spektra pro poskytování univerzální služby a poskytování veřejně dostupných služeb elektronických komunikací.
+>
+> (6) Plán využití rádiového spektra a informace o právech, podmínkách, postupech a poplatcích týkajících se využívání rádiového spektra Úřad uveřejní. Úřad tyto informace průběžně aktualizuje. Údaje o kmitočtových pásmech vyhrazených v plánu přidělení kmitočtových pásem (národní kmitočtová tabulka) Ministerstvu obrany výhradně pro vojenské účely se v plánu využití rádiového spektra neuveřejňují.
+>
+> (7) Způsob tvorby volacích značek a identifikačních čísel a kódů, jejich používání a druhy radiokomunikačních služeb, pro něž jsou vyžadovány, stanoví prováděcí právní předpis.
+>
+> (8) Technické a provozní podmínky amatérské radiokomunikační služby, třídy osob obsluhujících stanice amatérské radiokomunikační služby a kvalifikační požadavky na tyto osoby, typy stanic a podmínky jejich provozování, včetně omezení pro obsah komunikace, stanoví prováděcí právní předpis.
+>
+> (9) Vláda může nařízením stanovit k zajištění provedení změny podmínek stanovených kmitočtovým plánem podle odstavce 1 nebo [[#§ 2|2]], které mají zásadní dopad na využívání rádiových kmitočtů určených pro poskytování služby šíření zemského televizního nebo rozhlasového vysílání, pravidla, časové a technické podmínky, způsob postupu orgánů státní správy a subjektů dotčených změnou na jejich právech nebo povinnostech a podmínky pro náhradu nákladů účelně a efektivně vynaložených z důvodu změny ([[#§ 27|§ 27]]).
+>
+> (10) V plánu využití rádiového spektra může Úřad stanovit alternativní využívání rádiového spektra v harmonizovaném rádiovém spektru, pokud
+>
+> - a) je zjištění nedostatečné tržní poptávky po užívání takového pásma, včetně posouzení budoucí tržní poptávky, založeno na veřejné konzultaci podle [[#§ 130|§ 130]],
+>
+> - b) toto alternativní využívání neznemožňuje ani neztěžuje dostupnost nebo užívání takového pásma v jiných členských státech a
+>
+> - c) zohlední dlouhodobou dostupnost nebo využívání harmonizovaného rádiového spektra v Evropské unii a úspory z rozsahu pro vybavení vyplývající z využívání harmonizovaného rádiového spektra v Evropské unii.
+>
+> (11) Úřad provádí přezkum plánu využití rádiového spektra podle odstavce 10 každé 3 roky od jeho vydání nebo na základě podnětu podnikatele poskytujícího veřejně dostupnou službu elektronických komunikací nebo zajišťujícího veřejnou komunikační síť, který vyjádří zájem o alternativní využívání harmonizovaného rádiového spektra, nebo orgánů podle § 15 odst. 6. Úřad následně informuje Komisi a regulační orgány ostatních členských států o závěru tohoto přezkumu, včetně odůvodnění, a popřípadě i o změně plánu využití rádiového spektra.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16a, § 2, § 27, § 130, § 15
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e7fc04ece7ece786c99 -->
+
 ### § 16a — Technologická neutralita a neutralita vůči službám
 
 > **§ 16a**
@@ -1211,6 +2017,76 @@ Každé omezení neutrality podléhá **povinné revizi nejméně jednou za 5 le
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=3436e8f1557795733ace generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 16a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Při správě rádiového spektra Úřad jedná v souladu se zásadou technologické neutrality a neutrality vůči službám elektronických komunikací.
+>
+> (2) Úřad v plánu využití rádiového spektra může omezit zásadu technologické neutrality tím, že stanoví technické podmínky využívání daného kmitočtového pásma určitým typem technologie, je-li to nezbytné pro
+>
+> - a) zabránění škodlivé interferenci,
+>
+> - b) ochranu veřejného zdraví proti škodlivým účinkům působení elektromagnetického pole,
+>
+> - c) zajištění technických podmínek kvality služby elektronických komunikací,
+>
+> - d) zajištění maximálního sdílení rádiových kmitočtů,
+>
+> - e) zajištění účelného využívání rádiových kmitočtů, nebo
+>
+> - f) plnění cílů veřejného zájmu, jimiž jsou ochrana života a zdraví, podpora sociální, regionální nebo územní soudržnosti nebo podpora kulturní a jazykové rozmanitosti a plurality médií, například poskytování služeb rozhlasového a televizního vysílání.
+>
+> (3) Úřad v plánu využití rádiového spektra může omezit zásadu neutrality vůči službám elektronických komunikací tím, že stanoví využívání kmitočtového pásma konkrétní službou elektronických komunikací a podmínky tohoto využívání, je-li to nezbytné pro
+>
+> - a) splnění závazků vyplývajících z členství České republiky v Mezinárodní telekomunikační unii, nebo
+>
+> - b) plnění cílů veřejného zájmu, jimiž jsou ochrana života a zdraví54), podpora sociální, regionální nebo územní soudržnosti nebo podpora kulturní a jazykové rozmanitosti a plurality médií, například poskytování služeb rozhlasového a televizního vysílání.
+>
+> (4) Úřad může v plánu využití rádiového spektra zakázat poskytování služby elektronických komunikací v konkrétním kmitočtovém pásmu, a to pouze v případě, jsou-li v daném kmitočtovém pásmu provozovány služby, které slouží k ochraně života a zdraví.
+>
+> (5) Úřad provádí pravidelně, nejméně jednou za pět let, přezkum nezbytnosti omezení podle odstavců 2 až 4 a výsledek tohoto přezkumu uveřejní. Zjistí-li Úřad, že důvody pro omezení podle odstavců 2 až 4 již nejsou dány, plán využití rádiového spektra změní.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3436e8f1557795733ace -->
+
 ### § 16b — Soulad individuálních oprávnění a přídělů s plánem využití spektra
 
 > **§ 16b**
@@ -1268,6 +2144,54 @@ Tato symetrie odpovídá čl. 45 odst. 4 a 5 EECC.
 **Typicky rozhodné důkazy / podklady:** znění přídělu/individuálního oprávnění, srovnání verzí plánu využití spektra, žádost držitele, podklady o (ne)trvání důvodů omezení neutrality.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c9991ae71e00cb56d5d4 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 16b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad je oprávněn změnit všechna individuální oprávnění k využívání rádiových kmitočtů, příděly rádiových kmitočtů a všeobecná oprávnění, která budou v rozporu s Plánem využití rádiového spektra v části upravující omezení technologické neutrality a neutrality vůči službám podle [[#§ 16a|§ 16a]].
+>
+> (2) Úřad je povinen na žádost dotčeného držitele přídělu rádiových kmitočtů nebo individuálního oprávnění k využívání rádiových kmitočtů odstranit omezení technologické neutrality a neutrality vůči službám v tomto přídělu rádiových kmitočtů nebo individuálním oprávnění k využívání rádiových kmitočtů tak, aby jejich podmínky byly v souladu s Plánem využití rádiového spektra.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c9991ae71e00cb56d5d4 -->
 
 ### § 17 — Individuální oprávnění k využívání rádiových kmitočtů
 
@@ -1391,3 +2315,140 @@ Individuální oprávnění je subsidiárním nástrojem ke všeobecnému opráv
 **Typicky rozhodné důkazy / podklady:** žádost s technickými parametry kmitočtů, plán využití rádiového spektra, údaje o obsazenosti pásma, povinné přílohy (licence, souhlasy, koordinační potvrzení), rozhodnutí Úřadu.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=d34b97adf84d00009a1a generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 17 — Individuální oprávnění k využívání rádiových kmitočtů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Rádiové kmitočty, které nelze využívat na základě všeobecného oprávnění podle [[#§ 9|§ 9]], je možné využívat pouze na základě individuálního oprávnění k využívání rádiových kmitočtů (dále jen „oprávnění k využívání rádiových kmitočtů“), nestanoví-li tento zákon jinak. Úřad udělí žadateli oprávnění k využívání rádiových kmitočtů v případě, je-li to nezbytné k
+>
+> - a) zabránění škodlivé interferenci,
+>
+> - b) zajištění technických podmínek kvality služby elektronických komunikací,
+>
+> - c) zabezpečení účelného využívání rádiového spektra,
+>
+> - d) plnění cílů veřejného zájmu, jimiž jsou ochrana života a zdraví54), podpora sociální, regionální nebo územní soudržnosti nebo podpora kulturní a jazykové rozmanitosti a plurality médií, například poskytování služeb rozhlasového a televizního vysílání,
+>
+> - e) experimentálním účelům, nebo
+>
+> - f) zajištění využívání dotčeného rádiového spektra z důvodu jeho specifických vlastností.
+>
+> (2) V případech, kdy je nezbytné udělit oprávnění k využívání rádiových kmitočtů, Úřad rozhodne o jejich udělení kterémukoli podnikateli zajišťujícímu síť elektronických komunikací nebo poskytujícímu službu elektronických komunikací podle všeobecného oprávnění nebo podnikateli užívajícímu tyto sítě nebo služby, anebo nepodnikající osobě v souladu s podmínkami zajišťujícími účelné využívání rádiových kmitočtů, a to na základě jeho písemné žádosti podané Úřadu.
+>
+> (3) Žádost o udělení oprávnění k využívání rádiových kmitočtů musí obsahovat
+>
+> - a) je-li žadatelem
+>
+>   - 1. podnikající právnická osoba, obchodní firmu nebo název, adresu sídla a identifikační číslo, bylo-li přiděleno, jméno, popřípadě jména, příjmení a bydliště osoby oprávněné jednat jménem této právnické osoby, popřípadě též označení a adresu umístění odštěpného závodu na území České republiky a identifikační číslo, bylo-li přiděleno,
+>
+>   - 2. podnikající fyzická osoba, jméno, popřípadě jména, a příjmení, popřípadě obchodní firmu, bydliště, adresu sídla a identifikační číslo, bylo-li přiděleno, popřípadě též označení a adresu umístění odštěpného závodu na území České republiky a identifikační číslo, bylo-li přiděleno,
+>
+>   - 3. nepodnikající osoba, jméno, popřípadě jména, a příjmení, bydliště a datum narození fyzické osoby, nebo název a adresu sídla, popřípadě identifikační číslo právnické osoby, bylo-li přiděleno,
+>
+> - b) údaje o rádiových kmitočtech, které jsou požadovány, včetně jejich technických parametrů, a účel jejich využívání, nejsou-li tyto kmitočty a jejich technické parametry závazně stanoveny mezinárodní smlouvou, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce,
+>
+> - c) číslo jednací a datum vydání rozhodnutí o přídělu rádiových kmitočtů v případě žádosti o udělení oprávnění k využívání rádiových kmitočtů, ke kterým právo k využívání bylo tímto přídělem uděleno,
+>
+> - d) typ vysílacího rádiového zařízení, pokud je to vyžadováno mezinárodní smlouvou, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce, anebo to vyplývá z členství České republiky v Evropské unii anebo v mezinárodních organizacích,
+>
+> - e) návrh požadované volací značky, identifikačního čísla nebo kódu, jsou-li pro daný druh radiokomunikační služby nezbytné,
+>
+> - f) vymezení předpokládaného území využívání rádiových kmitočtů, je-li pro jejich využívání nezbytné,
+>
+> - g) požadovanou dobu využívání rádiových kmitočtů.
+>
+> (4) Rozsah požadovaných údajů podle odstavce 3 písm. b) pro jednotlivé druhy radiokomunikačních služeb stanoví Úřad opatřením obecné povahy.
+>
+> (5) Žádost o udělení oprávnění k využívání rádiových kmitočtů musí být doložena
+>
+> - a) v případě žádosti o udělení oprávnění k využívání rádiových kmitočtů pro rozhlasové analogové vysílání licencí k provozování rozhlasového vysílání šířeného analogově podle zvláštního právního předpisu11), nebo souhlasem držitele takové licence, s výjimkou případu, kdy se jedná o žádost o udělení oprávnění k využívání rádiových kmitočtů, ke kterým právo k využívání bylo uděleno přídělem rádiových kmitočtů, nebo případu, kdy jsou rádiové kmitočty vyhrazeny podle zvláštního právního předpisu16),
+>
+> - b) souhlasem držitele přídělu v případě žádosti o udělení oprávnění k využívání rádiových kmitočtů, ke kterým právo k využívání bylo uděleno přídělem rádiových kmitočtů, pokud o oprávnění nežádá držitel tohoto přídělu,
+>
+> - c) u osob dosud nezapsaných ve veřejném rejstříku ověřenou kopií smlouvy nebo listiny o zřízení nebo založení právnické osoby,
+>
+> - d) osvědčením o zápisu do leteckého rejstříku České republiky, osvědčením o přidělení poznávací značky vedené v leteckém rejstříku České republiky nebo v rejstříku sportovních létajících zařízení vedeném právnickou osobou pověřenou výkonem státní správy ve věcech sportovních létajících zařízení90) nebo osvědčením o předběžně přidělené poznávací značce před zápisem do některého z těchto rejstříků, požaduje-li žadatel udělení oprávnění k využívání rádiových kmitočtů na palubě letadla nebo rozhodnutím vydaným podle zákona [[o civilním letectví|o civilním letectví]] v případě bezpilotního letadla; pilotním průkazem pilota padákového kluzáku vydaným právnickou osobou pověřenou výkonem státní správy ve věcech sportovních létajících zařízení91), požaduje-li žadatel udělení oprávnění k využívání rádiových kmitočtů leteckou pohyblivou službou na padákovém kluzáku,
+>
+> - e) potvrzením Ministerstva dopravy o provedení kmitočtové koordinace v rámci leteckých mezinárodních organizací, požaduje-li žadatel udělení oprávnění k využívání rádiových kmitočtů letecké pohyblivé služby12),
+>
+> - f) osvědčením o zápisu do plavebního rejstříku České republiky, požaduje-li žadatel udělení oprávnění k využívání rádiových kmitočtů na vnitrozemském plavidle13), nebo do námořního rejstříku České republiky, požaduje-li žadatel udělení oprávnění k využívání kmitočtů na námořním plavidle14); zápis plavidla do plavebního rejstříku České republiky je možno rovněž doložit lodním osvědčením14),
+>
+> - g) osvědčením o zápisu družicové sítě nebo soustavy do Základního mezinárodního rejstříku rádiových kmitočtů (MIFR), požaduje-li žadatel udělení oprávnění k využívání kmitočtů pro družicové sítě nebo soustavy.
+>
+> (6) Úřad rozhodne o udělení oprávnění k využívání rádiových kmitočtů bezodkladně. Jedná-li se o rádiové kmitočty vyhrazené pro zvláštní účely v rámci plánu přidělení kmitočtových pásem (národní kmitočtová tabulka) a plánu využití rádiového spektra, rozhodne Úřad ve lhůtě 6 týdnů ode dne podání úplné žádosti. Tuto lhůtu je Úřad oprávněn prodloužit, je-li to nezbytné z důvodu výběrového řízení ([[#§ 21|§ 21]]), nejdéle však o 8 měsíců. Lhůty vyplývající z mezinárodních dohod týkajících se využívání rádiových kmitočtů nebo orbitálních pozic nejsou tímto dotčeny.
+>
+> (7) Je-li více žadatelů o udělení oprávnění k využívání stejných rádiových kmitočtů, Úřad rozhodne o udělení oprávnění podle pořadí došlých žádostí; tento postup se neuplatní u žadatelů o povolení k provozu stanic amatérské radiokomunikační služby, s výjimkou oprávnění pro amatérský převáděč a amatérský maják.
+>
+> (8) Oprávnění k využívání rádiových kmitočtů pro jiné radiokomunikační služby v části rádiového spektra vyhrazené výhradně pro rozhlasovou službu může Úřad vydat jen se souhlasem Rady pro rozhlasové a televizní vysílání podle zvláštního právního předpisu11).
+>
+> (9) Úřad přednostně rozhodne o udělení oprávnění k využívání rádiových kmitočtů nezbytných k zajištění činnosti orgánů Ministerstva vnitra, Bezpečnostní informační služby, Úřadu pro zahraniční styky a informace, Policie České republiky, Vězeňské služby České republiky, Hasičského záchranného sboru České republiky a jednotek požární ochrany, poskytovatelů zdravotnické záchranné služby, Celní správy České republiky a Generální inspekce bezpečnostních sborů.
+>
+> (10) Kmitočtová pásma, ve kterých nejsou radiokomunikační služby sdíleně využívány, a jsou vyhrazená v plánu přidělení kmitočtových pásem (národní kmitočtová tabulka) výhradně Ministerstvu obrany pro vojenské účely, mohou být využívána pro vojenské účely bez rozhodnutí o udělení oprávnění k využívání rádiových kmitočtů.
+>
+> (11) Úřad neudělí oprávnění k využívání rádiových kmitočtů, jestliže
+>
+> - a) to vyžaduje obrana nebo bezpečnost státu,
+>
+> - b) to vyžaduje dodržení závazků vyplývajících z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce,
+>
+> - c) to vyžaduje dodržení závazků vyplývajících z členství České republiky v Evropské unii, Severoatlantické alianci anebo v mezinárodních organizacích,
+>
+> - d) využívání požadovaných rádiových kmitočtů neumožňuje plán přidělení kmitočtových pásem (národní kmitočtová tabulka) nebo plán využití rádiového spektra; to neplatí v případě využívání rádiových kmitočtů pro experimentální účely podle [[#§ 19b|§ 19b]],
+>
+> - e) žadatel ani na opakovanou výzvu Úřadu a v jím stanovené lhůtě nepředložil úplnou žádost o udělení oprávnění k využívání rádiových kmitočtů,
+>
+> - f) požadované rádiové kmitočty nejsou k dispozici nebo je nelze zkoordinovat,
+>
+> - g) oznámil záměr omezit počet práv k využívání rádiových kmitočtů, jejichž využívání je požadováno,
+>
+> - h) došlo k omezení práv k využívání rádiových kmitočtů, jejichž využívání je požadováno, a o rádiové kmitočty žádá osoba, která není držitelem přídělu rádiových kmitočtů uděleného na základě omezení nebo osobou, které byl udělen souhlas držitele přídělu rádiových kmitočtů,
+>
+> - i) by vedlo udělení oprávnění k využívání požadovaných rádiových kmitočtů k jejich neúčelnému využívání, nebo
+>
+> - j) by požadované podmínky využívání rádiových kmitočtů byly v rozporu s podmínkami uvedenými v přídělu rádiových kmitočtů.
+>
+> (12) Úřad přeruší řízení o žádosti o udělení oprávnění k využívání rádiových kmitočtů, jestliže hodlá oznámit záměr omezit počet práv podle § 20 odst. 2, které jsou předmětem žádosti, a to nejdéle na 3 měsíce od doručení žádosti.
+>
+> (13) Úřad může rozhodnout, že neudělí oprávnění k využívání rádiových kmitočtů také žadateli, který má nedoplatky po lhůtě splatnosti na pokutách nebo poplatcích uložených podle tohoto zákona.
+>
+> (14) Podání opravného prostředku proti rozhodnutí podle odstavce 6 nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 21, § 19b, § 20
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d34b97adf84d00009a1a -->

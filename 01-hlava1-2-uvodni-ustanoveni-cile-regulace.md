@@ -84,6 +84,56 @@ Odst. 3 deklaruje, že ZEK — přestože sleduje cíl vytváření a ochrany ho
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6f915c9785c92c703824 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Tento zákon upravuje na základě práva Evropské unie1) podmínky podnikání, podmínky výkonu komunikační činnosti a výkon státní správy, včetně regulace trhu, v oblasti elektronických komunikací.
+>
+> (2) Tento zákon se nevztahuje na obsah služeb poskytovaných prostřednictvím sítí elektronických komunikací, jako je obsah rozhlasového a televizního vysílání, finančních služeb a některých služeb informační společnosti, není-li dále stanoveno jinak. Oddělením regulace přenosu od regulace obsahu nejsou dotčeny vazby, které mezi nimi existují, zejména pro zaručení mediální plurality, kulturní rozmanitosti a ochrany spotřebitele.
+>
+> (3) Tímto zákonem nejsou dotčeny předpisy na ochranu hospodářské soutěže.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f915c9785c92c703824 -->
+
 ### § 2 — Vymezení pojmů
 
 > **§ 2**
@@ -309,6 +359,148 @@ Rozlišení na **ICS založenou na číslech** (number-based, NB-ICS) a **ICS ne
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=baee39c736d2c3e68205 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 2 — Vymezení pojmů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Pro účely tohoto zákona se rozumí
+>
+> - a) účastníkem každý, kdo uzavřel s podnikatelem poskytujícím veřejně dostupné služby elektronických komunikací smlouvu o poskytování těchto služeb,
+>
+> - b) uživatelem každý, kdo využívá nebo žádá veřejně dostupnou službu elektronických komunikací,
+>
+> - c) koncovým uživatelem uživatel, který nezajišťuje veřejnou komunikační síť nebo veřejně dostupnou službu elektronických komunikací,
+>
+> - d) operátorem podnikatel, který zajišťuje nebo je oprávněn zajišťovat veřejnou komunikační síť nebo přiřazené prostředky,
+>
+> - e) zajišťováním sítě elektronických komunikací zřízení této sítě, její provozování, dohled nad ní nebo její zpřístupnění,
+>
+> - f) vertikálně integrovaným podnikem podnikatel, který provozuje síť elektronických komunikací a který zároveň poskytuje služby elektronických komunikací na maloobchodním nebo velkoobchodním trhu, nebo skupina podnikatelů, podléhají-li jejich vzájemné vztahy působnosti přímo použitelného předpisu Evropské unie70), kteří zajišťují síť elektronických komunikací a zároveň poskytují služby elektronických komunikací na maloobchodním i velkoobchodním trhu,
+>
+> - g) neziskovou organizací veřejně prospěšná právnická osoba, která podle svého zakladatelského právního jednání nerozděluje zisk ani jiné vlastní zdroje mezi své členy.
+>
+> (2) Pro účely tohoto zákona se dále rozumí
+>
+> - a) přiřazenými prostředky přiřazené služby, prostředky fyzické infrastruktury a jiná zařízení nebo prvky související se sítí elektronických komunikací nebo službou elektronických komunikací, které umožňují nebo podporují poskytování služeb prostřednictvím této sítě nebo služby nebo jsou toho schopny, a zahrnují budovy nebo vstupy do budov, kabelové rozvody v budovách, antény, věže a jiné podpůrné konstrukce, kabelovody, potrubí, stožáry, vstupní šachty a rozvodné skříně,
+>
+> - b) sítí elektronických komunikací přenosové systémy, bez ohledu na to, zda jsou založeny na trvalé infrastruktuře nebo jsou centralizovaně kapacitně řízené, nebo nikoli, a popřípadě i spojovací nebo směrovací zařízení a jiné prostředky, včetně neaktivních síťových prvků, které umožňují přenos signálů po vedení, rádiovými, optickými nebo jinými elektromagnetickými prostředky, včetně družicových sítí, pevných sítí okruhově nebo paketově komutovaných včetně internetu, mobilních sítí, sítí pro rozvod elektrické energie v rozsahu, v jakém jsou používány pro přenos signálů, sítí pro rozhlasové a televizní vysílání a sítí kabelové televize, bez ohledu na typ přenášené informace,
+>
+> - c) elektronickým komunikačním zařízením technické zařízení pro vysílání, přenos, směrování, spojování nebo příjem signálů prostřednictvím elektromagnetických vln,
+>
+> - d) veřejnou komunikační sítí síť elektronických komunikací, která slouží zcela nebo převážně k poskytování veřejně dostupných služeb elektronických komunikací a která podporuje přenos informací mezi koncovými body sítě, nebo síť elektronických komunikací, jejímž prostřednictvím je poskytovaná služba šíření rozhlasového a televizního vysílání,
+>
+> - e) rozhraním
+>
+> - 1. koncový bod veřejné komunikační sítě,
+>
+> - 2. rozhraní pro propojování veřejných komunikačních sítí nebo přístup k nim, nebo
+>
+> - 3. rádiové rozhraní pro cestu rádiových vln mezi rádiovými zařízeními,
+>
+> a jejich technické specifikace,
+>
+> - f) koncovým bodem sítě fyzický bod, ve kterém je koncovému uživateli poskytován přístup k veřejné komunikační síti; v případě sítí zahrnujících komutaci nebo směrování je tento bod určen konkrétní síťovou adresou, která může být spojena s číslem nebo jménem účastníka,
+>
+> - g) sítí s velmi vysokou kapacitou síť elektronických komunikací, která se zcela sestává z optických prvků alespoň do distribučního bodu v obslužném místě, nebo síť elektronických komunikací, která je schopna za obvyklých podmínek v době špičky dosahovat podobné výkonnosti, pokud jde o dostupnou přenosovou rychlost pro stahování a vkládání dat, odolnost, parametry související s chybovostí a latenci a její kolísání; výkonnost sítě lze považovat za podobnou bez ohledu na to, zda se vnímání ze strany koncového uživatele liší kvůli odlišným vlastnostem vyplývajícím z podstaty média, kterým je síť nakonec spojena s koncovým bodem sítě.
+>
+> (3) Pro účely tohoto zákona se dále rozumí
+>
+> - a) službou elektronických komunikací služba obvykle poskytovaná za úplatu prostřednictvím sítí elektronických komunikací, která s výjimkou služeb poskytujících obsah přenášený prostřednictvím sítí a služeb elektronických komunikací nebo vykonávajících redakční dohled nad tímto obsahem zahrnuje tyto druhy služeb:
+>
+> - 1. službu přístupu k internetu71),
+>
+> - 2. interpersonální komunikační službu,
+>
+> - 3. služby spočívající zcela nebo převážně v přenosu signálů, například přenosové služby používané pro poskytování služby komunikace mezi stroji a pro rozhlasové a televizní vysílání,
+>
+> - b) interpersonální komunikační službou služba obvykle poskytovaná za úplatu, která prostřednictvím sítí elektronických komunikací umožňuje přímou interpersonální a interaktivní výměnu informací mezi konečným počtem osob, kdy osoby, které komunikaci zahajují nebo se jí účastní, určují příjemce informace, a která nezahrnuje služby, jež interpersonální a interaktivní komunikaci umožňují pouze jako nepodstatnou pomocnou funkci, která je ze své podstaty spjata s jinou službou,
+>
+> - c) interpersonální komunikační službou založenou na číslech interpersonální komunikační služba, která je spojena s přidělenými čísly uvedenými v národních nebo mezinárodních číslovacích plánech, nebo která umožňuje komunikaci s číslem nebo čísly uvedenými v národních nebo mezinárodních číslovacích plánech,
+>
+> - d) interpersonální komunikační službou nezávislou na číslech interpersonální komunikační služba, která není spojena s přidělenými čísly uvedenými v národních nebo mezinárodních číslovacích plánech, nebo která neumožňuje komunikaci s číslem nebo čísly uvedenými v národních nebo mezinárodních číslovacích plánech,
+>
+> - e) veřejně dostupnou službou elektronických komunikací služba elektronických komunikací, z jejíhož využívání není nikdo předem vyloučen,
+>
+> - f) hlasovou komunikační službou veřejně dostupná služba elektronických komunikací pro uskutečňování a přijímání, a to přímo nebo nepřímo, národních nebo mezinárodních volání prostřednictvím jednoho nebo více čísel národního nebo mezinárodního číslovacího plánu,
+>
+> - g) univerzální službou soubor služeb podle [[#§ 38|§ 38]], které jsou dostupné ve stanovené kvalitě všem spotřebitelům na celém území státu za dostupnou cenu; dostupnou cenou se rozumí cena zohledňující úroveň spotřebitelských cen a příjmy obyvatel,
+>
+> - h) radiokomunikační službou komunikační činnost, která spočívá v přenosu, vysílání nebo příjmu signálů prostřednictvím rádiových vln,
+>
+> - i) voláním spojení uskutečněné prostřednictvím veřejně dostupné interpersonální komunikační služby, které umožňuje obousměrnou hlasovou komunikaci,
+>
+> - j) službami úplné konverzace služby multimediální konverzace v reálném čase, které umožňují obousměrný symetrický přenos pohyblivého obrazu, textu a hlasu mezi uživateli na dvou nebo více místech,
+>
+> - k) sdíleným využíváním rádiového spektra přístup dvou nebo více subjektů k využívání týchž kmitočtových pásem
+>
+> - 1. podle stanoveného mechanismu sdílení určeného na základě všeobecného oprávnění, přídělu rádiových kmitočtů nebo individuálního oprávnění k využívání rádiových kmitočtů anebo jejich kombinace, včetně regulačních přístupů jako například sdílení přístupu k rádiovým kmitočtům, který má usnadnit sdílené využívání kmitočtového pásma, nebo
+>
+> - 2. na základě dohody zúčastněných subjektů v souladu s pravidly pro sdílení uvedenými ve všeobecném oprávnění, individuálním oprávnění k využívání rádiových kmitočtů nebo přídělu rádiových kmitočtů, aby byly pro všechny subjekty zajištěny předvídatelné a spolehlivé mechanismy sdílení, a aniž by bylo dotčeno právo hospodářské soutěže,
+>
+> - l) přiřazenou službou služba související se sítí elektronických komunikací nebo službou elektronických komunikací, která umožňuje nebo podporuje poskytování, samoobslužnou nebo automatickou aktivaci služeb prostřednictvím této sítě nebo služby nebo je toho schopna a zahrnuje systémy převodu čísel, nebo systémy nabízející rovnocenné funkce, systémy podmíněného přístupu a elektronické programové průvodce, jakož i jiné služby, například služby určení totožnosti, místa nebo přítomnosti.
+>
+> (4) Pro účely tohoto zákona se dále rozumí
+>
+> - a) škodlivou interferencí rušení, které ohrožuje funkčnost radionavigační služby nebo jiných bezpečnost zajišťujících radiokomunikačních služeb nebo které jinak vážně zhoršuje, znemožňuje nebo opakovaně přerušuje radiokomunikační služby provozované v souladu s tímto zákonem a jinými právními předpisy, se závazky vyplývajícími z mezinárodní smlouvy, kterou je Česká republika vázána a která byla vyhlášena ve Sbírce zákonů a mezinárodních smluv nebo v předcházející obdobné sbírce, a se závazky vyplývajícími z členství České republiky v Evropské unii nebo jiné mezinárodní organizaci,
+>
+> - b) integritou sítě funkčnost a provozuschopnost propojených sítí elektronických komunikací, ochrana těchto sítí vůči poruchám způsobeným elektromagnetickým rušením nebo provozním zatížením,
+>
+> - c) interoperabilitou služby takové nastavení přenosových parametrů služby a rozhraní, které umožňuje komunikaci mezi koncovými uživateli nebo mezi koncovým uživatelem a podnikatelem poskytujícím službu prostřednictvím technologicky různých sítí elektronických komunikací,
+>
+> - d) regulací usměrňování komunikačních činností a vztahů za účelem dosažení a udržení konkurenčního prostředí, ochrany trhu elektronických komunikací, včetně ochrany uživatelů služeb elektronických komunikací, vydáváním rozhodnutí, opatření obecné povahy a stanovisek podle tohoto zákona a v jeho mezích,
+>
+> - e) tísňovou komunikací komunikace pomocí interpersonálních komunikačních služeb mezi koncovým uživatelem a centrem tísňové komunikace, jejímž cílem je požadovat a získat od tísňových služeb pomoc při mimořádných událostech,
+>
+> - f) tísňovou službou složka integrovaného záchranného systému,
+>
+> - g) centrem tísňové komunikace místo, kde je jako první přijata tísňová komunikace,
+>
+> - h) nejvhodnějším centrem tísňové komunikace předem určené centrum tísňové komunikace, které má vyřizovat tísňovou komunikaci z určité oblasti nebo tísňovou komunikaci určitého typu,
+>
+> - i) rádiovým spektrem elektromagnetické vlny o kmitočtu nižším než 3 000 GHz šířené prostorem bez umělého vedení,
+>
+> - j) harmonizovaným rádiovým spektrem rádiové spektrum, pro jehož dostupnost a efektivní využívání byly stanoveny harmonizované podmínky prostřednictvím technických prováděcích opatření v souladu s článkem 4 rozhodnutí Evropského parlamentu a Rady č. [[676/2002/ES|676/2002/ES]] ze dne 7. března 2002 o předpisovém rámci pro politiku rádiového spektra v Evropském společenství (rozhodnutí o rádiovém spektru).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=baee39c736d2c3e68205 -->
+
 ### § 3 — Český telekomunikační úřad
 
 > **§ 3**
@@ -386,6 +578,56 @@ Sídlem ČTÚ je Praha, konkrétně sídlo na adrese Sokolovská 219, Praha 9 �
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9f07422212ec875ddf85 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 3
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Zřizuje se Český telekomunikační úřad (dále jen „Úřad“) jako ústřední správní úřad pro výkon státní správy ve věcech stanovených tímto zákonem, včetně regulace trhu a stanovování podmínek pro podnikání v oblasti elektronických komunikací a poštovních služeb2).
+>
+> (2) Sídlem Úřadu je Praha.
+>
+> (3) Úřad je účetní jednotkou. Úřad má samostatnou kapitolu ve státním rozpočtu České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9f07422212ec875ddf85 -->
+
 ## Hlava II — Cíle a základní zásady regulace
 
 ### § 4 — Účel regulace
@@ -446,6 +688,52 @@ Sídlem ČTÚ je Praha, konkrétně sídlo na adrese Sokolovská 219, Praha 9 �
 **Typicky rozhodné důkazy / podklady:** analýza relevantního trhu, data o tržních podílech a pokrytí, doklady o investicích konkurence, ekonomická analýza udržitelnosti soutěže, odůvodnění opatření.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=50926b3ab9934a39b066 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 4
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> Regulace je prováděna za účelem nahradit chybějící účinky hospodářské soutěže, vytvářet předpoklady pro řádné fungování hospodářské soutěže a pro ochranu uživatelů a dalších účastníků trhu do doby dosažení plně konkurenčního prostředí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=50926b3ab9934a39b066 -->
 
 ### § 5 — Podpora hospodářské soutěže, rozvoje vnitřního trhu EU a zájmů koncových uživatelů
 
@@ -592,6 +880,108 @@ Odst. 4 propojuje cíle z odst. 1–3 se zásadami z § 6 (nediskriminace, objek
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=c954f79a94afff591bf8 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 5
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo průmyslu a obchodu (dále jen „Ministerstvo“) a Úřad podporují hospodářskou soutěž při zajišťování sítí a poskytování služeb elektronických komunikací a přiřazených prostředků podnikateli zejména tím, že při rozhodování ve své působnosti
+>
+> - a) zajišťují, aby uživatelé, včetně osob se zdravotním postižením a osob, u kterých lze mít s ohledem na jejich věk nebo sociální potřeby za to, že vyžadují zvláštní přístup, získali maximální výhody z hlediska možnosti volby služby, ceny a kvality,
+>
+> - b) zajišťují, aby nedocházelo k narušování nebo omezování hospodářské soutěže v odvětví elektronických komunikací, včetně služeb přenosu obsahu, a
+>
+> - c) zajišťují účinnou správu a účelné využívání rádiových kmitočtů a čísel.
+>
+> (2) Ministerstvo a Úřad přispívají k rozvoji vnitřního trhu Evropské unie zejména tím, že
+>
+> - a) při svém rozhodování odstraňují překážky pro zajišťování sítí elektronických komunikací, přiřazených prostředků a poskytování služeb elektronických komunikací mezi členskými státy Evropské unie (dále jen „členský stát“),
+>
+> - b) upřednostňují účinné, efektivní a mezi členskými státy koordinované využívání rádiového spektra a podporují sdílené využívání rádiového spektra v souladu s pravidly hospodářské soutěže,
+>
+> - c) přijímají opatření k usnadnění rychlého rozvoje nových bezdrátových komunikačních technologií a aplikací v Evropské unii, mimo jiné uplatněním meziodvětvového přístupu, je-li to namístě,
+>
+> - d) postupují předvídatelně a konzistentně při udílení, obnovení, změně, omezování nebo odnímání práv na užívání rádiového spektra s cílem podporovat dlouhodobé investice,
+>
+> - e) při svém rozhodování podporují zřizování a rozvoj transevropských sítí a interoperabilitu celoevropských služeb mezi členskými státy, a
+>
+> - f) spolupracují v souladu se zásadou transparentnosti s národními regulačními úřady jiných členských států, Evropskou agenturou pro bezpečnost sítí a informací (ENISA), Sdružením evropských regulačních orgánů v oblasti elektronických komunikací BEREC (dále jen „Sdružení BEREC“), Skupinou pro politiku rádiového spektra RSPG (dále jen „Skupina RSPG“) a s Evropskou komisí (dále jen „Komise“) na zajištění jednotné regulační praxe při aplikaci příslušných směrnic Evropské unie,
+>
+> - g) podporují kulturní a jazykovou rozmanitost, jakož i mediální pluralitu,
+>
+> - h) podporují přístup koncových uživatelů k sítím s velmi vysokou kapacitou.
+>
+> (3) Úřad dále prosazuje zájmy koncových uživatelů zejména tím, že při své činnosti
+>
+> - a) zajišťuje, aby všichni koncoví uživatelé měli přístup k univerzální službě podle [[#§ 38|§ 38]],
+>
+> - b) zajišťuje v souladu s ustanoveními tohoto zákona vysokou úroveň ochrany spotřebitelů,
+>
+> - c) přispívá k zajištění vysoké úrovně ochrany osobních údajů a soukromí,
+>
+> - d) podporuje poskytování jasně formulovaných informací, zejména prosazováním transparentnosti cen a podmínek pro používání veřejně dostupných služeb elektronických komunikací,
+>
+> - e) řeší v souladu s ustanoveními tohoto zákona potřeby osob se zdravotním postižením nebo osob, u kterých lze mít s ohledem na jejich věk nebo sociální potřeby za to, že vyžadují zvláštní přístup, a
+>
+> - f) podporuje zachování integrity a bezpečnosti veřejných komunikačních sítí,
+>
+> - g) podporuje možnost přístupu koncových uživatelů k informacím a možnost koncových uživatelů šířit informace a využívat aplikace a služby podle svého výběru,
+>
+> - h) zajišťuje harmonizaci využívání rádiových kmitočtů v souladu s potřebou zajistit jejich účelné využívání a za účelem získání výhod pro spotřebitele, jako jsou úspory z rozsahu a interoperabilita služeb elektronických komunikací.
+>
+> (4) V rámci naplňování cílů uvedených v odstavcích 1 až 3 se Ministerstvo a Úřad řídí zejména zásadami nediskriminace, objektivity, technologické neutrality, transparentnosti a proporcionality uvedenými v [[#§ 6|§ 6]]. Přitom zejména
+>
+> - a) prosazují předvídatelnou regulaci zajišťováním jednotného regulačního přístupu v průběhu příslušných období přezkumu,
+>
+> - b) vytváří podmínky pro hospodářskou soutěž ku prospěchu spotřebitelů a v odůvodněných případech podporují hospodářskou soutěž v oblasti infrastruktury,
+>
+> - c) při zachování hospodářské soutěže na trhu a dodržování zásady nediskriminace podporují efektivní investice do inovace stávající infrastruktury nebo výstavby nové infrastruktury, včetně sítí s velmi vysokou kapacitou, a to i tím, že zajišťují, aby jakákoli povinnost spojená s přístupem k infrastruktuře nebo propojením řádně zohlednila rizika, která nese investující podnikatel, a vytváří podmínky pro uzavírání dohod o spolupráci mezi ním a stranou, která usiluje o přístup nebo propojení, aby se investiční rizika rozložila,
+>
+> - d) zohledňují různé podmínky týkající se infrastruktury, hospodářské soutěže, koncových uživatelů a spotřebitelů, které existují v různých geografických oblastech České republiky, včetně místní infrastruktury spravované fyzickými osobami bez nároku na zisk,
+>
+> - e) při svém rozhodování zajišťují, aby za srovnatelných podmínek nedocházelo k diskriminaci mezi podnikateli zajišťujícími sítě elektronických komunikací nebo poskytujícími služby elektronických komunikací.
+>
+> (5) Ustanovení tohoto zákona týkající se regulačních činností Úřadu v oblasti sítí a služeb elektronických komunikací je třeba v pochybnostech o jejich významu vykládat v souladu se zásadami uvedenými v odstavci 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38, § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c954f79a94afff591bf8 -->
+
 ### § 6 — Základní regulační zásady (nediskriminace, průběžná kontrola opatření, technologická neutralita, transparentnost, předvídatelnost spektrové regulace, kybernetická bezpečnost)
 
 > **§ 6**
@@ -708,3 +1098,62 @@ Toto ustanovení je projevem systémové koordinace dvou regulačních režimů 
 **Typicky rozhodné důkazy / podklady:** text a odůvodnění OOP/rozhodnutí ČTÚ, protiopatření/OOP NÚKIB dle ZKB, technická analýza nemožnosti souběhu povinností, žádost dle odst. 6, podklady k cenovému odůvodnění (§ 58 a násl.), dokumentace přídělů harmonizovaného spektra.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=5d62a7b3fde19b7bfdc4 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 6
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Ministerstvo a Úřad nesmí svým jednáním a rozhodováním poskytnout výhodu jednomu podnikateli nebo uživateli, nebo skupině podnikatelů nebo uživatelů, na úkor ostatních podnikatelů nebo uživatelů, aniž by jednaly na základě tohoto zákona a toto jednání bylo odůvodněné rozdíly v postavení dotčených osob. Jakýkoliv rozdíl v zacházení musí být v souladu s tímto zákonem.
+>
+> (2) Úřad je povinen průběžně sledovat a vyhodnocovat účinky uložených nápravných opatření na jednotlivé relevantní trhy i v období mezi jejich analýzami prováděnými podle tohoto zákona. Zjistí-li, že uložené nápravné opatření má na trhy nežádoucí účinek, neúměrně je deformuje, pominul důvod k jeho uložení, nebo na relevantním trhu existuje účinná a udržitelná hospodářská soutěž, neprodleně uložené nápravné opatření změní nebo zruší.
+>
+> (3) Ministerstvo a Úřad jsou povinny zohlednit potřebu technologicky neutrální regulace; technologicky neutrální regulací se rozumí regulace, která neukládá povinnost použít konkrétní druh technologie a ani žádný druh technologie nezvýhodňuje.
+>
+> (4) V rámci naplňování zásady transparentnosti je Úřad, nestanoví-li tento zákon jinak, povinen
+>
+> - a) poskytovat podnikatelům poskytujícím veřejně dostupné služby elektronických komunikací a uživatelům s předstihem všechny informace, které jsou rozhodující pro posouzení věci a jejichž poskytnutí nebrání ustanovení zvláštního právního předpisu3), aby byla umožněna předvídatelnost jednání Úřadu v případech, kde tento zákon s určitým stavem spojuje právo nebo povinnost Úřadu konat,
+>
+> - b) náležitě odůvodnit opatření obecné povahy a rozhodnutí, včetně rozhodnutí o ceně.
+>
+> (5) Úřad v rámci správy harmonizovaného rádiového spektra zajistí předvídatelnost regulačních opatření pro držitele přídělů rádiových kmitočtů s ohledem na podmínky investování do infrastruktury, která je závislá na využívání rádiového spektra. Pro držitele přídělu rádiových kmitočtů pro bezdrátové vysokorychlostní služby elektronických komunikací zajistí Úřad předvídatelnost regulačních opatření po dobu nejméně 20 let.
+>
+> (6) Úřad rozhodne na základě žádosti o změně nebo zrušení regulačního opatření uloženého rozhodnutím vydaným na základě tohoto zákona v případě, že plnění podmínek nebo povinností stanovených v takovém rozhodnutí znemožňuje zcela nebo zčásti plnit povinnosti uvedené v protiopatření nebo opatření obecné povahy vydávaných podle zákona [[o kybernetické bezpečnosti|o kybernetické bezpečnosti]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5d62a7b3fde19b7bfdc4 -->

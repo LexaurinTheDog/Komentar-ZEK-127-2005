@@ -92,6 +92,76 @@ Definice § 78 je výkladovým klíčem celé Hlavy IV; její šíře (demonstra
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=95212e0087ae3855b609 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 78
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Přístupem se rozumí zpřístupnění prostředků nebo služeb na základě stanovených podmínek, výlučně nebo nevýlučně jinému podnikateli, za účelem poskytování služeb elektronických komunikací, včetně případů, kdy jsou použity k předávání služeb informační společnosti nebo služeb přenosu obsahu. Přístupem se rozumí zejména
+>
+> - a) přístup k síťovým prvkům a přiřazeným prostředkům, který může zahrnovat připojení zařízení po pevných nebo jiných než pevných prostředcích; zahrnuje zejména zpřístupnění účastnického vedení a prostředků a služeb nezbytných k poskytování služeb prostřednictvím účastnického vedení,
+>
+> - b) přístup k fyzické infrastruktuře včetně budov, stožárů a prostředků pro vedení kabelů,
+>
+> - c) přístup k příslušným softwarovým systémům včetně systémů podpory provozu,
+>
+> - d) přístup k převodu čísel nebo k systémům nabízejícím obdobnou funkci,
+>
+> - e) přístup k pevným a mobilním sítím, zejména pro roaming,
+>
+> - f) přístup k systému podmíněného přístupu,
+>
+> - g) přístup ke službám virtuálních sítí,
+>
+> - h) propojení veřejných komunikačních sítí,
+>
+> - i) přístup k informačním systémům nebo databázím pro objednávání, žádosti o údržbu, opravy a fakturaci.
+>
+> (2) Propojením se rozumí fyzické a logické spojení veřejných sítí elektronických komunikací užívaných týmž nebo jiným podnikatelem s cílem umožnit komunikaci uživatelům jednoho podnikatele s uživateli téhož nebo jiného podnikatele, nebo umožnit přístup ke službám poskytovaným jiným podnikatelem, pokud tyto služby poskytují zúčastněné strany nebo jiné strany, které mají přístup k síti.
+>
+> (3) Propojení je specifickým druhem přístupu zřízeného mezi veřejnými komunikačními sítěmi, kde bodem přístupu je propojovací bod mezi těmito sítěmi. Propojení může být přímé nebo nepřímé. Nepřímým propojením se rozumí propojení 2 veřejných komunikačních sítí prostřednictvím veřejné komunikační sítě třetího podnikatele zajišťujícího veřejnou komunikační síť.
+>
+> (4) Účastnickým vedením se rozumí fyzické spojení využívající signály elektronických komunikací spojující koncový bod sítě s hlavním rozvaděčem nebo obdobným zařízením ve veřejné pevné komunikační síti.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=95212e0087ae3855b609 -->
+
 ### § 79 — Povinnost nabídnout propojení a přístup; pravomoci Úřadu
 
 > **§ 79**
@@ -171,6 +241,70 @@ Odkladný účinek opravného prostředku je vyloučen u povinnosti zajistit end
 **Typicky rozhodné důkazy / podklady:** oznámení podnikání, žádost o propojení a důvody odmítnutí, doklady o tržním postavení, rozhodnutí/opatření Komise, výsledky konzultace dle §§ 130–131.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c80cc5c2e59da2aff050 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 79
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Podnikatel zajišťující veřejnou komunikační síť je oprávněn nebo v případě, kdy je požádán jiným podnikatelem, který podle [[#§ 13|§ 13]] oznámil podnikání, povinen sjednat propojení za účelem poskytování veřejně dostupných služeb elektronických komunikací tak, aby bylo zajištěno poskytování a interoperabilita těchto služeb na území členských států. Podnikatel zajišťující veřejnou komunikační síť je povinen nabídnout přístup a propojení jinému podnikateli, který podle [[#§ 13|§ 13]] oznámil podnikání, za smluvních podmínek slučitelných s povinnostmi uloženými Úřadem podle § 51 odst. 6, [[#§ 72|§ 72]], [[#§ 78|78]], § 79 odst. 2, [[#§ 80|§ 80]], [[#§ 83|83]], [[#§ 85|85]], [[#§ 85a|85a]], [[#§ 86|86]] a [[#§ 86e|86e]].
+>
+> (2) Aniž by byly dotčeny povinnosti uložené tímto zákonem nebo na jeho základě podnikům s významnou tržní silou, Úřad může po konzultaci podle [[#§ 130|§ 130]] a [[#§ 131|131]] v odůvodněných případech rozhodnutím uložit
+>
+> - a) podnikateli, který ovládá přístup ke koncovým uživatelům, povinnosti, včetně povinnosti umožnit zpřístupnění prostředků nebo služeb podle [[#§ 78|§ 78]], k zajištění spojení od koncového bodu ke koncovému bodu, včetně propojení sítí,
+>
+> - b) operátoru povinnost v případě zabezpečení přístupu koncových uživatelů ke službám digitálního rozhlasového a televizního vysílání a souvisejícím doplňkovým službám umožnit přístup k rozhraní pro aplikační programy (API) a elektronickému programovému průvodci (EPG),
+>
+> - c) podnikateli, který ovládá přístup ke koncovým uživatelům, v nezbytné míře povinnosti k zajištění interoperability jím poskytovaných služeb,
+>
+> - d) podnikateli, který poskytuje interpersonální komunikační služby nezávislé na číslech, které dosahují významné úrovně pokrytí a využívání koncovými uživateli, povinnost zajistit spojení mezi koncovými body koncových uživatelů s cílem zajistit interoperabilitu jejich služeb.
+>
+> (3) Podání opravného prostředku proti rozhodnutí podle odstavce 2 písm. a) nemá odkladný účinek.
+>
+> (4) Povinnost podle odstavce 2 písm. d) lze uložit pouze
+>
+> - a) v míře nezbytné k zajištění interoperability interpersonálních komunikačních služeb, přičemž mohou zahrnovat přiměřené povinnosti pro poskytovatele těchto služeb zveřejnit a povolit používání, změny a další šíření relevantních informací příslušnými orgány a dalšími poskytovateli nebo povinnost používat normy nebo specifikace podle [[#§ 62|§ 62]], a
+>
+> - b) pokud Komise po konzultaci se Sdružením BEREC a při nejvyšším možném zohlednění jeho stanoviska zjistila zřetelnou hrozbu pro spojení mezi koncovými body koncových uživatelů v celé Evropské unii nebo v alespoň 3 členských státech a přijala prováděcí opatření specifikující povahu a rozsah veškerých povinností, které mohou být uloženy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13, § 51, § 72, § 78, § 80, § 83, § 85, § 85a, § 86, § 86e, § 130, § 131, § 62
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c80cc5c2e59da2aff050 -->
 
 ### § 79a — Sdílení pasivní infrastruktury a roaming v místním poskytování
 
@@ -269,6 +403,88 @@ Směrnice o snižování nákladů na vysokorychlostní sítě (Broadband Cost R
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=556ba55bffe0cc8979fe generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 79a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Nejsou-li žádnému podnikateli zpřístupněny žádné funkční a podobné alternativní prostředky pro přístup ke koncovým uživatelům za spravedlivých a přiměřených podmínek, může Úřad za podmínky, že je to přímo nezbytné pro místní poskytování služeb, které využívají rádiové spektrum, uložit podnikatelům, kteří zajišťují nebo jsou oprávněni zajišťovat sítě elektronických komunikací, povinnosti související se sdílením pasivní infrastruktury nebo povinnosti uzavírat lokalizované dohody o přístupu k roamingu.
+>
+> (2) Úřad může povinnosti podle odstavce 1 uložit za předpokladu, že tato možnost byla podnikateli jednoznačně stanovena v přídělu rádiových kmitočtů a pokud jsou odůvodněny tím, že v oblasti, která je předmětem těchto povinností, naráží tržně motivované zavádění infrastruktury pro poskytování sítí nebo služeb závislých na užívání rádiového spektra na nepřekonatelné ekonomické nebo fyzické překážky, a proto má přístup koncových uživatelů k sítím nebo službám značné nedostatky nebo vůbec neexistuje. Za podmínek, kdy přístup a sdílení pasivní infrastruktury k vyřešení této situace samy o sobě nestačí, může Úřad uložit povinnosti týkající se sdílení aktivní infrastruktury.
+>
+> (3) Úřad rovněž zohlední při ukládaní povinnosti podle odstavce 1
+>
+> - a) potřebu maximalizovat připojení v celé Evropské unii, podél hlavních dopravních tras a v určitých územních oblastech, jakož i možnost výrazně zvýšit výběr a dosáhnout vyšší kvality služeb pro koncové uživatele,
+>
+> - b) zajištění účinného využití rádiového spektra,
+>
+> - c) technickou proveditelnost sdílení a s ním spojených podmínek,
+>
+> - d) stav hospodářské soutěže v oblasti infrastruktury i v oblasti služeb,
+>
+> - e) technologické inovace,
+>
+> - f) převažující potřebu podporovat pobídku operátora poskytujícího službu velkoobchodního přístupu, aby infrastrukturu vůbec zavedl.
+>
+> (4) V případě řešení sporů může Úřad oprávněnému z povinnosti sdílení nebo přístupu uložit povinnost sdílet rádiové spektrum s operátorem poskytujícím přístup k infrastruktuře v příslušné oblasti. Při ukládání povinnosti sdílet rádiové spektrum je třeba zohlednit zejména ekonomické a fyzické překážky tržně motivovaného budování aktivní a pasivní infrastruktury.
+>
+> (5) V případě uložení povinnosti podle odstavců 1, [[#§ 7|7]] nebo [[#§ 8|8]] anebo podle § 79 odst. 2 Úřad do 5 let ode dne jejich uložení provede přezkum a po konzultaci podle [[#§ 130|§ 130]] a [[#§ 131|131]] vydá rozhodnutí o zachování, změně nebo zrušení těchto povinností. Uvedené orgány oznámí výsledek svého posouzení v souladu s postupy podle tohoto zákona.
+>
+> (6) Úřad může po konzultaci podle [[#§ 130|§ 130]] rozhodnout na základě žádosti podnikatele, který podle [[#§ 13|§ 13]] oznámil podnikání, o uložení povinnosti podnikateli zajišťujícímu veřejnou komunikační síť, který využívá cizí nemovitou věc podle [[#§ 104|§ 104]], sdílet své síťové prvky, přiřazené prostředky nebo svůj majetek, jejichž prostřednictvím je cizí nemovitá věc využívána, nebo povinnosti přijmout opatření pro koordinaci prací ve veřejném zájmu. Tuto povinnost může Úřad uložit, pokud z důvodu ochrany životního prostředí, veřejného zdraví, veřejné bezpečnosti, nebo z důvodu splnění cílů územního plánování nelze tyto prostředky zřídit samostatně. Úřad je povinen v rámci veřejné konzultace podle [[#§ 130|§ 130]] oslovit i vlastníky dotčených nemovitých věcí. V rozhodnutí o uložení povinnosti Úřad stanoví, kromě technické specifikace způsobu sdílení, nebo koordinace, také pravidla pro rozdělení nákladů na sdílení přiřazených prostředků a majetku, pokud se na tom podnikatelé nedohodnou. Je-li více žadatelů, Úřad rozhodne podle pořadí došlých žádostí.
+>
+> (7) Úřad může po konzultaci podle [[#§ 130|§ 130]] a [[#§ 131|131]] rozhodnout o uložení povinnosti sdílet přiřazené prostředky, kabelové rozvody v budovách, nebo až po první soustřeďovací nebo distribuční bod, pokud se jedná o umístění mimo budovu, a to v případě, že by jejich zdvojení bylo ekonomicky neefektivní nebo fyzicky neproveditelné. Úřad je povinen v rámci veřejné konzultace podle [[#§ 130|§ 130]] oslovit i vlastníky dotčených nemovitých věcí. Tuto povinnost lze na žádost podnikatele, který oznámil podnikání podle [[#§ 13|§ 13]], uložit podnikateli zajišťujícímu veřejnou komunikační síť nebo vlastníkovi přiřazených prostředků, nebo kabelového rozvodu, který nezajišťuje veřejnou komunikační síť. V rozhodnutí o uložení povinnosti sdílení přiřazených prostředků, kabelového rozvodu Úřad stanoví, kromě technické specifikace způsobu sdílení síťových prvků, přiřazených prostředků a přiřazených služeb, pokud se na tom osoby podle věty třetí nedohodnou, také pravidla pro rozdělení nákladů na sdílení včetně nákladů vloženého kapitálu s ohledem na riziko, které toto sdílení představuje.
+>
+> (8) Neřeší-li povinnosti uložené podle odstavce 7 dostatečně fungování hospodářské soutěže ve prospěch koncových uživatelů, může Úřad po konzultaci podle [[#§ 130|§ 130]] a [[#§ 131|131]] rozhodnout o uložení povinnosti zajištění přístupu za první soustřeďovací nebo distribuční bod až po bod, který je schopen zajistit dostatečný počet připojení koncových uživatelů, aby byl pro subjekty usilující o účinný přístup z komerčního hlediska životaschopný, přičemž v nejvyšší možné míře zohlední příslušné pokyny Sdružení BEREC. Úřad může v odůvodněných případech z technického nebo ekonomického hlediska uložit povinnosti přístupu nebo virtuálního přístupu.
+>
+> (9) Úřad povinnosti podle odstavce 8 neuloží, pokud
+>
+> - a) podnikatel zajišťující veřejnou komunikační síť poskytuje jakémukoli podnikateli za spravedlivých, nediskriminačních a přiměřených podmínek schůdné a podobné alternativní prostředky pro spojení s koncovými uživateli prostřednictvím přístupu k síti s velmi vysokou kapacitou,
+>
+> - b) podnikatel zajišťující veřejnou komunikační síť nabízí za spravedlivých, nediskriminačních a přiměřených podmínek přístup k síti s velmi vysokou kapacitou, nebo
+>
+> - c) uložení povinností by z ekonomického nebo finančního hlediska narušilo zavádění nových sítí, zejména menšími místními projekty.
+>
+> (10) Úřad může podnikateli zajišťujícímu veřejnou komunikační síť, který splňuje podmínky podle odstavce 9 písm. a) a b), uložit povinnosti podle odstavce 7, pokud byla tato síť financována z veřejných prostředků.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 8, § 79, § 130, § 131, § 13, § 104
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=556ba55bffe0cc8979fe -->
+
 ### § 80 — Smlouva o přístupu nebo propojení; postup při uzavírání
 
 > **§ 80**
@@ -361,6 +577,76 @@ Po uplynutí dvou měsíců od zahájení jednání vzniká žadateli právo pod
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4e0ecc74232e63cdf8a3 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 80
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Přístup se zajišťuje na základě písemné smlouvy uzavřené mezi operátorem a podnikatelem poskytujícím veřejně dostupnou službu elektronických komunikací. Propojení sítí se zajišťuje na základě písemné smlouvy uzavřené mezi operátory.
+>
+> (2) V případě změn a dodatků smlouvy o přístupu nebo smlouvy o propojení se použijí odstavce 4 až 7 obdobně.
+>
+> (3) Minimální náležitosti, které musí obsahovat návrh smlouvy o přístupu nebo o propojení sítí, stanoví prováděcí právní předpis.
+>
+> (4) Osoba podle odstavce 1, která požádala o uzavření smlouvy o přístupu nebo propojení, je povinna nejpozději do 10 dnů ode dne uzavření smlouvy předat Úřadu její úplné znění, včetně příloh.
+>
+> (5) Pokud se oslovený operátor podle odstavce 1 rozhodl odmítnout uzavření smlouvy o přístupu nebo propojení, neprodleně písemně o odmítnutí informuje odmítnutého podnikatele a zároveň uvede konkrétní důvody odmítnutí, a to zejména
+>
+> - a) technické důvody,
+>
+> - b) ekonomické důvody,
+>
+> - c) organizační důvody, nebo
+>
+> - d) další důvody, které měly vliv na jeho rozhodnutí o odmítnutí navrhovaného řešení.
+>
+> Tyto informace zašle odmítající operátor podle odstavce 1 současně Úřadu.
+>
+> (6) Úřad vstoupí z vlastního podnětu, je-li to nezbytné pro naplnění cílů regulace uvedených v [[#§ 5|§ 5]], nebo z podnětu kterékoliv dotčené strany do jednání podnikatelů o smlouvě o přístupu nebo o smlouvě o propojení sítí. Úřad ke sporné části návrhu smlouvy nebo k důvodům odmítnutí podle odstavce 5 vydá stanovisko, které sdělí smluvním stranám.
+>
+> (7) Nedojde-li k uzavření písemné smlouvy o přístupu nebo smlouvy o propojení sítí do 2 měsíců ode dne zahájení jednání o návrhu smlouvy, rozhodne Úřad na základě návrhu kterékoliv smluvní strany spor o přístupu nebo propojení postupem podle [[#§ 127|§ 127]]. Součástí návrhu smluvní strany na rozhodnutí sporu musí být návrh smlouvy se specifikací jeho sporných částí. Dnem zahájení jednání se rozumí den, kdy smluvní strana prokazatelně předala návrh smlouvy druhé smluvní straně.
+>
+> (8) Úřad uveřejní způsobem umožňujícím dálkový přístup pokyny a postupy nutné k získání přístupu a propojení, aby z uložených povinností měly prospěch malé a střední podniky a operátoři s omezeným zeměpisným dosahem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 127
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e0ecc74232e63cdf8a3 -->
+
 ### § 81 — Povinnost nediskriminace; důvěrnost informací
 
 > **§ 81**
@@ -417,6 +703,54 @@ Odst. 2 zavádí zákonnou povinnost informační bariéry mezi velkoobchodní a
 **Typicky rozhodné důkazy / podklady:** srovnání ceníků a SLA interní/externí, nákladová analýza (test stejně efektivního operátora), technická dokumentace vstupů, záznamy o předání a užití informací.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=3155e40461c4f05ad0fa generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 81
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad je oprávněn v souladu s [[#§ 51|§ 51]] rozhodnutím uložit podniku s významnou tržní silou na relevantním trhu povinnost, aby při poskytování přístupu nebo propojení uplatňoval rovnocenné podmínky za rovnocenných okolností pro ostatní podnikatele poskytující rovnocenné služby a poskytoval jim služby a informace za stejných podmínek a ve stejné kvalitě, v jaké je poskytuje pro služby vlastní, vlastních organizačních složek, popřípadě svým dceřiným společnostem nebo společníkům nebo uvnitř podnikatelského seskupení30).
+>
+> (2) Podnikatel je povinen využívat informace poskytnuté od jiného podnikatele před, v průběhu nebo po sjednání smlouvy o přístupu nebo smlouvy o propojení sítí pouze k účelu, pro který mu byly poskytnuty. Při zpracování takto předaných nebo uložených informací tyto informace nesmí sdělit svým nepříslušným útvarům, dceřiným společnostem, společníkům nebo akcionářům, ani jiným podnikatelům, kterým by takové informace mohly přinést konkurenční výhodu. Tím není dotčena povinnost poskytovat informace Úřadu podle [[#§ 115|§ 115]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51, § 115
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3155e40461c4f05ad0fa -->
 
 ### § 82 — Povinnost transparentnosti; referenční nabídka
 
@@ -478,6 +812,58 @@ Referenční nabídka (Reference Offer, RO) musí být strukturována podle trž
 **Typicky rozhodné důkazy / podklady:** text referenční nabídky, technická analýza nezbytnosti služeb, ceník a struktura balíčků, rozhodnutí ČTÚ o uložení povinnosti dle § 51.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2b2721f8a5d0ee6eded8 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 82
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad může na základě analýzy relevantních trhů podle [[#§ 51|§ 51]] rozhodnutím uložit podniku s významnou tržní silou na relevantním trhu povinnost uveřejňovat v nezbytně nutném rozsahu informace týkající se přístupu k síti nebo propojení sítí elektronických komunikací, jako jsou účetní informace ceny, technické specifikace, síťové charakteristiky a jejich očekávaný vývoj, smluvní podmínky pro zajišťování a využívání sítě, včetně podmínek omezujících přístup, ke službám a aplikacím nebo jejich využívání, zejména s ohledem na přechod ze starší infrastruktury.
+>
+> (2) Úřad je oprávněn v souladu s [[#§ 51|§ 51]] rozhodnutím uložit podniku s významnou tržní silou na relevantním trhu povinnost uveřejnit referenční nabídku přístupu nebo propojení s uvedením popisu příslušných nabídek rozdělených na části podle potřeb trhu a souvisejících smluvních podmínek včetně cen. Tento subjekt nesmí v referenční nabídce přístupu nebo propojení požadovat, aby podnikatelé žádající přístup nebo propojení platili za prostředky a provozně-technické služby, které nejsou nezbytné pro požadovanou službu. Tím není dotčena povinnost uveřejnit referenční nabídku podle § 85 odst. 1.
+>
+> (3) Úřad je oprávněn rozhodnout o změně v referenční nabídce přístupu nebo propojení, pokud tato nabídka nevede k důslednému plnění povinností podle tohoto zákona.
+>
+> (4) Rozsah, formu a způsob uveřejnění informací podle odstavce 1 a náležitosti referenční nabídky podle odstavce 2 a podle § 84 odst. 4 a její rozsah a formu stanoví Úřad prováděcím právním předpisem, přičemž může specifikovat klíčové ukazatele výkonnosti, jakož i příslušné úrovně služeb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51, § 85, § 84
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b2721f8a5d0ee6eded8 -->
 
 ### § 83 — Podmínky přístupu ke službám digitálního televizního a rozhlasového vysílání
 
@@ -568,6 +954,82 @@ Povinnost portability zařízení (odst. 10) je prvkem ochrany spotřebitele v k
 **Typicky rozhodné důkazy / podklady:** smluvní podmínky CAS a ceník, srovnání podmínek pro vlastní vs. cizí vysílatele, technická dokumentace brány/API/set-top boxu, analýza relevantního trhu, příděl kmitočtů DTT.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2da6a73af63d4c18c886 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 83 — Podmínky přístupu ke službám digitálního televizního a rozhlasového vysílání
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Rozhraním pro aplikační programy (API) se rozumí softwarové rozhraní mezi aplikacemi, poskytovanými provozovateli rozhlasového a televizního vysílání nebo poskytovateli služeb, a zařízením rozšiřujícím vlastnosti digitální televize, určené pro digitální televizní a rozhlasové služby.
+>
+> (2) Zařízením rozšiřujícím vlastnosti digitální televize se rozumí přídavné zařízení určené pro připojení k televizoru nebo integrovaný digitální televizní přijímač, které umožňují příjem digitálních interaktivních televizních služeb.
+>
+> (3) Systémem podmíněného přístupu (dále jen „brána“) se rozumí jakékoli technické zařízení nebo opatření zajišťující, aby se přístup k chráněnému rozhlasovému nebo televiznímu vysílání uskutečnil ve srozumitelné formě. Takový přístup je podmíněný předplatným nebo jinou formou předchozího individuálního oprávnění.
+>
+> (4) Smí se používat pouze brána, která bez ohledu na přenosové prostředky vysílání technicky zabezpečí efektivní předávání řídících funkcí, které umožní podnikatelům zajišťujícím přenos signálů digitálního rozhlasového nebo televizního vysílání na místní nebo regionální úrovni úplné řízení služeb, které bránu využívají.
+>
+> (5) Nezávisle na přenosových prostředcích jsou podnikatelé poskytující službu šíření chráněného obsahu, na jejichž službách závisí provozovatelé digitálního rozhlasového a televizního vysílání při pokrývání všech skupin potenciálních diváků nebo posluchačů, povinni nabízet těmto provozovatelům na spravedlivém, přiměřeném a nediskriminačním základě služby, které umožňují příjem digitálně vysílaných služeb těchto provozovatelů divákům nebo posluchačům oprávněným k tomuto příjmu prostřednictvím brány, kterou spravují provozovatelé digitálního rozhlasového a televizního vysílání.
+>
+> (6) Zjistí-li Úřad na základě analýzy relevantního trhu, že žádný subjekt nemá významnou tržní sílu na trhu služby šíření digitálního rozhlasového a televizního vysílání ke koncovým uživatelům, může bez ohledu na ustanovení odstavců 4 a [[#§ 5|5]] změnit nebo zrušit povinnosti pro podnikatele poskytujícího službu šíření, a to pouze do té míry, aby taková změna nebo zrušení povinností
+>
+> - a) negativně neovlivnila přístup koncových uživatelů k digitálnímu rozhlasovému a televiznímu vysílání a programovým kanálům a službám specifikovaným v souladu s [[#§ 72|§ 72]],
+>
+> - b) negativně do budoucna neohrozila efektivní hospodářskou soutěž na trzích digitálního televizního a rozhlasového vysílání pro koncové uživatele nebo na trzích systémů podmíněného přístupu a jiných přiřazených prostředků.
+>
+> Úřad musí vyrozumět s dostatečným předstihem subjekty dotčené změnou nebo zrušením uvedených povinností.
+>
+> (7) Úřad je oprávněn vlastníkům rozhraní pro aplikační programy (API) uložit, aby poskytovali provozovatelům rozhlasového a televizního vysílání pro účely poskytování digitálních interaktivních televizních služeb koncovým uživatelům, včetně osob se zdravotním postižením, za spravedlivých, přiměřených a nediskriminujících podmínek veškeré informace nezbytné k poskytování všech služeb podporovaných rozhraním pro aplikační programy (API) v plně funkční formě. Tito vlastníci mají právo na úhradu účelně a prokazatelně vynaložených nákladů za poskytnutí informací.
+>
+> (8) Podnikatel poskytující službu šíření digitálního rozhlasového a televizního vysílání je povinen zajišťovat ve své síti službu šíření služeb přímo souvisejících s programem11). Úřad stanoví všeobecným oprávněním podle [[#§ 10|§ 10]] podmínky pro zajišťování elektronického programového průvodce. Podmínkami, které jsou stanoveny Úřadem podle tohoto ustanovení, nejsou dotčeny povinnosti stanovené Radou pro rozhlasové a televizní vysílání ve vztahu ke způsobu prezentace elektronického programového průvodce a podobných přehledových a naváděcích pomůcek v rámci regulace obsahu.
+>
+> (9) Držitel individuálního oprávnění k využívání rádiových kmitočtů pro zemské digitální rozhlasové a televizní vysílání je povinen
+>
+> - a) umožnit šíření rozhlasových a televizních programů, jejichž minimální počet, technickou kvalitu a další podmínky šíření stanoví Úřad podle [[#§ 22|§ 22]] v přídělu rádiových kmitočtů,
+>
+> - b) zajistit poskytování služby elektronického programového průvodce, který je šířen jako součást souhrnného datového toku a musí obsahovat informace o všech rozhlasových a televizních programech v tomto datovém toku obsažených,
+>
+> - c) využívat přidělený rádiový kmitočet tak, aby pro služby šíření služeb informační společnosti nebylo využíváno více než 20 % přenosové kapacity sítě elektronických komunikací.
+>
+> (10) Poskytovatel služby šíření digitálního televizního vysílání, který svým koncovým uživatelům poskytuje digitální televizní zařízení, je povinen zajistit, je-li to technicky proveditelné, aby toto digitální televizní zařízení bylo možné použít i u jiných poskytovatelů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5, § 72, § 10, § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2da6a73af63d4c18c886 -->
 
 ### § 84 — Přístup k prostředkům a sdílení kapacit; povinnosti pro podniky s VTS
 
@@ -692,6 +1154,104 @@ Zákon ukládá Úřadu posoudit, zda k řešení problému stačí méně invaz
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ffb7ebfc5a453c0c8135 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 84 — Přístup k prostředkům a sdílení kapacit
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad může na základě analýzy relevantních trhů podle [[#§ 51|§ 51]] rozhodnutím uložit podniku s významnou tržní silou na relevantním trhu zajišťujícímu veřejnou komunikační síť povinnost vyhovět přiměřeným požadavkům jiného podnikatele na využívání a přístup k jeho specifickým síťovým prvkům a přiřazeným prostředkům s cílem zajistit trvalé konkurenční prostředí na relevantním trhu v zájmu koncových uživatelů a spotřebitelů.
+>
+> (2) V případě, že Úřad usoudí, že odepření přístupu nebo přístup poskytnutý za nepřiměřených podmínek, které mají podobný účinek, by zabránily vzniku udržitelného konkurenčního trhu a nebyly by v zájmu koncového uživatele, může Úřad rozhodnutím podle odstavce 1 uložit zejména povinnost
+>
+> - a) poskytovat přístup třetím stranám ke specifikovaným síťovým prvkům a přiřazeným prostředkům a umožnit jim jejich využívání, včetně zpřístupnění účastnického vedení nebo jeho úseku,
+>
+> - b) poskytovat přístup třetím stranám k některým aktivním nebo virtuálním síťovým prvkům a službám,
+>
+> - c) poskytnutý přístup k prostředkům dodatečně nerušit,
+>
+> - d) poskytovat specifikované služby za účelem dalšího prodeje třetími stranami,
+>
+> - e) poskytovat volný přístup k technickým rozhraním, protokolům nebo k jiným klíčovým technologiím, které jsou nezbytné pro interoperabilitu služeb nebo služby virtuálních sítí,
+>
+> - f) poskytovat společné umístění nebo jiné formy sdílení přiřazených prostředků,
+>
+> - g) poskytovat služby potřebné k zajištění interoperability služeb pro uživatele spočívající ve spojení od koncového bodu ke koncovému bodu nebo k zajištění roamingu ve veřejných komunikačních sítích,
+>
+> - h) poskytovat přístup k systémům provozní podpory nebo podobným softwarovým systémům nezbytným k zajištění spravedlivé hospodářské soutěže při poskytování služeb,
+>
+> - i) propojovat sítě nebo síťová zařízení,
+>
+> - j) poskytovat přístup k přiřazeným službám,
+>
+> - k) poskytovat přístup k inženýrským stavbám a jejich využívání, včetně budov, nebo vstupů do budov, kabelů v budovách včetně vnitřních kabelových rozvodů, antén, věží a jiných podpůrných konstrukcí, stožárů, sloupů, kabelovodů, potrubí, inspekčních komor, vstupních šachet a rozvodných skříní, a to bez ohledu na to, zda jsou aktiva dotčená touto povinností součástí relevantního trhu v souladu s analýzou trhu.
+>
+> (3) V rozhodnutí o uložení povinnosti přístupu podle odstavce 2 písm. a) až i) může Úřad stanovit k těmto povinnostem podmínky tak, aby byl zajištěn běžný provoz sítě na základě principu spravedlnosti, proporcionality a včasnosti.
+>
+> (4) Podnik s významnou tržní silou, kterému byla uložena povinnost podle odstavců 2 a [[#§ 3|3]], je povinen zveřejnit referenční nabídku. Náležitosti a podmínky, které musí referenční nabídka obsahovat, stanoví Úřad prováděcím právním předpisem podle § 82 odst. 4.
+>
+> (5) Úřad při ukládání povinností podle odstavců 1 a [[#§ 2|2]] zejména zohlední, zda by k řešení zjištěného problému v zájmu koncových uživatelů nebyly postačující jiné formy přístupu pro velkoobchodní vstupy na stejném nebo na souvisejícím velkoobchodním trhu. Toto posouzení zahrnuje nabídky obchodního přístupu, regulovaný přístup podle [[#§ 79|§ 79]] a [[#§ 79a|79a]] nebo stávající nebo plánovaný regulovaný přístup k jiným velkoobchodním vstupům. Úřad posoudí zejména tyto faktory:
+>
+> - a) technickou a ekonomickou životaschopnost využití nebo instalace konkurenčních zařízení, na základě vývoje trhu, se zohledněním charakteru a druhu dotyčného přístupu nebo propojení, včetně možnosti využití dalších služeb přístupu poskytovaných na vyšší úrovni distribučního řetězce,
+>
+> - b) proveditelnost poskytování navrhovaného přístupu, s ohledem na dostupnou kapacitu,
+>
+> - c) očekávaný technologický vývoj ovlivňující koncepci a správu sítě,
+>
+> - d) počáteční investice vlastníka zařízení s přihlédnutím ke všem investicím a rizikům této investice se zvláštním ohledem na investice do sítí s velmi vysokou kapacitou a míru rizika spojenou s těmito sítěmi,
+>
+> - e) potřebu zajistit technologickou neutralitu, která umožní dotčeným stranám koncipovat a spravovat vlastní sítě,
+>
+> - f) potřebu dlouhodobé ochrany hospodářské soutěže se zaměřením na ekonomicky účinnou hospodářskou soutěž v oblasti sítí a infrastruktury, a inovativní obchodní modely, které podporují udržitelnou hospodářskou soutěž jako ty založené na společných investicích do sítí,
+>
+> - g) práva duševního vlastnictví,
+>
+> - h) poskytování celoevropských služeb.
+>
+> (6) Podnik s významnou tržní silou na relevantním trhu, kterému byla uložena povinnost podle odstavce 2, může při jednání o návrhu smlouvy o přístupu nebo smlouvy o propojení odmítnout takový návrh v případě, že požadovaný přístup nebo propojení neodpovídá technickým parametrům nebo by narušil integritu sítě.
+>
+> (7) Odmítl-li podnikatel podle odstavce 6 návrh smlouvy o přístupu nebo propojení, je povinen nejpozději do 15 pracovních dnů od odmítnutí tohoto návrhu smlouvy požádat Úřad o souhlas s odmítnutím návrhu smlouvy a uvést důvody takového odmítnutí. Nevydá-li Úřad rozhodnutí o souhlasu do 15 pracovních dnů od obdržení žádosti o souhlas, platí, že s odmítnutím návrhu smlouvy souhlasí.
+>
+> (8) Úřad při ukládání povinností podle odstavců 1 a [[#§ 4|4]] může na základě posouzení z hlediska podpory hospodářské soutěže a ochrany zájmů koncových uživatelů rozhodnout o uložení povinnosti pouze podle § 51 odst. 6 písm. f).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51, § 3, § 82, § 2, § 79, § 79a, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ffb7ebfc5a453c0c8135 -->
+
 ### § 85 — Zpřístupnění účastnického vedení
 
 > **§ 85**
@@ -761,6 +1321,60 @@ V kontextu migrace na optiku (FTTH/FTTB) nabývá pojem „úsek účastnického
 **Typicky rozhodné důkazy / podklady:** referenční nabídka LLU, technická dokumentace MDF/ODU a kapacity, specifikace požadované modality přístupu, harmonogram a SLA, analýza relevantního trhu.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=238ccbc621ff5a2f9ea0 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 85 — Zpřístupnění účastnického vedení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Podnik s významnou tržní silou na relevantním trhu zajišťující veřejnou komunikační síť, kterému byla uložena povinnost zpřístupnit účastnické vedení, je povinen uveřejnit referenční nabídku pro zpřístupnění účastnického vedení.
+>
+> (2) Úsekem účastnického vedení se rozumí část účastnického vedení, která spojuje koncový bod sítě se soustřeďovacím bodem nebo se specifikovaným mezilehlým přístupovým bodem veřejné pevné komunikační sítě.
+>
+> (3) Zpřístupněním účastnického vedení se rozumí plné zpřístupnění účastnického vedení nebo sdílený přístup k účastnickému vedení.
+>
+> (4) Plným zpřístupněním účastnického vedení se rozumí poskytování přístupu k účastnickému vedení nebo k úseku účastnického vedení, které opravňuje k využívání celé kapacity infrastruktury sítě.
+>
+> (5) Sdíleným přístupem k účastnickému vedení se rozumí poskytování přístupu k účastnickému vedení nebo k úseku účastnického vedení, které opravňuje k využívání určené části kapacity infrastruktury sítě, jako je část kmitočtu nebo její ekvivalent.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=238ccbc621ff5a2f9ea0 -->
 
 ### § 85a — Závazky ke společným investicím do VHCN
 
@@ -847,6 +1461,78 @@ Odst. 5 umožňuje Úřadu prolomit regulatorní prázdniny i u závazné nabíd
 ---
 
 **Díl 5 — Oddělená evidence nákladů a výnosů**
+
+
+<!-- LEGAL-REVISION:BEGIN id=0e97cd24a2f4701bd9a3 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 85a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Podnik s významnou tržní silou může nabídnout závazky podle [[#§ 86c|§ 86c]] s cílem otevřít společným investicím zavádění nových sítí s velmi vysokou kapacitou sestávajících z optických prvků až do prostor koncových uživatelů nebo k základnové stanici, například nabídkou společného investování nebo dlouhodobého sdílení rizika prostřednictvím spolufinancování nebo prostřednictvím dohod o nákupu opravňujících k nabytí specifických práv strukturální povahy ze strany jiných poskytovatelů sítí nebo služeb elektronických komunikací.
+>
+> (2) Úřad rozhodne o závaznosti nabídky podle odstavce 1, splňuje-li nabídka společných investic tyto podmínky:
+>
+> - a) je otevřena kdykoli po celou dobu životnosti sítě všem poskytovatelům služeb a sítí elektronických komunikací,
+>
+> - b) umožní ostatním spoluinvestorům, kteří jsou poskytovateli služeb nebo sítí elektronických komunikací, dlouhodobě účinně a trvale udržitelně konkurovat na navazujících trzích, v nichž je podnik s významnou tržní silou aktivní, za podmínek, které zahrnují
+>
+>   - 1. spravedlivé, přiměřené a nediskriminační podmínky nabízené potenciálním spoluinvestorům umožňujícím přístup k plné kapacitě sítě v rozsahu, v němž jsou předmětem společných investic,
+>
+>   - 2. flexibilitu z hlediska hodnoty a načasování účasti každého spoluinvestora,
+>
+>   - 3. možnost navýšení takovéto účasti v budoucnu a
+>
+>   - 4. vzájemná práva udělená spoluinvestory po zavedení spoluinvestované infrastruktury,
+>
+> - c) je provozovatelem zveřejněna v dostatečném předstihu a, pokud provozovatel nesplňuje kritéria podle [[#§ 86d|§ 86d]], nejméně 6 měsíců před zahájením zavádění nové sítě; toto období může být Úřadem vhodně prodlouženo,
+>
+> - d) žadatelům o přístup, kteří se neúčastní společných investic, je od počátku dostupná stejná kvalita, rychlost, podmínky a pokrytí koncového uživatele, jaké byly k dispozici před zavedením, spolu s mechanismem přizpůsobení v průběhu času potvrzeným vnitrostátním regulačním orgánem s ohledem na vývoj na souvisejících maloobchodních trzích, který zachovává pobídky pro účast na společných investicích; takový mechanismus zajistí, aby zájemci o přístup měli přístup k prvkům sítě s velmi vysokou kapacitou současně a na základě transparentních a nediskriminačních podmínek, jež patřičně odrážejí stupně rizika podstoupeného příslušnými spoluinvestory v různých stadiích zavádění a zohledňují situaci v oblasti hospodářské soutěže na maloobchodních trzích, a
+>
+> - e) splňuje minimálně kritéria uvedená v příloze č. 2 k tomuto zákonu a je provedena v dobré víře.
+>
+> (3) Na síť s velmi vysokou kapacitou, která je předmětem závazné nabídky se neuplatní povinnosti podle [[#§ 51|§ 51]], pokud podnik s významnou tržní silou, který nabídku zveřejnil, uzavřel alespoň jednu dohodu, jejíž předmět je obsahem závazné nabídky podle odstavce 2 písm. a) až e). Toto neplatí v případě, že subjekt, se kterým podnik dohodu uzavřel, splňuje podmínky podle § 86d odst. 1 písm. a) a b).
+>
+> (4) Úřad průběžně monitoruje dodržování podmínek podle odstavce 2 a pro tyto účely mu podnik s významnou tržní silou jednou za rok předkládá zprávu o dodržování podmínek podle odstavce 2.
+>
+> (5) Úřad může v odůvodněných případech uložit povinnosti podle § 51 odst. 6 podniku s významnou tržní silou v rozporu s odstavcem 3, pokud jde o zavádění sítí s velmi vysokou kapacitou, s cílem řešit závažné problémy s hospodářskou soutěží na trhu, u nichž zjistí, že vzhledem k specifickým charakteristikám tohoto trhu by tyto problémy s hospodářskou soutěží jinak nemohly být řešeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 86c, § 86d, § 51
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0e97cd24a2f4701bd9a3 -->
 
 ### § 86 — Povinnost oddělené evidence; metodika Úřadu; finanční zprávy
 
@@ -937,6 +1623,80 @@ Odst. 8 dopadá na operátory, kteří jsou zároveň veřejnými nebo poloregul
 
 **Díl 6 — Funkční a dobrovolná separace**
 
+
+<!-- LEGAL-REVISION:BEGIN id=533bd53ab2e2a60fb991 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 86
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel univerzální služby, s výjimkou poskytovatele zvláštních cen podle § 38 odst. 3 nebo poskytovatele cenového zvýhodnění v rámci speciálního tarifu podle § 43 odst. 2 písm. b), a subjekt, vůči kterému byla uplatněna regulace cen na trhu pro koncové uživatele, je povinen vést oddělenou evidenci nákladů a výnosů.
+>
+> (2) Úřad je oprávněn v souladu s [[#§ 51|§ 51]] uložit povinnost vést oddělenou evidenci nákladů a výnosů subjektu
+>
+> - a) poskytujícímu přístup nebo propojení a kterého postupem podle [[#§ 51|§ 51]] určil jako podnik s významnou tržní silou na relevantním trhu; Úřad rozhodne, na které činnosti související s propojením nebo přístupem se povinnost vést oddělenou evidenci nákladů a výnosů vztahuje, nebo
+>
+> - b) který je uveden v § 83 odst. 5.
+>
+> Úřad je oprávněn uložit povinnost vést oddělenou evidenci nákladů a výnosů subjektu uvedenému v písmenu a) také na souvisejících maloobchodních trzích.
+>
+> (3) Pro účely oddělené evidence nákladů a výnosů Úřad opatřením obecné povahy stanoví metodiku účelového členění nákladů a výnosů a jejich přiřazování a určí strukturu vykazovaných informací.
+>
+> (4) Subjekt uvedený v odstavcích 1 a [[#§ 2|2]] je povinen předložit výsledky oddělené evidence nákladů a výnosů k ověření shody s metodikou uvedenou v opatření vydaném podle odstavce 3 nezávislému kvalifikovanému subjektu do 1 měsíce po uveřejnění své účetní závěrky32) a závěry ověřování uveřejnit.
+>
+> (5) Úřad je oprávněn subjektu uvedenému v odstavcích 1 a [[#§ 2|2]] rozhodnutím uložit povinnost, aby doložil výpočet svých cen účtovaných jiným podnikatelům, kteří nejsou koncovými uživateli, a vnitropodnikových cen za komunikační činnosti podle oddělené evidence nákladů a výnosů k zajištění nediskriminace a k zabránění neodůvodněnému křížovému financování.
+>
+> (6) Subjekt uvedený v odstavci 1 je povinen Úřadu na jeho žádost a v jím stanovené lhůtě doložit výpočet cen, které účtuje koncovým uživatelům, podle oddělené evidence nákladů a výnosů.
+>
+> (7) Subjekt uvedený v odstavcích 1 a [[#§ 2|2]] je povinen předkládat Úřadu na jeho žádost a v jím stanovené lhůtě roční výsledky oddělené evidence nákladů a výnosů a účetní údaje včetně údajů o výnosech získaných od třetích stran. Úřad může takové informace uveřejnit v souladu s pravidly pro ochranu obchodního tajemství.
+>
+> (8) Podnikatel zajišťující veřejné komunikační sítě nebo poskytující veřejně dostupné služby elektronických komunikací, který má zvláštní nebo výhradní práva na poskytování služeb v jiných odvětvích v České republice nebo v jiném členském státě Evropské unie, je povinen
+>
+> - a) vést oddělenou evidenci nákladů a výnosů, včetně položkového rozpisu odepisovaného majetku, pro činnosti spojené se zajišťováním těchto sítí nebo poskytováním služeb elektronických komunikací způsobem, v takových podrobnostech a s použitím systému přiřazování nákladů a výnosů, které jsou vyžadovány od subjektů uvedených v odstavcích 1 a [[#§ 2|2]], nebo
+>
+> - b) strukturálně oddělit činnosti, které jsou spojeny se zajišťováním těchto sítí nebo poskytováním služeb elektronických komunikací.
+>
+> Tato povinnost neplatí pro podnikatele, jehož roční obrat v činnostech, které jsou spojeny se zajišťováním sítí, nebo poskytováním veřejně dostupných služeb elektronických komunikací, je nižší než ekvivalent 50 000 000 EUR vyjádřený v Kč.
+>
+> (9) Subjekt zajišťující veřejné komunikační sítě nebo poskytující veřejně dostupné služby elektronických komunikací, který není obchodní korporací podle zákona upravujícího právní poměry obchodních společností a družstev a který není malým nebo středně velkým podnikatelem podle kritérií stanovených účetními pravidly práva Evropské unie, je povinen vypracovat svou finanční zprávu, předložit ji k ověření Úřadem určenému nezávislému kvalifikovanému subjektu a publikovat ji. Tento požadavek se vztahuje i na oddělené účetnictví požadované podle odstavce 8 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38, § 43, § 51, § 83, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=533bd53ab2e2a60fb991 -->
+
 ### § 86a — Funkční separace vertikálně integrovaného podniku
 
 > **§ 86a**
@@ -1024,6 +1784,84 @@ Klíčovým požadavkem je, aby oddělená hospodářská jednotka poskytovala p
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=14cd04f65a0b042208cd generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 86a — Funkční separace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Funkční separací se u vertikálně integrovaného podniku rozumí oddělení nebo převedení činnosti spojené s velkoobchodním poskytováním služeb přístupu na oddělenou hospodářskou jednotku, která je nezávisle provozovaná, beze změny vlastnické struktury tohoto vertikálně integrovaného podniku.
+>
+> (2) Oddělenou hospodářskou jednotkou se pro účely tohoto zákona rozumí část podniku, která je z hlediska své organizace, rozhodování a účetnictví při své činnosti oddělena od vertikálně integrovaného podniku.
+>
+> (3) Oddělená hospodářská jednotka musí poskytovat služby přístupu a Úřadem určené služby elektronických komunikací všem podnikatelům, včetně hospodářských jednotek v rámci vertikálně integrovaného podniku, ve stejných lhůtách a za stejných smluvních podmínek, včetně podmínek týkajících se úrovně cen a poskytovaných služeb, a prostřednictvím stejných systémů a procesů.
+>
+> (4) Úřad může uložit povinnost funkční separace jen po předchozím schválení žádosti Komisí. Tato žádost musí obsahovat:
+>
+> - a) zjištění potvrzující závěry Úřadu podle § 51 odst. 7,
+>
+> - b) odůvodněné posouzení, ze kterého vyplývá, že je málo pravděpodobné, že bude v přiměřené době dosaženo účinné a trvající hospodářské soutěže v oblasti sítí elektronických komunikací a přiřazených prostředků,
+>
+> - c) analýzu očekávaného dopadu uložení této povinnosti na odvětví elektronických komunikací, zejména pokud jde o sociální a územní soudržnost a dále dopad na podnik s významnou tržní silou a další dotčené subjekty, zaměstnance oddělené hospodářské jednotky, motivaci podnikatele investovat do odvětví elektronických komunikací, hospodářskou soutěž, spotřebitele a na Úřad a
+>
+> - d) analýzu prokazující, že uložení této povinnosti je nejúčinnějším možným nápravným opatřením pro řešení problémů hospodářské soutěže.
+>
+> (5) Návrh rozhodnutí o uložení funkční separace, který se předkládá Komisi ke schválení, musí obsahovat
+>
+> - a) přesný popis a úroveň separace, zahrnující zejména právní postavení oddělené hospodářské jednotky,
+>
+> - b) údaje o aktivech oddělené hospodářské jednotky a o produktech nebo službách, které bude tato jednotka poskytovat,
+>
+> - c) pravidla vedení oddělené hospodářské jednotky, která zajišťují nezávislost jejích zaměstnanců na vedení vertikálně integrovaného podniku, kterému byla uložena povinnost funkční separace, a odpovídající motivační strukturu,
+>
+> - d) pravidla pro zajištění plnění uložených povinností,
+>
+> - e) pravidla pro zajištění průhlednosti provozních postupů, zejména ve vztahu k dalším dotčeným podnikům a
+>
+> - f) program sledování dodržování uložených povinností, včetně zveřejnění výroční zprávy.
+>
+> (6) Poté, co Komise schválí žádost a návrh rozhodnutí, provede Úřad koordinovaným způsobem analýzy všech trhů, které se vztahují k přístupové síti. Na základě výsledku těchto analýz Úřad rozhodne o uložení, zachování, změně nebo zrušení povinnosti podle [[#§ 51|§ 51]] na těchto trzích.
+>
+> (7) Podnik, jemuž byla uložena povinnost funkční separace, může dále podléhat kterékoliv z povinností uvedených v [[#§ 51|§ 51]] na jakémkoliv konkrétním trhu, na němž je označen za podnik s významnou tržní silou, nebo jakýmkoliv jiným povinnostem, jejichž uložení Komise schválila.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=14cd04f65a0b042208cd -->
+
 ### § 86b — Dobrovolná separace a převedení přístupové sítě
 
 > **§ 86b**
@@ -1088,6 +1926,62 @@ Tříměsíční oznamovací lhůta dává Úřadu prostor spustit přezkumný c
 **Typicky rozhodné důkazy / podklady:** oznámení záměru a jeho datace, text nabízených závazků a harmonogram, doklady o změnách záměru, výsledky veřejné konzultace, navazující analýza trhů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=acaf17c3b64af9ea8084 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 86b — Dobrovolná separace a převedení přístupové sítě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) V případě, že podnik s významnou tržní silou na jednom nebo více relevantních trzích hodlá převést svá aktiva tvořící přístupovou síť, nebo jejich podstatnou část na jinou právnickou osobu s odlišnou vlastnickou strukturou, se kterou není z hlediska své právní formy, organizace a rozhodování spojen, nebo založit oddělenou hospodářskou jednotku, která bude poskytovat všem maloobchodním poskytovatelům i svým vlastním maloobchodním divizím rovnocenné přístupové produkty, informuje o tom alespoň 3 měsíce předem Úřad tak, aby mu umožnil posoudit dopad zamýšleného postupu. Současně informuje Úřad o každé změně tohoto záměru, jakož i o konečném výsledku procesu oddělení.
+>
+> (2) Úřad následně postupem podle [[#§ 51|§ 51]] provede analýzy všech relevantních trhů, které se vztahují k dotčené přístupové síti, a na základě posouzení dopadu zamýšlené transakce, popřípadě společně s nabízenými závazky, na stávající regulační povinnosti rozhodne o uložení, zachování, změně nebo zrušení uložených povinností podle [[#§ 51|§ 51]]. Úřad rozhodne, že všechny nebo některé závazky podle odstavce 4 jsou závazné po celou dobu, po kterou jsou nabízeny.
+>
+> (3) Jsou-li nabízené závazky podle odstavce 4 nedostatečné pro splnění cílů podle § 4 až 6, právně nebo provozně oddělený subjekt může podléhat kterékoliv z povinností podle [[#§ 51|§ 51]] na jakémkoliv konkrétním trhu, na němž je označen za podnik s významnou tržní silou, nebo jakýmkoliv jiným povinnostem, jejichž uložení Komise schválila.
+>
+> (4) Podnikatel podle odstavce 1 může nabízet závazky týkající se podmínek přístupu, které se budou uplatňovat na jeho síť v průběhu období realizace a po realizaci navržené formy oddělení, s cílem zajistit účinný a nediskriminační přístup třetích stran. Nabídka musí být dostatečně podrobná a zahrnovat kromě jiného načasování realizace a dobu trvání, která může být delší než 5 let.
+>
+> (5) Úřad rovněž zohlední případné závazky podle odstavce 4, zejména s ohledem na cíle podle § 4 až 6, a uskuteční veřejnou konzultaci podle [[#§ 130|§ 130]], přičemž osloví zejména subjekty, které jsou zamýšleným oddělením podle odstavce 1 přímo dotčeny.
+>
+> (6) Úřad monitoruje plnění závazků, o jejichž závaznosti rozhodl, a po uplynutí doby, pro kterou byly původně nabídnuty, rozhodne o jejich případném prodloužení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51, § 4, § 130
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=acaf17c3b64af9ea8084 -->
 
 ### § 86c — Závazky podniků s VTS; tržní test a závaznost
 
@@ -1176,6 +2070,80 @@ U závazků ke společné investici stanoví zákon minimální délku závaznos
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d4052ccb77d04946dcea generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 86c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Podniky s významnou tržní silou mohou navrhnout Úřadu závazky týkající se podmínek přístupu nebo společných investic, které se budou vztahovat na jejich sítě, a to mimo jiné v souvislosti s
+>
+> - a) dohodami o spolupráci týkajícími se posouzení přiměřených a vhodných povinností podle [[#§ 51|§ 51]],
+>
+> - b) společnými investicemi do sítí s velmi vysokou kapacitou podle [[#§ 85a|§ 85a]], nebo
+>
+> - c) účinným a nediskriminačním přístupem pro třetí strany podle [[#§ 86b|§ 86b]], a to jak v průběhu prováděcího období dobrovolného oddělení vertikálně integrovaného podniku, tak po zavedení navrhované formy oddělení.
+>
+> (2) Návrh závazků musí být dostatečně podrobný, včetně časového rozvrhu a rozsahu provádění a trvání, aby Úřad mohl provést své posouzení podle odstavce 3. Tyto závazky mohou trvat déle než lhůty pro provedení analýzy trhu podle § 51 odst. 3 a [[#§ 4|4.]]
+>
+> (3) Za účelem posuzování návrhů závazků nabízených podnikem podle odstavce 1 provede Úřad, s výjimkou případů, kdy tyto nabídky jednoznačně nesplňují jednu nebo více příslušných podmínek nebo kritérií, tržní test, zejména ve vztahu k nabízeným podmínkám, prostřednictvím konzultace podle [[#§ 130|§ 130]]. Potenciální spoluinvestoři nebo zájemci o přístup mohou poskytnout názory na soulad nabízených závazků s podmínkami podle [[#§ 51|§ 51]], [[#§ 85a|85a]] a [[#§ 86b|86b]], a popřípadě mohou navrhnout změny této nabídky.
+>
+> (4) Úřad při posuzování nabízených závazků zohlední
+>
+> - a) důkazy týkající se spravedlivého a přiměřeného charakteru navrhovaných závazků,
+>
+> - b) otevřenosti závazků vůči všem účastníkům trhu,
+>
+> - c) včasnou dostupnost přístupu za spravedlivých, přiměřených a nediskriminačních podmínek, včetně přístupu k sítím o velmi vysoké kapacitě, před zahájením poskytování souvisejících maloobchodních služeb,
+>
+> - d) celkovou přiměřenost nabízených závazků s cílem umožnit udržitelnou hospodářskou soutěž na navazujících trzích a usnadnit spolupráci při zavádění a využívání sítí o velmi vysoké kapacitě v zájmu koncových uživatelů.
+>
+> (5) Úřad podniku s významnou tržní silou oznámí své předběžné závěry, zda závazky splňují cíle, kritéria a postupy podle [[#§ 51|§ 51]], [[#§ 85a|85a]] a [[#§ 86b|86b]], a za jakých podmínek může zvážit stanovení závaznosti těchto závazků. Podnik může revidovat svou počáteční nabídku tak, aby zohlednil předběžné závěry Úřadu a s ohledem na splnění kritérií podle [[#§ 51|§ 51]], [[#§ 85a|85a]] a [[#§ 86b|86b]].
+>
+> (6) Úřad může vydat rozhodnutí, jímž stanoví, že závazky jsou zcela nebo zčásti závazné. Úřad může stanovit, že některé nebo všechny závazky jsou závazné pro konkrétní období, přičemž se může jednat o celé období, pro které jsou nabízeny, a v případě závazků ke společné investici, které byly učiněny závaznými, stanoví jejich závaznost na dobu alespoň 7 let.
+>
+> (7) Stanovil-li Úřad závaznost závazků, posoudí důsledky takového rozhodnutí pro vývoj trhu a vhodnost případných povinností, které již uložil nebo které by bez uvedených závazků jinak měl v úmyslu uložit. Při oznamování příslušného návrhu opatření podle [[#§ 51|§ 51]] při postupu podle [[#§ 131|§ 131]] připojí Úřad k oznamovanému návrhu opatření rozhodnutí o závazcích.
+>
+> (8) Úřad sleduje, kontroluje a zajišťuje dodržování závazků nabízených podnikateli, které učinil závaznými, stejným způsobem, jakým sleduje, kontroluje a zajišťuje dodržování povinností uložených podle [[#§ 51|§ 51]], a zváží jejich prodloužení v okamžiku uplynutí doby, po kterou byly původně nabízeny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 51, § 85a, § 86b, § 4, § 130, § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d4052ccb77d04946dcea -->
+
 ### § 86d — Povinnosti pro velkoobchodní operátory bez maloobchodní přítomnosti
 
 > **§ 86d**
@@ -1247,6 +2215,66 @@ Zákon zakládá okamžitou notifikační povinnost při jakékoliv změně okol
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=64cd5e4cb8225326f753 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 86d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Označí-li Úřad jako podnik s významnou tržní silou na jednom nebo několika velkoobchodních trzích takový podnik, který zároveň není přítomen na žádném maloobchodním trhu se službami elektronických komunikací, posoudí, zda má tento podnik tyto vlastnosti:
+>
+> - a) všechny organizační jednotky a obchodní útvary v rámci daného podniku, všechny společnosti, jež jsou kontrolovány, avšak nikoli nezbytně zcela vlastněny stejným skutečným majitelem, a každý akcionář, který je s to tento podnik kontrolovat, mají činnosti - stávající a plánované do budoucna - pouze na velkoobchodních trzích se službami elektronických komunikací, a nemají proto činnosti na žádném maloobchodním trhu se službami elektronických komunikací poskytovanými koncovým uživatelům v Evropské unii,
+>
+> - b) není vázán exkluzivní dohodou nebo dohodou, která fakticky představuje exkluzivní dohodu, k obchodování s jediným a odděleným podnikem vykonávajícím činnost na navazujících trzích, jenž je aktivní na jakémkoli maloobchodním trhu se službami elektronických komunikací poskytovanými koncovým uživatelům.
+>
+> (2) Jsou-li podmínky podle odstavce 1 splněny, Úřad uloží uvedenému podniku povinnosti pouze podle [[#§ 81|§ 81]], § 84 odst. 1 až 4, s výjimkou povinnosti podle § 84 odst. 2 písm. k), nebo povinnosti související se spravedlivým a přiměřeným stanovením cen, pokud jsou opodstatněny na základě analýzy trhu zahrnující prognostické posouzení očekávaného chování tohoto podniku s významnou tržní silou.
+>
+> (3) Úřad provede přezkum povinností uložených podniku s významnou tržní silou podle odstavce 1, dojde-li k závěru, že podmínky podle odstavce 1 tohoto článku již nejsou splněny, přičemž Úřad může uložit povinnosti podle [[#§ 51|§ 51]].
+>
+> (4) Dotčené podniky informují Úřad bez zbytečného odkladu o každé změně okolností týkajících se odstavce 1 písm. a) a b).
+>
+> (5) Úřad provede rovněž přezkum povinností uložených podniku s významnou tržní silou podle odstavce 1, pokud na základě doložených podmínek, které daný podnik nabízí svým zákazníkům na navazujících trzích, dojde k závěru, že vznikly nebo pravděpodobně vzniknou soutěžní problémy poškozující koncové uživatele, jež vyžadují uložení jedné nebo více povinností podle § 51 odst. 6 písm. a), c), e) nebo f) nebo změnu povinností podle odstavce 2.
+>
+> (6) Úřad postupuje při ukládání povinností a jejich přezkumu podle odstavců 1 až 5 s tím, že postupuje podle [[#§ 130|§ 130]] a [[#§ 131|131]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 81, § 84, § 51, § 130, § 131
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=64cd5e4cb8225326f753 -->
+
 ### § 86e — Vyřazování starší infrastruktury z provozu; migrační závazky
 
 > **§ 86e**
@@ -1316,3 +2344,58 @@ Zákon zakládá okamžitou notifikační povinnost při jakékoliv změně okol
 **Typicky rozhodné důkazy / podklady:** oznámení záměru vyřazení a jeho datace, migrační harmonogram a výpovědní lhůty, technické srovnání a pokrytí původního vs. alternativního produktu, výsledky konzultace, rozhodnutí ČTÚ o zrušení povinností.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=6e7676247a873b7b9c68 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 86e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) V případě, že podnik s významnou tržní silou na jednom nebo více relevantních trzích má v úmyslu vyřadit z provozu části sítě, na něž se vztahují nápravná opatření, včetně starší infrastruktury, nezbytné k provozu kovové sítě, nebo nahradit novou infrastrukturou části sítě, informuje o tom Úřad v dostatečném časovém předstihu.
+>
+> (2) Úřad na základě oznámení podle odstavce 1 uloží po konzultaci podle [[#§ 130|§ 130]] podnikateli podle odstavce 1 povinnost zajistit, aby proces vyřazení z provozu nebo nahrazení zahrnoval transparentní harmonogram a podmínky, mimo jiné včetně vhodné výpovědní doby a přechodného období, a stanoví dostupnost alternativních produktů alespoň srovnatelné kvality poskytujících přístup k modernizované síťové infrastruktuře, která nahrazuje vyřazované prvky.
+>
+> (3) Úřad může po konzultaci podle [[#§ 130|§ 130]] a [[#§ 131|131]] rozhodnout o zrušení povinností podle [[#§ 51|§ 51]], [[#§ 56|56]], [[#§ 57|57]], [[#§ 81|81]], [[#§ 82|82]], [[#§ 84|84]] a 85a až 86d, pokud poskytovatel přístupu
+>
+> - a) prokazatelně vytvořil vhodné podmínky pro migraci, včetně zpřístupnění alternativního přístupového produktu alespoň srovnatelné kvality umožňujícího pokrytí týchž koncových uživatelů, jak tomu bylo za použití starší infrastruktury, a
+>
+> - b) dodržel podmínky a proces, které oznámil Úřadu podle odstavce 1.
+>
+> (4) Ustanovení [[#§ 51|§ 51]] zůstává u modernizované síťové infrastruktury v rámci regulovaných produktů nedotčeno.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 130, § 131, § 51, § 56, § 57, § 81, § 82, § 84
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e7676247a873b7b9c68 -->

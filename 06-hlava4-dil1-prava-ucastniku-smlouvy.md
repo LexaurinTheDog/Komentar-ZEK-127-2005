@@ -96,6 +96,66 @@ Přístup k tísňovým službám a harmonizovaným číslům (116 xxx) je absol
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f14a784670b601f785cf generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 61
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací je povinen poskytovat tuto službu nepřetržitě po všechny dny v roce, nestanoví-li zákon jinak, a v kvalitě stanovené podle [[#§ 71|§ 71]].
+>
+> (2) V případech, kdy je ohroženo nebo přerušeno nepřetržité poskytování veřejně dostupné služby elektronických komunikací, je Úřad oprávněn rozhodnout o opatřeních nezbytných k udržení nebo obnovení tohoto poskytování a v případě potřeby uloží podnikateli, který poskytuje dílčí službu podle § 38 odst. 2, aby zajistil další poskytování této dílčí služby těm uživatelům, u kterých je její nepřetržité poskytování ohroženo nebo přerušeno.
+>
+> (3) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací je povinen zajistit nepřetržitý přístup k tísňovým službám, vyjma případů uvedených v § 33 odst. 10, a k evropským harmonizovaným číslům.
+>
+> (4) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací je povinen vést aktuální databázi všech svých účastníků veřejně dostupné služby elektronických komunikací. Podnikatel poskytující veřejně dostupnou službu elektronických komunikací prostřednictvím mobilní sítě elektronických komunikací v této databázi vede rovněž jemu dostupné údaje o aktivovaných předplacených kartách v jeho mobilní síti. Podnikatel poskytující veřejně dostupnou službu elektronických komunikací je oprávněn pro účely databáze účastníků získávat a používat jejich rodná čísla.
+>
+> (5) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací neodpovídá při poskytování této služby za obsah přenášených zpráv.
+>
+> (6) Podnikatel poskytující hlasovou komunikační službu umožňující mezinárodní volání je povinen zajišťovat uskutečnění všech mezinárodních volání do Evropského telefonního číslovacího prostoru. Cena za tato volání musí být obdobná jako cena, kterou si tento podnikatel účtuje za volání do i z členských států Evropské unie. Právo podnikatele na úhradu nákladů za přenos těchto volání v jeho síti není tímto dotčeno.
+>
+> (7) Podnikatel poskytující službu ukončení volání je povinen uplatňovat jednotné maximální sazby za ukončení hlasového volání v mobilní síti po celé Evropské unii a jednotné maximální sazby za ukončení hlasového volání v pevné síti po celé Evropské unii maximálně ve výši stanovené předpisem vydaným Komisí podle čl. 75 odst. 1 směrnice Evropského parlamentu a Rady (EU) [[2018/1972|2018/1972]]. Úřad každoročně informuje Sdružení BEREC a Komisi o plnění této povinnosti.
+>
+> (8) Podnikatel zajišťující veřejnou komunikační síť nebo poskytující veřejně dostupnou službu elektronických komunikací neuplatní vůči koncovému uživateli z důvodů týkajících se jeho státní příslušnosti, místa pobytu nebo místa jeho usazení žádné diskriminační požadavky nebo podmínky v souvislosti s poskytováním služby elektronických komunikací, pokud k takovému odlišnému zacházení nejsou dány objektivní důvody.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71, § 38, § 33
+
+##### Souvisící předpisy
+
+- akt EU 2018/1972 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f14a784670b601f785cf -->
+
 ### § 62 — Normy a specifikace; síťové plány
 
 > **§ 62**
@@ -153,6 +213,56 @@ Normy a specifikace se použijí v třístupňové hierarchii a jen v rozsahu ne
 **Typicky rozhodné důkazy / podklady:** technická dokumentace rozhraní, platné síťové plány ČTÚ, seznam norem v OJEU, protokoly o testech interoperability.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9456abbde041866c17dd generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 62
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Osoba vykonávající komunikační činnost je povinna používat pro poskytování služeb, určování technických rozhraní a síťových funkcí v míře nezbytně nutné pro zabezpečení interoperability a bezpečnosti služeb, spojení mezi koncovými body, usnadnění změny poskytovatele a přenositelnosti čísel a k rozšíření možností výběru pro uživatele normy a specifikace, jejichž seznam je uveřejňován v Úředním věstníku Evropské unie jako základ pro podporu harmonizovaného zajišťování sítí elektronických komunikací, poskytování služeb elektronických komunikací, přiřazených prostředků a přiřazených služeb, spojení mezi koncovými body, usnadnění změny poskytovatele a přenositelnosti čísel.
+>
+> (2) Pokud normy nebo specifikace podle odstavce 1 nebyly uveřejněny, použijí se normy nebo specifikace přijaté evropskými organizacemi pro normalizaci. Pokud takové normy a specifikace neexistují, použijí se přiměřeně mezinárodní normy nebo doporučení přijatá Mezinárodní telekomunikační unií (ITU), Evropskou konferencí správ pošt a telekomunikací (CEPT), Mezinárodní organizací pro normalizaci (ISO) nebo Mezinárodní elektrotechnickou komisí (IEC).
+>
+> (3) S využitím norem a specifikací uvedených v odstavcích 1 a [[#§ 2|2]] Úřad sestavuje síťové plány, které jsou podnikatelé zajišťující sítě elektronických komunikací nebo poskytující služby elektronických komunikací povinni dodržovat. Síťové plány Úřad vydává jako opatření obecné povahy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9456abbde041866c17dd -->
 
 ### § 63 — Informační povinnosti u smluv; shrnutí smlouvy; náležitosti smlouvy
 
@@ -289,6 +399,100 @@ Odst. 12 upřesňuje povinnost písemného potvrzení informací po uzavření s
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=6fdaa847478c5390b199 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 63 — Informační povinnosti u smluv
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel veřejně dostupné služby elektronických komunikací, jiné než přenosové služby používané pro poskytování služby komunikace mezi stroji, poskytne spotřebiteli před uzavřením smlouvy nebo před tím, než spotřebitel učiní závaznou nabídku, vedle informací podle [[§ 1811|§ 1811]] a [[1820|1820]] [[občanského zákoníku|občanského zákoníku]] také informace
+>
+> - a) stanovené v příloze č. 1 k tomuto zákonu v rozsahu, v jakém se vztahují k poskytované službě, a
+>
+> - b) o právu na paušální náhradu podle § 34 odst. 11 a § 34a odst. 11.
+>
+> (2) Informace podle odstavce 1 se poskytují jasně a srozumitelně v textové podobě nebo ve formě dokumentu, který zpřístupní poskytovatel podle odstavce 1, ve snadno dostupné elektronické verzi. Poskytovatel podle odstavce 1 spotřebitele výslovně upozorní, že daný dokument je k dispozici a že je důležité si jej stáhnout pro účely dokumentace, pozdějšího použití a reprodukce v nezměněné podobě.
+>
+> (3) Informace podle odstavce 1 se poskytují na žádost ve formátu přístupném pro koncové uživatele se zdravotním postižením v souladu s právem Evropské unie o harmonizaci požadavků na přístupnost u výrobků a služeb76).
+>
+> (4) Informace podle odstavců 1, [[#§ 2|2]], [[#§ 5|5]] a [[#§ 9|9]] se poskytují též koncovému uživateli, kterým je mikropodnik77), malý podnik77) nebo nezisková organizace, ledaže se výslovně vzdal všech, nebo některých práv, která mu plynou z těchto odstavců. Koncový uživatel, který je mikropodnikem, malým podnikem nebo neziskovou organizací, doloží tuto skutečnost prohlášením před uzavřením smlouvy s podnikatelem poskytujícím veřejně dostupnou službu elektronických komunikací, včetně informace, zda se zříká takového práva.
+>
+> (5) Poskytovatel veřejně dostupné služby elektronických komunikací, jiné než přenosové služby používané pro poskytování služeb komunikace mezi stroji, je povinen poskytnout spotřebitelům také stručné a snadno čitelné shrnutí smlouvy odpovídající šabloně pro shrnutí smlouvy podle přímo použitelného předpisu Evropské unie78). Toto shrnutí obsahuje alespoň
+>
+> - a) u podnikatele poskytujícího veřejně dostupnou službu elektronických komunikací nebo zajišťujícího přístup k veřejné komunikační síti jméno, popřípadě jména, příjmení, sídlo, obchodní firmu a identifikační číslo, bylo-li přiděleno, popřípadě též označení a adresu umístění odštěpného závodu na území České republiky a identifikační číslo, bylo-li přiděleno, a v případě, že se liší, kontaktní údaje pro vytýkání vad vyúčtování ceny nebo poskytované veřejně dostupné služby elektronických komunikací (dále jen „reklamace“),
+>
+> - b) hlavní znaky každé poskytované služby elektronických komunikací,
+>
+> - c) ceny za aktivaci služeb elektronických komunikací a jakékoli pravidelné platby související s jejím používáním v případě, že je služba poskytována za přímou peněžní platbu,
+>
+> - d) délku trvání smlouvy a podmínky pro obnovení a zánik závazku ze smlouvy,
+>
+> - e) rozsah, v němž jsou produkty a služby určeny pro koncové uživatele se zdravotním postižením,
+>
+> - f) přehled informací požadovaných přímo použitelným předpisem Evropské unie, kterým se stanoví opatření týkající se přístupu k otevřenému internetu79), jde-li o služby přístupu k internetu.
+>
+> (6) Poskytovatel podle odstavce 1 je povinen řádně vyplnit požadované informace do šablony pro shrnutí smlouvy podle odstavce 5 a poskytnout jej spotřebiteli bezplatně před uzavřením smlouvy, a to i u smluv uzavíraných distančním způsobem. Je-li z objektivních technických důvodů nemožné poskytnout shrnutí smlouvy v daném okamžiku, je poskytovatel povinen jej poskytnout neprodleně poté a smlouva nabývá účinnosti v okamžiku, kdy spotřebitel po obdržení shrnutí smlouvy potvrdí svůj souhlas se smlouvou.
+>
+> (7) Údaje o obsahu závazku, které podnikatel sdělil spotřebiteli před uzavřením smlouvy, se stávají obsahem smlouvy, ledaže si strany výslovně ujednaly určitou náležitost jinak.
+>
+> (8) Smlouva musí také obsahovat ověřovací kód podle § 34 odst. 7 písm. d) a § 34a odst. 5 písm. e) a identifikační údaje účastníka, kterými jsou, je-li uživatelem
+>
+> - a) podnikající právnická osoba, obchodní firma nebo název, sídlo, popřípadě sídlo organizační složky na území České republiky, a identifikační číslo, bylo-li přiděleno, jméno, popřípadě jména, příjmení a bydliště osoby oprávněné jednat jménem této právnické osoby,
+>
+> - b) podnikající fyzická osoba, jméno, popřípadě jména, a příjmení, popřípadě obchodní firma, bydliště, sídlo a identifikační číslo, bylo-li přiděleno,
+>
+> - c) nepodnikající osoba, jméno, popřípadě jména, a příjmení, bydliště, datum narození nebo rodné číslo fyzické osoby, bylo-li přiděleno, nebo název a sídlo, popřípadě sídlo organizační složky na území České republiky, popřípadě identifikační číslo právnické osoby, bylo-li přiděleno.
+>
+> (9) Je-li služba přístupu k internetu nebo veřejně dostupná interpersonální komunikační služba účtována na základě času nebo objemu spotřeby, je její poskytovatel povinen nabízet spotřebiteli funkci sledování a kontroly využívání každé z účtovaných služeb. Tato funkce zahrnuje včasný přístup k informacím o úrovni spotřeby služeb zahrnutých do plánu sazeb. Poskytovatel je povinen informovat spotřebitele před dosažením limitu spotřeby, jak jej stanovil Úřad podle odstavce 10, a který je zahrnut v jeho cenovém plánu, jakož i při úplném vyčerpání určité služby zahrnuté v jeho cenovém plánu.
+>
+> (10) Úřad může stanovit náležitosti informační povinnosti poskytovatele o úrovni spotřeby a dočasném přerušení dalšího využívání příslušných služeb, je-li dosažen Úřadem stanovený finanční nebo objemový limit, a to
+>
+> - a) opatřením obecné povahy v případě neplnění informační povinnosti podle odstavce 9 ve vztahu k určitému druhu služeb, nebo
+>
+> - b) rozhodnutím v případě nedodržení informační povinnosti podle odstavce 9 poskytovatelem.
+>
+> (11) Úřad může podnikateli poskytujícímu veřejně dostupnou službu elektronických komunikací, jinou než přenosovou službu používanou pro poskytování služby komunikace mezi stroji, nebo zajišťujícímu připojení k veřejné komunikační síti uložit rozhodnutím, aby provedl změnu smlouvy nebo jejího zveřejněného návrhu pro veřejně dostupnou službu elektronických komunikací nebo pro zajištění připojení k veřejné komunikační síti, jsou-li v rozporu s tímto zákonem, prováděcími právními předpisy k tomuto zákonu, se zákonem [[o ochraně spotřebitele|o ochraně spotřebitele]], a to z důvodu nekalých, klamavých nebo agresivních obchodních praktik nebo z důvodu diskriminace spotřebitele24a), nebo s přímo použitelnými předpisy Evropské unie v oblasti elektronických komunikací.
+>
+> (12) Uzavírá-li se, nebo mění smlouva o poskytování veřejně dostupné služby elektronických komunikací, jiné než přenosové služby používané pro poskytování služeb komunikace mezi stroji, nebo připojení k veřejné komunikační síti za použití prostředku komunikace na dálku, je podnikatel poskytující veřejně dostupnou službu elektronických komunikací, jinou než přenosovou službu používanou pro poskytování služeb komunikace mezi stroji, nebo zajištující připojení k veřejné komunikační síti povinen bezodkladně po uzavření smlouvy nebo její změny poskytnout spotřebiteli nebo koncovému uživateli, který je podnikající fyzickou osobou, informace podle odstavce 1 písemně, a to v listinné nebo elektronické podobě. Lhůta pro odstoupení spotřebitele nebo koncového uživatele, který je podnikající fyzickou osobou, od smlouvy nebo její změny uzavřené mimo obchodní prostory nebo při použití prostředků komunikace na dálku začíná běžet dnem následujícím po dni předání těchto informací.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 1811, § 34, § 34a, § 2, § 5, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6fdaa847478c5390b199 -->
+
 ### § 63a — Transparentnost a zveřejňování informací
 
 > **§ 63a**
@@ -366,6 +570,74 @@ Povinnost pravidelné aktualizace zajišťuje, že zveřejněné informace odpov
 **Typicky rozhodné důkazy / podklady:** snímky/archiv webu, formát zveřejněných dat (API/JSON), interní pokyny k aktualizaci, případná vyhláška ČTÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c31daa4aadaaebba0768 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 63a — Transparentnost a zveřejňování informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) V případě, že poskytovatel služeb přístupu k internetu nebo veřejně dostupné interpersonální komunikační služby podmiňuje poskytování této služby určitými podmínkami, zveřejní přehledným, vyčerpávajícím a strojově čitelným způsobem a ve formátu přístupném pro koncové uživatele se zdravotním postižením v souladu s právem Evropské unie o harmonizaci požadavků na přístupnost u výrobků a služeb76) tyto informace:
+>
+> - a) své kontaktní údaje,
+>
+> - b) popis nabízených služeb, a to
+>
+>   - 1. rozsah nabízených služeb a hlavní znaky každé poskytované služby, včetně případných minimálních úrovní kvality služby, je-li nabízena, a případných omezení využívání poskytnutého koncového zařízení stanovených poskytovatelem,
+>
+>   - 2. ceny za nabízené služby, včetně informací o objemech komunikace (například datová omezení, počet minut hlasových volání, počet zpráv) v rámci zvláštních cenových plánů a o použitelných cenách za dodatečné jednotky komunikace, číslech a službách, na něž se vztahují zvláštní cenové podmínky, platbách za přístup a údržbu, všech druzích plateb za provoz, zvláštních a cílených systémech sazeb a o jakýchkoli dalších platbách a nákladech souvisejících s koncovým zařízením,
+>
+>   - 3. nabízené poprodejní služby, služby údržby a služby asistence pro zákazníky, včetně způsobů, jakými lze tyto služby využívat,
+>
+>   - 4. standardní smluvní podmínky, včetně doby trvání závazku ze smlouvy, plateb při předčasném zániku závazku ze smlouvy, práv souvisejících s ukončením závazku ze smlouvy k balíčku nebo jeho části a postupů a přímých plateb za přenositelnost čísel,
+>
+>   - 5. v případě poskytovatele interpersonální komunikační služby založené na číslech informace o přístupu k tísňovým službám a údaje, které umožňují lokalizaci a identifikaci účastníka tísňové komunikace nebo jakákoliv omezení těchto informací; v případě poskytovatele interpersonální komunikační služby nezávislé na číslech informace o tom, do jaké míry může být přístup k tísňovým službám podporován nebo nikoliv,
+>
+>   - 6. podrobnosti o produktech a službách, včetně všech funkcí, praktik, politik a postupů a změn ve fungování služeb specificky určených pro koncové uživatele se zdravotním postižením v souladu s právem Evropské unie o harmonizaci požadavků na přístupnost u výrobků a služeb84),
+>
+> - c) existující mechanismy řešení sporů.
+>
+> (2) Poskytovatel služeb přístupu k internetu nebo veřejně dostupných interpersonálních komunikačních služeb je povinen pravidelně aktualizovat informace podle odstavce 1.
+>
+> (3) Úřad může vyhláškou stanovit formu, jakou se informace podle odstavce 1 zveřejňují. Tyto informace je poskytovatel služeb přístupu k internetu nebo veřejně dostupných interpersonálních komunikačních služeb povinen poskytnout Úřadu na jeho žádost před jejich zveřejněním.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c31daa4aadaaebba0768 -->
 
 ### § 63b — Doba trvání závazku ze smlouvy a jeho zánik
 
@@ -485,6 +757,82 @@ Doba určité smlouvy nesmí přesáhnout 24 měsíců (jinak konverze na dobu n
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=a985a47f52c72c5166dd generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 63b — Doba trvání závazku ze smlouvy a jeho zánik
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) V případě, že podnikatel poskytující veřejně dostupnou službu elektronických komunikací, jinou než interpersonální komunikační službu nezávislou na číslech a přenosovou službu používanou pro poskytování služeb mezi stroji, nebo zajišťující připojení k veřejné komunikační síti uzavírá se spotřebitelem smlouvu na dobu určitou, nesmí tato doba pro danou službu elektronických komunikací přesáhnout 24 měsíců, jinak se smlouva považuje za smlouvu uzavřenou na dobu neurčitou. To platí i v případě uživatele, kterým je mikropodnik, malý podnik nebo nezisková organizace, pokud se práva plynoucího z tohoto odstavce výslovně nevzdal. Uživatel, který je mikropodnikem, malým podnikem nebo neziskovou organizací, doloží tuto skutečnost prohlášením před uzavřením smlouvy s podnikatelem poskytujícím veřejně dostupnou službu elektronických komunikací.
+>
+> (2) Odstavec 1 se nepoužije na dobu trvání smluv o splátkách, ve kterých spotřebitel ve zvláštní smlouvě souhlasil se splátkovými platbami výhradně za zavedení fyzického připojení, zejména k sítím pro připojení s velmi vysokou kapacitou. Tyto smlouvy o zavedení fyzického připojení nezahrnují koncová zařízení, jako jsou routery a modemy, a nesmí bránit spotřebitelům v uplatnění jejich práv podle odstavce 1.
+>
+> (3) Jestliže smlouva o poskytování veřejně dostupné služby elektronických komunikací, jiné než interpersonální komunikační služby nezávislé na číslech a přenosové služby používané pro poskytování služeb mezi stroji, uzavřená na dobu určitou umožňuje automatické prodloužení závazku za týchž podmínek o tutéž dobu, na kterou byla smlouva uzavřena, má účastník po takovémto automatickém prodloužení právo závazek ze smlouvy kdykoli bezplatně vypovědět s nejvýše jednoměsíční výpovědní dobou. Poskytovatel služby prokazatelně informuje účastníka v textové podobě jasně a srozumitelně nejméně 1 měsíc před tímto automatickým prodloužením závazku ze smlouvy o jeho konci a o způsobech, jak lze závazek ze smlouvy vypovědět. Dále tento poskytovatel služby účastníka informuje o nejvýhodnějších cenách za jím poskytované služby.
+>
+> (4) Informaci podle odstavce 3 věty poslední poskytne účastníkům poskytovatel služby také alespoň jednou ročně.
+>
+> (5) Poskytovatel veřejně dostupné služby elektronických komunikací, jiné než je interpersonální komunikační služba nezávislá na číslech, může změnit smluvní podmínky, je-li to ujednáno a jestliže v textové podobě jasným a srozumitelným způsobem informoval účastníka o veškerých změnách smluvních podmínek nejpozději 1 měsíc před nabytím účinnosti změny smlouvy a zároveň ho informoval o jeho právu vypovědět závazek ze smlouvy, aniž by mu vznikly jakékoli další náklady, jestliže s novými podmínkami nesouhlasí. Právo vypovědět závazek ze smlouvy je možné uplatnit do 1 měsíce po doručení oznámení. Účastník má právo bezplatně vypovědět závazek ze smlouvy, aniž by mu vznikly jakékoli další náklady, pouze v případě, nejsou-li pro něj navrhované změny výhradně přínosné, nejsou-li čistě administrativní povahy a s neutrálními dopady, nebo pokud smlouva nebyla změněna na základě změny právní úpravy nebo v případě změny smlouvy podle § 63 odst. 11.
+>
+> (6) Je-li skutečné poskytování služby elektronických komunikací, jiné než služby přístupu k internetu a interpersonální komunikační služby nezávislé na číslech, narušeno jakoukoli významnou trvající nebo často se opakující odchylkou od plnění uvedeného ve smlouvě, může účastník, který je spotřebitelem, vypovědět závazek ze smlouvy podle odstavce 7.
+>
+> (7) V případě, kdy má podle odstavce 3, [[#§ 5|5]] nebo [[#§ 6|6]] anebo podle § 63c odst. 2 účastník právo vypovědět závazek ze smlouvy o poskytování veřejně dostupné služby elektronických komunikací, jiné než interpersonální komunikační služby nezávislé na číslech, před koncem původně sjednaného období, neukládá se mu žádná úhrada, kromě úhrady za dotované koncové zařízení, pokud si ho ponechá. V takovém případě výše úhrady nesmí překročit poměrnou část hodnoty tohoto zařízení dohodnutou v okamžiku uzavření smlouvy, nebo části ceny za služby, kterou zbývá uhradit do zániku závazku ze smlouvy, podle toho, která z těchto 2 částek je nižší. Bylo-li omezeno využívání dotovaného koncového zařízení v jiných sítích, poskytovatel toto omezení bezplatně odstraní nejpozději v okamžiku zaplacení úhrady.
+>
+> (8) Zanikne-li závazek ze smlouvy uzavřené na dobu určitou nebo ze smlouvy uzavřené na dobu neurčitou před uplynutím sjednané minimální doby trvání výpovědí nebo dohodou smluvních stran před uplynutím doby trvání, z jiných důvodů než podle odstavce 7, smí být v případě smlouvy uzavřené se spotřebitelem nebo koncovým uživatelem, který je podnikající fyzickou osobou, úhrada požadována pouze, pokud závazek ze smlouvy skončí do 3 měsíců ode dne jejího uzavření, a nesmí být v případě smlouvy uzavřené se spotřebitelem nebo podnikající fyzickou osobou, vyšší než jedna dvacetina součtu
+>
+> - a) měsíčních paušálů zbývajících do konce sjednané doby trvání závazku ze smlouvy,
+>
+> - b) minimálních sjednaných měsíčních plnění zbývajících do konce sjednané doby trvání závazku ze smlouvy, nebo
+>
+> - c) měsíčních paušálů nebo minimálních sjednaných měsíčních plnění zbývajících do konce sjednané minimální doby trvání závazku ze smlouvy v případě smlouvy uzavřené na dobu neurčitou.
+>
+> (9) Výše úhrady podle odstavce 8 se počítá z částky placené v průběhu trvání závazku ze smlouvy. Pokud je poskytována sleva oproti ceníkové ceně, nelze určit výši úhrady z ceníkové ceny. V případě dotovaného koncového zařízení se postupuje podle odstavce 7.
+>
+> (10) Jde-li o přenosové služby používané pro poskytování služeb mezi stroji, může práv podle odstavců 5 až 8 požívat pouze účastník, který je spotřebitelem, mikropodnikem, malým podnikem nebo neziskovou organizací.
+>
+> (11) Využije-li účastník právo podle § 34 odst. 1, dojde k zániku závazku ze smlouvy nejpozději počátkem prvního pracovního dne následujícího po uplynutí doby 2 pracovních dnů, která začne běžet, jakmile přejímající poskytovatel služby vyrozumí opouštěného poskytovatele služby podle § 34 odst. 9, pokud se nedohodnou jinak. Tato doba se neuplatní, pokud doba zbývající do zániku závazku ze smlouvy je kratší, k přenesení čísla nedošlo nebo na žádost účastníka.
+>
+> (12) Využije-li účastník právo podle § 34a odst. 1, dojde k zániku závazku ze smlouvy dnem, kdy došlo k ukončení postupu změny poskytovatele služby přístupu k internetu. Na žádost účastníka může být okamžik zániku závazku ze smlouvy stanoven odlišně. Zánik závazku ze smlouvy s opouštěným poskytovatelem služby přístupu k internetu v důsledku změny poskytovatele služby může být důvodem pro ukončení této služby v rámci smluvního vztahu na velkoobchodní úrovni.
+>
+> (13) Smluvní ujednání, která by obsahovala takové podmínky a postupy pro zánik závazku ze smlouvy, které jsou odrazující od změny poskytovatele služeb elektronických komunikací, nemají právní účinky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 63, § 5, § 6, § 63c, § 34, § 34a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a985a47f52c72c5166dd -->
+
 ### § 63c — Nabídky balíčků
 
 > **§ 63c**
@@ -549,6 +897,58 @@ Ochrana navázaná na kritickou složku balíčku (internet / číslovaná inter
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=93b8e943793a95c9f94e generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 63c — Nabídky balíčků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Jestliže balíček služeb nebo balíček služeb a koncového zařízení nabízený spotřebiteli obsahuje službu přístupu k internetu nebo veřejně dostupnou interpersonální komunikační službu založenou na číslech, použijí se [[#§ 34|§ 34]] a [[#§ 34a|34a]], je-li to technicky proveditelné, a § 63 odst. 5 a [[#§ 6|6]], [[#§ 63a|§ 63a]] a [[#§ 63b|63b]] na všechny služby balíčku, jako jsou služby elektronických komunikací nebo audiovizuální mediální služby na vyžádání, popřípadě jiné služby informační společnosti, a obdobně i na ty služby, na které by se uvedená ustanovení jinak nevztahovala.
+>
+> (2) Má-li spotřebitel právo ukončit závazek ze smlouvy ke kterékoli složce balíčku podle odstavce 1 před koncem ujednaného období z důvodu vadného plnění nebo jiného porušení smlouvy, má právo ukončit závazek ze smlouvy ke všem složkám balíčku.
+>
+> (3) Uzavření smlouvy týkající se doplňkových služeb nebo koncového zařízení, které poskytuje nebo distribuuje tentýž poskytovatel služeb přístupu k internetu nebo veřejně dostupných interpersonálních komunikačních služeb založených na číslech, neprodlužuje původní dobu trvání smlouvy, k níž se služby nebo koncové zařízení přidávají, pokud s tím spotřebitel při uzavírání smlouvy o doplňkových službách nebo koncovém zařízení výslovně nevyjádřil svůj souhlas.
+>
+> (4) Odstavce 1 a [[#§ 3|3]] se použijí rovněž na účastníka, kterým je mikropodnik, malý podnik nebo nezisková organizace, pokud se výslovně nevzdal všech nebo některých práv, která mu plynou z těchto odstavců. Účastník, kterým je mikropodnik, malý podnik nebo nezisková organizace, doloží tuto skutečnost prohlášením v okamžiku uplatnění práva podle odstavců 1 a [[#§ 3|3.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34, § 34a, § 63, § 6, § 63a, § 63b, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=93b8e943793a95c9f94e -->
+
 ### § 63d — Informační povinnost ČTÚ pro spotřebitele
 
 > **§ 63d**
@@ -595,6 +995,52 @@ Ochrana navázaná na kritickou složku balíčku (internet / číslovaná inter
 **Typicky rozhodné důkazy / podklady:** obsah a forma webu ČTÚ, vysvětlující materiály, podněty spotřebitelů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1ecd3dd7fc6651b88682 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 63d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> Úřad pro potřeby spotřebitele sbírá, zpracovává a zveřejňuje způsobem umožňujícím dálkový přístup vysvětlující informace a postupy týkající se parametrů poskytování služeb elektronických komunikací, včetně informací, které usnadní využívání služeb elektronických komunikací osobami se zdravotním postižením.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ecd3dd7fc6651b88682 -->
 
 ### § 63e — Výjimka pro mikropodniky poskytující OTT komunikační služby
 
@@ -645,6 +1091,54 @@ Mikropodnik poskytující výlučně interpersonální službu nezávislou na č
 **Typicky rozhodné důkazy / podklady:** účetní výkazy (zaměstnanci, obrat/bilance), popis a charakter služby, informace o výjimce poskytnutá uživatelům.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9c76eed11900892d804b generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 63e
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Ustanovení [[#§ 33|§ 33]], [[#§ 33b|33b]], [[#§ 34|34]], [[#§ 34a|34a]], [[#§ 38|38]], [[#§ 43|43]], 63 až 63d, [[#§ 69b|69b]] a [[#§ 71|71]] se nepoužijí na mikropodnik poskytující interpersonální komunikační služby nezávislé na číslech, ledaže poskytuje i jiné služby elektronických komunikací.
+>
+> (2) Mikropodnik, na který se vztahuje výjimka podle odstavce 1, má povinnost o této skutečnosti informovat vhodným způsobem koncové uživatele před uzavřením smlouvy.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 33, § 33b, § 34, § 34a, § 38, § 43, § 69b, § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c76eed11900892d804b -->
 
 ### § 64 — Vyúčtování ceny a reklamace
 
@@ -738,6 +1232,76 @@ Reklamaci ceny i kvality nutno podat do 2 měsíců (prekluze); podání reklama
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=05e66fc0b1ca85a171f5 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 64 — Vyúčtování ceny, reklamace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Účastník, který je koncovým uživatelem, popřípadě uživatel veřejně dostupné služby elektronických komunikací, je povinen uhradit za poskytnutou službu, popřípadě balíček podle [[#§ 63c|§ 63c]], cenu ve výši platné v době poskytnutí této služby, popřípadě balíčku podle [[#§ 63c|§ 63c]].
+>
+> (2) Podnikatel poskytující službu přístupu k internetu nebo interpersonální komunikační službu založenou na číslech, je povinen v elektronické podobě poskytovat bezplatně podle výběru účastníka, který je koncovým uživatelem, popřípadě uživatele, vyúčtování ceny za poskytnuté služby podle druhu služby, nebo souhrnné vyúčtování ceny za poskytnuté služby jednou položkou. Vyúčtování ceny za poskytnuté služby podle druhu služby obsahuje rovněž informace o základních podmínkách poskytované služby, které stanoví prováděcí právní předpis podle odstavce 13. Vyúčtování ceny neobsahuje položky za volání nebo jiné služby elektronických komunikací, které účastník, který je koncový uživatel, popřípadě uživatel, neplatí, včetně volání na čísla pro přístup ke službám na účet volaného a rozpis využívání služby přístupu k internetu a využívání hlasové služby, které jsou zpoplatněny formou paušálního poplatku za určité časové období. U předplacených karet se vyúčtování ceny neposkytuje.
+>
+> (3) Je-li podnikatel uvedený v odstavci 2 poskytovatelem univerzální služby s povinností podle § 38 odst. 2 písm. d) bod 1, poskytne spotřebiteli jen jedno bezplatné vyúčtování ceny podle výběru spotřebitele.
+>
+> (4) Podnikatel, včetně poskytovatele univerzální služby, který předkládá vyúčtování ceny obsahující rozpis jednotlivých volání, poskytne na žádost účastníka, který je koncovým uživatelem, za úplatu i vhodnou alternativu tohoto vyúčtování ceny zajišťující zvýšenou ochranu soukromí tohoto účastníka, například neuvedením části volaného čísla ve vyúčtování ceny.
+>
+> (5) Po dohodě s účastníkem, který je koncovým uživatelem, popřípadě uživatelem, podnikatel předloží vyúčtování ceny i v jiné podobě než elektronické.
+>
+> (6) Podnikatel poskytující službu přístupu k internetu nebo interpersonální komunikační službu založenou na číslech je povinen ve vyúčtování ceny vyznačit zúčtovací období, které nesmí být delší než 90 kalendářních dnů a v případě poskytování univerzální služby 35 kalendářních dnů, nedohodne-li s účastníkem, který je koncovým uživatelem, jiné období, a zajistit podání vyúčtování ceny tak, aby mohlo být tomuto účastníkovi dodáno do 15 dnů ode dne ukončení zúčtovacího období, a to způsobem stanoveným zákonem [[o poštovních službách|o poštovních službách]] nebo jiným způsobem, byl-li tento jiný způsob dodání s účastníkem, který je koncovým uživatelem, popřípadě uživatelem, dohodnut.
+>
+> (7) Účastník, který je koncovým uživatelem, popřípadě uživatel má právo uplatnit reklamaci na vyúčtování ceny nebo na poskytovanou veřejně dostupnou službu elektronických komunikací.
+>
+> (8) Reklamaci na vyúčtování ceny je účastník, který je koncovým uživatelem, popřípadě uživatel oprávněn uplatnit bez zbytečného odkladu, nejpozději do 2 měsíců ode dne dodání vyúčtování ceny za poskytnutou službu, popřípadě balíček podle [[#§ 63c|§ 63c]], jinak právo zanikne. Není-li vzhledem k druhu poskytované služby, popřípadě balíčku podle [[#§ 63c|§ 63c]], vyúčtování ceny dodáváno, je oprávněn reklamaci uplatnit do 2 měsíců ode dne poskytnutí služby, popřípadě balíčku podle [[#§ 63c|§ 63c]]. Podání reklamace nemá odkladný účinek vůči splnění povinnosti uhradit vyúčtovanou cenu, Úřad je však v odůvodněných případech oprávněn na žádost tohoto účastníka, popřípadě uživatele rozhodnout, že podání reklamace má odkladný účinek. Vydání tohoto rozhodnutí může být prvním úkonem Úřadu v řízení. Proti tomuto rozhodnutí nelze podat rozklad. Pro doručování v řízení o odkladném účinku se ustanovení zákona upravujícího postup soudu a účastníků v občanském soudním řízení58) použijí obdobně.
+>
+> (9) Reklamaci na poskytovanou službu je účastník, který je koncovým uživatelem, popřípadě uživatel oprávněn uplatnit bez zbytečného odkladu, nejpozději do 2 měsíců ode dne vadného poskytnutí služby, jinak právo zanikne.
+>
+> (10) Podnikatel poskytující službu přístupu k internetu nebo interpersonální komunikační službu založenou na číslech, je povinen vyřídit reklamaci na vyúčtování ceny nebo na poskytování služby bez zbytečného odkladu, nejpozději do 1 měsíce ode dne doručení reklamace. Vyžaduje-li vyřízení reklamace projednání se zahraničním provozovatelem, je povinen reklamaci vyřídit nejpozději do 2 měsíců ode dne jejího doručení. Doručení vyřízení reklamace musí být provedeno prokazatelným způsobem.
+>
+> (11) Pokud se strany nedohodnou jinak, je podnikatel poskytující veřejně dostupnou službu elektronických komunikací povinen v případě, že dojde k vyúčtování ceny za službu, popřípadě balíček podle [[#§ 63c|§ 63c]], v neprospěch účastníka, který je koncovým uživatelem, vrátit mu rozdíl ceny způsobem a ve lhůtách stanovených všeobecnými podmínkami služby, popřípadě balíčku podle [[#§ 63c|§ 63c]], nejpozději však do 1 měsíce od vyřízení reklamace. Po splnění těchto povinností a uspokojení těchto práv uživatele není podnikatel poskytující službu, popřípadě balíček podle [[#§ 63c|§ 63c]], povinen uhrazovat uživatelům služby, popřípadě balíčku podle [[#§ 63c|§ 63c]], náhradu škody, která jim vznikne v důsledku přerušení služby.
+>
+> (12) Pokud službu bylo možno využít jen částečně, anebo ji nebylo možno využít vůbec pro závadu technického nebo provozního charakteru na straně podnikatele poskytujícího službu, je tento povinen zajistit odstranění závady a přiměřeně snížit cenu nebo po dohodě s účastníkem, který je koncovým uživatelem, zajistit poskytnutí služby náhradním způsobem. Podnikatel poskytující službu elektronických komunikací není povinen nahradit jejím uživatelům škodu, která jim vznikne v důsledku přerušení služby nebo vadného poskytnutí služby.
+>
+> (13) Rozsah vyúčtování ceny za poskytnuté služby podle druhu služby podle odstavce 2 stanoví Úřad prováděcím právním předpisem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 63c, § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=05e66fc0b1ca85a171f5 -->
+
 ### § 65 — Neplacení nebo opožděné placení účtu
 
 > **§ 65**
@@ -797,6 +1361,56 @@ Omezení služby pro neplacení je stupňovité a prokazatelné: preventivní up
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8576abf20899e8b0c331 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 65 — Neplacení nebo opožděné placení účtu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Podnikatel poskytující veřejně dostupnou službu elektronických komunikací je povinen před započetím poskytování služby, popřípadě balíčku podle [[#§ 63c|§ 63c]], prokazatelně upozornit účastníka na důsledky neplacení účtů. Náklady za prokazatelné upozornění hradí podnikatel poskytující veřejně dostupnou službu elektronických komunikací.
+>
+> (2) Nezaplatil-li účastník ve lhůtě splatnosti uvedené na vyúčtování ceny za poskytnuté služby, popřípadě balíček podle [[#§ 63c|§ 63c]], podnikatel uvedený v odstavci 1 jej prokazatelně upozorní a stanoví náhradní lhůtu plnění ne kratší než 1 týden ode dne dodání upozornění. Po marném uplynutí náhradní lhůty může podnikatel účastníku omezit poskytování dotčené samostatně účtované služby, popřípadě balíčku podle [[#§ 63c|§ 63c]], zamezením aktivního přístupu ke službě, popřípadě balíčku podle [[#§ 63c|§ 63c]], s výjimkou přístupu k tísňovým službám prostřednictvím tísňové komunikace. Cena za prokazatelné upozornění musí být nákladově orientovaná.
+>
+> (3) Podnikatel uvedený v odstavci 1 může ukončit smluvní vztah nebo nezřídit účastníkovi přístup k veřejně dostupné službě elektronických komunikací v případech, kdy účastník úmyslně uvedl nesprávné osobní nebo identifikační údaje nebo soustavně opožděně platil nebo soustavně neplatil cenu za služby uvedené ve vyúčtování ceny, a to pouze po prokazatelném upozornění účastníka. Soustavným opožděným placením se pro účely tohoto ustanovení rozumí zaplacení nejméně 2 po sobě jdoucích vyúčtování ceny po lhůtě splatnosti. Soustavným neplacením se pro účely tohoto ustanovení rozumí existence nejméně 3 nezaplacených vyúčtování ceny.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 63c
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8576abf20899e8b0c331 -->
+
 ### § 66 — Informační a operátorské služby; účastnické seznamy
 
 > **§ 66**
@@ -854,6 +1468,56 @@ Operátor musí předat údaje souhlasících účastníků provozovatelům sezn
 **Typicky rozhodné důkazy / podklady:** žádost o předání dat, ceník/kalkulace nákladů, evidence souhlasů s uveřejněním a marketingem, formát předání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=c4f542fc47544526695e generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 66 — Informační a operátorské služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel interpersonální komunikační služby založené na číslech, který přiděluje čísla podle číslovacího plánu účastníkům, je povinen na žádost osoby, která poskytuje veřejně dostupné informační služby o číslech nebo poskytuje účastnické seznamy, jí předat osobní a identifikační údaje účastníků, kteří s uveřejněním vyslovili souhlas, a to za podmínek podle a v rozsahu [[#§ 95|§ 95]]. Tento poskytovatel je povinen účastníky před vyžádáním jejich souhlasu k uveřejnění jejich osobních a identifikačních údajů informovat o účelu účastnického seznamu a o dalších možnostech využití údajů založených na vyhledávacích funkcích v elektronických verzích účastnického seznamu. Tyto údaje v rozsahu, v jakém dali tito účastníci s uveřejněním souhlas, předá osobě, která poskytuje veřejně dostupné informační služby o číslech nebo poskytuje účastnické seznamy, ve smluveném formátu, za rovných a objektivních podmínek a za cenu, která je nákladově orientovaná a nediskriminační. Předávající strana u předávaných údajů rovněž vždy uvede, zda účastník výslovně uvedl, že si přeje být kontaktován za účelem marketingu. Není-li v účastnickém seznamu tato informace uvedena nebo v něm nejsou uvedeny žádné osobní a identifikační údaje účastníka, anebo tyto údaje nebyly předány, má se za to, že si účastník kontakt za účelem marketingu nepřeje.
+>
+> (2) Podnikatel zajišťující veřejnou komunikační síť je povinen umožnit všem účastníkům přístup k operátorským službám a nejméně k jedné informační službě o číslech účastníků všech podnikatelů poskytujících veřejně dostupné interpersonální komunikační služby založené na číslech.
+>
+> (3) Poskytovatel podle odstavce 1 je povinen zajistit přístup k informační službě o účastnických číslech kterémukoliv podnikateli usazenému v Evropské unii.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 95
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c4f542fc47544526695e -->
 
 ### § 66a — Srovnávací nástroj
 
@@ -937,6 +1601,78 @@ Povinnost podnikatelů předávat data pro srovnávací nástroj je veřejnoprá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=011db91cecb5a25f7f34 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 66a — Srovnávací nástroj
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad zveřejní způsobem umožňujícím dálkový přístup bezplatný nezávislý srovnávací nástroj, který umožní porovnávat a posuzovat různé veřejně dostupné služby elektronických komunikací (dále jen „srovnávací nástroj“) z hlediska
+>
+> - a) cen za poskytování služeb a
+>
+> - b) kvality poskytované služby, je-li nabízena minimální kvalita služby nebo je-li poskytovatel služby povinen takové informace zveřejnit podle [[#§ 71|§ 71]].
+>
+> (2) Srovnávací nástroj uvedený v odstavci 1 musí
+>
+> - a) být provozně nezávislý na podnikatelích poskytujících veřejně dostupné služby elektronických komunikací,
+>
+> - b) jasně uvádět identifikační údaje vlastníka a provozovatele srovnávacího nástroje,
+>
+> - c) stanovit jasná a objektivní kritéria, z nichž bude porovnání vycházet,
+>
+> - d) poskytovat přesné a aktuální informace a uvádět čas poslední aktualizace,
+>
+> - e) být otevřený jakémukoli podnikateli poskytujícímu veřejně dostupné služby elektronických komunikací, zpřístupňovat důležité informace a obsahovat širokou škálu nabídek, jež pokrývá významnou část trhu, a v případě, že zobrazené informace nepředstavují úplný přehled trhu, zřetelné prohlášení v tomto smyslu před zobrazením výsledků,
+>
+> - f) nabízet účinný postup pro nahlášení nesprávných informací,
+>
+> - g) obsahovat možnost srovnání cen a kvality poskytovaných služeb mezi nabídkami dostupnými pro spotřebitele a mezi těmito nabídkami a standardními veřejně dostupnými nabídkami pro jiné koncové uživatele.
+>
+> (3) Úřad může zajistit provozování srovnávacího nástroje podle odstavce 1 certifikací poskytovatele srovnávacího nástroje, který splňuje požadavky podle odstavce 2.
+>
+> (4) Podnikatelé poskytující veřejně dostupné služby elektronických komunikací zahrnuté ve srovnávacím nástroji jsou povinni předávat Úřadu nebo poskytovateli srovnávacího nástroje veškeré informace nezbytné pro zajištění srovnávacího nástroje.
+>
+> (5) Druhy veřejně dostupných služeb elektronických komunikací, na které se vztahuje povinnost podle odstavce 4, rozsah, formu a způsob předávání informací podle odstavce 4 stanoví prováděcí právní předpis. Veřejně dostupné interpersonální komunikační služby nezávislé na číslech mohou být zahrnuty do srovnávacího nástroje, pouze pokud je to pro naplnění účelu podle odstavce 1 případné.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 71
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=011db91cecb5a25f7f34 -->
+
 ### § 67 — Identifikace zlomyslné nebo obtěžující komunikace
 
 > **§ 67**
@@ -990,6 +1726,56 @@ Povinnost podnikatelů předávat data pro srovnávací nástroj je veřejnoprá
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=66a0b3de8c56495bd228 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 67 — Identifikace zlomyslné nebo obtěžující komunikace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Podnikatel poskytující veřejně dostupnou interpersonální komunikační službu založenou na číslech je povinen na žádost a na náklady svého účastníka zajistit službu identifikace účastnického čísla, z kterého byla uskutečněna zlomyslná nebo obtěžující komunikace, a to zpětně u konkrétní komunikace, kterou účastník označí jako zlomyslnou nebo obtěžující, nejpozději však do 2 měsíců ode dne uskutečnění takové komunikace.
+>
+> (2) Podnikatel poskytující veřejně dostupnou interpersonální komunikační službu založenou na číslech je povinen v případě žádosti poskytnout podnikateli podle odstavce 1 údaje nezbytné pro identifikaci účastnického čísla, z kterého byla uskutečněna zlomyslná nebo obtěžující komunikace, a to zpětně u konkrétní komunikace, kterou účastník označí jako zlomyslnou nebo obtěžující, nejpozději však do 2 měsíců ode dne uskutečnění takové komunikace.
+>
+> (3) Službou identifikace účastnického čísla podle odstavce 1 se rozumí poskytnutí údajů o osobách podle § 95 odst. 3, a to i tehdy, pokud účastník odmítl uveřejnění podle § 95 odst. 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 95
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=66a0b3de8c56495bd228 -->
+
 ### § 69 — Bezplatné doplňkové funkce
 
 > **§ 69**
@@ -1040,6 +1826,56 @@ ISP a poskytovatel číslované interpersonální služby musí bezplatně posky
 **Typicky rozhodné důkazy / podklady:** smlouva a datum zániku, žádost o zachování e-mailu, doklad o technické (ne)proveditelnosti, ceník účtovaných funkcí.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=946919d6da1868b9ec90 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 69
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> Poskytovatel služby přístupu k internetu nebo veřejně dostupné interpersonální komunikační služby založené na číslech je povinen poskytovat bezplatně koncovému uživateli, je-li to technicky možné, službu
+>
+> - a) identifikace volajícího,
+>
+> - b) přeposílání elektronické pošty nebo přístup k elektronické poště po přiměřenou dobu i po zániku závazku ze smlouvy s poskytovatelem služby přístupu k internetu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=946919d6da1868b9ec90 -->
 
 ### § 69a — Doplňkové podmínky pro ISP ve všeobecném oprávnění
 
@@ -1092,6 +1928,56 @@ ISP a poskytovatel číslované interpersonální služby musí bezplatně posky
 **Typicky rozhodné důkazy / podklady:** analýza dostupnosti služby na trhu, výsledky veřejné konzultace, nabídky operátorů, text všeobecného oprávnění.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=116940019b5beb851de3 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 69a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Bez ohledu na rozhodnutí podle [[#§ 38|§ 38]] může Úřad po provedení veřejné konzultace podle [[#§ 130|§ 130]] ve všeobecném oprávnění stanovit poskytovatelům služby přístupu k internetu nebo veřejně dostupné interpersonální komunikační služby založené na číslech podmínky týkající se povinnosti poskytovat spotřebitelům doplňkové služby podle § 38 odst. 2 písm. d).
+>
+> (2) Úřad podmínky ve všeobecném oprávnění podle odstavce 1 nestanoví, zjistí-li, že poskytování těchto služeb je zajištěno.
+>
+> (3) Úřad po veřejné konzultaci může stanovit podmínky podle odstavce 1 jen na část území České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38, § 130
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=116940019b5beb851de3 -->
 
 ### § 69b — Přístupnost pro zdravotně postižené a zvláštní sociální sazby
 
@@ -1166,6 +2052,68 @@ Dohledová pravomoc ČTÚ nad nabídkami zvláštních sazeb (odst. 7–8) zaji�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1aa46eb2770b49b29eec generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 69b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Bez ohledu na rozhodnutí podle [[#§ 43|§ 43]] může Úřad po provedení veřejné konzultace podle [[#§ 130|§ 130]] ve všeobecném oprávnění stanovit podnikatelům poskytujícím veřejně dostupnou službu elektronických komunikací podmínky týkající se povinnosti poskytovat osobám se zdravotním postižením přístup k veřejně dostupným službám elektronických komunikací rovnocenný s přístupem, který využívají ostatní koncoví uživatelé, a umožnit jim stejnou možnost výběru mezi službami, jakou mají ostatní koncoví uživatelé.
+>
+> (2) Bez ohledu na rozhodnutí podle [[#§ 38|§ 38]] může Úřad rozhodnout, aby poskytovatel poskytující veřejně dostupnou službu elektronických komunikací spotřebitelům se zvláštními sociálními potřebami, poskytoval službu za cenu odlišnou, než je poskytována za běžných tržních podmínek. Ztráty vzniklé tomuto poskytovateli v souvislosti s poskytováním zvláštních cen hradí stát prostřednictvím Úřadu. Pro výpočet ztráty a její úhradu se použijí [[#§ 48|§ 48]] a § 49 odst. 1 a [[#§ 4|4]] obdobně.
+>
+> (3) Úřad může rozhodnout za podmínek podle odstavce 2 o uplatňování jednotné ceny na území celého státu, která bude stanovena například průměrnou cenou v rámci poskytování služby za běžných tržních podmínek.
+>
+> (4) V případě, že by povinnosti uložené podle odstavců 2 a [[#§ 3|3]] všem poskytovatelům veřejně dostupné služby elektronických komunikací prokazatelně vedly k nadměrné administrativní nebo finanční zátěži, může Úřad rozhodnutím podle odstavců 2 a [[#§ 3|3]] určit pouze některé poskytovatele veřejně dostupné služby elektronických komunikací za účelem snížení administrativního nebo finančního zatížení ve srovnání se situací, pokud by tato povinnost byla určena všem těmto poskytovatelům.
+>
+> (5) Při určování poskytovatelů podle odstavce 4 Úřad přihlédne k tomu, aby tito poskytovatelé byli schopni zajistit služby pro všechny spotřebitele se zvláštními sociálními potřebami.
+>
+> (6) Služba podle odstavce 2 musí být poskytována s dostatečnou dobou dostupnosti čísla a musí bránit neodůvodněnému odpojení služby.
+>
+> (7) Poskytovatelé veřejně dostupné služby elektronických komunikací poskytující zvláštní sazby nebo balíčky spotřebitelům se zvláštními sociálními potřebami informují Úřad bez zbytečného odkladu o podrobnostech svých nabídek při každé jejich změně.
+>
+> (8) Úřad může uložit změnu nebo zrušení nabídky podle odstavce 7, pokud by nebyla zajištěna transparentnost nebo nediskriminace.
+>
+> (9) Úřad sbírá a zveřejňuje informace pro osoby se zvláštními sociálními potřebami a v rámci svých kompetencí podporuje využívání specifických zařízení a specifických služeb osobám se zdravotním postižením, které zvyšují rovnocenný přístup, a to zejména za účelem využívání služeb úplné konverzace a konverzních služeb nebo využívání tísňové komunikace.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43, § 130, § 38, § 48, § 49, § 4, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1aa46eb2770b49b29eec -->
+
 ### § 71 — Kvalita služby
 
 > **§ 71**
@@ -1237,6 +2185,62 @@ Odst. 3 explicitně propojuje opatření ke kvalitě s nařízením (EU) 2015/21
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=505c4066ac74fbea5535 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 71 — Kvalita služby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel služeb přístupu k internetu nebo veřejně dostupných interpersonálních komunikačních služeb, který řídí alespoň některé prvky sítě buď přímo, nebo prostřednictvím příslušné dohody o úrovni služeb, je povinen zveřejňovat úplné, srovnatelné, spolehlivé, uživatelsky vstřícné a aktuální informace pro koncové uživatele o kvalitě svých služeb a o opatřeních přijatých s cílem zajistit rovnocenný přístup i pro osoby se zdravotním postižením. Tyto informace je povinen zveřejňovat způsobem umožňujícím dálkový přístup a na žádost Úřadu poskytnout před jejich zveřejněním.
+>
+> (2) Poskytovatel veřejně dostupných interpersonálních komunikačních služeb je povinen informovat spotřebitele o tom, zda kvalita služeb, které poskytuje, závisí na vnějších faktorech, jako je například kontrola nad přenosem signálu či připojení k síti. Poskytovatel je dále povinen tyto informace zveřejňovat způsobem umožňujícím dálkový přístup u všech svých služeb.
+>
+> (3) Opatření zaměřená na kvalitu služeb musí splňovat požadavky přímo použitelného předpisu Evropské unie, kterým se stanoví opatření týkající se přístupu k otevřenému internetu69).
+>
+> (4) Poskytovatel služeb přístupu k internetu nebo veřejně dostupných interpersonálních komunikačních služeb je povinen průběžně poskytovat Úřadu informace podle odstavce 1 pro účely jejich uveřejnění podle [[#§ 66a|§ 66a]].
+>
+> (5) Parametry kvality poskytovaných služeb, které mají být měřeny, obsah, formu a způsob uveřejnění informací podle odstavce 1 a případné postupy pro vyhodnocování kvality, včetně případných mechanismů certifikace kvality, může Úřad stanovit opatřením obecné povahy v případě, že není plněna povinnost podle odstavce 1 ve vztahu k určitému druhu služeb, nebo rozhodnutím v případě, že není plněna povinnost podle odstavce 1 poskytovatelem služeb.
+>
+> (6) Úřad může stanovit opatřením obecné povahy nebo rozhodnutím požadavky na zajištění minimální kvality služeb pro poskytování služeb přístupu k internetu nebo veřejně dostupných interpersonálních komunikačních služeb.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 66a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=505c4066ac74fbea5535 -->
+
 ### § 72 — Povinnost šíření rozhlasového a televizního programu (must-carry)
 
 > **§ 72**
@@ -1286,6 +2290,54 @@ Must-carry povinnost lze uložit rozhodnutím ČTÚ sítím využívaným význa
 **Typicky rozhodné důkazy / podklady:** data o využití sítě jako hlavního prostředku příjmu, určení programu dle zákona o vysílání, technické možnosti přenosu doplňkových služeb.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=d76d7116483dc2558d23 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 72 — Povinnost šíření určeného rozhlasového a televizního programu a služeb ve veřejném zájmu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad podnikateli, prostřednictvím jehož veřejné komunikační sítě je poskytovaná služba šíření rozhlasového a televizního vysílání, kterou využívají koncoví uživatelé jako hlavní prostředek příjmu rozhlasového a televizního vysílání, nebo podnikateli, který poskytuje služby elektronických komunikací používané pro veřejné šíření rozhlasového nebo televizního vysílání, pokud tyto sítě a služby využívá významný počet koncových uživatelů jako hlavní prostředek pro příjem rozhlasového a televizního vysílání, může z důvodu veřejného zájmu rozhodnutím uložit povinnost šířit určený rozhlasový nebo televizní program a s tímto programem související doplňkové služby, aby byl umožněn vhodný přístup koncovým uživatelům se zdravotním postižením ke službám televize s internetem a elektronických programových průvodců.
+>
+> (2) Úřad povinnost podle odstavce 1 uloží jen na základě zákona [[o provozování rozhlasového a televizního vysílání|o provozování rozhlasového a televizního vysílání]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d76d7116483dc2558d23 -->
 
 ### § 72a — Smlouva o šíření vysílání
 
@@ -1348,6 +2400,60 @@ Operátor šiřitelské infrastruktury je povinen jednat a při splnění 4 kumu
 **Typicky rozhodné důkazy / podklady:** žádost a návrh smlouvy, technické parametry multiplexu, kalkulace nákladové ceny, doklady o (ne)dostupné kapacitě.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=523cf28aef24fa794aae generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 72a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Služba šíření rozhlasového a televizního vysílání se zajišťuje na základě písemné smlouvy uzavřené mezi provozovatelem rozhlasového a televizního vysílání11),16) a podnikatelem poskytujícím tuto službu elektronických komunikací nebo podnikatelem zajišťujícím sítě používané pro veřejné šíření rozhlasového či televizního vysílání.
+>
+> (2) Podnikatel poskytující službu šíření rozhlasového a televizního vysílání nebo zajišťující sítě používané pro veřejné šíření rozhlasového či televizního vysílání je povinen jednat o uzavření smlouvy podle odstavce 1 v případě, kdy je o to požádán provozovatelem rozhlasového a televizního vysílání.
+>
+> (3) Podnikatel poskytující službu šíření rozhlasového a televizního vysílání nebo zajišťující sítě používané pro veřejné šíření rozhlasového či televizního vysílání je povinen smlouvu podle odstavce 1 uzavřít, pokud požadavky provozovatele rozhlasového a televizního vysílání nejsou v rozporu s návrhem smlouvy podle [[#§ 72b|§ 72b]], odpovídají technickým parametrům jeho sítě, v jejich důsledku by nemohlo dojít k narušení integrity jeho sítě a požadovaná cena není nižší než nákladově orientovaná cena.
+>
+> (4) Nedojde-li k uzavření smlouvy podle odstavce 1, je Úřad oprávněn na základě návrhu kterékoliv smluvní strany rozhodnout spor. Pro rozhodnutí sporu platí obdobně [[#§ 127|§ 127]]. Součástí návrhu smluvní strany na rozhodnutí sporu musí být návrh smlouvy se specifikací jeho sporných částí.
+>
+> (5) Podání opravného prostředku proti rozhodnutí podle odstavce 4 nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 72b, § 127
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=523cf28aef24fa794aae -->
 
 ### § 72b — Návrh smlouvy o šíření zemského digitálního vysílání
 
@@ -1429,6 +2535,84 @@ Pro zemské digitální TV vysílání musí provozovatel vypracovat a v provozo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ba42562a9009e0c2ca7a generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 72b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Má-li být předmětem smlouvy podle § 72a odst. 1 šíření zemského digitálního televizního vysílání, je podnikatel poskytující službu šíření rozhlasového a televizního vysílání nebo zajišťující sítě používané pro veřejné šíření rozhlasového či televizního vysílání povinen vypracovat návrh smlouvy o poskytování této služby, který musí obsahovat kromě náležitostí podle § 63 odst. 3 všeobecné smluvní podmínky uvedené v odstavci 2, a uveřejnit jej v každé své provozovně a též způsobem umožňujícím dálkový přístup. Smlouvu lze uzavřít nejdříve jeden měsíc po zveřejnění jejího návrhu. Pro změny návrhu smlouvy se použije toto ustanovení obdobně.
+>
+> (2) Všeobecné smluvní podmínky obsahují návrh cen rozdělený na ceny celkové a ceny dílčí, návrh ceny za šíření jednotkového objemu datového toku a návrh technického řešení, který zahrnuje údaje o
+>
+> - a) minimálním a maximálním pokrytí obyvatelstva signálem,
+>
+> - b) dostupnosti, spolehlivosti a kvalitě signálu,
+>
+> - c) minimálním a maximálním disponibilním datovém toku pro jeden televizní program včetně možnosti statistického multiplexování,
+>
+> - d) minimálním a maximálním disponibilním datovém toku pro jeden rozhlasový program,
+>
+> - e) předpokládaném rozsahu pokrytí území,
+>
+> - f) použitém standardu zdrojového kódování,
+>
+> - g) použitém ochranném intervalu,
+>
+> - h) podmínkách týkajících se převzetí dat elektronických programových průvodců (EPG) k šíření,
+>
+> - i) podmínkách případného členění programu v rámci vysílací sítě,
+>
+> - j) předpokládaném termínu zahájení poskytování služby šíření vysílání,
+>
+> - k) časovém harmonogramu rozvoje vysílací sítě, pokud není vybudována v plném rozsahu,
+>
+> - l) podmínkách výstavby doplňujících vysílačů v rámci jednokmitočtové vysílací sítě,
+>
+> - m) velikosti datového toku vyhrazeného pro ostatní doplňkové a informační služby,
+>
+> - n) velikosti datového toku vyhrazeného pro služební informace a potřeby operátora sítě,
+>
+> - o) parametrech a směrech přenosu televizního signálu mezi studii provozovatele rozhlasového a televizního vysílání, popřípadě údaje o kontribučním systému, pokud je tato služba nabízena.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 72a, § 63
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba42562a9009e0c2ca7a -->
+
 ### § 72c — Hlášení volné kapacity digitálního multiplexu
 
 > **§ 72c**
@@ -1478,6 +2662,52 @@ Provozovatel multiplexu a poskytovatel služby šíření musí ČTÚ hlásit vo
 ---
 
 **Díl 2 — Přístroje**
+
+
+<!-- LEGAL-REVISION:BEGIN id=9781c169f3ea88bfc69e generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 72c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> Podnikatel zajišťující síť elektronických komunikací pro zemské digitální televizní vysílání a podnikatel poskytující službu šíření rozhlasového a televizního vysílání v této síti sdělí Úřadu údaje o volné kapacitě datového toku sítě elektronických komunikací a o rozsahu a struktuře využívaného datového toku vždy k 31. prosinci každého kalendářního roku do konce následujícího kalendářního měsíce a při změně těchto údajů do pěti dnů ode dne uskutečnění změny. Údaje podle předchozí věty zveřejňuje podnikatel v každé své provozovně a též způsobem umožňujícím dálkový přístup. Úřad tyto údaje zveřejňuje způsobem umožňujícím dálkový přístup.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9781c169f3ea88bfc69e -->
 
 ### § 73 — Definice přístrojů; povinnosti při připojení
 
@@ -1548,6 +2778,68 @@ Operátor musí umožnit připojení každého koncového zařízení splňujíc
 **Typicky rozhodné důkazy / podklady:** prohlášení o shodě zařízení (RED), žádost o připojení a její vyřízení, zveřejněné specifikace rozhraní, registr rozhraní ČTÚ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a0d0bd89115dc9b79104 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 73
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Přístrojem se pro účely tohoto zákona rozumí zařízení, které je rádiovým zařízením nebo telekomunikačním koncovým zařízením anebo obojím.
+>
+> (2) Stanoví-li zvláštní právní předpis25),26) pro přístroje technické požadavky (dále jen „technické požadavky“), tyto přístroje nesmí být uváděny do provozu ani provozovány, pokud technické požadavky nesplňují.
+>
+> (3) Rádiovým zařízením se rozumí elektrický nebo elektronický výrobek, který záměrně vysílá nebo přijímá rádiové vlny pro účely rádiové komunikace nebo rádiového určování, nebo elektrický nebo elektronický výrobek, který je třeba doplnit příslušenstvím, například anténou, aby mohl záměrně vysílat nebo přijímat rádiové vlny pro účely rádiové komunikace nebo rádiového určování.
+>
+> (4) Telekomunikačním koncovým zařízením se rozumí zařízení přímo nebo nepřímo připojené k rozhraní veřejné komunikační sítě, které může vysílat, zpracovávat nebo přijímat informace bez ohledu na použitou technologii. Připojení je nepřímé, jestliže je mezi rozhraní sítě a koncové zařízení připojeno další zařízení. Za telekomunikační koncové zařízení se rovněž považuje družicová pozemská stanice.
+>
+> (5) Veřejným telefonním automatem se rozumí telekomunikační koncové zařízení, kterým je veřejně dostupný telefonní přístroj, k jehož užití mohou být používány jako platební prostředky zejména mince, platební karty nebo předplacené karty, včetně karet s kódy volby. Toto telekomunikační koncové zařízení může být vybaveno i pro poskytování dalších služeb.
+>
+> (6) Podnikatel zajišťující veřejnou komunikační síť je povinen umožnit připojení telekomunikačního koncového zařízení ke vhodnému rozhraní, pokud toto koncové zařízení splňuje technické požadavky.
+>
+> (7) Podnikatel zajišťující veřejnou komunikační síť je povinen uveřejnit způsobem umožňujícím dálkový přístup a oznámit Úřadu typy rozhraní, která nabízí pro připojení přístrojů, a jejich technické specifikace. Tyto povinnosti musí splnit nejpozději 1 měsíc před tím, než budou veřejné telekomunikační služby poskytované prostřednictvím těchto typů rozhraní k dispozici. Změny technické specifikace je povinen oznámit Úřadu a uveřejnit způsobem umožňujícím dálkový přístup, a to nejpozději 3 měsíce přede dnem jejich provedení.
+>
+> (8) Technické specifikace uvedené v odstavci 7 musí být natolik podrobné, aby umožňovaly konstruovat přístroje schopné využívat všechny veřejně dostupné služby elektronických komunikací, které jsou prostřednictvím příslušných rozhraní poskytovány. Technické specifikace musí obsahovat veškeré informace nezbytné k tomu, aby výrobci mohli provádět příslušné zkoušky s ohledem na technické požadavky platné pro přístroje.
+>
+> (9) Úřad vede seznam typů rozhraní oznámených podle odstavce 7 a oznamuje tyto typy Komisi.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a0d0bd89115dc9b79104 -->
 
 ### § 74 — Vyřazení nevyhovujícího přístroje z provozu
 
@@ -1623,6 +2915,72 @@ Odst. 5 a 6 upravují dvoustupňový postup pro ochranu sítě před škodlivým
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5c148907f315272a40dd generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 74
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Úřad může rozhodnout o vyřazení přístroje, který nesplňuje technické požadavky, z provozu. Rozhodnutí podle odstavce 2 Úřad rovněž uveřejní způsobem umožňujícím dálkový přístup.
+>
+> (2) Pokud Úřad rozhodne o vyřazení přístroje z provozu, musí v odůvodnění uvést, zda k neshodě s technickými požadavky došlo
+>
+> - a) nesprávným použitím harmonizovaných norem,
+>
+> - b) nedostatky v harmonizovaných normách,
+>
+> - c) nesplněním technických požadavků.
+>
+> Úřad oznamuje Komisi každé takové rozhodnutí a důvody pro své rozhodnutí. Každý takový podnět Úřad uveřejní způsobem umožňujícím dálkový přístup.
+>
+> (3) Úřad dá podnět orgánu, v jehož kompetenci je dozor nad uváděním přístrojů na trh27), aby zakázal nebo omezil uvádění na trh nebo stáhl z trhu rádiová zařízení, která způsobují škodlivou interferenci existujících služeb elektronických komunikací nebo by způsobovala škodlivou interferenci plánovaných služeb elektronických komunikací v kmitočtových pásmech využívaných na území České republiky.
+>
+> (4) Úřad může omezit uvádění rádiových zařízení do provozu pouze z důvodů zajištění účelného využívání rádiového spektra, zabránění škodlivé interferenci nebo z důvodu ochrany veřejného zdraví. Ustanovení odstavce 1 ani podmínky uvedené v oprávnění pro poskytování příslušné služby elektronických komunikací tímto nejsou dotčeny.
+>
+> (5) Úřad může povolit podnikateli zajišťujícímu veřejnou komunikační síť na jeho žádost, aby odmítl připojit, odpojil nebo vyřadil z provozu přístroj, který splňuje technické požadavky, pokud tento přístroj způsobuje poškození sítě nebo škodlivou interferenci anebo narušuje funkčnost sítě. Každé takové povolení Úřad oznámí Komisi a současně jej uveřejní způsobem umožňujícím dálkový přístup.
+>
+> (6) Podnikatel zajišťující veřejnou komunikační síť může za mimořádných okolností přístroj odpojit, je-li to nezbytné pro ochranu sítě a jestliže uživateli neprodleně nabídne alternativní bezplatné řešení. Podnikatel zajišťující veřejnou komunikační síť o tom bez odkladu vyrozumí Úřad. Informaci o každém takovém vyrozumění Úřad uveřejní způsobem umožňujícím dálkový přístup.
+>
+> (7) Úřad může za mimořádných okolností, pokud provozovatel přístroje není Úřadem zjištěn, znemožnit provozování přístroje, jestliže dochází k porušování povinností a podmínek podle § 114 odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 114
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c148907f315272a40dd -->
+
 ### § 75 — Znemožnění provozu mobilního zařízení na žádost Policie ČR
 
 > **§ 75**
@@ -1689,3 +3047,56 @@ Operátor mobilní sítě je povinen na písemnou žádost Policie ČR znemožni
 > **Poznámka k číselné řadě:** Zákon v textu hlava IV Dílu 1 a Dílu 2 neobsahuje §§ 76 a 77 — číselná řada přechází přímo z § 75 (Díl 2) na Díl 4 (§ 78). §§ 76 a 77 jsou v zákoně vynechány (pravděpodobně rezervované pro budoucí úpravu nebo zrušené dřívější novely, přičemž čísla nebyla přečíslována). Díl 3 v zákoně rovněž chybí.
 
 ---
+
+<!-- LEGAL-REVISION:BEGIN id=db1f75b467daa3749810 generator=2026-07-17.4 source_sha256=0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de -->
+#### Revizní doplnění k § 75
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2005/127-2005 Zákon o elektronických komunikacích a o změně některých souvisejících zákonů (zákon o elektronických komunikacích).md`; identifikátor verze: `SB-2005-00127_2026-01-01`; SHA-256: `0b7c108a47d2d64e59fe6ebf32a407780ee96df213eaff8368ba89c8b42a28de`.
+
+##### Znění ustanovení
+
+> (1) Je-li to technicky proveditelné, je podnikatel poskytující hlasovou komunikační službu prostřednictvím veřejné mobilní telefonní sítě povinen na základě písemné žádosti Policie České republiky a na její náklady pro účely trestního řízení znemožnit na požadovanou dobu, nejdéle však na dobu povoleného odposlechu, provozování koncového mobilního telekomunikačního zařízení (mobilní telefonní přístroj) ve veřejné mobilní telefonní síti, který umožňuje šifrování, kódování nebo jiný způsob utajení přenášené zprávy účastníkem.
+>
+> (2) Žádost podle odstavce 1 musí obsahovat číslo jednací, pod kterým je rozhodnutí soudu o souhlasu se znemožněním provozování koncového mobilního telekomunikačního zařízení u Policie České republiky vedeno, a musí být podepsaná odpovědnou osobou.
+>
+> (3) Nehledě k ustanovení odstavců 1 a [[#§ 2|2]], je-li to technicky proveditelné a ekonomicky přiměřené, je podnikatel poskytující hlasovou komunikační službu prostřednictvím veřejné mobilní telefonní sítě povinen na písemnou žádost Policie České republiky znemožnit provozování odcizeného koncového mobilního telekomunikačního zařízení (mobilní telefonní přístroj) ve veřejné mobilní telefonní síti. Tím není dotčeno právo účastníka požadovat zablokování identifikační účastnické karty (SIM karta) u podnikatele poskytujícího hlasovou komunikační službu prostřednictvím veřejné mobilní telefonní sítě.
+>
+> (4) Žádost podle odstavce 3 musí být doložena protokolem Policie České republiky o oznámení odcizení věci a souhlasem dotčeného vlastníka odcizeného zařízení se znemožněním provozování tohoto zařízení ve veřejné mobilní telefonní síti.
+>
+> (5) Žádosti podle odstavců 1 a [[#§ 3|3]] mohou být zaslány v elektronické podobě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=db1f75b467daa3749810 -->
